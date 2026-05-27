@@ -1,0 +1,9 @@
+# Generated consolidated outputs
+all/
+
+# Script caches / artifacts
+scripts/.cache/
+scripts/__pycache__/
+**/__pycache__/
+*.pyc
+
