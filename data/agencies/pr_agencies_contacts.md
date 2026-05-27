@@ -1,0 +1,26 @@
+## PR-агентства — контакты и направления
+
+Всего: **20** агентств.
+
+| № | Компания | Тип | Сайт | Телефон | PR / Comms отдел | Events / Activation |
+|---:|---|---|---|---|---|---|
+| 1 | Михайлов и Партнёры | PR агентство | [m-p.ru](https://www.m-p.ru) | +7 495 933-03-33 | Strategic Comms | Corporate & Gov events |
+| 2 | SPN Communications | PR агентство | [spncomms.com](https://spncomms.com) | +7 812 332-16-55 | Media Relations | Event production |
+| 3 | Ketchum Moscow | PR агентство | [ketchum.com](https://www.ketchum.com) | +7 495 785-10-00 | Corporate PR | Brand events |
+| 4 | FleishmanHillard Vanguard | PR агентство | [fleishmanhillard.com](https://fleishmanhillard.com) | +7 495 956-39-00 | Corporate comms | Brand activations |
+| 5 | PBN Hill+Knowlton | PR агентство | [hkstrategies.com](https://www.hkstrategies.com) | +7 495 937-44-50 | Reputation management | Public affairs |
+| 6 | PR Partner | PR агентство | [prpartner.ru](https://prpartner.ru) | +7 495 234-36-88 | Media PR | Event marketing |
+| 7 | Comunica | PR агентство | [comunica.ru](https://comunica.ru) | +7 495 956-39-00 | Corporate comms | Events / launches |
+| 8 | TWIGA PR | PR / marketing | [twiga.ru](https://twiga.ru) | +7 495 363-93-33 | Brand PR | Integrated events |
+| 9 | PRO-Vision | PR группа | [pro-vision.ru](https://pro-vision.ru) | +7 495 540-50-60 | Media relations | Event production |
+| 10 | AGT Communications | PR группа | [agtcomm.com](https://agtcomm.com) | +7 495 933-18-66 | Gov & corporate PR | Forum production |
+| 11 | PR News | PR агентство | [prnews.ru](https://prnews.ru) | +7 495 620-48-00 | Press relations | Conferences |
+| 12 | TrendFox | PR агентство | [trendfox.ru](https://trendfox.ru) | +7 495 136-60-19 | Digital PR | Influencer events |
+| 13 | Grechka Media | PR агентство | [grechkamedia.ru](https://grechkamedia.ru) | +7 495 665-62-00 | Media relations | Product launches |
+| 14 | R.S.V.P. PR | PR агентство | [rsvp.agency](https://rsvp.agency) | +7 495 737-89-09 | Lifestyle PR | Fashion events |
+| 15 | AVELA Media | PR агентство | [avela.ru](https://avela.ru) | +7 495 780-99-00 | Brand PR | Corporate events |
+| 16 | PR Inc. | PR агентство | [princ.ru](https://princ.ru) | +7 495 660-38-88 | Strategic PR | Event management |
+| 17 | Smartcomm | PR агентство | [smartcomm.ru](https://smartcomm.ru) | +7 495 937-50-50 | B2B PR | Industry events |
+| 18 | UNIVERSUM | PR агентство | [universumcom.ru](https://universumcom.ru) | +7 495 772-12-90 | Corporate comms | Conferences |
+| 19 | DAO Agency | PR агентство | [daoagency.ru](https://daoagency.ru) | +7 495 215-14-00 | Digital PR | Tech events |
+| 20 | Event Team | Event/PR агентство | [eventteam.ru](https://eventteam.ru) | +7 495 223-33-44 | Event PR | Large-scale events |

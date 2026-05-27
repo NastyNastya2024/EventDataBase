@@ -1,0 +1,111 @@
+id;name;holding;type;format;holding_id;notes;website;phone
+1;Сыроварня;Novikov Group;ресторанный бренд;итальянский casual;1;;https://www.syrovarnya.com/;8 (495) 646-49-99
+2;Магадан;Novikov Group;ресторанный бренд;seafood / premium casual;1;;https://www.novikovgroup.ru/restaurants/detail/magadan-novaya-moskva/;+7 (495) 998 02 02
+3;Farш;Novikov Group;ресторанный бренд;burger chain;1;;https://farshburger.ru/;
+4;5642 Высота;Novikov Group;ресторанный бренд;кавказская кухня;1;;;
+5;Колбасный Цех;Novikov Group;ресторанный бренд;мясной ресторан;1;;;
+6;Клёво;Novikov Group;ресторанный бренд;seafood;1;;;
+7;Savva;Novikov Group;ресторанный бренд;fine dining;1;"контакт по таблице; в brands.csv бренд в Novikov Group";https://savvarest.ru;+7 (499) 270-10-62
+8;Onest;Novikov Group;ресторанный бренд;fine dining;1;;;
+9;ARTEST;Novikov Group;ресторанный бренд;fine dining;1;;https://artest.rest/;
+10;Sirena;Novikov Group;ресторанный бренд;рыбный ресторан;1;;;
+11;Царская Охота;Novikov Group;ресторанный бренд;русская кухня;1;;;
+12;Аист;Novikov Group;ресторанный бренд;premium;1;;;
+13;Узбекистан;Novikov Group;ресторанный бренд;восточная кухня;1;;;
+14;Причал;Novikov Group;ресторанный бренд;загородный ресторан;1;;;
+15;China Club;Novikov Group;ресторанный бренд;паназиатская;1;;;
+16;Mr. Lee;Novikov Group;ресторанный бренд;китайская кухня;1;;;
+17;Fumisawa Sushi;Novikov Group;ресторанный бренд;японская;1;;;
+18;Cantinetta Antinori;Novikov Group;ресторанный бренд;итальянская;1;;;
+19;Assunta Madre;Novikov Group;ресторанный бренд;seafood;1;;;
+20;Рыбы Нет;Novikov Group;ресторанный бренд;seafood;1;;;
+21;BRO&N;Novikov Group;ресторанный бренд;italian / bakery;1;;;
+22;Недальний Восток;Novikov Group;ресторанный бренд;паназиатская;1;;;
+23;Kaifuso;Novikov Group;ресторанный бренд;японская;1;;;
+24;Brasserie Кузнецкий Мост;Novikov Group;ресторанный бренд;brasserie;1;;;
+25;№13 Restaurant;Novikov Group;ресторанный бренд;premium;1;;;
+26;Lali;Novikov Group;ресторанный бренд;грузинская;1;совместно с Family Garden;;
+27;PRO.Хинкали;Novikov Group;ресторанный бренд;грузинская;1;совместно с Family Garden;;
+28;Pro.Мидии;Novikov Group;ресторанный бренд;seafood;1;совместно с Family Garden;;
+29;Сорренто;Novikov Group;ресторанный бренд;итальянская;1;совместно с Family Garden;;
+30;Южанин;Novikov Group;ресторанный бренд;южная кухня;1;совместно с Family Garden;;
+31;Avocado Queen;Novikov Group;ресторанный бренд;healthy / avocado concept;1;;;
+32;Buono;Ginza Project;ресторанный бренд;итальянский fine dining;2;;;
+33;Butler;Ginza Project;ресторанный бренд;premium;2;"контакт по таблице; в brands.csv бренд в Ginza Project";https://butler.rest;+7 (499) 703-45-55
+34;Christian;Ginza Project;ресторанный бренд;авторская кухня;2;;;
+35;Sixty;Ginza Project;ресторанный бренд;panoramic dining;2;;;
+36;Uilliam's;Ginza Project;ресторанный бренд;city café;2;;;
+37;AQ Kitchen;Ginza Project;ресторанный бренд;авторская кухня;2;;;
+38;Рыбторг;Ginza Project;ресторанный бренд;seafood;2;;;
+39;Рыбторг Seafood Bar;Ginza Project;ресторанный бренд;seafood;2;;;
+40;Mari Vanna;Ginza Project;ресторанный бренд;русская кухня;2;;;
+41;Пряности & Радости;Ginza Project;ресторанный бренд;восточная / family;2;;;
+42;Мансарда;Ginza Project;ресторанный бренд;panoramic restaurant;2;;;
+43;Terrassa;Ginza Project;ресторанный бренд;rooftop;2;;;
+44;Ribay;Ginza Project;ресторанный бренд;steakhouse;2;;;
+45;Хочу Харчо;Ginza Project;ресторанный бренд;грузинская;2;;;
+46;МамаLыga;Ginza Project;ресторанный бренд;грузинская;2;;;
+47;Suli Guli;Ginza Project;ресторанный бренд;грузинская;2;;;
+48;Capuletti;Ginza Project;ресторанный бренд;итальянская;2;;;
+49;Volga-Volga;Ginza Project;ресторанный бренд;ресторан-теплоход;2;;;
+50;Корюшка;Ginza Project;ресторанный бренд;seafood;2;;;
+51;Baklazhan;Ginza Project;ресторанный бренд;восточная;2;;;
+52;Jelsomino Cafe;Ginza Project;ресторанный бренд;karaoke;2;;;
+53;Dandy Cafe;Ginza Project;ресторанный бренд;café;2;;;
+54;Puri;Ginza Project;ресторанный бренд;грузинская;2;;;
+55;Moscow;Ginza Project;ресторанный бренд;city restaurant;2;;;
+56;Moskva;Ginza Project;ресторанный бренд;city restaurant;2;;;
+57;Katyusha;Ginza Project;ресторанный бренд;русская кухня;2;;;
+58;The Repa;Ginza Project;ресторанный бренд;авторская;2;;;
+59;Sunday Ginza;Ginza Project;ресторанный бренд;family restaurant;2;;;
+60;Kukumber;Ginza Project;ресторанный бренд;family casual;2;;;
+61;Plyushkin;Ginza Project;ресторанный бренд;bakery café;2;;;
+62;LarisuVannuHochu;Ginza Project;ресторанный бренд;грузинская;2;;;
+63;AVA;Pinskiy & Co;ресторанный бренд;premium casual;3;;;
+64;Loona;Pinskiy & Co;ресторанный бренд;итальянская;3;;https://loona.rest;+7 (495) 445-40-40
+65;Patriki;Pinskiy & Co;ресторанный бренд;city dining;3;;;
+66;Folk;Pinskiy & Co;ресторанный бренд;contemporary russian;3;;https://folk.team;+7 (495) 445-00-45
+67;Amber;Pinskiy & Co;ресторанный бренд;asian fusion;3;;;
+68;Simach;Pinskiy & Co;ресторанный бренд;nightlife / restaurant;3;;;
+69;Phantom;Pinskiy & Co;ресторанный бренд;premium;3;;;
+70;The Greeks;Pinskiy & Co;ресторанный бренд;греческая кухня;3;;;
+71;Queens;Pinskiy & Co;ресторанный бренд;lounge dining;3;;;
+72;Medusa Asia;Pinskiy & Co;ресторанный бренд;asian;3;;;
+73;Rocky2;Pinskiy & Co;ресторанный бренд;italian;3;;;
+74;Narnia;Pinskiy & Co;ресторанный бренд;lounge;3;;;
+75;Blondie;Pinskiy & Co;ресторанный бренд;café;3;;;
+76;Restaurant №13;Pinskiy & Co;ресторанный бренд;partnership concept;3;;;
+77;Maya;Pinskiy & Co;ресторанный бренд;latin / fusion;3;;;
+78;White Rabbit;White Rabbit Family;ресторанный бренд;fine dining;4;;https://whiterabbitmoscow.ru;+7 (495) 510-51-01
+79;Selfie;White Rabbit Family;ресторанный бренд;авторская кухня;4;;https://selfiemoscow.ru;+7 (495) 620-01-11
+80;Sakhalin;White Rabbit Family;ресторанный бренд;seafood;4;;https://sakhalin-moscow.ru;+7 (495) 126-27-77
+81;Luciano;White Rabbit Family;ресторанный бренд;итальянская;4;;;
+82;Red Fox;White Rabbit Family;ресторанный бренд;mountain restaurant;4;;;
+83;Chicha;White Rabbit Family;ресторанный бренд;peru fusion;4;;;
+84;Tehnikum;White Rabbit Family;ресторанный бренд;гастробистро;4;;;
+85;Mushrooms;White Rabbit Family;ресторанный бренд;mushroom concept;4;"контакт по таблице; в brands.csv бренд в White Rabbit Family";https://mushrooms.rest;+7 (495) 995-21-78
+86;Zodiac;White Rabbit Family;ресторанный бренд;pan asian;4;;;
+87;Горыныч;White Rabbit Family;ресторанный бренд;fire kitchen;4;;https://gorynich.com;+7 (495) 937-38-70
+88;IKRA;White Rabbit Family;ресторанный бренд;гастротеатр;4;;;
+89;Chef's Table;White Rabbit Family;ресторанный бренд;chef experience;4;;;
+90;WA Garden;White Rabbit Family;ресторанный бренд;experimental;4;;;
+91;Кафе Пушкинъ;Maison Dellos;ресторанный бренд;русская premium кухня;5;;https://cafe-pushkin.ru;+7 (495) 739-00-33
+92;Турандот;Maison Dellos;ресторанный бренд;luxury dining;5;;;
+93;Шинок;Maison Dellos;ресторанный бренд;украинская кухня;5;;;
+94;Казбек;Maison Dellos;ресторанный бренд;грузинская;5;"контакт по таблице; в brands.csv бренд в Maison Dellos";https://ginza.ru/msk/restaurant/kazbek;+7 (495) 266-86-66
+95;Волна;Maison Dellos;ресторанный бренд;seafood;5;;;
+96;Фаренгейт;Maison Dellos;ресторанный бренд;contemporary;5;;;
+97;Му-Му;Maison Dellos;ресторанный бренд;fast casual;5;;;
+98;Бочка;Maison Dellos;ресторанный бренд;мясной ресторан;5;;;
+99;Матрешка;Maison Dellos;ресторанный бренд;русская кухня;5;;;
+100;Orange 3;Maison Dellos;ресторанный бренд;japanese fusion;5;;;
+101;IL Патио;Rosinter Restaurants Holding;ресторанный бренд;итальянская;6;;;
+102;Планета Суши;Rosinter Restaurants Holding;ресторанный бренд;японская;6;;;
+103;TGI Fridays;Rosinter Restaurants Holding;ресторанный бренд;american casual;6;;;
+104;Costa Coffee;Rosinter Restaurants Holding;ресторанный бренд;кофейни;6;;;
+105;Американский Бар и Гриль;Rosinter Restaurants Holding;ресторанный бренд;casual dining;6;;;
+106;Шикари;Rosinter Restaurants Holding;ресторанный бренд;pan asian;6;;;
+107;Kitana;Family Garden;ресторанный бренд;asian;7;;;
+108;Ping Pong;Family Garden;ресторанный бренд;pan asian;7;;;
+109;321 Club;Family Garden;ресторанный бренд;nightlife;7;;;
+110;Mandarin Mall проекты;Family Garden;ресторанный бренд;mixed concepts;7;;;

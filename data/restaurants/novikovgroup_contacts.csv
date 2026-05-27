@@ -1,0 +1,14 @@
+section;department;contact_name;phone;email;schedule;address;notes;source_url
+office;ОФИС NOVIKOV GROUP;;8 909 909 2002;info@novikovgroup.ru;будни с 10:00 до 19:00;123056 Россия г. Москва ул. Красина 21;Общий офис холдинга;https://www.novikovgroup.ru/contacts/
+office;ОФИС NOVIKOV GROUP;;8 495 739 57 65;info@novikovgroup.ru;будни с 10:00 до 19:00;123056 Россия г. Москва ул. Красина 21;Второй телефон офиса;https://www.novikovgroup.ru/contacts/
+hr;ПОДБОР ПЕРСОНАЛА;;;rabota@novikovgroup.ru;;;Отдел подбора персонала;https://www.novikovgroup.ru/contacts/
+pr;Отдел маркетинга и связей с общественностью;;;pr@novikovgroup.ru;;;PR / маркетинг;https://www.novikovgroup.ru/contacts/
+partners;ОТДЕЛ ПО РАБОТЕ С РЕСТОРАНАМИ ПАРТНЕРАМИ: ВИННАЯ КАРТА;Семен Орехов;;s.orekhov@novikovgroup.ru;;;Винная карта / партнёрские рестораны;https://www.novikovgroup.ru/contacts/
+b2b;Продажи юридическим лицам сертификатов и дисконтных карт;Вита Бровко;;v.brovko@novikovgroup.ru;;;B2B сертификаты и дисконтные карты;https://www.novikovgroup.ru/contacts/
+procurement;Директор по закупкам;Елена Шаргородская;;e.shargorodskaya@novikovgroup.ru;;;Закупки;https://www.novikovgroup.ru/contacts/
+gift_cards;Подарочные сертификаты;;+7 (985) 061-64-51;alpiniya.card@yandex.ru;пн-пт 10:00-18:00 обед 14:00-15:00;;Отдельный график работы;https://www.novikovgroup.ru/contacts/
+discount_cards;Дисконтные карты;;+7 (985) 700-13-20;ip.novikov.card@yandex.ru;пн-пт 10:00-18:00 обед 14:00-15:00;;Отдельный график работы;https://www.novikovgroup.ru/contacts/
+social;Telegram;;;https://t.me/novikovgroup1991;;;;https://www.novikovgroup.ru/contacts/
+social;VK;;;https://vk.com/novikovgroupp;;;;https://www.novikovgroup.ru/contacts/
+social;Яндекс.Дзен;;;https://zen.yandex.ru/id/622b7afba5f35939ef96c520;;;;https://www.novikovgroup.ru/contacts/
+feedback_form;Обратная связь (форма);;;;"Поля: Имя, Номер телефона, E-mail, Вопрос, фото";"Заявка уходит директору ресторана, менеджеру по сервису Novikov Group и в центральный офис";261 пунктов в выпадающем списке ресторанов — см. novikovgroup_feedback_restaurants.csv;https://www.novikovgroup.ru/contacts/
