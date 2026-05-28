@@ -371,6 +371,84 @@ def _flush(out_path: Path, rows: list[tuple[str, str, ContactRow]]) -> None:
     out_path.parent.mkdir(parents=True, exist_ok=True)
     write_contacts_md(rows, out_path)
 
+def _snapshot_if_exists(path: Path) -> None:
+    if not path.exists():
+        return
+    hist_dir = path.parent / "contacts_delta_history"
+    hist_dir.mkdir(parents=True, exist_ok=True)
+    ts = time.strftime("%Y%m%d-%H%M%S")
+    snap = hist_dir / f"{path.stem}.{ts}{path.suffix}"
+    # best-effort snapshot
+    try:
+        snap.write_text(path.read_text(encoding="utf-8", errors="ignore"), encoding="utf-8")
+    except Exception:
+        pass
+
+
+def _parse_existing_contacts_rows(path: Path) -> tuple[list[str], set[str]]:
+    """
+    Returns (header_lines_up_to_separator, set_of_data_row_lines).
+    If file doesn't exist, returns a fresh header and empty set.
+    """
+    if not path.exists():
+        header = [
+            "## Контакты — телефоны / email / соцсети",
+            "",
+            "Источник: сайты из `all/all_no_focus.md` (или другого входного файла).",
+            "",
+            "Всего строк: **0**.",
+            "",
+            "| Организация | Сайт | Вид контакта | Контакт | Описание |",
+            "|---|---|---|---|---|",
+        ]
+        return header, set()
+
+    lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
+    header: list[str] = []
+    rows: set[str] = set()
+    in_table = False
+    for line in lines:
+        if not in_table:
+            header.append(line)
+            if line.lstrip().startswith("|---"):
+                in_table = True
+            continue
+        if not line.startswith("|") or line.lstrip().startswith("|---"):
+            continue
+        if "Организация" in line and "Вид контакта" in line:
+            continue
+        rows.add(line.rstrip())
+    return header, rows
+
+
+def _write_merged_contacts(path: Path, header: list[str], rows: list[str]) -> None:
+    # update total count if present
+    for i, line in enumerate(header):
+        if line.strip().startswith("Всего строк:"):
+            header[i] = f"Всего строк: **{len(rows)}**."
+            break
+    body = "\n".join(header + rows) + "\n"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(body, encoding="utf-8")
+
+
+def append_to_contacts(all_contacts_path: Path, new_rows: list[tuple[str, str, ContactRow]]) -> int:
+    header, existing = _parse_existing_contacts_rows(all_contacts_path)
+
+    added = 0
+    for org, site, c in new_rows:
+        line = (
+            f"| { _escape_cell(org) } | { _escape_cell(site) } | {c.kind} | "
+            f"{ _escape_cell(c.value) } | { _escape_cell(c.desc or 'N/A') } |"
+        )
+        if line not in existing:
+            existing.add(line)
+            added += 1
+
+    merged_rows = sorted(existing)
+    _write_merged_contacts(all_contacts_path, header, merged_rows)
+    return added
+
 
 def main() -> int:
     p = argparse.ArgumentParser(description="Сбор контактов с сайтов в виде списка строк")
@@ -383,6 +461,26 @@ def main() -> int:
     p.add_argument("--extra-pages", type=int, default=2)
     p.add_argument("--no-cache", action="store_true")
     p.add_argument("--flush-every", type=int, default=10, help="Как часто сохранять результат (в сайтах)")
+    p.add_argument(
+        "--skip-cached",
+        action="store_true",
+        help="Пропускать сайты, которые уже есть в кэше (удобно для продолжения)",
+    )
+    p.add_argument(
+        "--snapshot-output",
+        action="store_true",
+        help="Перед записью результата сохранять предыдущую версию output в all/contacts_delta_history/",
+    )
+    p.add_argument(
+        "--append-to",
+        default="",
+        help="Если задано: добавлять найденные строки в этот файл (без затирания), например all/all_contacts.md",
+    )
+    p.add_argument(
+        "--start-from",
+        default="",
+        help="Начать обработку с названия (case-insensitive, можно подстрокой)",
+    )
     args = p.parse_args()
 
     in_path = Path(args.input)
@@ -391,6 +489,8 @@ def main() -> int:
     out_path = Path(args.output)
     if not out_path.is_absolute():
         out_path = ROOT / out_path
+    if args.snapshot_output:
+        _snapshot_if_exists(out_path)
 
     pairs = parse_input_sites(in_path.read_text(encoding="utf-8"))
     if not pairs:
@@ -402,10 +502,19 @@ def main() -> int:
 
     all_rows: list[tuple[str, str, ContactRow]] = []
     new_sites = 0
+    started = not bool(args.start_from.strip())
+    start_key = args.start_from.casefold().strip()
 
     for org, site in pairs:
+        if not started:
+            if start_key and start_key not in org.casefold():
+                continue
+            started = True
+
         ck = site.casefold()
         if ck in cache:
+            if args.skip_cached:
+                continue
             items = [
                 ContactRow(x.get("kind", ""), x.get("value", ""), x.get("desc", "N/A"))
                 for x in (cache.get(ck) or [])
@@ -435,6 +544,13 @@ def main() -> int:
     write_contacts_md(all_rows, out_path)
     if not args.no_cache:
         save_cache(cache_path, cache)
+
+    if args.append_to:
+        target = Path(args.append_to)
+        if not target.is_absolute():
+            target = ROOT / target
+        added = append_to_contacts(target, all_rows)
+        print(f"  добавлено в {target}: {added} строк", flush=True)
 
     print(f"Готово: {out_path}")
     print(f"  обработано новых сайтов: {new_sites}, строк контактов: {len(all_rows)}")
