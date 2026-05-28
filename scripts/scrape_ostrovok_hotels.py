@@ -7,6 +7,9 @@ import csv
 import json
 import re
 import sys
+import time
+import urllib.error
+import urllib.request
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -24,6 +27,13 @@ SOURCE_URL = (
 LISTING_URL = (
     "https://ostrovok.ru/hotel/russia/moscow/"
     "?stars=5.4&sort=popularity&page={page}"
+)
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
+NEXT_DATA_RE = re.compile(
+    r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S
 )
 
 COLUMNS = [
@@ -112,6 +122,74 @@ def enrich_from_contacts(hotel: dict, index: dict[str, dict]) -> None:
                     "enrichment_source", ""
                 ) or "moscow_hotels_contacts.csv"
         break
+
+
+def fetch_listing_page(page: int) -> list[dict]:
+    url = LISTING_URL.format(page=page)
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            html = resp.read().decode("utf-8", errors="replace")
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return []
+        raise
+
+    match = NEXT_DATA_RE.search(html)
+    if not match:
+        return []
+    data = json.loads(match.group(1))
+    return data["props"]["pageProps"]["serpData"]["hotels"]
+
+
+def scrape_listing_pages(max_pages: int = 20, delay: float = 0.5) -> list[dict]:
+    hotels: list[dict] = []
+    seen_ids: set[int] = set()
+
+    for page in range(1, max_pages + 1):
+        raw = fetch_listing_page(page)
+        if not raw:
+            print(f"page {page}: empty, stopping", file=sys.stderr)
+            break
+        added = 0
+        for item in raw:
+            master_id = item.get("masterId")
+            if not master_id or master_id in seen_ids:
+                continue
+            seen_ids.add(master_id)
+            slug = item.get("id", "")
+            name = (item.get("name") or "").strip()
+            if not name:
+                continue
+            location = item.get("location") or {}
+            address = (location.get("address") or "").strip()
+            stars = item.get("stars")
+            ostrovok_url = (
+                f"https://ostrovok.ru/hotel/russia/moscow/"
+                f"mid{master_id}/{slug}/"
+                if slug
+                else f"https://ostrovok.ru/hotel/russia/moscow/mid{master_id}/"
+            )
+            hotels.append(
+                {
+                    "hotel_name": name,
+                    "address": address,
+                    "stars": str(stars) if stars is not None else "4-5",
+                    "phone": "",
+                    "website": "",
+                    "ostrovok_url": ostrovok_url,
+                    "source_url": SOURCE_URL,
+                    "enrichment_source": "ostrovok_listing",
+                }
+            )
+            added += 1
+        print(f"page {page}: +{added} (total {len(hotels)})", file=sys.stderr)
+        if added == 0:
+            break
+        if page < max_pages:
+            time.sleep(delay)
+
+    return hotels
 
 
 def parse_md_dump(path: Path) -> list[dict]:
@@ -316,16 +394,26 @@ def main() -> None:
     import argparse
 
     p = argparse.ArgumentParser()
-    p.add_argument("--input", type=Path, default=DEFAULT_MD)
+    p.add_argument("--input", type=Path, default=None)
     p.add_argument("--browser", action="store_true")
-    p.add_argument("--pages", type=int, default=13)
+    p.add_argument("--pages", type=int, default=20)
     p.add_argument("--out", default="ostrovok_moscow_4_5_stars")
     args = p.parse_args()
 
     hotels: list[dict] = []
-    if args.input.exists():
-        hotels = parse_md_dump(args.input)
-        print(f"Parsed {len(hotels)} hotels from {args.input}")
+
+    try:
+        hotels = scrape_listing_pages(max_pages=args.pages)
+        print(f"Scraped {len(hotels)} hotels from Ostrovok listings")
+    except Exception as e:
+        print(f"Listing scrape failed: {e}", file=sys.stderr)
+
+    md_path = args.input or DEFAULT_MD
+    if len(hotels) < 50 and md_path.exists():
+        parsed = parse_md_dump(md_path)
+        print(f"Parsed {len(parsed)} hotels from {md_path}")
+        if len(parsed) > len(hotels):
+            hotels = parsed
 
     if args.browser:
         try:
