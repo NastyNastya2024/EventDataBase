@@ -367,6 +367,11 @@ def write_contacts_md(rows: list[tuple[str, str, ContactRow]], out_path: Path) -
     out_path.write_text("\n".join(out), encoding="utf-8")
 
 
+def _flush(out_path: Path, rows: list[tuple[str, str, ContactRow]]) -> None:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    write_contacts_md(rows, out_path)
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description="Сбор контактов с сайтов в виде списка строк")
     p.add_argument("--input", default="all/all_no_focus.md")
@@ -377,6 +382,7 @@ def main() -> int:
     p.add_argument("--limit", type=int, default=0, help="Макс. число НОВЫХ сайтов (0 = все)")
     p.add_argument("--extra-pages", type=int, default=2)
     p.add_argument("--no-cache", action="store_true")
+    p.add_argument("--flush-every", type=int, default=10, help="Как часто сохранять результат (в сайтах)")
     args = p.parse_args()
 
     in_path = Path(args.input)
@@ -414,6 +420,10 @@ def main() -> int:
             new_sites += 1
             if args.sleep > 0:
                 time.sleep(args.sleep)
+            if args.flush_every > 0 and new_sites % args.flush_every == 0:
+                _flush(out_path, all_rows)
+                if not args.no_cache:
+                    save_cache(cache_path, cache)
 
         # порядок: телефоны -> email -> соцсети
         phones = [i for i in items if i.kind == "phone"]
