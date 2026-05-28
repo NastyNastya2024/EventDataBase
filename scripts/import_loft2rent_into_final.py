@@ -1,14 +1,19 @@
 #!/usr/bin/env python3
-"""Импорт лофтов loft2rent.ru в final/final.md (тип: лофт)."""
+"""Импорт лофтов (loft2rent, reveltime и др.) в final/final.md (тип: лофт)."""
 
 from __future__ import annotations
 
+import argparse
 import csv
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LOFT_CSV = ROOT / "data" / "лофтв" / "loft2rent_moscow.csv"
+LOFT_DIR = ROOT / "data" / "лофтв"
+DEFAULT_SOURCES = (
+    LOFT_DIR / "loft2rent_moscow.csv",
+    LOFT_DIR / "reveltime_moscow_vecherinka.csv",
+)
 FINAL_PATH = ROOT / "final" / "final.md"
 
 _SEP_RE = re.compile(r"^\|[\s:|-]+\|\s*$")
@@ -88,33 +93,55 @@ def read_loft_rows(path: Path) -> list[tuple[str, str, str, str, str]]:
     return out
 
 
+def _ensure_source_note(header_lines: list[str], note: str) -> None:
+    if len(header_lines) < 3 or not header_lines[2].startswith("Источник:"):
+        return
+    if note not in header_lines[2]:
+        header_lines[2] = header_lines[2].rstrip(".") + " " + note
+
+
 def main() -> int:
-    if not LOFT_CSV.exists():
-        raise SystemExit(f"Missing: {LOFT_CSV}")
+    ap = argparse.ArgumentParser()
+    ap.add_argument(
+        "csvs",
+        nargs="*",
+        type=Path,
+        help="CSV-файлы (по умолчанию loft2rent + reveltime)",
+    )
+    args = ap.parse_args()
+    sources = args.csvs or list(DEFAULT_SOURCES)
 
     header_lines, existing = read_final_rows(FINAL_PATH)
-    loft_rows = read_loft_rows(LOFT_CSV)
-
     seen = {tuple(r) for r in existing}
     added = 0
-    for row in loft_rows:
-        if row not in seen:
-            existing.append(row)
-            seen.add(row)
-            added += 1
+    total_from_csv = 0
+
+    for path in sources:
+        if not path.exists():
+            print(f"skip missing: {path}", file=__import__("sys").stderr)
+            continue
+        loft_rows = read_loft_rows(path)
+        total_from_csv += len(loft_rows)
+        for row in loft_rows:
+            if row not in seen:
+                existing.append(row)
+                seen.add(row)
+                added += 1
+        name = path.name
+        if "loft2rent" in name:
+            _ensure_source_note(
+                header_lines,
+                "+ `data/лофтв/loft2rent_moscow.csv` (loft2rent.ru).",
+            )
+        elif "reveltime" in name:
+            _ensure_source_note(
+                header_lines,
+                "+ `data/лофтв/reveltime_moscow_vecherinka.csv` (reveltime.ru).",
+            )
 
     existing.sort(key=lambda r: r[0].casefold())
 
     out_lines = list(header_lines)
-    # обновить строку источника
-    if len(out_lines) >= 3 and out_lines[2].startswith("Источник:"):
-        src = out_lines[2]
-        if "loft2rent" not in src:
-            out_lines[2] = (
-                src.rstrip(".")
-                + " + `data/лофтв/loft2rent_moscow.csv` (лофты loft2rent.ru, тип «лофт»)."
-            )
-
     for org, typ, site, kind, contact in existing:
         out_lines.append(
             "| "
@@ -124,7 +151,7 @@ def main() -> int:
     out_lines.append("")
 
     FINAL_PATH.write_text("\n".join(out_lines), encoding="utf-8")
-    print(f"loft rows from csv: {len(loft_rows)}")
+    print(f"loft rows from csv (with phone): {total_from_csv}")
     print(f"added to final: {added}")
     print(f"total rows in final: {len(existing)}")
     print(f"wrote: {FINAL_PATH}")

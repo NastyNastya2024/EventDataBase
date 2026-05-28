@@ -1,6 +1,6 @@
 ## FINAL — контакты + тип организации
 
-Источник: `all/all_contacts.md` + `all/all_no_focus_has_site.md` (тип по совпадению организации+сайта) + `final/org_type_overrides.md` (ручные оверрайды по названию) + `data/лофтв/loft2rent_moscow.csv` (лофты loft2rent.ru, тип «лофт»).
+Источник: `all/all_contacts.md` + `all/all_no_focus_has_site.md` (тип по совпадению организации+сайта) + `final/org_type_overrides.md` (ручные оверрайды по названию) + `data/лофтв/loft2rent_moscow.csv` (лофты loft2rent.ru, тип «лофт») + `data/лофтв/reveltime_moscow_vecherinka.csv` (reveltime.ru).
 
 | Организация | Тип | Сайт | Вид контакта | Контакт |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@
 | 3 зал Караоке Лофт-студии | лофт | https://www.loft2rent.ru/loft/12511 | phone | +7 (968) 992 44 84 |
 | 3-е место - лофт на Тульской | лофт | https://www.loft2rent.ru/loft/75181 | phone | +79166683000 |
 | 300м²Апартамент в башне Москва - Сити Око на 70 этаже за МИЛЛИАРД | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
-| 314 LoftЛофт на Кленовом бульваре \| Коломенской | лофт | https://www.loft2rent.ru/loft/74753/74755 | phone | +74996479316 |
+| 314 LoftЛофт на Кленовом бульваре \ | Коломенской | лофт | https://www.loft2rent.ru/loft/74753/74755 | phone |
 | 3DNews | медиа / IT-издание | https://3dnews.ru | email | admin@3dnews.ru |
 | 3DNews | медиа / IT-издание | https://3dnews.ru | email | akuzin@3dnews.ru |
 | 3DNews | медиа / IT-издание | https://3dnews.ru | email | alexa@3dnews.ru |
@@ -114,8 +114,8 @@
 | 71,2 м² Апартамент на 65 этаже Москва Сити с видом на комплекс башен Neva Towers (Moscow city Neva Towers) | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | 76 floor Rise Apartments Шикарный апартамент с видом на Москву! | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | 80 этаж! Самый высокий апартамент! Вид на МГУ, Лужники, Парк Победы, башни и город! | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
-| 90FloorMYTH \| 90Floor | лофт | https://www.loft2rent.ru/loft/63709/68443 | phone | +7 495 489 90 90 |
-| 90FloorSKY \| 90Floor | лофт | https://www.loft2rent.ru/loft/63709/63741 | phone | +7 495 489 90 90 |
+| 90FloorMYTH \ | 90Floor | лофт | https://www.loft2rent.ru/loft/63709/68443 | phone |
+| 90FloorSKY \ | 90Floor | лофт | https://www.loft2rent.ru/loft/63709/63741 | phone |
 | 90FloorПанорамный ресторан китайской кухни MUME | лофт | https://www.loft2rent.ru/loft/63709/123926 | phone | +7 495 489 90 90 |
 | A-More Loft / А'Море | лофт | https://www.loft2rent.ru/loft/104772 | phone | +79772959526 |
 | A101 Development | девелопер | https://a101.ru | phone | +7 (499) 110-18-73 |
@@ -694,6 +694,7 @@
 | Afisha Media | медиахолдинг | https://www.afisha.ru | social | https://t.me/afisha |
 | Afisha Media | медиахолдинг | https://www.afisha.ru | social | https://vk.com/public1672730 |
 | AG LOFTCHALET / ШАЛЕ | лофт | https://www.loft2rent.ru/loft/1926/44130 | phone | +7 (495) 032-36-35 |
+| Agnostic Loft. Лофт с верандой | лофт | https://www.reveltime.ru/venue/2407981?eventtype=vecherinka | phone | +79263579391 |
 | AGNOSTIC Лофт ( 130 м.кв) с Тёплой Верандой(45 кв.м) , Грилем и лучшим звуком ( с середины июня будет выход на крышу 350 м.кв) | лофт | https://www.loft2rent.ru/loft/13771 | phone | +79263579391 |
 | AGT Communications | коммуникационное / PR-агентство | https://agtcomm.com | phone | +7 495 933-18-66 |
 | AirExpress Hotel | отель | https://www.putevka.com/hotels/russia/khimki/vozdushnyi_ekspress_terminal_e | email | 939@putevka.com |
@@ -768,6 +769,7 @@
 | Anvil Club | премиальный фитнес / private club | https://anvilclub.ru | phone | +7 (499) 551-51-11 |
 | Anvil Club | премиальный фитнес / private club | https://anvilclub.ru | social | https://t.me/anvilclub_f |
 | Apple Russia | технологическая компания | https://www.apple.com | phone | +18006927753 |
+| Apriori Photo Коричневый лофт с верандой | лофт | https://www.reveltime.ru/venue/455631?eventtype=vecherinka | phone | +74950034525 |
 | Aquarel Hall | лофт | https://www.loft2rent.ru/loft/74440 | phone | 88124674730 |
 | Ararat Park Hyatt | luxury-отель | https://araratparkhotel.ru | email | moscow.park@araratph.ru |
 | Ararat Park Hyatt | luxury-отель | https://araratparkhotel.ru | email | reservation@araratph.ru |
@@ -810,6 +812,7 @@
 | Arbat Secret Loft | лофт | https://www.loft2rent.ru/loft/132813/132815 | phone | +7 (499) 113-37-75 |
 | Arch  loft | лофт | https://www.loft2rent.ru/loft/119864/119893 | phone | +79277772200 |
 | ARCHILOFT | лофт | https://www.loft2rent.ru/loft/21863/21864 | phone | +7 (495) 185-56-99 |
+| ARCHILOFT(АРХИЛОФТ). Два смежных пространства Acryl Space (Акрил Спэйс) и Steel Space (Стил Спэйс) | лофт | https://www.reveltime.ru/venue/2989016?eventtype=vecherinka | phone | +79676932714 |
 | ARCOBALENO LOFT / АРКОБАЛЕНО ЛОФТ | лофт | https://www.loft2rent.ru/loft/107118/123108 | phone | +79530505020 |
 | Areal Congress Hotel | загородный отель | https://www.areal-hotel.ru | email | bron@areal-hotel.ru |
 | Areal Congress Hotel | загородный отель | https://www.areal-hotel.ru | email | sales.analytcs40@areal-hotel.ru |
@@ -857,6 +860,7 @@
 | ART Moscow Voyage Hotel | отель | https://artmoscowhotel.ru | social | https://vk.com/artmoscowhotel |
 | ART Moscow Voyage Hotel | отель | https://artmoscowhotel.ru | social | https://www.facebook.com/artmoscowhotel |
 | ART Moscow Voyage Hotel | отель | https://artmoscowhotel.ru | social | https://www.instagram.com/artmoscowhotel |
+| Art Union Двухуровневый арт-лофт | лофт | https://www.reveltime.ru/venue/4370594?eventtype=vecherinka | phone | +79959013745 |
 | Art9.2Blue sky | лофт | https://www.loft2rent.ru/loft/132452/132931 | phone | 89911772529 |
 | Art9.2Color | лофт | https://www.loft2rent.ru/loft/132452/132562 | phone | 89911772529 |
 | Art9.2scene | лофт | https://www.loft2rent.ru/loft/132452/132924 | phone | 89911772529 |
@@ -975,6 +979,7 @@
 | ATELIE | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
 | ATLAtlantic | лофт | https://www.loft2rent.ru/loft/95559/143599 | phone | 89939187561 |
 | ATMOS - Лофт с караоке, верандой и грилем | лофт | https://www.loft2rent.ru/loft/5546 | phone | +7 951 191-58-38 |
+| Atmos Loft (Атмос Лофт). Стильная площадка с яркими акцентами | лофт | https://www.reveltime.ru/venue/4922038?eventtype=vecherinka | phone | +79584610759 |
 | Atmosferno_studioЗал Minimal | лофт | https://www.loft2rent.ru/loft/99628/119378 | phone | +79771211238 |
 | auratower апартаменты москва сити 33 floor oko tower | лофт | https://skyrent24.ru | phone | +79021444676 |
 | auratower апартаменты москва сити Premium sky apartments | лофт | https://www.loft2rent.ru/loft/19512 | phone | +7 (902) 144-46-76 |
@@ -1086,6 +1091,22 @@
 | Barvikha Luxury Village | luxury retail / event space | https://barvikhaconcerthall.ru | social | https://t.me/barvikhaconcerthall |
 | Barvikha Luxury Village | luxury retail / event space | https://barvikhaconcerthall.ru | social | https://wa.me/79689113399 |
 | BAUHAUS | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
+| Bauman Space (Бауман Спейс).  Лофт Санрайз | лофт | https://www.reveltime.ru/venue/7736441?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Blackberry (Блэкберри) | лофт | https://www.reveltime.ru/venue/989651?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Авиатор | лофт | https://www.reveltime.ru/venue/726900?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Альфа | лофт | https://www.reveltime.ru/venue/3234608?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Бета | лофт | https://www.reveltime.ru/venue/7082759?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Брутал | лофт | https://www.reveltime.ru/venue/4464543?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Металлик | лофт | https://www.reveltime.ru/venue/4464623?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Облака | лофт | https://www.reveltime.ru/venue/4704050?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Олимп | лофт | https://www.reveltime.ru/venue/3234612?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Роквуд | лофт | https://www.reveltime.ru/venue/4464612?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Сапфир | лофт | https://www.reveltime.ru/venue/4703967?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Ураниум | лофт | https://www.reveltime.ru/venue/4464634?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Феникс | лофт | https://www.reveltime.ru/venue/3234611?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Флау | лофт | https://www.reveltime.ru/venue/7948815?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space (Бауман Спейс). Лофт Флаффи | лофт | https://www.reveltime.ru/venue/4464587?eventtype=vecherinka | phone | +79585782362 |
+| Bauman Space. Лофт Хайдаут | лофт | https://www.reveltime.ru/venue/7819995?eventtype=vecherinka | phone | +79585782362 |
 | BAUMAN SPACEALFA — лофт со сценой и большими панорамными окнами, 2 минуты от метро / Альфа | лофт | https://www.loft2rent.ru/loft/14642/126987 | phone | +7 958 578 23 62 |
 | BAUMAN SPACEARBAT - лофт на Арбате в 3 минутах от метро / Арбат | лофт | https://www.loft2rent.ru/loft/64193/64195 | phone | +7 958 578 23 62 |
 | BAUMAN SPACEBETA - Двухуровневый Лофт с панормаными окнами, 2 мин. от метро / Бета | лофт | https://www.loft2rent.ru/loft/14642/41101 | phone | +7 958 578 23 62 |
@@ -1158,6 +1179,8 @@
 | Big Jack | ресторан / бар | https://bigjack24.ru | social | social |
 | Big Jack | ресторан / бар | https://bigjack24.ru | social | social |
 | Big LoftBig Loft лофт на Соколе | лофт | https://www.loft2rent.ru/loft/153471/153474 | phone | 89060684888 |
+| Bizone Hookah Лофт c VIP залом на ВДНХ | лофт | https://www.reveltime.ru/venue/3292235?eventtype=vecherinka | phone | +79688444922 |
+| Bizone Lounge Лофт-кальянная на Войковской | лофт | https://www.reveltime.ru/venue/3292221?eventtype=vecherinka | phone | +79777137848 |
 | Björn | ресторан | https://bjorn.rest | phone | +7 (495) 953-90-59 |
 | Björn | ресторан | https://bjorn.rest | social | https://t.me/BjornRestaurant |
 | BLACK | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
@@ -1165,11 +1188,13 @@
 | Black and White LoftWhite Loft | лофт | https://www.loft2rent.ru/loft/22069/34046 | phone | +7 988 388-80-50 |
 | BLACK NEON LOFT | лофт | https://www.loft2rent.ru/loft/85459/85463 | phone | +79959885656 |
 | BLACK OUT | лофт | https://www.loft2rent.ru/loft/132167 | phone | 89251539733 |
+| BLACK OUT (Блэк аут). Стильный черный лофт | лофт | https://www.reveltime.ru/venue/8458180?eventtype=vecherinka | phone | +79346608162 |
 | Black Room | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | BlackBerry — просторный лофт с банкетной зоной рядом с метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
 | BLADE | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
 | Blanc | лофт | https://www.loft2rent.ru/loft/spaceandplace | phone | 8 (499) 116 34 31 |
 | blanche.place | лофт | https://www.loft2rent.ru/loft/120937 | phone | +79995374173 |
+| Blank (Бланк). Светлый лофт с верандой | лофт | https://www.reveltime.ru/venue/8931873?eventtype=vecherinka | phone | +79676932714 |
 | Blisski | лофт | https://www.loft2rent.ru/loft/126555/149070 | phone | +79804321043 |
 | Bluefin Event Hall Жуковка | лофт | https://www.loft2rent.ru/loft/204424/204426 | phone | 8 (925) 101-50-36 |
 | BMWEDDING | свадебное агентство | http://www.bmwedding.ru | email | email |
@@ -1192,6 +1217,10 @@
 | BMWEDDING | свадебное агентство | http://www.bmwedding.ru | social | https://www.instagram.com/bm_weddings_events |
 | BOAR studio | лофт | https://www.loft2rent.ru/loft/176377/176379 | phone | +7 (916) 231-1010 |
 | Bogasthetic | лофт | https://www.loft2rent.ru/loft/144391/144531 | phone | 8 (953) 378-67-63 |
+| Bogema (Богема). Зал Баланс | лофт | https://www.reveltime.ru/venue/9011819?eventtype=vecherinka | phone | +79584974208 |
+| BOGEMA (БОГЕМА). Какао. ЭЙФОРИЯ | лофт | https://www.reveltime.ru/venue/3393175?eventtype=vecherinka | phone | +79893636021 |
+| Bogema (Богема). Лофт Фрейм | лофт | https://www.reveltime.ru/venue/9009571?eventtype=vecherinka | phone | +79584974206 |
+| BOGEMA. BALANCE (БОГЕМА. БАЛАНС). Универсальный лофт | лофт | https://www.reveltime.ru/venue/4062896?eventtype=vecherinka | phone | +79584974139 |
 | Boho loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Bolshevik Loft (Black Loft) | loft / event space | https://blackloft.bolshevikloft.ru | email | info@bolshevikloft.ru |
 | Bolshevik Loft (Black Loft) | loft / event space | https://blackloft.bolshevikloft.ru | email | terrasa@bolshevikloft.ru |
@@ -1259,6 +1288,7 @@
 | Boutique Hotel Tanya Moscow | бутик-отель | https://vk.com/club35702035 | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
 | Boutique Hotel Tanya Moscow | бутик-отель | https://vk.com/club35702035 | social | https://vk.com/js/lib/px.js?ch=1 |
 | Boutique Hotel Tanya Moscow | бутик-отель | https://vk.com/club35702035 | social | https://vk.com/js/lib/px.js?ch=2 |
+| Boutique Hotel Помещение с большими окнами | лофт | https://www.reveltime.ru/venue/3655970?eventtype=vecherinka | phone | +79945064895 |
 | Boxberry | логистическая компания | https://boxberry.ru | email | corpndd@dostavka.yandex.ru |
 | Boxberry | логистическая компания | https://boxberry.ru | email | help@dostavka.yandex.ru |
 | BRIDAL HOME EVENTS | свадебное / event-агентство | http://bridalhome.ru | email | bridalhome@mail.ru |
@@ -1276,6 +1306,7 @@
 | British American Tobacco | табачная компания | https://www.bat.com | social | https://x.com/intent/post?url=https%3A%2F%2Fwww.bat.com%2Finvestors-and-reporting%2Fdebt-investors%2Fcontacts&text=British%20American%20Tobacco%20-%20Contacts |
 | Brix | ресторан / винный бар | https://brixbar.ru | phone | +7 (999) 911-13-70 |
 | BRODNIKI LOFT | лофт | https://www.loft2rent.ru/loft/115308 | phone | 8-996-716-19-94 |
+| Brodniki Loft (Бродники Лофт. )Лофт из белого кирпича | лофт | https://www.reveltime.ru/venue/6587746?eventtype=vecherinka | phone | +79676928564 |
 | Brodo Bar & Kitchen | ресторан | https://brodo.moscow | email | brodobarmoscow@gmail.com |
 | Brodo Bar & Kitchen | ресторан | https://brodo.moscow | email | brodobarmoscow@yandex.ru |
 | Brodo Bar & Kitchen | ресторан | https://brodo.moscow | phone | +7 (926) 410-01-80 |
@@ -1347,8 +1378,10 @@
 | Cafe Pushkin | ресторан | https://cafe-pushkin.ru | social | https://t.me/+79773887163 |
 | Cafe Pushkin | ресторан | https://cafe-pushkin.ru | social | https://t.me/cafepushkin_official |
 | Cafe Pushkin | ресторан | https://cafe-pushkin.ru | social | https://vk.com/cafepushkin |
-| Calma SpaceCalma Space \| Пространство спокойствия | лофт | https://www.loft2rent.ru/loft/145533/153077 | phone | +7 (991) 997-13-00 |
+| Calma SpaceCalma Space \ | Пространство спокойствия | лофт | https://www.loft2rent.ru/loft/145533/153077 | phone |
 | Campus | лофт | https://www.loft2rent.ru/loft/59771/59786 | phone | +7 926 100 3263 |
+| Campus loft (Кампус лофт). Просторный лофт | лофт | https://www.reveltime.ru/venue/3877537?eventtype=vecherinka | phone | +79261003263 |
+| Campus loft (Кампус лофт). Просторный лофт | лофт | https://www.reveltime.ru/venue/1769333?eventtype=vecherinka | phone | +79261003263 |
 | Candy Loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | CAPELLA | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
 | Capital Group | девелопер | https://capitalgroup.ru | email | info@capitalgroup.ru |
@@ -1360,10 +1393,13 @@
 | Capital Group | девелопер | https://capitalgroup.ru | social | https://t.me/CapitalGroupru |
 | Capital Group | девелопер | https://capitalgroup.ru | social | https://www.youtube.com/@CapitalGroupMoscow |
 | Carat Loft | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
+| Casa Picassa. Лофт Климт (Каса Пикасса) | лофт | https://www.reveltime.ru/venue/2764553?eventtype=vecherinka | phone | +79586097164 |
+| Cascad (Каскад). Лофт в центре Москвы с высоким потолком | лофт | https://www.reveltime.ru/venue/318101?eventtype=vecherinka | phone | +79584974160 |
 | Cassia Loft | лофт | https://www.loft2rent.ru/loft/74440 | phone | +78122407727 |
 | CASTLE CONCERT HALL | лофт | https://www.loft2rent.ru/loft/209661/209663 | phone | 89152576238 |
 | CASTLE CONCERT HALL- Ночной Клуб | лофт | https://www.loft2rent.ru/loft/172081 | phone | +79255165332 |
 | Cat Factory | лофт | https://www.loft2rent.ru/loft/178861/178863 | phone | 89263890166 |
+| Cat Factory (Фабрика кэт). Лофт-пространство с дизайнерскими окнами | лофт | https://www.reveltime.ru/venue/7777267?eventtype=vecherinka | phone | +79584974150 |
 | Cats PubАниме | лофт | https://www.loft2rent.ru/loft/173987/173991 | phone | 89134628525 |
 | CHALET + ROOF | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
 | Chalet StudioГончарная мастерская Chalet Китай-город | лофт | https://www.loft2rent.ru/loft/187831/190134 | phone | +7 499 995 12 80 |
@@ -1476,6 +1512,7 @@
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | social | https://t.me/citilink_official |
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | social | https://vk.com/citilink_ru |
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | social | https://www.youtube.com/user/CitilinkTV |
+| Citrus Hall (Цитрус Зал). Бергамот | лофт | https://www.reveltime.ru/venue/5738655?eventtype=vecherinka | phone | +79910172413 |
 | City Festival Series | event-серия | https://mos.ru | email | press-service@mos.ru |
 | City Festival Series | event-серия | https://mos.ru | phone | +7 (495) 620-27-17 |
 | City Festivals Directorate Moscow | государственная event-организация | https://www.mos.ru | email | email |
@@ -1501,11 +1538,15 @@
 | CityRentSummit - Двухкомнатный апартамент в Москва сити | лофт | https://www.loft2rent.ru/loft/204785/204827 | phone | +79206100062 |
 | CityRentVertex - уют в Москва сити | лофт | https://www.loft2rent.ru/loft/204785/204831 | phone | +79206100062 |
 | CityRentVertigo - Апартаменты с 5-ти метровыми потолками | лофт | https://www.loft2rent.ru/loft/204785/204821 | phone | +79206100062 |
+| Clever Loft (Клевер лофт). Лофт в эко-стиле с большими окнами и выходом на веранду | лофт | https://www.reveltime.ru/venue/6258683?eventtype=vecherinka | phone | +79584055346 |
+| Clever Loft (Клевер лофт). Светлый лофт с большими окнами и выходом на веранду | лофт | https://www.reveltime.ru/venue/6258696?eventtype=vecherinka | phone | +79584610759 |
 | CleverLoft - Веранда в лофт-квартале на Тульской | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (495) 278-02-30 |
 | CleverLoft CLASSIC - Светлый лофт с верандой на Тульской | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (495) 278-02-30 |
 | CleverLoft ECO - Уютный лофт с верандой на Тульской | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (495) 278-02-30 |
 | CLIOЛофт для камерных мероприятий | лофт | https://www.loft2rent.ru/loft/208250/208252 | phone | 8 (980) 120-29-55 |
 | Cloud Nine | лофт | https://www.loft2rent.ru/loft/9938 | phone | +79151824417 |
+| Cloud Nine (Девятое Облако). Лофт с террасой | лофт | https://www.reveltime.ru/venue/2717712?eventtype=vecherinka | phone | +79584974084 |
+| Cloud Nine (Девятое Облако). Пространство на мансардном этаже | лофт | https://www.reveltime.ru/venue/599286?eventtype=vecherinka | phone | +79346608162 |
 | Cloud — светлый лофт с караоке и подвесным креслом, 8 минут от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
 | Club First | бизнес-клуб | https://clubfirst.ru | email | marketing@clubfirst.ru |
 | Club First | бизнес-клуб | https://clubfirst.ru | phone | +7 (495) 118-09-81 |
@@ -1538,6 +1579,7 @@
 | Community Yauza | community space | https://yauza-place.ru | social | https://vk.com/yauza_vk |
 | Community Yauza | community space | https://yauza-place.ru | social | https://www.instagram.com/yauza_place |
 | Compressor / КомпрессорКомпрессор лофт | лофт | https://www.loft2rent.ru/loft/10172/102526 | phone | +7 926-285-19-41 |
+| Compressor Loft (Компрессор Лофт) | лофт | https://www.reveltime.ru/venue/2240764?eventtype=vecherinka | phone | +79584974167 |
 | Comunica | коммуникационное агентство | https://comunica.ru | email | email |
 | Comunica | коммуникационное агентство | https://comunica.ru | email | email |
 | Comunica | коммуникационное агентство | https://comunica.ru | email | mail@comunica.ru |
@@ -1806,10 +1848,12 @@
 | Cube.Moscow | арт-пространство | https://cube.moscow | social | https://vk.com/cube_moscow |
 | Cube.Moscow | арт-пространство | https://cube.moscow | social | https://www.youtube.com/channel/UCIidVK_ErOz9O2yJxyNo4Yw |
 | Cucinarium | лофт | https://www.loft2rent.ru/loft/180775/180777 | phone | 89629480842 |
+| Culinary style лофт | лофт | https://www.reveltime.ru/venue/1372200?eventtype=vecherinka | phone | +79163797300 |
 | Culture Projects Moscow Office | культурная организация | https://culture.mos.ru | social | https://t.me/CulturMoscow |
 | Culture Projects Moscow Office | культурная организация | https://culture.mos.ru | social | https://t.me/moscow_culture |
 | Culture Projects Moscow Office | культурная организация | https://culture.mos.ru | social | social |
 | Custom Loft | лофт | https://www.loft2rent.ru/loft/30979 | phone | +79936053121 |
+| Cyber Antique. Лофт в современной античности | лофт | https://www.reveltime.ru/venue/4505240?eventtype=vecherinka | phone | +79584974226 |
 | Cyberpunk loft с ПИЛОНОМ , караоке и PS 5 ! на Бауманской | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-53-72 |
 | Cycling Moscow | спортивное community | https://cyclingrace.ru | email | info@cyclingrace.ru |
 | Cycling Moscow | спортивное community | https://cyclingrace.ru | social | https://t.me/cyclingrace |
@@ -1890,8 +1934,11 @@
 | Digital TV Russia | медиакомпания | https://digitalrussia.tv | phone | +84993501080116 |
 | Disco | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | DIY cafe | лофт | https://www.loft2rent.ru/loft/55515/55517 | phone | +7 903 510 5445 |
+| DIYcafe (Ди-Ай-Уай Кафе). Лофт | лофт | https://www.reveltime.ru/venue/4299884?eventtype=vecherinka | phone | +79346644195 |
+| Dizzy loft (Диззи лофт). Яркий лофт | лофт | https://www.reveltime.ru/venue/6712256?eventtype=vecherinka | phone | +79019317663 |
 | Dizzy Loft в центре | лофт | https://www.loft2rent.ru/loft/136868 | phone | +79933450544 |
 | Dj cafeParadise лофт с терассой и караоке | лофт | https://www.loft2rent.ru/loft/132298/163408 | phone | 89213531717 |
+| Do.Bro coffee (До.Бро кофе). Уютный лофт-зал при кофейне | лофт | https://www.reveltime.ru/venue/6852686?eventtype=vecherinka | phone | +79584974160 |
 | Doc Moscow Fest | документальный кинофестиваль | https://mdfest.ru | social | https://vk.com/konkursmolodiyederzkiye |
 | Dom | лофт | https://www.loft2rent.ru/loft/170544/170548 | phone | 89254224470 |
 | DOM AVDEEVA | лофт | https://www.loft2rent.ru/loft/129251/129259 | phone | +7 926 699 29 56 |
@@ -2071,8 +2118,10 @@
 | Encore City (Oko Tower) | fitness / wellness club | https://www.encorefitness.ru | social | https://vk.com/encorefitness |
 | EnjoyMe_studio (Арт пространство, мастерская) | лофт | https://www.loft2rent.ru/loft/142043 | phone | +79124518733 |
 | EnjoyMe_studio (Лофт рояль, бильярд) | лофт | https://www.loft2rent.ru/loft/142043 | phone | +79124518733 |
+| Espada. Brosco (Эспада. Броско). Дизайнерский неоновый лофт | лофт | https://www.reveltime.ru/venue/5445072?eventtype=vecherinka | phone | +79813347290 |
 | EsterumEsterum | лофт | https://www.loft2rent.ru/loft/187739/187741 | phone | +7 (969) 130-13-12 |
 | ESTETIKA - уютный лофт с окнами. Включено - караоке, светомузыка, мебель.  Подарок при бронировании | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
+| Estetto (Эстетто). Студия-лофт из белого кирпича | лофт | https://www.reveltime.ru/venue/4177239?eventtype=vecherinka | phone | +79346692796 |
 | ESTHETIQUE EVENTS | event-агентство | http://esthetiqueevents.ru | email | email |
 | ESTHETIQUE EVENTS | event-агентство | http://esthetiqueevents.ru | email | torba@esthetique-events.ru |
 | ESTHETIQUE EVENTS | event-агентство | http://esthetiqueevents.ru | phone | +7 (964) 786-24-10 |
@@ -2298,9 +2347,12 @@
 | Family Garden | ресторанный холдинг | https://familygarden.su | social | https://t.me/familygardengroup |
 | Family Garden | ресторанный холдинг | https://familygarden.su | social | https://vk.com/family_garden |
 | Family LOFT | лофт | https://babyspace.loft | phone | +79013551562 |
+| Family Loft (Семейный лофт). Семейный лофт в стиле БОХО | лофт | https://www.reveltime.ru/venue/8262356?eventtype=vecherinka | phone | +79910172113 |
 | Family LoftКубовая,86/1 | лофт | https://www.loft2rent.ru/loft/83369/83375 | phone | +7 (913) 756-96-72 |
 | Fara Loft | лофт | https://www.loft2rent.ru/loft/4607/26826 | phone | +79684200044 |
 | Fara Place | лофт | https://www.loft2rent.ru/loft/4607 | phone | +79684200044 |
+| FaraLoft (ФараЛофт). Лофт-апартаменты | лофт | https://www.reveltime.ru/venue/1019464?eventtype=vecherinka | phone | +79676928564 |
+| FaraLoft (ФараЛофт). Стильный лофт | лофт | https://www.reveltime.ru/venue/3160824?eventtype=vecherinka | phone | +79813347290 |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | email | email |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | email | email |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | email | mail@culture.gov.ru |
@@ -2313,6 +2365,8 @@
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | social | social |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | social | social |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | social | social |
+| Felicitatime Комната с мягкими диванами | лофт | https://www.reveltime.ru/venue/3090616?eventtype=vecherinka | phone | +79771972070 |
+| Felicitatime. Пространство для праздников | лофт | https://www.reveltime.ru/venue/2049939?eventtype=vecherinka | phone | +79771972070 |
 | femine space, Алексеевская | лофт | https://www.loft2rent.ru/loft/185659 | phone | 89267321372 |
 | FerdinandGroupBasement Hall | лофт | https://www.loft2rent.ru/loft/87910/87915 | phone | +79117508085 |
 | FerdinandGroupFerdinand Prime | лофт | https://www.loft2rent.ru/loft/87910/88227 | phone | +79117508085 |
@@ -2325,6 +2379,7 @@
 | Ferra Media | tech-медиа | https://www.ferra.ru | social | https://dzen.ru/ferra?favid=1670 |
 | Ferra Media | tech-медиа | https://www.ferra.ru | social | https://t.me/ferraru |
 | Ferra Media | tech-медиа | https://www.ferra.ru | social | https://vk.com/ferraru |
+| Finch Coffee. Лофт-кафе под закрытие | лофт | https://www.reveltime.ru/venue/3294506?eventtype=vecherinka | phone | +79945035025 |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | email | info@fintechru.org |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | email | pr@fintechru.org |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | phone | +7 (495) 785-64-01 |
@@ -2401,6 +2456,7 @@
 | Format Loft | loft / event space | https://f-loft.ru | phone | +7 (495) 999-39-79 |
 | Format Loft | loft / event space | https://f-loft.ru | social | https://t.me/+79859993979 |
 | Format loftФОРМАТ ЛОФТ | лофт | https://www.loft2rent.ru/loft/77263/77280 | phone | 89859993979 |
+| FotoFaktura (ФотоФактура). Зал с большими окнами | лофт | https://www.reveltime.ru/venue/278940?eventtype=vecherinka | phone | +74952210170 |
 | Fox Rest | лофт | https://www.loft2rent.ru/loft/179457 | phone | +79268244318 |
 | FRAME - стильная просторная площадка  со сценой  на Красном Октябре | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
 | French Business Club Moscow | бизнес-клуб | https://ccifr.ru | email | hotline@ccifr.ru |
@@ -2518,6 +2574,7 @@
 | GALLERY LOFT: ДВУХЭТАЖНЫЙ ЛОФТ КАРАОКЕ И PS 4 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (495) 183-94-32 |
 | Gamma More | лофт | https://www.loft2rent.ru/loft/186077/186409 | phone | 89030127713 |
 | Garage loftGarage | лофт | https://www.loft2rent.ru/loft/129442/130392 | phone | +7 936 777 96 77 (WA) |
+| Garage Lounge (Гараж Зал). Стильный лофт | лофт | https://www.reveltime.ru/venue/7176216?eventtype=vecherinka | phone | +79019397046 |
 | Garage lounge / Гараж лаундж | лофт | https://www.loft2rent.ru/loft/162329/162335 | phone | +7 (903) 282-97-09 |
 | Garage Museum event spaces | музей / event space | https://garagemca.org | email | members@garagemca.org |
 | Garage Museum event spaces | музей / event space | https://garagemca.org | email | u003emembers@garagemca.org |
@@ -2532,6 +2589,8 @@
 | Garage Museum event spaces | музей / event space | https://garagemca.org | social | https://www.youtube.com/watch?v=AjFOhFGDPBo&list=PLRSwFqRcpg4EcSLqNo16mwxlAjK1q8G08 |
 | Garage Museum event spaces | музей / event space | https://garagemca.org | social | https://www.youtube.com/watch?v=G7XufIzdLW8&list=PLRSwFqRcpg4GU_Dn61hkWqbnPs2Sl2K4O |
 | Garage Museum event spaces | музей / event space | https://garagemca.org | social | https://www.youtube.com/watch?v=ZUOmoV0M3TI&list=PLRSwFqRcpg4FuzJM0XsynICCFL2XVOXlY |
+| Garden loft. Стильное лофт-пространство | лофт | https://www.reveltime.ru/venue/1659182?eventtype=vecherinka | phone | +74959882111 |
+| Gatsby Loft &amp; Photo. Стильное лофт-пространство | лофт | https://www.reveltime.ru/venue/335196?eventtype=vecherinka | phone | +74959793332 |
 | Gazgolder | клуб / музыкальный лейбл | https://gazgolderclub.ru | social | https://t.me/Applique_records |
 | Gazgolder | клуб / музыкальный лейбл | https://gazgolderclub.ru | social | https://t.me/ChannelsProj/164 |
 | Gazgolder | клуб / музыкальный лейбл | https://gazgolderclub.ru | social | https://t.me/Gaztelegram |
@@ -2672,6 +2731,7 @@
 | Gazprombank Invest | инвестиционная компания | https://www.gazprombank.ru | social | https://ok.ru/gazprombank |
 | Gazprombank Invest | инвестиционная компания | https://www.gazprombank.ru | social | https://t.me/gazprombank |
 | Gazprombank Invest | инвестиционная компания | https://www.gazprombank.ru | social | https://vk.com/gazprombank |
+| Geo loft (Гео Лофт). Кирпичный лофт с большими окнами | лофт | https://www.reveltime.ru/venue/735215?eventtype=vecherinka | phone | +79019317663 |
 | Geraldine | ресторан | https://geraldine.ru | phone | +7 (495) 695-12-02 |
 | Geraldine | ресторан | https://geraldine.ru | social | https://t.me/geraldinebistro |
 | GES-2 House of Culture | культурный центр | https://ges-2.org | email | access@ges-2.org |
@@ -2714,6 +2774,8 @@
 | GES-2 House of Culture | культурный центр | https://ges-2.org | social | https://t.me/vacges2 |
 | GES-2 House of Culture | культурный центр | https://ges-2.org | social | https://vk.com/vacges2 |
 | GES-2 House of Culture | культурный центр | https://ges-2.org | social | https://youtube.com/@VACFoundationges2 |
+| GESTALT CLUB (Клуб Гештальт) | лофт | https://gestaltclubmoscow.ru/rent | phone | +79346695974 |
+| Get Loft (Гет Лофт). Золотой зал | лофт | https://www.reveltime.ru/venue/6839089?eventtype=vecherinka | phone | +79584055346 |
 | Get LoftКухня | лофт | https://www.loft2rent.ru/loft/44815/63581 | phone | +7-916-496-11-91 |
 | GG Loft | лофт | https://www.loft2rent.ru/loft/176572/176589 | phone | 89773124327 |
 | GG LoftGG loft | лофт | https://www.loft2rent.ru/loft/206364/206371 | phone | +7 (495) 677-93-54 |
@@ -2794,6 +2856,12 @@
 | GPStudioРыжий зал GPStudio на Бауманской / Рыжий зал. ГПСстудия на Бауманской | лофт | https://www.loft2rent.ru/loft/35190/35218 | phone | +7 (495) 7920004 |
 | GPStudioЧерный зал GPStudio на Бауманской / Черный зал. ГПСстудия на Бауманской | лофт | https://www.loft2rent.ru/loft/35190/35209 | phone | +7 (495) 7920004 |
 | GRACE | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
+| Graf-Studio (Граф-Студио). Зал Замок | лофт | https://www.reveltime.ru/venue/2798781?eventtype=vecherinka | phone | +79586097164 |
+| Graf-Studio. Зал Кардинал (Граф-Студио) | лофт | https://www.reveltime.ru/venue/3032736?eventtype=vecherinka | phone | +79676932714 |
+| Graf-Studio. Зал Прованс (Граф-Студио) | лофт | https://www.reveltime.ru/venue/2411839?eventtype=vecherinka | phone | +79584055346 |
+| Graf-Studio. Зал Ренессанс (Граф-Студио) | лофт | https://www.reveltime.ru/venue/2415611?eventtype=vecherinka | phone | +79584610759 |
+| Graf-Studio. Зал Сцена (Граф-Студио) | лофт | https://www.reveltime.ru/venue/2410104?eventtype=vecherinka | phone | +79584055346 |
+| Graf-Studio. Зал Чердак (Граф-Студио) | лофт | https://www.reveltime.ru/venue/2674303?eventtype=vecherinka | phone | +79584630738 |
 | Grand Cru | ресторан | https://grandcru.ru | email | aryahovskiy@simplewine.ru |
 | Grand Cru | ресторан | https://grandcru.ru | email | bronnaya@grandcru.ru |
 | Grand Cru | ресторан | https://grandcru.ru | phone | +7 (925) 058-39-26 |
@@ -2810,7 +2878,8 @@
 | Grape | digital-агентство | https://grape.ru | email | u003ehr@grape.ru |
 | Grape | digital-агентство | https://grape.ru | social | https://t.me/grape_agency |
 | GRAPE LOFT | лофт | https://www.loft2rent.ru/loft/41186/41190 | phone | +79939054093 |
-| Graphite \| Графит Двухуровневый Лофт | лофт | https://www.loft2rent.ru/loft/41186 | phone | +79939054093 |
+| Graphite (Графит). Футуристический двухуровневый лофт | лофт | https://www.reveltime.ru/venue/5941268?eventtype=vecherinka | phone | +79939054093 |
+| Graphite \ | Графит Двухуровневый Лофт | лофт | https://www.loft2rent.ru/loft/41186 | phone |
 | Grechka Media | digital-медиа | https://grechkamedia.ru | phone | +7 495 665-62-00 |
 | Grechka Media | digital-медиа | https://grechkamedia.ru | social | https://dzen.ru/regru |
 | Grechka Media | digital-медиа | https://grechkamedia.ru | social | https://ok.ru/regru |
@@ -2823,9 +2892,11 @@
 | Green House | лофт | https://www.loft2rent.ru/loft/177908 | phone | +79164400130 |
 | Green Loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
 | Green Loft | лофт | https://www.loft2rent.ru/loft/85691/85704 | phone | +7 (969) 118 82 22 |
+| Green&amp;White Loft (Зелёно-Белый Лофт) | лофт | https://www.reveltime.ru/venue/5308281?eventtype=vecherinka | phone | +79164400130 |
 | Green&White - Стильный лофт на Арбате с отдельной игровой комнатой | лофт | https://www.loft2rent.ru/loft/167313 | phone | 89031292578 |
 | Green&White Loft | лофт | https://www.loft2rent.ru/loft/121243 | phone | +79152876213 |
 | GreenHouse площадка для свадьбы | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Grey Green by Space &amp; Place (Грэй Грин бай Спейс&amp;Плэйс). Светлое пространство в современном стиле | лофт | https://www.reveltime.ru/venue/7465927?eventtype=vecherinka | phone | +79584974089 |
 | Grey Loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
 | GreyGreen Event Space | лофт | https://www.loft2rent.ru/loft/spaceandplace | phone | 8 (499) 116 34 31 |
 | Grill GradБанкетные домики | лофт | https://www.loft2rent.ru/loft/89500/89504 | phone | 89850088000 |
@@ -2839,6 +2910,7 @@
 | Habr Media | IT-медиа | https://habr.com | social | https://t.me/readingstack |
 | Habr Media | IT-медиа | https://habr.com | social | https://telegram.me/habr_com |
 | Habr Media | IT-медиа | https://habr.com | social | https://vk.com/habr |
+| Hall 14. Атмосферный лофт с верандой | лофт | https://www.reveltime.ru/venue/5499756?eventtype=vecherinka | phone | +79031888081 |
 | Hall of senses | лофт | https://www.loft2rent.ru/loft/154114/154116 | phone | +7(926) 993-21-00 |
 | HANDБольшой зал | лофт | https://www.loft2rent.ru/loft/108735/108739 | phone | 79267777108 |
 | HANDВип зал | лофт | https://www.loft2rent.ru/loft/108735/168408 | phone | 79267777108 |
@@ -2851,6 +2923,7 @@
 | Harper’s Bazaar Russia | fashion-медиа | https://bazaar.ru | email | s.dmitrieva@imedia.ru |
 | Harper’s Bazaar Russia | fashion-медиа | https://bazaar.ru | email | s.evstigneeva@imedia.ru |
 | HARRISON HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
+| Hawaii House (Гавайи). Двухуровневый лофт в гавайском стиле | лофт | https://www.reveltime.ru/venue/4116659?eventtype=vecherinka | phone | +79584974084 |
 | HeadHunter | HR tech платформа | https://hh.ru | email | opp@zarplata.ru |
 | HeadHunter | HR tech платформа | https://hh.ru | social | https://dzen.ru/headhunter |
 | HeadHunter | HR tech платформа | https://hh.ru | social | https://t.me/hh_ru_official |
@@ -2880,6 +2953,11 @@
 | Helios | лофт | https://www.loft2rent.ru/loft/174101/174130 | phone | +7 928 157-52-47 |
 | HeliosХелиус | лофт | https://www.loft2rent.ru/loft/174101/175561 | phone | +79281761202 |
 | Hide | лофт | https://www.loft2rent.ru/loft/105797/105801 | phone | +7 920 074-49-58 |
+| High Ground (Возвышенность). Вип-зал | лофт | https://www.reveltime.ru/venue/5282071?eventtype=vecherinka | phone | +79676928564 |
+| High Ground (Возвышенность). ВИП-кабинка для небольшой компании | лофт | https://www.reveltime.ru/venue/4682067?eventtype=vecherinka | phone | +79893636021 |
+| High Ground (Возвышенность). Зал Нью-Йорк | лофт | https://www.reveltime.ru/venue/4135370?eventtype=vecherinka | phone | +79386989873 |
+| High Ground (Возвышенность). Просторный зал | лофт | https://www.reveltime.ru/venue/5282130?eventtype=vecherinka | phone | +79676928564 |
+| High Ground (Возвышенность). Просторный стильный лофт | лофт | https://www.reveltime.ru/venue/4412936?eventtype=vecherinka | phone | +79584974160 |
 | High Ground Основной Зал | лофт | https://www.loft2rent.ru/loft/62564 | phone | 8-977-333-22-18 |
 | HistoriaHistoria Event | лофт | https://www.loft2rent.ru/loft/198444/198451 | phone | +7 901 389-88-98 |
 | Hit MeetHIT & MEET, event loft | лофт | https://www.loft2rent.ru/loft/143726/143736 | phone | +79130083858 |
@@ -2960,6 +3038,7 @@
 | Hutton Development | девелопер | https://hutton.ru | phone | +7 (499) 551-51-38 |
 | Hutton Development | девелопер | https://hutton.ru | phone | +7 (499) 551-51-39 |
 | Hutton Development | девелопер | https://hutton.ru | social | https://t.me/huttondevelopment |
+| I need you space. Уютный лофт | лофт | https://www.reveltime.ru/venue/3836995?eventtype=vecherinka | phone | +79099511234 |
 | Ibis kitchen | лофт | https://www.loft2rent.ru/loft/200502 | phone | +7 (495) 660-53-53 |
 | IBS Group | IT-компания | https://ibs.ru | email | ibs@ibs.ru |
 | IBS Group | IT-компания | https://ibs.ru | email | pressa@ibs.ru |
@@ -2989,6 +3068,8 @@
 | Igloo Bar LoftTRX | лофт | https://www.loft2rent.ru/loft/197322/200045 | phone | +79673771883 |
 | Igloo Bar LoftЛофт со сценой | лофт | https://www.loft2rent.ru/loft/197322/198880 | phone | +79673771883 |
 | Igloo Bar LoftСорель | лофт | https://www.loft2rent.ru/loft/202864/202866 | phone | +79536380947 |
+| Igloobar (Иглубар). Лофт с панорамным видом | лофт | https://www.reveltime.ru/venue/2962665?eventtype=vecherinka | phone | +74996488457 |
+| Igloobar (Иглубар). Уникальный лофт-кинозал | лофт | https://www.reveltime.ru/venue/2793076?eventtype=vecherinka | phone | +74996488457 |
 | Igloobar VIP беседка | лофт | https://www.loft2rent.ru/loft/79750 | phone | +7 4996819127 |
 | Igloobar Бауманская | лофт | https://www.loft2rent.ru/loft/79750 | phone | +7 4996819127 |
 | Igloobar для компании | лофт | https://www.loft2rent.ru/loft/79750 | phone | +7 4996819127 |
@@ -3010,6 +3091,7 @@
 | Imperia Sky Loft | event space | https://imperiasky.ru | social | https://vk.com/imperiaskyloft?roistat_visit=2724508 |
 | Imperia Sky Loft | event space | https://imperiasky.ru | social | https://wa.me/79671328091 |
 | Imperia Sky Loft - Лофт с шикарным видом на Москву с 43 этажа | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (499) 938-55-01 |
+| Imperial. Праздничный лофт-зал с большим столом | лофт | https://www.reveltime.ru/venue/4706073?eventtype=vecherinka | phone | +74994600028 |
 | Impulse Space | лофт | https://www.loft2rent.ru/loft/132331/132545 | phone | +7264420150 |
 | Independent Media | медиахолдинг | https://imedia.ru | email | pr@imedia.ru |
 | Independent Media | медиахолдинг | https://imedia.ru | social | https://t.me/imsmedia |
@@ -3017,6 +3099,7 @@
 | Independent Media brands | медиагруппа | https://imedia.ru | social | https://t.me/imsmedia |
 | Inflow PlaceЛофт Inflow, площадка для мастер-классов | лофт | https://www.loft2rent.ru/loft/180904/180911 | phone | +79169866307 |
 | INFLOWАренда залов INFLOW | лофт | https://www.loft2rent.ru/loft/169935/169945 | phone | 8 (908) 208-08-45 |
+| INFOLOFTMSK (ИНФОЛОФТМСК). Лофт с уникальным дизайном | лофт | https://www.reveltime.ru/venue/6549792?eventtype=vecherinka | phone | +79019397046 |
 | Infowatch | cybersecurity компания | https://infowatch.ru | email | info@infowatch.ru |
 | Infowatch | cybersecurity компания | https://infowatch.ru | phone | +7 (495) 229-00-22 |
 | Infowatch | cybersecurity компания | https://infowatch.ru | phone | +7 (499) 372-51-74 |
@@ -3103,6 +3186,12 @@
 | IVI Originals | online cinema production | https://ivi.ru | social | https://vk.com/iviru?crc=fa4448c13e06e69ba9e814e8743c7e2e |
 | IVI Originals | online cinema production | https://ivi.ru | social | https://www.linkedin.com/company/2543415 |
 | IZI PLAYКиберклуб для турниров с экраном 5м | лофт | https://www.loft2rent.ru/loft/181310/181312 | phone | +79653805500 |
+| Izmailov Loft (Измайлов Лофт). Дримзон | лофт | https://www.reveltime.ru/venue/6012001?eventtype=vecherinka | phone | +79346692796 |
+| Izmailov Loft (Измайлов Лофт). Лофт Венеция | лофт | https://www.reveltime.ru/venue/8004436?eventtype=vecherinka | phone | +79346657019 |
+| Izmailov Loft (Измайлов Лофт). Лофт Гринвуд | лофт | https://www.reveltime.ru/venue/6017908?eventtype=vecherinka | phone | +79346692796 |
+| Izmailov Loft (Измайлов Лофт). Лофт Диско | лофт | https://www.reveltime.ru/venue/6017878?eventtype=vecherinka | phone | +79346692796 |
+| Izmailov Loft (Измайлов Лофт). Лофт Кинозвезда | лофт | https://www.reveltime.ru/venue/6011450?eventtype=vecherinka | phone | +79346692796 |
+| Izmailov Loft (Измайлов Лофт). Лофт-зал в классическом стиле | лофт | https://www.reveltime.ru/venue/6017789?eventtype=vecherinka | phone | +79346692796 |
 | J Group Events | event-агентство | https://jgroup.ru | email | ankl@jgroup.ru |
 | J Group Events | event-агентство | https://jgroup.ru | email | dina@jgroup.ru |
 | J Group Events | event-агентство | https://jgroup.ru | email | email |
@@ -3133,8 +3222,10 @@
 | JUST MOOD WEDDING | свадебное агентство | https://top100awards.ru/just-mood-wedding | phone | +7 (916) 741-16-63 |
 | JUST MOOD WEDDING | свадебное агентство | https://top100awards.ru/just-mood-wedding | social | https://t.me/+79167411663?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Just.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | JUST MOOD WEDDING | свадебное агентство | https://top100awards.ru/just-mood-wedding | social | https://www.instagram.com/jmood_wedding |
+| JustLoft. Дизайнерское пространство | лофт | https://www.reveltime.ru/venue/469715?eventtype=vecherinka | phone | +79163797300 |
 | K - Club | лофт | https://www.loft2rent.ru/loft/167261/167266 | phone | 89060310683 |
 | Kahovka loft | лофт | https://www.loft2rent.ru/loft/57063 | phone | +79296448663 |
+| Kahovka loft (Каховка Лофт). Неоновый лофт-зал | лофт | https://www.reveltime.ru/venue/6921455?eventtype=vecherinka | phone | +79019317663 |
 | Kalkutta Lounge BarКалькутта Лаундж Бар | лофт | https://www.loft2rent.ru/loft/186025/186027 | phone | 89030136009 |
 | Kamaz (МСК представительство) | организация | https://kamaz.ru | email | callcentre@kamaz.org |
 | Kamaz (МСК представительство) | организация | https://kamaz.ru | email | export@kamaz.ru |
@@ -3276,6 +3367,7 @@
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | phone | +7 (985) 994-24-46 |
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://t.me/darkravt?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KRAVTSOVA%20EVENT.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://www.instagram.com/kravtsova.event |
+| Krisha loft (Крыша Лофт) | лофт | https://www.reveltime.ru/venue/6498928?eventtype=vecherinka | phone | +79584974228 |
 | Kristall loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | KROV на КРИСТАЛЕ с Теплой верандой, Мощным звуком грилем в Готическом стиле | лофт | https://www.loft2rent.ru/loft/13771 | phone | +7 9055448835 |
 | KSK “Agalarov Polo Division” | ивент-спейс | https://agalarovestate.com | email | hotel@crocusgroup.ru |
@@ -3343,6 +3435,7 @@
 | LargoУютный итальянский Ресторан | лофт | https://www.loft2rent.ru/loft/42437/42842 | phone | +7-495-222-38-48 |
 | LargoУютный Лофт на Юго-Западе | лофт | https://www.loft2rent.ru/loft/42437/42817 | phone | +7-495-222-38-48 |
 | LAVANDA Loft | лофт | https://www.loft2rent.ru/loft/104772 | phone | 89772959526 |
+| Lavanda loft. Уютный лофт для различных событий | лофт | https://www.reveltime.ru/venue/5908581?eventtype=vecherinka | phone | +79772959526 |
 | Legacy Loft | лофт | https://www.loft2rent.ru/loft/39383 | phone | +79993492320 |
 | LEMagenta | лофт | https://www.loft2rent.ru/loft/117722/131251 | phone | +7 (985) 219-66-57 |
 | LEMagenta 115 | лофт | https://www.loft2rent.ru/loft/117722/131230 | phone | +7 (985) 219-66-57 |
@@ -3381,6 +3474,7 @@
 | Les Art Resort | resort-отель | https://lesartresort.ru | social | https://t.me/mh_sup_bot |
 | Les Art Resort | resort-отель | https://lesartresort.ru | social | https://vk.com/masterhost |
 | LeTO | лофт | https://www.loft2rent.ru/loft/177699 | phone | +79853052200 |
+| Level 19 Лофт для закрытых вечеринок | лофт | https://www.reveltime.ru/venue/238467?eventtype=vecherinka | phone | +79261003263 |
 | Level Group | девелопер | https://level.ru | email | commercial@levelgroup.ru |
 | Level Group | девелопер | https://level.ru | email | info@levelgroup.ru |
 | Level Group | девелопер | https://level.ru | email | partner@levelgroup.ru |
@@ -3423,14 +3517,18 @@
 | LimeLoft | лофт | https://www.loft2rent.ru/loft/156511/157795 | phone | +79957207249 |
 | Linda de La. Арт-центр | лофт | https://www.loft2rent.ru/loft/202713/202812 | phone | 89859447970 |
 | LisospaceLisoSpace | лофт | https://www.loft2rent.ru/loft/56856/56859 | phone | +7 (925) 992 04 83 |
+| Live Stars (Лайв Старс). Лофт-ночной клуб | лофт | https://www.reveltime.ru/venue/2708141?eventtype=vecherinka | phone | +79584974228 |
 | LiveStudio.moscow - студия записи подкастов Loft на Бауманской / Лофт на Бауманской | лофт | https://www.loft2rent.ru/loft/147438/147444 | phone | +79253912007 |
+| Lo/st Pravda (Ло/ст Правда). Светлый лофт | лофт | https://www.reveltime.ru/venue/3452070?eventtype=vecherinka | phone | +79584974331 |
 | LO/ST PravdaLO/ST Pravda. Зал "s3 curry" | лофт | https://www.loft2rent.ru/loft/42981/139387 | phone | +7 (495) 78-90-737 |
 | LO/ST PravdaLO/ST Pravda. Зал "s7 beige" | лофт | https://www.loft2rent.ru/loft/42981/42983 | phone | +79771743777 |
 | LOFT 15Белый лофт | лофт | https://www.loft2rent.ru/loft/106466/106900 | phone | 89852102473 |
 | LOFT 15Синий лофт | лофт | https://www.loft2rent.ru/loft/106466/106523 | phone | 89852102473 |
+| Loft 2&#039;25. Лофт со своей территорией | лофт | https://www.reveltime.ru/venue/317903?eventtype=vecherinka | phone | +79263872518 |
 | Loft 519 | лофт | https://www.loft2rent.ru/loft/161798/162046 | phone | +79254329202 |
 | Loft 519B.I.G | лофт | https://www.loft2rent.ru/loft/161798/187169 | phone | +79254329202 |
 | LOFT AlibiLOFT ALIBI | лофт | https://www.loft2rent.ru/loft/39611/39613 | phone | 89684417545 |
+| Loft Berlin (Лофт Берлин). Стильный бар под закрытие | лофт | https://www.reveltime.ru/venue/5138490?eventtype=vecherinka | phone | +79584630738 |
 | Loft Bombay | лофт | https://www.loft2rent.ru/loft/176456/176462 | phone | +7-921-355-22-97 |
 | Loft Cafe TipografiaВеранда с мягкими окнами | лофт | https://www.loft2rent.ru/loft/56363/56404 | phone | +79645240975 |
 | Loft Cafe TipografiaВеранда с проектором и выходом на задний двор | лофт | https://www.loft2rent.ru/loft/56363/62006 | phone | +79645240975 |
@@ -3442,32 +3540,55 @@
 | Loft COM.NATACOM.NATA UNO на пл. Восстания | лофт | https://www.loft2rent.ru/loft/144088/144157 | phone | +78122408585 |
 | Loft D | лофт | https://www.loft2rent.ru/loft/152246 | phone | 8 911 260-02-02 |
 | Loft DoZari - лофт в центре Санкт-ПетербургаLoft DoZari / Лофт ДоЗари | лофт | https://www.loft2rent.ru/loft/142947/142949 | phone | +79313114850 |
+| Loft Far4, Лофт Фарфор (Лофт Фар4) | лофт | https://www.reveltime.ru/venue/3111224?eventtype=vecherinka | phone | +79346642952 |
+| Loft Far4, Лофт Фарфор (Лофт Фар4). Лофт80кв.м | лофт | https://www.reveltime.ru/venue/3111447?eventtype=vecherinka | phone | +79584973975 |
 | Loft Franclin | лофт | https://www.loft2rent.ru/loft/178858 | phone | +79691553535 |
 | Loft Friends Пролетарская 114а | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
+| loft GNEZDO (Лофт Гнездо) | лофт | https://www.reveltime.ru/venue/7325477?eventtype=vecherinka | phone | +79386989873 |
+| loft GNEZDO (Лофт Гнездо). Двухуровневый лофт | лофт | https://www.reveltime.ru/venue/7623813?eventtype=vecherinka | phone | +79019397046 |
 | Loft Gora Country ClubLoft Особняк | лофт | https://www.loft2rent.ru/loft/202302/202354 | phone | +7 969 061-53-05 |
 | LOFT HOUSE | лофт | https://www.loft2rent.ru/loft/68633/68635 | phone | +79222004333 |
 | Loft house | лофт | https://www.loft2rent.ru/loft/79466/79469 | phone | +79130696699 |
 | Loft House - свадебный лофт с верандой на берегу реки | лофт | https://www.loft2rent.ru/loft/1821 | phone | +74998881829 |
 | LOFT IDEALISTA - большая площадка в центре Москвы с верандой | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
+| Loft Lodge (Лофт Лодж) 1. Хорошо оборудованный лофт | лофт | https://www.reveltime.ru/venue/201724?eventtype=vecherinka | phone | +79584974039 |
+| Loft Lodge (Лофт Лодж) 10. Дизайнерская площадка | лофт | https://www.reveltime.ru/venue/6734234?eventtype=vecherinka | phone | +79910173255 |
+| Loft Lodge (Лофт Лодж) 11 | лофт | https://www.reveltime.ru/venue/7698450?eventtype=vecherinka | phone | +79019317685 |
+| Loft Lodge (Лофт Лодж) 2. Лофт | лофт | https://www.reveltime.ru/venue/4522925?eventtype=vecherinka | phone | +79584974039 |
+| Loft Lodge (Лофт Лодж) 3. Двухуровневый лофт с двориком | лофт | https://www.reveltime.ru/venue/4522931?eventtype=vecherinka | phone | +79386989873 |
+| Loft Lodge (Лофт Лодж) 4. Двухэтажный лофт | лофт | https://www.reveltime.ru/venue/2822352?eventtype=vecherinka | phone | +79584974084 |
+| Loft Lodge (Лофт Лодж) 5. Стильное пространство | лофт | https://www.reveltime.ru/venue/2241775?eventtype=vecherinka | phone | +79584974064 |
+| Loft Lodge (Лофт Лодж) 6 | лофт | https://www.reveltime.ru/venue/4231354?eventtype=vecherinka | phone | +79346691548 |
+| Loft Lodge (Лофт Лодж) 7. Просторный уютный лофт | лофт | https://www.reveltime.ru/venue/4755850?eventtype=vecherinka | phone | +79584974150 |
+| Loft Lodge (Лофт Лодж) 8. Яркий зал | лофт | https://www.reveltime.ru/venue/5127214?eventtype=vecherinka | phone | +79584630738 |
+| Loft Lodge (Лофт Лодж) 9 | лофт | https://www.reveltime.ru/venue/6579635?eventtype=vecherinka | phone | +79584611054 |
 | Loft MoscowРесторан Tutto Bene | лофт | https://www.loft2rent.ru/loft/177908/208158 | phone | +79164400130 |
 | Loft OblakaKids Loft Oblaka | лофт | https://www.loft2rent.ru/loft/70738/70750 | phone | +7 991 862-38-58 |
 | Loft OblakaЛофт Prazdnik Box САФАРИ | лофт | https://www.loft2rent.ru/loft/70738/171596 | phone | +79918623858 |
 | Loft OVERTONE | лофт | https://www.loft2rent.ru/loft/30979 | phone | +79936053121 |
 | LOFT PORT 365 | лофт | https://www.loft2rent.ru/loft/68341 | phone | +7 930 985 59 66 |
 | Loft Premier | лофт | https://www.loft2rent.ru/loft/102797 | phone | 89153800600 |
+| Loft Premier (Лофт Премьер) | лофт | https://www.reveltime.ru/venue/5265368?eventtype=vecherinka | phone | +79586097164 |
 | Loft Prostranstvo Huge | лофт | https://www.loft2rent.ru/loft/30979 | phone | +79936053121 |
+| Loft Provans. Авиньон | лофт | https://www.reveltime.ru/venue/2297471?eventtype=vecherinka | phone | +79652298948 |
+| Loft Provans. Эвено. Стильный лофт | лофт | https://www.reveltime.ru/venue/2433004?eventtype=vecherinka | phone | +79099682403 |
 | Loft Quattro Space | event space | https://loft-rating.ru/loft-quattro-space | phone | +7 (969) 284-22-64 |
 | Loft Quattro Space | event space | https://loft-rating.ru/loft-quattro-space | social | https://api.whatsapp.com/send?phone=79692842264&text=Здравствуйте! |
 | Loft Quattro Space | event space | https://loft-rating.ru/loft-quattro-space | social | https://vk.com/loftmoskva |
 | Loft Quattro Space | event space | https://loft-rating.ru/loft-quattro-space | social | https://www.youtube.com/watch?v=nlJPg7_nvJ4 |
 | Loft Quattro Space | event space | https://loft-rating.ru/loft-quattro-space | social | https://youtu.be/o1kZ4Dmo2OU?si=KSSjZveK3TM0dQFa |
+| Loft Red Star Двухэтажный лофт в светлых тонах | лофт | https://www.reveltime.ru/venue/2782564?eventtype=vecherinka | phone | +74951464485 |
 | Loft Republic со сценой и VIP-комнатой | лофт | https://www.loft2rent.ru/loft/4688 | phone | +7 985 219 8400 |
 | LOFT SOVA с верандой в Измайловском Кремле | лофт | https://www.loft2rent.ru/loft/4688 | phone | +7 985 219 8400 |
 | LOFT SPA Апарт Отель в Центре Москвы / Лофт Спа Апарт Отель в Центре Москвы | лофт | https://www.loft2rent.ru/loft/91369/91637 | phone | +79667707737 |
 | Loft storyLoft Story | лофт | https://www.loft2rent.ru/loft/172722/173704 | phone | 89650476088 |
 | LOFT THE PLACE | лофт | https://www.loft2rent.ru/loft/23279/24414 | phone | +7-926-552-65-82 |
+| Loft The Place (Лофт Зе Плейс). Авторский лофт | лофт | https://www.reveltime.ru/venue/2806962?eventtype=vecherinka | phone | +79584974089 |
 | LOFT THREE | лофт | https://www.loft2rent.ru/loft/147458 | phone | +79023395999 |
 | LOFT TWO | лофт | https://www.loft2rent.ru/loft/147458 | phone | +79023395999 |
+| Loft YesNot (Лофт ЙесНот). Двухэтажный лофт для различных мероприятий | лофт | https://www.reveltime.ru/venue/5435975?eventtype=vecherinka | phone | +79584974208 |
+| Loft YesNot (Лофт ЙесНот). Пространство с кирпичной стеной | лофт | https://www.reveltime.ru/venue/5438012?eventtype=vecherinka | phone | +79813347290 |
+| Loft Зазеркалье. Веранда. Лофт в теплых тонах | лофт | https://www.reveltime.ru/venue/4872287?eventtype=vecherinka | phone | +79584974206 |
 | Loft ФарфорLoft300 | лофт | https://www.loft2rent.ru/loft/828/43753 | phone | +7 977 881-47-24 |
 | Loft ФарфорСовременный двухкомнатный лофт | лофт | https://www.loft2rent.ru/loft/828/80942 | phone | +7 977 881-47-24 |
 | Loft “Квартирка»Loft «Квартирка» | лофт | https://www.loft2rent.ru/loft/84776/84778 | phone | +79267267638 |
@@ -3479,24 +3600,33 @@
 | Loft.wdg | лофт | https://www.loft2rent.ru/loft/159014/159021 | phone | +79647799952 |
 | Loft66 | лофт | https://www.loft2rent.ru/loft/170167/170171 | phone | 89031955043 |
 | LoftBar22LoftBAR22 Двухэтажный лофт с баром и караоке! | лофт | https://www.loft2rent.ru/loft/121243/121245 | phone | +79152876213 |
+| loftblackout (Лофт Блэкаут). Медный премиальный лофт | лофт | https://www.reveltime.ru/venue/3975661?eventtype=vecherinka | phone | +79346644195 |
 | LoftCherdak BarybinoLife у пруда 190 м2 семейный коттедж | лофт | https://www.loft2rent.ru/loft/101976/102105 | phone | +79857603538 |
 | LoftCherdak BarybinoParty коттедж "LoftCherdak" 330 м2 + пена +баня +бассейны | лофт | https://www.loft2rent.ru/loft/101976/101979 | phone | +79857603538 |
 | LoftCherdak BarybinoКоттедж Party Stolby 290 м2 + баня 90 м2 | лофт | https://www.loft2rent.ru/loft/101976/102079 | phone | +79857603538 |
 | LoftCity LoungeЛофт «Crave» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/145926/146768 | phone | +79322105457 |
+| LoftForParty (Лофт фор пати). Bad Girl (Плохая девочка) | лофт | https://www.reveltime.ru/venue/4233319?eventtype=vecherinka | phone | +79346642952 |
+| LoftForParty (Лофт фор пати). Cyberpunk (Киберпанк) | лофт | https://www.reveltime.ru/venue/6540083?eventtype=vecherinka | phone | +79584974215 |
+| LoftForParty (Лофт фор пати). Gallery (Галерея) | лофт | https://www.reveltime.ru/venue/6542801?eventtype=vecherinka | phone | +79584974039 |
+| LoftForParty (Лофт фор пати). Moon (Луна) | лофт | https://www.reveltime.ru/venue/6542974?eventtype=vecherinka | phone | +79584973975 |
+| LoftForParty (Лофт фор пати). SPACE HALL (Космический зал) | лофт | https://www.reveltime.ru/venue/6542838?eventtype=vecherinka | phone | +79584974039 |
+| LoftForParty (Лофт фор пати). Sun Loft (Лофт Солнце) | лофт | https://www.reveltime.ru/venue/6542885?eventtype=vecherinka | phone | +79584973975 |
+| LoftForParty (Лофт фор пати). West Side (Западная сторона) | лофт | https://www.reveltime.ru/venue/4227962?eventtype=vecherinka | phone | +79019317643 |
+| LoftForParty (Лофт фор пати). West Side Vip (Запад Вип) | лофт | https://www.reveltime.ru/venue/4227901?eventtype=vecherinka | phone | +79346691548 |
 | LoftgreenВеранда "Водник" | лофт | https://www.loft2rent.ru/loft/150118/167657 | phone | +7 926 824 4318 |
 | LoftgreenНЕБО LOUNGE | лофт | https://www.loft2rent.ru/loft/150118/167454 | phone | +79268244318 |
 | LoftgreenШатер "ЭльГунна" | лофт | https://www.loft2rent.ru/loft/150118/167638 | phone | +7 926 824 4318 |
 | LoftgreenШатер “На Абордаж” | лофт | https://www.loft2rent.ru/loft/150118/167510 | phone | +7 926 824 4318 |
 | Loftik kidsЛофт Дом для проведения детских праздников | лофт | https://Loftik.kids | phone | +7 (964) 512-06-98 |
 | Loftik.kidsЛофт Кот для проведения детских праздников | лофт | https://www.loft2rent.ru/loft/128695/128700 | phone | +79775815040 |
-| LOFTMSK \| FLORA \| ФЛОРА \| Двухуровневый лофт с верандой и мангалом | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
-| LOFTMSK \| IZUMRUD \| ИЗУМРУД \| Двухуровневый лофт с верандой и мангалом | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
-| LOFTMSK \| MEXICO \| МЕКСИКА \| Двухуровневый лофт \| 5 минут от метро | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
-| LOFTMSK \| OCEAN VIBE \| ОКЕАН \| Двухуровневый Лофт с настольным теннисом \| 5 минут от метро | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
-| LOFTMSK \| TROPICANA \| ТРОПИКАНА \| Просторный Лофт с верандой и грилем \| 5 минут от метро | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
-| LOFTMSK \| VISION \| КИБЕРПАНК \| Лофт в самом центре Москвы с настольным теннисом | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
-| LOFTMSK \| WILD WEST \| ДИКИЙ ЗАПАД \| Лофт с верандой и грилем \| 5 минут от метро | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
-| LOFTMSK \| X13 \| Двухуровневый Лофт со сценой \| 5 минут от метро | лофт | https://www.loft2rent.ru/loft/93169 | phone | +7 (495) 790-46-77 |
+| LOFTMSK \ | FLORA \ | ФЛОРА \ | Двухуровневый лофт с верандой и мангалом | лофт |
+| LOFTMSK \ | IZUMRUD \ | ИЗУМРУД \ | Двухуровневый лофт с верандой и мангалом | лофт |
+| LOFTMSK \ | MEXICO \ | МЕКСИКА \ | Двухуровневый лофт \ | 5 минут от метро |
+| LOFTMSK \ | OCEAN VIBE \ | ОКЕАН \ | Двухуровневый Лофт с настольным теннисом \ | 5 минут от метро |
+| LOFTMSK \ | TROPICANA \ | ТРОПИКАНА \ | Просторный Лофт с верандой и грилем \ | 5 минут от метро |
+| LOFTMSK \ | VISION \ | КИБЕРПАНК \ | Лофт в самом центре Москвы с настольным теннисом | лофт |
+| LOFTMSK \ | WILD WEST \ | ДИКИЙ ЗАПАД \ | Лофт с верандой и грилем \ | 5 минут от метро |
+| LOFTMSK \ | X13 \ | Двухуровневый Лофт со сценой \ | 5 минут от метро | лофт |
 | LoftTaboo | лофт | https://www.loft2rent.ru/loft/189235 | phone | +74953084959 |
 | LONG HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | Loona | ресторан | https://loona.rest | email | info@pinskiy-concept.ru |
@@ -3508,6 +3638,7 @@
 | Lounge | лофт | https://www.loft2rent.ru/loft/3318 | phone | +74952080038 |
 | Lounge зоны | лофт | https://www.loft2rent.ru/loft/86306 | phone | +74952042861 |
 | Lounge Лофт Молодежная 26 | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
+| Lounge-лофт | лофт | https://www.reveltime.ru/venue/3128153?eventtype=vecherinka | phone | +74991107697 |
 | Lovely KitchenТворческая кухня | лофт | https://www.loft2rent.ru/loft/66088/66751 | phone | 89166150389 |
 | LUBWED | свадебное агентство | http://lubwed.ru | phone | +7 (916) 814-61-48 |
 | LUBWED | свадебное агентство | http://lubwed.ru | phone | phone |
@@ -4109,6 +4240,8 @@
 | MOJO | event / creative agency | https://top100awards.ru/mojo | phone | +7 (911) 117-63-46 |
 | MOJO | event / creative agency | https://top100awards.ru/mojo | social | https://t.me/Dahlia_Salamatina?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20MOJO.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | MOJO | event / creative agency | https://top100awards.ru/mojo | social | https://www.instagram.com/mojo_wed |
+| Molecule loft (Молекула лофт) | лофт | https://www.reveltime.ru/venue/7108886?eventtype=vecherinka | phone | +79584974064 |
+| Molecule loft (Молекула лофт). Современный лофт-зал для различных событий | лофт | https://www.reveltime.ru/venue/7341371?eventtype=vecherinka | phone | +79584974206 |
 | MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | phone | +7 (916) 271-47-37 |
 | MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | social | https://t.me/carolinamalinskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Molly.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | social | https://www.instagram.com/molly.event2.0_ |
@@ -4265,6 +4398,7 @@
 | MTS Live | entertainment platform | https://live.mts.ru | social | social |
 | MTS Live | entertainment platform | https://live.mts.ru | social | social |
 | Multiloft на Люсиновской | лофт | https://www.loft2rent.ru/loft/135091 | phone | 89958867517 |
+| Multiroom. Лофт-студия | лофт | https://www.reveltime.ru/venue/746367?eventtype=vecherinka | phone | +79584974039 |
 | Music Loft | лофт | https://www.loft2rent.ru/loft/45889 | phone | +79959001274 |
 | MusicStudio LoftLoft MusicStudio | лофт | https://www.loft2rent.ru/loft/37300/37302 | phone | +7-916-283-61-11 |
 | Mutabor / ARMA events ecosystem | комьюнити | https://mutabor.club | social | https://t.me/armaseventeen |
@@ -4290,6 +4424,7 @@
 | N1 Event | event-агентство | https://n1event.ru | social | social |
 | N1 Event | event-агентство | https://n1event.ru | social | social |
 | N1 Event | event-агентство | https://n1event.ru | social | social |
+| Na Palm (Напалм) . Тропический лофт с играми | лофт | https://www.reveltime.ru/venue/8860096?eventtype=vecherinka | phone | +79346644195 |
 | Nashe Radio | радиостанция | https://nashe.ru | email | copyright@multimediaholding.ru |
 | Nashe Radio | радиостанция | https://nashe.ru | social | http://vk.com/nashe |
 | Nashe Radio | радиостанция | https://nashe.ru | social | https://dzen.ru/nashe.ru |
@@ -4369,6 +4504,7 @@
 | Noor Electro / Noor bar ecosystem | комьюнити | https://noorbar.com | social | https://www.youtube.com/@NoorBar |
 | Nora Loft | лофт | https://www.loft2rent.ru/loft/156687 | phone | 89219899516 |
 | Nord Loft | лофт | https://www.loft2rent.ru/loft/88534 | phone | +79217659992 |
+| Norrlandloft (Норрланд Лофт) в скандинавском стиле | лофт | https://www.reveltime.ru/venue/292882?eventtype=vecherinka | phone | +79346695974 |
 | Not Bad Loft / Нот Бэд ЛофтNot Bad Loft Грибоедова 1 | лофт | https://www.loft2rent.ru/loft/87948/95935 | phone | +7 (812) 245-25-45 |
 | Not Bad Loft / Нот Бэд ЛофтNot Bad Loft Грибоедова 2 | лофт | https://www.loft2rent.ru/loft/87948/95943 | phone | +7 (812) 245-25-45 |
 | Not Bad Loft / Нот Бэд ЛофтNot Bad Loft Грибоедова 3 | лофт | https://www.loft2rent.ru/loft/87948/95947 | phone | +7 (812) 245-25-45 |
@@ -4587,6 +4723,7 @@
 | OMD Optimum Media | медиаагентство | https://omd.ru | social | https://www.youtube.com/watch?v=i55xwt_hp8I&app=desktop |
 | OMD Optimum Media | медиаагентство | https://omd.ru | social | https://youtu.be/xDZ7hb75iyM |
 | Omega Loft | лофт | https://www.loft2rent.ru/loft/108466 | phone | +74958433175 |
+| OMEGA LOFT (Омега лофт) | лофт | https://omegaloft.ru | phone | +79346695974 |
 | Omega Rooftop | rooftop venue / event venue | https://omegarooftop.ru | email | event@omegaevents.ru |
 | Omega Rooftop | rooftop venue / event venue | https://omegarooftop.ru | email | kseniya@omegarooftop.ru |
 | Omega Rooftop | rooftop venue / event venue | https://omegarooftop.ru | phone | +7 (495) 108-40-40 |
@@ -4601,6 +4738,7 @@
 | One love Крыша в центре МосквыКрыша в центре Москвы с потрясающим видом (м. Маяковская) | лофт | https://www.loft2rent.ru/loft/38596/108891 | phone | +7(499) 348-81-95 |
 | One love Крыша в центре МосквыСветлый стильный лофт в небоскребе на 62 этаже с топовым видом на Москву | лофт | https://www.loft2rent.ru/loft/38596/103902 | phone | 74991131244 |
 | ONLY STARS | лофт | https://www.loft2rent.ru/loft/161255/161259 | phone | 89778011521 |
+| Only You (Только Ты). Белый лофт | лофт | https://www.reveltime.ru/venue/277459?eventtype=vecherinka | phone | +79584974208 |
 | Open loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
 | Opora Russia | комьюнити | https://opora.ru | email | id@opora.ru |
 | Opora Russia | комьюнити | https://opora.ru | email | pressa@opora.ru |
@@ -4615,6 +4753,7 @@
 | OUTLOFT | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
 | O’KEY | retail сеть | https://okeygroup.ru | email | mail@webadresa.ru |
 | O’Key Group | организация | https://okeygroup.ru | email | mail@webadresa.ru |
+| P17 Place (Плэйс). Стилизованный лофт в сине-розовых оттенках | лофт | https://www.reveltime.ru/venue/3902495?eventtype=vecherinka | phone | +79386982643 |
 | Padel Club “Premium Padel Moscow” | падел-клуб | https://premiumpadel.ru | email | info@premiumpadel.ru |
 | Padel Club “Premium Padel Moscow” | падел-клуб | https://premiumpadel.ru | phone | +7 (916) 272-66-37 |
 | Padel Club “Premium Padel Moscow” | падел-клуб | https://premiumpadel.ru | social | https://wa.me/79199988108 |
@@ -4677,6 +4816,7 @@
 | Party Hall loft | лофт | https://www.loft2rent.ru/loft/97847/97849 | phone | 89103969188 |
 | Party Hall Лофт для вечеринок | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
 | Party Hard | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Party Hard (Пати Хард). Лофт-зал в стиле рок-н-ролл | лофт | https://www.reveltime.ru/venue/4436169?eventtype=vecherinka | phone | +74952781824 |
 | Party HardNasa | лофт | https://www.loft2rent.ru/loft/88400/88523 | phone | +79264844002 |
 | Party HardАлладин | лофт | https://www.loft2rent.ru/loft/88400/88549 | phone | +79264844002 |
 | Party HardБохо | лофт | https://www.loft2rent.ru/loft/88400/88470 | phone | +79264844002 |
@@ -4818,6 +4958,7 @@
 | Pobeda | авиакомпания / бренд | https://pobeda.aero | social | https://t.me/+_fDKIESKKHQzODQy |
 | Pobeda | авиакомпания / бренд | https://pobeda.aero | social | https://t.me/pobeda_aero_bot |
 | Pobeda | авиакомпания / бренд | https://pobeda.aero | social | https://vk.com/flypobeda |
+| POD (Под) гаражом. Дизайнерский лофт | лофт | https://www.reveltime.ru/venue/8776992?eventtype=vecherinka | phone | +79584974160 |
 | POLOTNO | creative agency / production | http://polotnoagency.ru | email | email |
 | POLOTNO | creative agency / production | http://polotnoagency.ru | email | info@polotnoagency.ru |
 | POLOTNO | creative agency / production | http://polotnoagency.ru | phone | +7 (926) 915-18-11 |
@@ -4837,6 +4978,7 @@
 | PopcorpHorror house | лофт | https://www.loft2rent.ru/loft/123794/123824 | phone | +7(977) 149-38-94 |
 | PopcorpSilent hill | лофт | https://www.loft2rent.ru/loft/123794/123819 | phone | +7(977) 149-38-94 |
 | PopcorpПсихиатрическая больница | лофт | https://www.loft2rent.ru/loft/123794/123800 | phone | +7(977) 149-38-94 |
+| Portal Hall. Двухэтажный стилизованный лофт | лофт | https://www.reveltime.ru/venue/3327149?eventtype=vecherinka | phone | +74951570268 |
 | Portal loft | лофт | https://www.loft2rent.ru/loft/104813 | phone | +79952367709 |
 | posh_bar / пош бар | лофт | https://www.loft2rent.ru/loft/65926/65928 | phone | +79689523333 |
 | Positive Technologies | cybersecurity компания | https://www.ptsecurity.com | email | u003exspider@ptsecurity.com |
@@ -4909,6 +5051,7 @@
 | Prime Show | лофт | https://www.loft2rent.ru/loft/182297 | phone | +79956075773 |
 | Prisma Loft с уютной верандой и уличным камином | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Private 25 / 25 ПриватЛофт с террасой на крыше 25 эт. | лофт | https://www.loft2rent.ru/loft/95893/95895 | phone | +79252676534 |
+| PrivateZone (ПриватнаяЗона). Пространство для мероприятий с кухней | лофт | https://www.reveltime.ru/venue/2363608?eventtype=vecherinka | phone | +79584055346 |
 | PRO-Vision | коммуникационное агентство | https://pro-vision.ru | phone | +7 495 540-50-60 |
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | +7 (936) 288-85-31 |
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | phone |
@@ -4937,11 +5080,18 @@
 | Product Sense Community | product management community | https://productsense.io | social | https://t.me/productsense |
 | Production8 | лофт | https://www.loft2rent.ru/loft/187873/187875 | phone | +7(977)406-22-08 |
 | Proloft | лофт | https://www.loft2rent.ru/loft/132167/132184 | phone | 89251539733 |
+| Proloft (Пролофт) | лофт | https://www.reveltime.ru/venue/6209514?eventtype=vecherinka | phone | +79346608162 |
 | Promo FM Group | event / promo agency | https://promofm.ru | email | email |
 | Promo FM Group | event / promo agency | https://promofm.ru | email | support@promo.music |
+| Prostranstvo (Пространство). Большой лофт | лофт | https://www.reveltime.ru/venue/4119721?eventtype=vecherinka | phone | +79346695974 |
+| Prostranstvo (Пространство). Зал Квартира | лофт | https://www.reveltime.ru/venue/4112008?eventtype=vecherinka | phone | +79584974226 |
+| Prostranstvo (Пространство). Лофт с высокими потолками | лофт | https://www.reveltime.ru/venue/4119598?eventtype=vecherinka | phone | +79584974064 |
+| Prostranstvo (Пространство). Светлая фотостудия | лофт | https://www.reveltime.ru/venue/4465437?eventtype=vecherinka | phone | +79584974331 |
+| Prostranstvo (Пространство). Фотостудия | лофт | https://www.reveltime.ru/venue/3768105?eventtype=vecherinka | phone | +79910173255 |
 | Prosvet Hall | лофт | https://www.loft2rent.ru/loft/74776/74778 | phone | +79776615700 |
 | Prosvet Hall ( малый зал ) | лофт | https://www.loft2rent.ru/loft/74776 | phone | +79776615700 |
 | PROстранствоЛофт PROстранство для мероприятий и дней рождений с караоке в Казани | лофт | https://www.loft2rent.ru/loft/95670/95672 | phone | 89270346624 |
+| Psy game &amp; lounge (Псай игры и лаундж). Отдельная комната | лофт | https://www.reveltime.ru/venue/5414206?eventtype=vecherinka | phone | +79676932714 |
 | Psychologies Russia | журнал | https://www.psychologies.ru | email | info@psychologies.ru |
 | Psychologies Russia | журнал | https://www.psychologies.ru | social | http://www.youtube.com/user/psychologiesru |
 | Psychologies Russia | журнал | https://www.psychologies.ru | social | https://ok.ru/psychologiesrussia |
@@ -5191,6 +5341,7 @@
 | Rise Apartments Неоновый апартамент на 62 этаже под мероприятия в Москва Сити! | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Rise Diamond Апартаменты в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Rise-Apartments 43 floor Moscow City | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
+| River Loft (Река Лофт). Просторный лофт | лофт | https://www.reveltime.ru/venue/5090158?eventtype=vecherinka | phone | +79584630738 |
 | RiverOneRiverOne, Hi-Tech lounge бар с панорамными окнами | лофт | https://www.loft2rent.ru/loft/45360/45391 | phone | 89165588810 |
 | RIZZПАРАДАЙС / ПАРАДАЙС банкетный зал | лофт | https://www.loft2rent.ru/loft/180043/180051 | phone | +79254200006 |
 | RL Loft | лофт | https://www.loft2rent.ru/loft/160550/160552 | phone | 89788760354 |
@@ -6539,6 +6690,7 @@
 | ShantiPlaceShantiPlace Зал Музей | лофт | https://www.loft2rent.ru/loft/94258/94288 | phone | +79163083838 |
 | ShantiPlaceShantiPlace Каминный зал | лофт | https://www.loft2rent.ru/loft/94258/94329 | phone | +79163083838 |
 | ShantiPlaceShantiPlace Музыкальный зал | лофт | https://www.loft2rent.ru/loft/94258/94326 | phone | +79163083838 |
+| Shisha lounge room (Кальянная комната) № 257 | лофт | https://www.reveltime.ru/venue/6435477?eventtype=vecherinka | phone | +79584974089 |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | email | info@shkulev.ru |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | phone | +7 (495) 633-57-57 |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | social | https://t.me/shkulevholding |
@@ -6569,6 +6721,9 @@
 | Sila Sveta | multimedia production studio | https://silasveta.com | social | social |
 | Silverpool  площадка с баней-бассейном-джакузиSilverpool площадка с баней-бассейном-джакузи | лофт | https://www.loft2rent.ru/loft/127753/127758 | phone | +79150638860 |
 | Simple loft с уютной верандой и грилем | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| SIMPLE. VIP 1 (СИМПЛ. ВИП 1). Лофт на мансардном этаже с покерным столом | лофт | https://www.reveltime.ru/venue/5292784?eventtype=vecherinka | phone | +79676928564 |
+| SIMPLE. VIP 1 (СИМПЛ. ВИП 1). Неоновый лофт на мансардном этаже | лофт | https://www.reveltime.ru/venue/5292838?eventtype=vecherinka | phone | +79676928674 |
+| SIMPLE. VIP 4 (СИМПЛ. ВИП 4). Неоновый лофт с покерным столом | лофт | https://www.reveltime.ru/venue/6318106?eventtype=vecherinka | phone | +79584974167 |
 | Sixty | ресторан | https://sixtyrestaurant.ru | phone | +7 (967) 288-69-93 |
 | Sixty | ресторан | https://sixtyrestaurant.ru | social | https://t.me/sixtymoscow |
 | Sixty | ресторан | https://sixtyrestaurant.ru | social | https://vk.com/sixtymoscow |
@@ -6745,7 +6900,23 @@
 | Sogaz | страховая компания | https://www.sogaz.ru | social | https://t.me/career_v_sogaz |
 | Sogaz | страховая компания | https://www.sogaz.ru | social | https://t.me/sogaz_official |
 | Sogaz | страховая компания | https://www.sogaz.ru | social | https://vk.com/sogazrussia |
+| SOK SPACE (Сок Пространство). Баум Холл | лофт | https://www.reveltime.ru/venue/7553164?eventtype=vecherinka | phone | +79584974167 |
+| SOK SPACE (Сок Пространство). Лофт Астрид | лофт | https://www.reveltime.ru/venue/9067913?eventtype=vecherinka | phone | +79584610759 |
+| SOK SPACE (Сок Пространство). Лофт Бурбон | лофт | https://www.reveltime.ru/venue/7636362?eventtype=vecherinka | phone | +79346692796 |
+| SOK SPACE (Сок Пространство). Лофт Май | лофт | https://www.reveltime.ru/venue/9166956?eventtype=vecherinka | phone | +79346692796 |
+| SOK SPACE (Сок Пространство). Лофт Марти | лофт | https://www.reveltime.ru/venue/7845287?eventtype=vecherinka | phone | +79346691548 |
+| SOK SPACE (Сок Пространство). Лофт МОЙ ПЕРВЫЙ | лофт | https://www.reveltime.ru/venue/8966592?eventtype=vecherinka | phone | +79346695974 |
+| SOK SPACE (Сок Пространство). Лофт Новый | лофт | https://www.reveltime.ru/venue/7551344?eventtype=vecherinka | phone | +79584974150 |
+| SOK SPACE (Сок Пространство). Лофт Нуар | лофт | https://www.reveltime.ru/venue/7552482?eventtype=vecherinka | phone | +79584974160 |
+| SOK SPACE (Сок Пространство). Лофт Октябрь | лофт | https://www.reveltime.ru/venue/9226473?eventtype=vecherinka | phone | +79584974206 |
+| SOK SPACE (Сок Пространство). Лофт Рассвет | лофт | https://www.reveltime.ru/venue/7553049?eventtype=vecherinka | phone | +79584974139 |
+| SOK SPACE (Сок Пространство). Лофт Сенди | лофт | https://www.reveltime.ru/venue/8673649?eventtype=vecherinka | phone | +79676928564 |
+| SOK SPACE (Сок Пространство). Лофт Сладкий | лофт | https://www.reveltime.ru/venue/7947713?eventtype=vecherinka | phone | +79346642952 |
+| SOK SPACE (Сок Пространство). Лофт Сочный | лофт | https://www.reveltime.ru/venue/7608571?eventtype=vecherinka | phone | +79019317588 |
+| SOK SPACE (Сок Пространство). Лофт Флоу | лофт | https://www.reveltime.ru/venue/8665632?eventtype=vecherinka | phone | +79676928564 |
+| SOK SPACE (Сок Пространство). Лофт Шекспир | лофт | https://www.reveltime.ru/venue/9140384?eventtype=vecherinka | phone | +79584055346 |
 | SoldOut Loft | лофт | https://www.loft2rent.ru/loft/40111/40113 | phone | 8(985) 362-45-58 |
+| SoldOut Lофт (Солдаут Лофт). Лофт с панорамными окнами | лофт | https://www.reveltime.ru/venue/3372282?eventtype=vecherinka | phone | +79893636021 |
 | Solist loft | лофт | https://www.loft2rent.ru/loft/101644 | phone | +7 993 075-29-93 |
 | Solo Loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | email | ao@sostav.ru |
@@ -6780,6 +6951,8 @@
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | social | https://t.me/sostav |
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | social | https://twitter.com/sostav_news |
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | social | https://vk.com/sostavru |
+| Soulful Loft (Соулфул Лофт). Стильное лофт-пространство | лофт | https://www.reveltime.ru/venue/2146836?eventtype=vecherinka | phone | +79386982643 |
+| Soulfulloft Лофт в бизнес-центре | лофт | https://www.reveltime.ru/venue/281170?eventtype=vecherinka | phone | +79774984998 |
 | Sovcomflot | судоходная компания | https://www.sovcomflot.ru | email | info@scf-group.ru |
 | Sovcomflot | судоходная компания | https://www.sovcomflot.ru | email | spbinfo@scf-group.ru |
 | Sovcomflot | судоходная компания | https://www.sovcomflot.ru | phone | +7 (495) 660-40-00 |
@@ -6980,6 +7153,7 @@
 | StockOut Loft | лофт | https://www.loft2rent.ru/loft/40111 | phone | +7 (985) 362-45-58 |
 | STONE | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
 | Strata Concept | лофт | https://www.loft2rent.ru/loft/162585/162587 | phone | 89104505611 |
+| Street Art Loft (Стрит-Арт Лофт) | лофт | https://www.reveltime.ru/venue/697622?eventtype=vecherinka | phone | +79346644195 |
 | Street food Maniac's | лофт | https://www.loft2rent.ru/loft/171949/171960 | phone | +79031405972 |
 | StreetArtLoft - 2х ярусный лофт с приватной верандой 60м2 | лофт | https://www.loft2rent.ru/loft/75181 | phone | +79166683000 |
 | STUDIOHALLЗал №10 | лофт | https://www.loft2rent.ru/loft/712/164610 | phone | +79263705050 |
@@ -6996,10 +7170,17 @@
 | Sunlight | ювелирная сеть | https://sunlight.net | social | https://www.youtube.com/user/sunlightBrilliant |
 | Sunny Art LoftSunny Art Loft Кутузовский | лофт | https://www.loft2rent.ru/loft/6643/26858 | phone | +7 (919) 099-85-71 |
 | SUNRISE — ламповый лофт на Таганке, в 3 минутах от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
+| Surf House (Сёрф Хаус). Лофт с территорией под открытым небом | лофт | https://www.reveltime.ru/venue/3569923?eventtype=vecherinka | phone | +79910172413 |
 | Svet | лофт | https://www.loft2rent.ru/loft/153561 | phone | +74951084290 |
 | SVOY Хамовники | лофт | https://www.loft2rent.ru/loft/71700 | phone | +7 (909) 942-88-22 |
 | SVOY Яуза | лофт | https://www.loft2rent.ru/loft/71700 | phone | +79099428822 |
 | Swan loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Sаnsаra Lоft (Сансара Лофт). Зал BREEZE (Бриз) | лофт | https://www.reveltime.ru/venue/8731133?eventtype=vecherinka | phone | +79019317663 |
+| Sаnsаra Lоft (Сансара Лофт). Зал Glam (Гламур) | лофт | https://www.reveltime.ru/venue/8733270?eventtype=vecherinka | phone | +79019317663 |
+| Sаnsаra Lоft (Сансара Лофт). Зал Grand (Великий) | лофт | https://www.reveltime.ru/venue/8730934?eventtype=vecherinka | phone | +79019317663 |
+| Sаnsаra Lоft (Сансара Лофт). Зал Gray (Серый) | лофт | https://www.reveltime.ru/venue/8731099?eventtype=vecherinka | phone | +79019317663 |
+| Sаnsаra Lоft (Сансара Лофт). Зал Happy (Счастливый) | лофт | https://www.reveltime.ru/venue/8730924?eventtype=vecherinka | phone | +79019317663 |
+| Sаnsаra Lоft (Сансара Лофт). Зал LOFT (Лофт) | лофт | https://www.reveltime.ru/venue/8769731?eventtype=vecherinka | phone | +79019317663 |
 | Sтанция2025 | лофт | https://www.loft2rent.ru/loft/41881/44655 | phone | +7 (495) 215-21-41 |
 | T-Bank | банк | https://www.tbank.ru | email | ivan@domain.ru |
 | T-Bank | банк | https://www.tbank.ru | phone | +7 (800) 333-33-33 |
@@ -7075,6 +7256,9 @@
 | TechInsider | tech-медиа | https://techinsider.ru | email | v.gubailovsky@imedia.ru |
 | TechInsider | tech-медиа | https://techinsider.ru | email | web@imedia.ru |
 | TechInsider | tech-медиа | https://techinsider.ru | phone | +7 (495) 252-09-99 |
+| TelePort360° (ТелеПорт360°). Лофт | лофт | https://www.reveltime.ru/venue/2231681?eventtype=vecherinka | phone | +79584974331 |
+| TelePort360° (ТелеПорт360°). Лофт в торговом центре | лофт | https://www.reveltime.ru/venue/2661440?eventtype=vecherinka | phone | +79584611054 |
+| TelePort360° (ТелеПорт360°). Лофт-студия в ТЦ | лофт | https://www.reveltime.ru/venue/3101788?eventtype=vecherinka | phone | +79584974160 |
 | Telesport | спортивный маркетинг | https://telesport.ru | email | info@livesport.ru |
 | Tematika food&wine bar | лофт | https://www.loft2rent.ru/loft/191486/191500 | phone | +79165032327 |
 | TERRA loft | лофт | https://www.loft2rent.ru/loft/65325 | phone | +7 909 989-99-33 |
@@ -7082,6 +7266,7 @@
 | The Corner Boxing Gym | лофт | https://www.loft2rent.ru/loft/67196/67208 | phone | +79258400409 |
 | The Event Hall | лофт | https://www.loft2rent.ru/loft/95215/95219 | phone | 88129935054 |
 | The Family partyThe Family party | лофт | https://www.loft2rent.ru/loft/113695/113697 | phone | +7 (916) 085-12-22 |
+| The Gallery Loft (Лофт Галерея) | лофт | https://www.reveltime.ru/venue/8733987?eventtype=vecherinka | phone | +79584974228 |
 | The Gallery Mafia Room / Лофт для мафии и настольных игр | лофт | https://www.loft2rent.ru/loft/204507 | phone | 89166784019 |
 | THE HOOK AREA | лофт | https://www.loft2rent.ru/loft/209225/209229 | phone | +79163500044 |
 | The Last BarКонцептуальный лофт/бар на Маросейке | лофт | https://www.loft2rent.ru/loft/169865/170280 | phone | +7 (962) 753-14-14 |
@@ -7117,6 +7302,8 @@
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | email | y.markovskaya@imedia.ru |
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | phone | +7 (495) 252-09-99 |
 | THON HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
+| Time Club (Клуб Времени) Гнездо. Зал Лаунж | лофт | https://www.reveltime.ru/venue/8694069?eventtype=vecherinka | phone | +79584055346 |
+| Time Club (Клуб Времени) Камин. Кинозал | лофт | https://www.reveltime.ru/venue/8694133?eventtype=vecherinka | phone | +79584055346 |
 | Tinkoff | fintech / банк | https://www.tinkoff.ru | email | ivan@domain.ru |
 | Tinkoff | fintech / банк | https://www.tinkoff.ru | phone | +7 (800) 333-33-33 |
 | Tinkoff | fintech / банк | https://www.tinkoff.ru | social | https://ok.ru/tbank |
@@ -7185,6 +7372,7 @@
 | Transneft Trading | организация | https://www.transneft.ru | social | https://rutube.ru/channel/24671057/videos |
 | Transneft Trading | организация | https://www.transneft.ru | social | https://t.me/transneftofficial |
 | TREFF8 | лофт | https://www.loft2rent.ru/loft/139542 | phone | +7 (926) 574-05-11 |
+| Treff8 Club (Трефф8 Клуб). Двухуровневый клуб под закрытие | лофт | https://www.reveltime.ru/venue/6494840?eventtype=vecherinka | phone | +79584974331 |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | email | arenda@profis-realty.ru |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | email | arendator@trekhgorka.ru |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | email | mail@doverie.msk.ru |
@@ -7283,6 +7471,8 @@
 | Twins Garden | ресторан | https://twinsgarden.ru | phone | +7 (499) 112-33-11 |
 | Twins Garden | ресторан | https://twinsgarden.ru | social | https://t.me/twinsgardenmoscow |
 | Umberto | лофт | https://www.loft2rent.ru/loft/200502 | phone | +7 (495) 660-53-53 |
+| Under (Под). Лаундж пространство | лофт | https://www.reveltime.ru/venue/4854211?eventtype=vecherinka | phone | +79019397094 |
+| Under (Под). Отдельный зал в лофте | лофт | https://www.reveltime.ru/venue/4626506?eventtype=vecherinka | phone | +79346657019 |
 | UNDR BAR на ТаганскойБар на Таганской UNDR BAR | лофт | https://www.loft2rent.ru/loft/40392/40394 | phone | +7 985 767-55-35 |
 | Uni Space | лофт | https://www.loft2rent.ru/loft/169629/169631 | phone | +79959808091 |
 | UNIQULTURA | культурный / event project | http://uniqultura.ru | social | https://www.instagram.com/uniqultura |
@@ -7321,7 +7511,7 @@
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | u003esecret@vc.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | u003esupport@cmtt.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | u003esupport@vc.ru |
-| VechesVeches \| Динамо | лофт | https://www.loft2rent.ru/loft/179058/179067 | phone | 89629659656 |
+| VechesVeches \ | Динамо | лофт | https://www.loft2rent.ru/loft/179058/179067 | phone |
 | Vega Loft - покерный стол, вид на арт-пространство | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | email |
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | email |
@@ -7338,6 +7528,7 @@
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
 | Veraloft Shodnya | лофт | https://www.loft2rent.ru/loft/121209/121223 | phone | +79169486628 |
+| Verde Loft (Верде Лофт) | лофт | https://www.reveltime.ru/venue/8671627?eventtype=vecherinka | phone | +79584974084 |
 | Verde Loft двухуровневый лофт в центре с небольшой верандой (chill & sit зона) | лофт | https://www.loft2rent.ru/loft/136868 | phone | +79933450544 |
 | VERO_LOFTVERO_LOFT&KARAOKE / ИСТИНА_ЛОФТиКАРАОКЕ | лофт | https://www.loft2rent.ru/loft/205597/206697 | phone | +79057373648 |
 | Vesna Hall | лофт | https://vesna-hall.ru | phone | +7 (916) 442-42-46 |
@@ -7359,7 +7550,13 @@
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | phone | +7 (916) 145-14-67 |
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://t.me/vesnaagency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vesna.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://www.instagram.com/vesna__wedding |
+| VG Studios Светлый зал в скандинавском стиле | лофт | https://www.reveltime.ru/venue/1368765?eventtype=vecherinka | phone | +79661277115 |
 | VIBE STUDIOThe Creator | лофт | https://www.loft2rent.ru/loft/153507/153509 | phone | +79919898808 |
+| VibesLoft (ВайбсЛофт) | лофт | https://www.reveltime.ru/venue/6557986?eventtype=vecherinka | phone | +79019397046 |
+| VibesLoft (ВайбсЛофт) | лофт | https://www.reveltime.ru/venue/6351007?eventtype=vecherinka | phone | +79584974150 |
+| VibesLoft (ВайбсЛофт). Лофт Purple (Пурпурный) | лофт | https://www.reveltime.ru/venue/6402289?eventtype=vecherinka | phone | +79584974139 |
+| VibesLoft (ВайбсЛофт). Лофт Луна | лофт | https://www.reveltime.ru/venue/6350795?eventtype=vecherinka | phone | +79584974167 |
+| VibesLoft (ВайбсЛофт). Розовый лофт-зал | лофт | https://www.reveltime.ru/venue/6350992?eventtype=vecherinka | phone | +79584974150 |
 | Vida loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | VILLA MR. PINKY | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | VINOTEKA | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
@@ -7369,6 +7566,8 @@
 | Vinylloft на Арбате | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
 | Vinylloft Терасса с мангалом и двориком с верандой | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
 | Vinylloft- Кристалл с зоной барбекю | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
+| Viola Left (Виола Левый лофт). Уникальное пространство для мероприятий | лофт | https://www.reveltime.ru/venue/7734623?eventtype=vecherinka | phone | +79676928674 |
+| Viola Loft (Виола Лофт). Просторный и светлый лофт с панорамным видом в парк | лофт | https://www.reveltime.ru/venue/7735174?eventtype=vecherinka | phone | +79586097164 |
 | VIP LUX апартаменты в Москва-СитиThe Element №1 | лофт | https://www.loft2rent.ru/loft/175184/175188 | phone | +79801239715 |
 | VIP LUX апартаменты в Москва-СитиThe Element №2 | лофт | https://www.loft2rent.ru/loft/175184/175193 | phone | +79801239715 |
 | VIP LUX апартаменты в Москва-СитиThe Element №3 | лофт | https://www.loft2rent.ru/loft/175184/175198 | phone | +79801239715 |
@@ -7695,6 +7894,8 @@
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | social | https://t.me/vvbiagency |
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | social | https://vk.com/vvbiagency |
 | Voltage | лофт | https://www.loft2rent.ru/loft/167313 | phone | 89031292578 |
+| Voronin Loft (Воронин Лофт). Лофт-особняк | лофт | https://www.reveltime.ru/venue/3971131?eventtype=vecherinka | phone | +79346642952 |
+| Voronin Loft (Воронин Лофт). Стильный лофт | лофт | https://www.reveltime.ru/venue/6498017?eventtype=vecherinka | phone | +79584974331 |
 | VORONIN Берег | лофт | https://www.loft2rent.ru/loft/84536 | phone | +7 (993) 918-04-93 |
 | Voyage - уютный лофт из красного кирпича на Бауманской | лофт | https://www.loft2rent.ru/loft/167313 | phone | 89031292578 |
 | Vozduh StudioVozduh.Studio | лофт | https://www.loft2rent.ru/loft/164642/164644 | phone | +79060454789 |
@@ -7709,6 +7910,7 @@
 | VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | phone | +7 (903) 977-61-95 |
 | VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://t.me/vozdukhweddings?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vozdukh%20weddings.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://www.instagram.com/vozdukh_weddings |
+| Vr Home (Вр Хоум). Лофт | лофт | https://www.reveltime.ru/venue/3325310?eventtype=vecherinka | phone | +79852491213 |
 | VR Home АвтозаводскаяLOUNGE с караоке и кальяном в VR HOME на Автозаводской | лофт | https://www.loft2rent.ru/loft/37779/39265 | phone | +79852491213 |
 | VR Home АвтозаводскаяУютный лофт на Автозаводской | лофт | https://www.loft2rent.ru/loft/37779/155892 | phone | +79852491213 |
 | VR Home АвтозаводскаяУютный лофт с виртуальной реальностью + LOUNGE зал с караоке на Автозаводской | лофт | https://www.loft2rent.ru/loft/37779/41040 | phone | +79852491213 |
@@ -7718,6 +7920,8 @@
 | VR Home ТимирязевскаяLOUNGE С КАРАОКЕ И КАЛЬЯНОМ | лофт | https://www.loft2rent.ru/loft/60976/68537 | phone | 89911043146 |
 | VR Home ТимирязевскаяПространство с панорамой и виртуальной реальностью | лофт | https://www.loft2rent.ru/loft/60976/61015 | phone | 89911043146 |
 | VR Home ТимирязевскаяУютный лофт с панорамой | лофт | https://www.loft2rent.ru/loft/60976/155913 | phone | 89911043146 |
+| VR Home Эксклюзивный уютный лофт с виртуальной реальностью | лофт | https://www.reveltime.ru/venue/1872981?eventtype=vecherinka | phone | +79852491213 |
+| VR клуб | лофт | https://www.reveltime.ru/venue/3601962?eventtype=vecherinka | phone | +79652301835 |
 | VseSvoi | лофт | https://www.loft2rent.ru/loft/79147 | phone | +79137774230 |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-20 |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-22 |
@@ -7746,10 +7950,12 @@
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | email | wa-garden@wrf.su |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | phone | +7 (903) 108-88-78 |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | social | https://t.me/wa_garden |
+| Wave Studio( Студия Волна). Зал Гранд | лофт | https://www.reveltime.ru/venue/5655174?eventtype=vecherinka | phone | +79893636021 |
 | Wave.studio / Вэйв студияКвартира | лофт | https://www.loft2rent.ru/loft/116807/122975 | phone | +79150127722 |
 | WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | phone | +7 (916) 532-91-33 |
 | WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | social | https://t.me/wed_pie?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Wedding%20pie.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | social | https://www.instagram.com/wedding_pie |
+| West Loft (Вест лофт). Многофункциональный арт-лофт | лофт | https://www.reveltime.ru/venue/4058729?eventtype=vecherinka | phone | +79584974150 |
 | WEST SIDE LOFT на Белорусской с караоке и PS 5 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-52-98 |
 | WEST SIDE VIP на Белорусской с караоке и PS5 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-52-98 |
 | Western loft - просторный лофт в стиле дикого запада | лофт | https://www.loft2rent.ru/loft/60562 | phone | 8 916 380 97 57 |
@@ -7868,6 +8074,12 @@
 | Woman.ru (Shkulev) | организация | https://www.woman.ru | social | https://www.tiktok.com/@womanru |
 | Woman.ru (Shkulev) | организация | https://www.woman.ru | social | https://www.youtube.com/channel/UCgNUAkGSMB2-9VpAI7kB5Rw |
 | WOOD | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
+| Wood. Вуд. Яркий и уютный лофт | лофт | https://www.reveltime.ru/venue/4951857?eventtype=vecherinka | phone | +79584974215 |
+| Work Shop Loft (Воркшоп Лофт). Зал 1 с верандой | лофт | https://www.reveltime.ru/venue/3187614?eventtype=vecherinka | phone | +79584974089 |
+| Work Shop Loft (Воркшоп Лофт). Зал 10 | лофт | https://www.reveltime.ru/venue/729268?eventtype=vecherinka | phone | +79584974228 |
+| Work Shop Loft (Воркшоп Лофт). Зал 11 | лофт | https://www.reveltime.ru/venue/540417?eventtype=vecherinka | phone | +79346695974 |
+| Work Shop Loft (Воркшоп Лофт). Зал 2 с верандой | лофт | https://www.reveltime.ru/venue/3265843?eventtype=vecherinka | phone | +79346691548 |
+| Work Shop Loft (Воркшоп Лофт). Зал 9 | лофт | https://www.reveltime.ru/venue/2626298?eventtype=vecherinka | phone | +79584973975 |
 | WorkShop Loft 1 | лофт | https://www.loft2rent.ru/loft/workshoploft | phone | +74951203454 |
 | WorkShop Loft 10 | лофт | https://www.loft2rent.ru/loft/workshoploft | phone | +7(495)1203454 |
 | WorkShop Loft 11 | лофт | https://www.loft2rent.ru/loft/workshoploft | phone | +7 (495)120 34 54 |
@@ -8254,7 +8466,9 @@
 | ÁMURA | ресторан | http://amuraevent.ru | social | https://t.me/maria_amura_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%C3%81mura.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ÁMURA | ресторан | http://amuraevent.ru | social | https://www.instagram.com/amura.event |
 | Úность | лофт | https://www.loft2rent.ru/loft/162570/162604 | phone | +7 (925) 602-06-07 |
+| А53: Secret Gallery (Секретная галерея) | лофт | https://www.reveltime.ru/venue/6482549?eventtype=vecherinka | phone | +79910172113 |
 | Абракадабра | лофт | https://www.loft2rent.ru/loft/129279 | phone | +79671853333 |
+| Авангард. Яркий зал с авторским дизайном | лофт | https://www.reveltime.ru/venue/3316621?eventtype=vecherinka | phone | +79346608162 |
 | Авиатор | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
 | Авиатор | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Авито Банк | банк | https://avitobank.ru | email | avtolombard116@inbox.ru |
@@ -8604,6 +8818,7 @@
 | Агророс | организация | https://agroros.ru | social | https://t.me/club_AB |
 | Агророс | организация | https://agroros.ru | social | https://vk.com/agrorosbank |
 | Адам - Площадка для мероприятий | лофт | https://www.loft2rent.ru/loft/181228/181234 | phone | +7 993 980 7979 |
+| Адорнос Пространство премиум-класса на Улице 1905 года | лофт | https://www.reveltime.ru/venue/4608778?eventtype=vecherinka | phone | +78004444491 |
 | Азиатско-Тихоокеанский Банк | банк | https://atb.su | phone | +7 (416) 222-23-33 |
 | Азиатско-Тихоокеанский Банк | банк | https://atb.su | phone | +7 (800) 775-80-80 |
 | Азиатско-Тихоокеанский Банк | банк | https://atb.su | phone | +7 (800) 775-88-88 |
@@ -8635,6 +8850,7 @@
 | Аккредитованное Образовательное Частное учреждение Высшего Образования «Московский Финансово-Юридический Университет Мфюа» | организация | https://www.mfua.ru | social | https://vk.com/mfua_mos?roistat_visit=4576484 |
 | Аккредитованное Образовательное Частное учреждение Высшего Образования «Московский Финансово-Юридический Университет Мфюа» | организация | https://www.mfua.ru | social | https://vk.com/mfua_mos?w=wall-4292_8579 |
 | Алан | лофт | https://www.loft2rent.ru/loft/116807 | phone | +79150127722 |
+| Алиби Лофт | лофт | https://www.reveltime.ru/venue/4488361?eventtype=vecherinka | phone | +79150528083 |
 | Алмазный фонд | музей | https://www.gokhran.ru | email | gokhran@gokhran.ru |
 | Алмазэргиэнбанк | организация | https://albank.ru | email | bank@albank.ru |
 | Алмазэргиэнбанк | организация | https://albank.ru | email | ethics@albank.ru |
@@ -8657,6 +8873,8 @@
 | АЛХИМИЯ | event / creative agency | http://alchemywed.ru | social | https://t.me/YuliaBaklanova1983?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%90%D0%BB%D1%85%D0%B8%D0%BC%D0%B8%D1%8F.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | АЛХИМИЯ | event / creative agency | http://alchemywed.ru | social | https://www.instagram.com/alchemywed.ru |
 | Альма | лофт | https://www.loft2rent.ru/loft/97743 | phone | +79055733733 |
+| Альтернатива. Неоновый лофт-зал | лофт | https://www.reveltime.ru/venue/4512046?eventtype=vecherinka | phone | +79584974215 |
+| Альтернатива. Светлый игровой зал | лофт | https://www.reveltime.ru/venue/5935975?eventtype=vecherinka | phone | +79584974331 |
 | АМПЕР | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | email | email |
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | email | event@nesterova1.ru |
@@ -11573,6 +11791,7 @@
 | Апартаменты МоскваАпартаменты Москва-Сити: Modern Serenity | лофт | https://www.loft2rent.ru/loft/174341/174347 | phone | +79852388407 |
 | Апартаменты МоскваВеликолепные апартаменты Москва-Сити | лофт | https://www.loft2rent.ru/loft/174341/175253 | phone | +79852388407 |
 | Апартаменты МоскваМосква-сити апартаменты с видом на башни | лофт | https://www.loft2rent.ru/loft/174341/175276 | phone | +79852388407 |
+| Апартаменты с видом на Москву | лофт | https://www.reveltime.ru/venue/4992890?eventtype=vecherinka | phone | +74954324143 |
 | Арбат HallАрбат холл (Arbat hall) | лофт | https://www.loft2rent.ru/loft/207597/207760 | phone | +7 (996) 902-34-50 |
 | Аргентина | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Аренда антикафе полностью на Тверской | лофт | https://www.loft2rent.ru/loft/104695 | phone | 89262851313 |
@@ -11590,6 +11809,9 @@
 | Аренда Светлицы для проведения детских мероприятий | лофт | https://www.loft2rent.ru/loft/177097 | phone | +79162411919 |
 | Аренда Шатра для проведения детских выпускных | лофт | https://www.loft2rent.ru/loft/177097 | phone | +79162411919 |
 | Аристократ | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
+| Арма Лофт. Лофт с верандой | лофт | https://www.reveltime.ru/venue/6472314?eventtype=vecherinka | phone | +79584974089 |
+| Арма Лофт. Светлый лофт-зал | лофт | https://www.reveltime.ru/venue/7139447?eventtype=vecherinka | phone | +79019317643 |
+| Арма Лофт. Уютный кинозал | лофт | https://www.reveltime.ru/venue/6472635?eventtype=vecherinka | phone | +79584974206 |
 | АРТ Буffет | лофт | https://www.loft2rent.ru/loft/161079/165045 | phone | +7 (985) 991-77-66 |
 | Арт Лофт А53 на "Красном Октябре" | лофт | https://www.loft2rent.ru/loft/115632 | phone | +79851098054 |
 | Арт Пространство "Тайная" с камином террасой и отдельным входом | лофт | https://www.loft2rent.ru/loft/85351 | phone | +7 926 999-59-48 |
@@ -11635,6 +11857,7 @@
 | Атлант | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | АТМОквестDrevo лофт на закрытой территории! / Древо лофт | лофт | https://www.loft2rent.ru/loft/67266/47552 | phone | 89160106636 |
 | АТМОквестВаршава лофт | лофт | https://www.loft2rent.ru/loft/67266/177279 | phone | +7 916 010-66-36 |
+| Атмосферное пространство | лофт | https://www.reveltime.ru/venue/5474506?eventtype=vecherinka | phone | +79813376418 |
 | Атмосферный зал 60 м² на Чистых прудах для любых мероприятий | лофт | https://www.loft2rent.ru/loft/74665 | phone | 89175091916 |
 | Атмосферный лофт "Диор" - сочетание роскоши и комфорта / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | атмосферный лофт на БаррикаднойУютный лофт на Никитской | лофт | https://www.loft2rent.ru/loft/172676/172688 | phone | +79257405902 |
@@ -11792,7 +12015,9 @@
 | Банкетный Комплекс_на Авиамоторной | лофт | https://www.loft2rent.ru/loft/77474 | phone | +79264661718 |
 | Бар "Зачёт" | лофт | https://www.loft2rent.ru/loft/199629 | phone | +7 (495) 157-20-81 |
 | Бар "Край" | лофт | https://www.loft2rent.ru/loft/187819/187822 | phone | +79856250121 |
+| Бар 2 крыла. Хоббит Хаус | лофт | https://www.reveltime.ru/venue/3319529?eventtype=vecherinka | phone | +79893636021 |
 | Бар 4 попугая | лофт | https://www.loft2rent.ru/loft/184548/184553 | phone | 89779970269 |
+| Бар 44. Лофт | лофт | https://www.reveltime.ru/venue/726221?eventtype=vecherinka | phone | +79663644441 |
 | Бар IlluminatorБар ILLUMINATOR | лофт | https://www.loft2rent.ru/loft/78727/78730 | phone | +79998284900 |
 | бар Mishka | лофт | https://www.loft2rent.ru/loft/103117/103125 | phone | + 7 812 313 29 25 |
 | Бар «Старая Америка» в центре Москвы | лофт | https://www.loft2rent.ru/loft/101001 | phone | +7 916 440 01 30 |
@@ -11811,6 +12036,9 @@
 | Бармалей | лофт | https://www.loft2rent.ru/loft/114920/114923 | phone | +79629939200 |
 | Барное - творческое пространство ИНСАЙД | лофт | https://www.loft2rent.ru/loft/94069 | phone | 89112793938 |
 | Барный кластер в АТС на Некрасова | лофт | https://www.loft2rent.ru/loft/166206/166208 | phone | +79222688548 |
+| Барокко. Элегантный лофт | лофт | https://www.reveltime.ru/venue/9217519?eventtype=vecherinka | phone | +79346699837 |
+| БАХРУШИНЪ LOFT. Лофт с арочными окнами | лофт | https://www.reveltime.ru/venue/635946?eventtype=vecherinka | phone | +79168359422 |
+| БАХРУШИНЪ LOFT. Светлый лофт премиум-класса | лофт | https://www.reveltime.ru/venue/635877?eventtype=vecherinka | phone | +79168359422 |
 | БАХРУШИНЪ LOFTСветлый зал на Алексеевской с верандой и барбекю | лофт | https://www.loft2rent.ru/loft/1248/1249 | phone | +79168359422 |
 | БАХРУШИНЪ LOFTТёмный зал на Алексеевской с верандой и барбекю | лофт | https://www.loft2rent.ru/loft/1248/1252 | phone | +79168359422 |
 | Башня Старка | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
@@ -11825,6 +12053,7 @@
 | Белый зал | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
 | Белый Зал/Белый лофт/White HallБелый Зал/Белый лофт/White Hall | лофт | https://www.loft2rent.ru/loft/188049/188053 | phone | +79169291659 |
 | БЕЛЫЙ ЛОФТ | лофт | https://www.loft2rent.ru/loft/126318 | phone | 89965349615 |
+| Белый лофт | лофт | https://www.reveltime.ru/venue/462823?eventtype=vecherinka | phone | +79346644195 |
 | Белый Лофт в парке Сокольники | лофт | https://www.loft2rent.ru/loft/1145/26543 | phone | 8 (916) 796-86-82 |
 | Белый лофт для тренингов и обучений | лофт | https://www.loft2rent.ru/loft/1555/41060 | phone | 89258696615 |
 | Белый Лофт с верандой на Нагатинской | лофт | https://www.loft2rent.ru/loft/1555/26629 | phone | 89258696615 |
@@ -11904,10 +12133,12 @@
 | БЦ STROTSKISПереговорная EAST | лофт | https://www.loft2rent.ru/loft/110939/110948 | phone | +79645119243 |
 | БЦ STROTSKISПереговорная WEST | лофт | https://www.loft2rent.ru/loft/110939/110952 | phone | +79645119243 |
 | БЦ STROTSKISРесторан-Караоке COSMO | лофт | https://www.loft2rent.ru/loft/110939/114066 | phone | +79645119243 |
+| Бывший ресторан Demi (Деми). Пространство с панорамными окнами | лофт | https://www.reveltime.ru/venue/8240012?eventtype=vecherinka | phone | +79346642952 |
 | БыстроБанк | банк | https://bystrobank.ru | phone | +7 (800) 333-22-65 |
 | Бэкстейдж лофт на Красном Октябре с караоке и камином | лофт | https://www.loft2rent.ru/loft/66644 | phone | +79165699364 |
 | Бэтмен | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Бюро Горбунова Учебный класс Бюро Горбунова | лофт | https://www.loft2rent.ru/loft/189623/189626 | phone | +79256566293 |
+| БЮРО хороших событий. Лофт Олив | лофт | https://www.reveltime.ru/venue/8620742?eventtype=vecherinka | phone | +79893636021 |
 | Вагнер | лофт | https://www.loft2rent.ru/loft/2518 | phone | +79689739030 |
 | Вайлдберриз Банк | организация | https://wb-bank.ru | email | info@wb-bank.ru |
 | Вайлдберриз Банк | организация | https://wb-bank.ru | email | name@domain.ru |
@@ -12044,6 +12275,7 @@
 | ВДНХ (музейный комплекс) | ивент-спейс | https://vdnh.ru | social | https://vk.com/vdnh |
 | Вебинарная комната для работы за компьютером | лофт | https://www.loft2rent.ru/loft/157491 | phone | 89898415534 |
 | Вегас | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Вегас. Атмосферный лофт с акцентным дизайном | лофт | https://www.reveltime.ru/venue/9093134?eventtype=vecherinka | phone | +79584611054 |
 | Велетный причал | лофт | https://www.loft2rent.ru/loft/180659 | phone | +79858003339 |
 | Веранда гриль | лофт | https://www.loft2rent.ru/loft/88837/88842 | phone | 89152288949 |
 | Веранда Крылатские холмы | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
@@ -12057,6 +12289,7 @@
 | Винил | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Винил лофт с верандой рядом с метро | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
 | Винный погреб LA Grande CaveВинный погреб La Grande Cave | лофт | https://www.loft2rent.ru/loft/186082/186084 | phone | +7 985 922 31 91 |
+| Винтажный лофт-зал | лофт | https://www.reveltime.ru/venue/6478762?eventtype=vecherinka | phone | +79019317663 |
 | Виола - большой камерный лофт с панорамными окнами в парке Сокольники | лофт | https://www.loft2rent.ru/loft/42016 | phone | +7 (931) 111-81-02 |
 | Виола Восточная - светлый лофт до 40 человек в Сокольниках | лофт | https://www.loft2rent.ru/loft/42016 | phone | +7 (931) 111-81-02 |
 | Виола Западная - небольшой лофт с мангалом в парке | лофт | https://www.loft2rent.ru/loft/42016 | phone | +7 (931) 111-81-02 |
@@ -12091,6 +12324,7 @@
 | ВУД (WOOD) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
 | Высота 57 Lounge | лофт | https://www.loft2rent.ru/loft/203654/203656 | phone | +79851305757 |
 | ВЫСОТА ЛОФТ | лофт | https://www.loft2rent.ru/loft/126318 | phone | +79233388212 |
+| Выставка. Просторный лофт в светлых тонах | лофт | https://www.reveltime.ru/venue/8219292?eventtype=vecherinka | phone | +79813347290 |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | email | info@veb.ru |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | phone | +7 (495) 604-63-63 |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | social | https://dzen.ru/vebrf |
@@ -12219,11 +12453,15 @@
 | Галерея Лофт | лофт | https://www.loft2rent.ru/loft/179457 | phone | +79268244318 |
 | Галерея М - антикафе | лофт | https://www.loft2rent.ru/loft/191451 | phone | +79636936248 |
 | Галерея Ретро Лофт! Новое пространство / Мid-Cеntury / Bаuhаus / Vinyl | лофт | https://www.loft2rent.ru/loft/204507 | phone | 89166784019 |
+| Галерея. Стильный светлый лофт в голубых тонах | лофт | https://www.reveltime.ru/venue/6829095?eventtype=vecherinka | phone | +79386989873 |
+| Гарри Поттер. Лофт в классическом стиле с выходом на крышу | лофт | https://www.reveltime.ru/venue/4505269?eventtype=vecherinka | phone | +79584974215 |
 | Гастробар Open People | лофт | https://www.loft2rent.ru/loft/136559/136561 | phone | 88123807838 |
 | Гастрономическая улица strEATБалкон у сцены | лофт | https://www.loft2rent.ru/loft/84302/84616 | phone | 8(985)228-66-33 |
 | Гастрономическая улица strEATБольшой балкон | лофт | https://www.loft2rent.ru/loft/84302/84604 | phone | 8(985)228-66-33 |
 | Гастрономическая улица strEATМалый балкон | лофт | https://www.loft2rent.ru/loft/84302/84613 | phone | 8(985)228-66-33 |
 | Гастротеатр "Красная мельница"Гастротеатр "Красная мельница" | лофт | https://www.loft2rent.ru/loft/168858/168901 | phone | 89139583777 |
+| Гейминг Лофт | лофт | https://netarena.ru/loft | phone | +79584974160 |
+| География. Двухуровневый лофт-бар | лофт | https://www.reveltime.ru/venue/228708?eventtype=vecherinka | phone | +79019317663 |
 | Геолофт | лофт | https://www.loft2rent.ru/loft/2003 | phone | +74951355450 |
 | ГЕРЦ | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
 | Герцег лофт аренда под мероприятия | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
@@ -12239,6 +12477,7 @@
 | ГНЕЗДО Африка - камерный афро-лофт 35 м² | лофт | https://www.loft2rent.ru/loft/16584 | phone | +7 (958) 827 71 73 |
 | ГНЕЗДО Дом — двухэтажный лофт-квартира 65 м² | лофт | https://www.loft2rent.ru/loft/16584 | phone | +7 (958) 827 71 73 |
 | Голден - тусовочный лофт с диско-шаром, фотозоной и караоке! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
+| Голливуд. Элегантный лофт в зелено-бежевых оттенках | лофт | https://www.reveltime.ru/venue/9093123?eventtype=vecherinka | phone | +79584610759 |
 | Гольф Центр на Красном Октябре | лофт | https://www.loft2rent.ru/loft/76600/76828 | phone | +74997500505 |
 | Гольф-клуб «Тайгер» | гольф-клуб | http://golfclub-tiger.ru | email | club-tiger@mail.ru |
 | Гольф-клуб «Тайгер» | гольф-клуб | http://golfclub-tiger.ru | phone | +7 (495) 225-78-45 |
@@ -12307,6 +12546,10 @@
 | Гранд-холл Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Гранель | девелопер | https://granelle.ru | email | press@granelle.com |
 | Графит | лофт | https://www.loft2rent.ru/loft/124114/124244 | phone | +79099071169 |
+| Гримёрка. VIP-комната | лофт | https://www.reveltime.ru/venue/8786280?eventtype=vecherinka | phone | +79346642952 |
+| Гримёрка. Купол на крыше | лофт | https://www.reveltime.ru/venue/8786419?eventtype=vecherinka | phone | +79346642952 |
+| Гримёрка. Стильный караоке-зал | лофт | https://www.reveltime.ru/venue/8783829?eventtype=vecherinka | phone | +79346642952 |
+| Гринвуд. Мраморный лофт-зал | лофт | https://www.reveltime.ru/venue/4758573?eventtype=vecherinka | phone | +74992888034 |
 | Гриндей - свежий лофт с диско-шаром, караоке и приставкой! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
 | Группа ЛСР | девелопер | https://www.lsrgroup.ru | email | mail@lsrgroup.ru |
 | Группа ЛСР | девелопер | https://www.lsrgroup.ru | phone | +7 (800) 770-75-77 |
@@ -12453,6 +12696,7 @@
 | Две комнатыДве Комнаты Светлая комната | лофт | https://www.loft2rent.ru/loft/168102/168120 | phone | 89771553073 |
 | Две комнатыДве комнаты. Темная комната | лофт | https://www.loft2rent.ru/loft/168102/168116 | phone | 89771553073 |
 | Двойной зал на Калашном | лофт | https://www.loft2rent.ru/loft/54442 | phone | +7 495 255 2522 |
+| Двойной лофт на мансардном этаже | лофт | https://www.reveltime.ru/venue/6931618?eventtype=vecherinka | phone | +79584630738 |
 | Дворец Ирины Винер Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Дворец КваренгиЗал "Music Hall" | лофт | https://www.loft2rent.ru/loft/174894/174898 | phone | +79219042081 |
 | Дворец КваренгиЗал "Белый" | лофт | https://www.loft2rent.ru/loft/174894/174992 | phone | +79219042081 |
@@ -12463,7 +12707,10 @@
 | Дворец КваренгиЗал "Пеликанов" | лофт | https://www.loft2rent.ru/loft/174894/174897 | phone | +79219042081 |
 | Дворец Культур | лофт | https://www.loft2rent.ru/loft/193410 | phone | 74991197380 |
 | Двухуровневый лофт "МЫВМЕСТЕ" | лофт | https://www.loft2rent.ru/loft/135295/135323 | phone | +79052121332 |
+| Двухуровневый лофт с растениями | лофт | https://www.reveltime.ru/venue/5803822?eventtype=vecherinka | phone | +79910173255 |
 | Двухуровневый лофт ЮкаЮка лофт | лофт | https://www.loft2rent.ru/loft/14310/24270 | phone | +79265261337 |
+| Двухъярусное лофт-пространство | лофт | https://www.reveltime.ru/venue/2470164?eventtype=vecherinka | phone | +79693467396 |
+| Двухэтажный лофт в историческом здании | лофт | https://www.reveltime.ru/venue/2626584?eventtype=vecherinka | phone | +79035501844 |
 | ДВУХЭТАЖНЫЙ ЛОФТ С КАРАОКЕ СО СКИДКОЙ ОТ 10000Р | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | Деловой центр К29Большой зал Делового центра К29 | лофт | https://www.loft2rent.ru/loft/86350/86366 | phone | +7-925-4944162 |
 | Деловой центр К29Паркетный зал Делового центра К29 | лофт | https://www.loft2rent.ru/loft/86350/89017 | phone | +7-925-4944162 |
@@ -12489,7 +12736,7 @@
 | Депо | гастрономическое пространство / food mall | https://depomoscow.ru | phone | +7 (495) 788-88-33 |
 | Депо | гастрономическое пространство / food mall | https://depomoscow.ru | social | https://t.me/depomos |
 | Депо | гастрономическое пространство / food mall | https://depomoscow.ru | social | https://vk.com/depo__moscow |
-| Детский и семейный лофт в Новосибирске \| ПингвиЛофт | лофт | https://www.loft2rent.ru/loft/150257/150259 | phone | +79931909032 |
+| Детский и семейный лофт в Новосибирске \ | ПингвиЛофт | лофт | https://www.loft2rent.ru/loft/150257/150259 | phone |
 | Детский лофт "мяу"Детский лофт МЯУ | лофт | https://www.loft2rent.ru/loft/164268/164270 | phone | +79030020918 |
 | Детский лофт с верандой в парке | лофт | https://www.loft2rent.ru/loft/58317 | phone | +79013551562 |
 | Детский лофт Чудо чердачокЧудо чердачок (Glow) | лофт | https://www.loft2rent.ru/loft/104981/105098 | phone | +74993504653 |
@@ -12509,7 +12756,9 @@
 | Джентльмены | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
 | Джуманджи | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
 | Джунгли | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Джунгли. Танцевальный лофт со стильной фотозоной, барной стойкой, неоном и всех необходимой техникой | лофт | https://www.reveltime.ru/venue/8461284?eventtype=vecherinka | phone | +79584974084 |
 | Дизайнерский лофт Гараж с караоке и игровой в 2-х минутах от метро | лофт | https://www.loft2rent.ru/loft/1665 | phone | +7 9932617652 |
+| Дизайнерский лофт с панорамными окнами и кухней | лофт | https://www.reveltime.ru/venue/3287091?eventtype=vecherinka | phone | +79777137848 |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | email | action@dixy.ru |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | email | compliance@dixy.ru |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | email | dostavka@dixy.ru |
@@ -12561,6 +12810,7 @@
 | Дом Культуры | лофт | https://www.loft2rent.ru/loft/77612 | phone | +7(925) 448-13-73 |
 | Дом культуры FAKTURA#1913Маросейка | лофт | https://www.loft2rent.ru/loft/1405/1406 | phone | +74952210170 |
 | Дом культуры FAKTURA#1913Покровка | лофт | https://www.loft2rent.ru/loft/1405/1407 | phone | +74952210170 |
+| Дом Липы. Уютное пространство с большими окнами | лофт | https://www.reveltime.ru/venue/4680589?eventtype=vecherinka | phone | +79893636021 |
 | Дом музыки | концертный зал | https://www.mmdm.ru | email | help.mmdm@culture.mos.ru |
 | Дом музыки | концертный зал | https://www.mmdm.ru | email | osp.mmdm@culture.mos.ru |
 | Дом музыки | концертный зал | https://www.mmdm.ru | email | partner.mmdm@culture.mos.ru |
@@ -12681,6 +12931,7 @@
 | Зал "Московский" | лофт | https://www.loft2rent.ru/loft/114505 | phone | +7 958 538-65-47 |
 | Зал "Троицкий" | лофт | https://www.loft2rent.ru/loft/114505 | phone | +7 958 538-65-47 |
 | Зал "Фонтанка" | лофт | https://www.loft2rent.ru/loft/114505 | phone | +7 958 538-65-47 |
+| Зал &quot;Атлантик&quot;. Просторный белый лофт с высокими потолками | лофт | https://www.reveltime.ru/venue/6809768?eventtype=vecherinka | phone | +79584610759 |
 | Зал 100 | лофт | https://www.loft2rent.ru/loft/166921 | phone | +7 (901)417-71-10 |
 | Зал 190 | лофт | https://www.loft2rent.ru/loft/166921 | phone | +7 (901)417-71-10 |
 | Зал 2 - дизайнерская кабинет до 8 человек | лофт | https://www.loft2rent.ru/loft/157491 | phone | 89898415534 |
@@ -12697,16 +12948,19 @@
 | Зал Grey | лофт | https://www.loft2rent.ru/loft/154904 | phone | 89851150101 |
 | Зал Loft | лофт | https://www.loft2rent.ru/loft/154904 | phone | 89851150101 |
 | зал No 3 фотостудии Пространство | лофт | https://www.loft2rent.ru/loft/31821 | phone | +74992887790 |
+| Зал Noar (Нуар). Эстетичный лофт | лофт | https://www.reveltime.ru/venue/6367002?eventtype=vecherinka | phone | +79584974084 |
 | Зал SKY | лофт | https://www.loft2rent.ru/loft/154904 | phone | 89851150101 |
 | Зал «Агат» в Ballesta Space | лофт | https://www.loft2rent.ru/loft/186577 | phone | +79262488448 |
 | Зал «Аметист» в Ballesta Space | лофт | https://www.loft2rent.ru/loft/186577 | phone | +79262488448 |
 | Зал «Розовый кварц» в Ballesta Space | лофт | https://www.loft2rent.ru/loft/186577 | phone | +79262488448 |
+| Зал Альпы Интерьерный зал в стиле шале | лофт | https://www.reveltime.ru/venue/3253517?eventtype=vecherinka | phone | +79778759900 |
 | Зал Балдеж для семинаров и мастер-классов | лофт | https://www.loft2rent.ru/loft/53804 | phone | +79254214746 |
 | Зал Большой фотостудии PROSTRANSTVO на Марьиной Роще | лофт | https://www.loft2rent.ru/loft/31821 | phone | +74992887790 |
 | Зал в арендуЗал для проведения тренингов, медитаций, пилатеса, йоги | лофт | https://www.loft2rent.ru/loft/90289/90291 | phone | +79912289501 |
 | Зал в зелёных тонах GreenLand | лофт | https://www.loft2rent.ru/loft/151727 | phone | 89031959349 |
 | Зал в центре МосквыЗал в центре Москвы на 1264 мест | лофт | https://www.loft2rent.ru/loft/182962/182993 | phone | +74959950807 |
 | Зал в центре МосквыЗал в центре Москвы на 480 мест | лофт | https://www.loft2rent.ru/loft/182962/183004 | phone | +74959950807 |
+| Зал Ваниль Уютный отдельный зал | лофт | https://www.reveltime.ru/venue/4293224?eventtype=vecherinka | phone | +79963547907 |
 | Зал Воздух | лофт | https://www.loft2rent.ru/loft/53804 | phone | +79254214746 |
 | Зал Гала фотостудии PROSTRANSTVO на Марьиной Роще | лофт | https://www.loft2rent.ru/loft/31821 | phone | +74992887790 |
 | Зал для деловых мероприятий P17PLACE | лофт | https://www.loft2rent.ru/loft/55645 | phone | +79999721717 |
@@ -12742,6 +12996,7 @@
 | Зал Париж | лофт | https://www.loft2rent.ru/loft/53804 | phone | +79254214746 |
 | Зал Париж+Балдеж | лофт | https://www.loft2rent.ru/loft/53804 | phone | +79254214746 |
 | Зал под бьюти мастер-класс | лофт | https://www.loft2rent.ru/loft/78182 | phone | +7 (967) 599-12-23 |
+| Зал под кулинарные мастер классы и мероприятия | лофт | https://www.reveltime.ru/venue/9140942?eventtype=vecherinka | phone | +79346657019 |
 | Зал Праздничный на 20-30 гостей с караоке | лофт | https://www.loft2rent.ru/loft/62564 | phone | 8-977-333-22-18 |
 | Зал с открытой верандой | лофт | https://www.loft2rent.ru/loft/41220 | phone | +79067066480 |
 | Зал с панорамными окнами | лофт | https://www.loft2rent.ru/loft/41220 | phone | +79067066480 |
@@ -12949,6 +13204,7 @@
 | Зеленая мансарда на Чистых прудах М-24 | лофт | https://www.loft2rent.ru/loft/69466 | phone | +79150624544 |
 | Зеленый дом | лофт | https://www.loft2rent.ru/loft/141243/141247 | phone | 89175324309 |
 | Зеленый зал | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
+| Зеленый. Атмосферный лофт с караоке, большим экраном, фотозоной и светомузыкой | лофт | https://www.reveltime.ru/venue/6829728?eventtype=vecherinka | phone | +79346642952 |
 | Зелёный театр Парка Горького | концертная площадка | https://park-gorkogo.ru | email | parkgorkogo@culture.mos.ru |
 | Зелёный театр Парка Горького | концертная площадка | https://park-gorkogo.ru | social | https://maps.vk.com |
 | Зелёный театр Парка Горького | концертная площадка | https://park-gorkogo.ru | social | https://maps.vk.com/sdk/js/0/mmr-gl.css?ver=7.0 |
@@ -12972,8 +13228,22 @@
 | Ивент-пространство Музея Гаража особого назначенияРесторан Разгон | лофт | https://www.loft2rent.ru/loft/160275/160988 | phone | +7 916 566‑19‑87‬ |
 | ИГЛУ Большая | лофт | https://www.loft2rent.ru/loft/194243 | phone | 89933426897 |
 | Иглу маленькая | лофт | https://www.loft2rent.ru/loft/194243 | phone | 89933426897 |
+| ИглуБар. Bad girl. Тёмный лофт-зал в красных оттенках | лофт | https://www.reveltime.ru/venue/4505214?eventtype=vecherinka | phone | +79584974226 |
+| ИглуБар. Black Antique. Стильный лофт в тёмных тонах | лофт | https://www.reveltime.ru/venue/4505236?eventtype=vecherinka | phone | +79584974226 |
+| ИглуБар. Гарри Поттер. Лофт-зал в классическом стиле | лофт | https://www.reveltime.ru/venue/4505253?eventtype=vecherinka | phone | +79584974226 |
+| ИглуЛофт. WOW. Красочный лофт-зал с выходом на веранду | лофт | https://www.reveltime.ru/venue/3759742?eventtype=vecherinka | phone | +79910173255 |
+| ИглуЛофт. Атриум. Аутентичный лофт-зал | лофт | https://www.reveltime.ru/venue/4969463?eventtype=vecherinka | phone | +79584610759 |
+| ИглуЛофт. Бульдог. Камерный лофт-зал | лофт | https://www.reveltime.ru/venue/4553740?eventtype=vecherinka | phone | +79019317643 |
+| ИглуЛофт. Высота. Просторный лофт-зал | лофт | https://www.reveltime.ru/venue/5920619?eventtype=vecherinka | phone | +79346695974 |
+| ИглуЛофт. Гости. Лофт из двух комнат с выходом на веранду | лофт | https://www.reveltime.ru/venue/3754608?eventtype=vecherinka | phone | +79910173255 |
+| ИглуЛофт. Грейлофт. Лофт-зал в современном стиле | лофт | https://www.reveltime.ru/venue/4553552?eventtype=vecherinka | phone | +79019317643 |
+| ИглуЛофт. Майами. Яркий лофт-зал с окнами на веранду | лофт | https://www.reveltime.ru/venue/3759849?eventtype=vecherinka | phone | +79910173255 |
+| ИглуЛофт. Нео Классик. Стильный лофт-зал | лофт | https://www.reveltime.ru/venue/3759834?eventtype=vecherinka | phone | +79910173255 |
+| ИглуЛофт. Панорама. Чёрный лофт-зал | лофт | https://www.reveltime.ru/venue/3482958?eventtype=vecherinka | phone | +79910172413 |
+| ИглуЛофт. Шэдоулофт. Премиальный лофт-зал | лофт | https://www.reveltime.ru/venue/6055753?eventtype=vecherinka | phone | +79346691548 |
 | Игра Престолов | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Игровая с PS5 до 6 гостей на Тверской | лофт | https://www.loft2rent.ru/loft/104695 | phone | 89262851313 |
+| Изостудия Дом Художника в Измайлово. Арт-пространство с высокими потолками | лофт | https://www.reveltime.ru/venue/3699065?eventtype=vecherinka | phone | +79346608162 |
 | Икша Кантри Клаб | лофт | https://www.loft2rent.ru/loft/69187/69189 | phone | +74995055031 |
 | Икша Кантри КлабДача 100 м² на участке 10 соток | лофт | https://www.loft2rent.ru/loft/69187/112222 | phone | +74995055031 |
 | Икша Кантри КлабДомик Олимпийская деревня Коралловый | лофт | https://www.loft2rent.ru/loft/69187/137626 | phone | +74995055031 |
@@ -13052,6 +13322,7 @@
 | Интерфакс | информационное агентство | https://interfax.ru | phone | +7 (800) 222-44-14 |
 | Интерфакс | информационное агентство | https://interfax.ru | social | https://dzen.ru/interfax?favid=1114 |
 | Интерфакс | информационное агентство | https://interfax.ru | social | https://t.me/interfaxonline |
+| Интерьерная студия для творчества и вечеринок | лофт | https://www.reveltime.ru/venue/2783203?eventtype=vecherinka | phone | +79687397476 |
 | Интра Лофт | лофт | https://www.loft2rent.ru/loft/92492/92495 | phone | 89956973260 |
 | Интра ЛофтЛоки Лофт | лофт | https://www.loft2rent.ru/loft/92492/117415 | phone | +7 995 697 32 60 |
 | Интра ЛофтЛофт Ронго | лофт | https://www.loft2rent.ru/loft/92492/135308 | phone | 79956973260 |
@@ -13123,25 +13394,31 @@
 | Караоке-ЛофтЭхоЗал Тропики | лофт | https://www.loft2rent.ru/loft/114708/119264 | phone | +7 (929) 934-77-33 |
 | Караоке-ЛофтЭхоЗал Эйфория | лофт | https://www.loft2rent.ru/loft/114708/119280 | phone | +7 (929) 934-77-33 |
 | Каток | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
+| Кафе под закрытие в советском стиле | лофт | https://www.reveltime.ru/venue/3170777?eventtype=vecherinka | phone | +79199964838 |
 | Кафе Соколов Еда | лофт | https://www.loft2rent.ru/loft/123399/123406 | phone | +79616073600 |
 | Кафе ТочкаКАФЕ ТОЧКА | лофт | https://www.loft2rent.ru/loft/206054/206100 | phone | 89067116660 |
+| Кафе Утренник. Кафе под закрытие в самом центре Москвы | лофт | https://www.reveltime.ru/venue/7769700?eventtype=vecherinka | phone | +79893636021 |
 | КафеРоза ВЕТРОВ | лофт | https://www.loft2rent.ru/loft/186174/187845 | phone | 89261825584 |
 | Квант | лофт | https://www.loft2rent.ru/loft/92780 | phone | +79162981998 |
 | Квартира №9 | лофт | https://www.loft2rent.ru/loft/160743/160745 | phone | +7 993 339-19-39 |
 | Квартира №9Квартира №9 VIP | лофт | https://www.loft2rent.ru/loft/160743/163087 | phone | +7 993 339-19-39 |
 | Кварц | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
+| Квестаун Party. &quot;А1&quot;. Стильный лофт-зал на севере города | лофт | https://www.reveltime.ru/venue/6992054?eventtype=vecherinka | phone | +79161076553 |
 | Квестаун partyLOFT А1 | лофт | https://www.loft2rent.ru/loft/33582/145414 | phone | +7 (916) 107-65-53 |
 | Квестаун partyГолубой лофт | лофт | https://www.loft2rent.ru/loft/33582/73598 | phone | +7 (977) 520-21-27 |
 | Квестаун partyЗеленый лофт | лофт | https://www.loft2rent.ru/loft/33582/45711 | phone | +7 (977) 520-21-27 |
 | Кедр Зайцево | лофт | https://www.loft2rent.ru/loft/183501/183503 | phone | +7 (495) 274-53-54 |
 | Кенди- милый лофт с диско-шаром, караоке и приставкой! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
 | Кентукки | лофт | https://www.loft2rent.ru/loft/115047 | phone | +73433630042 |
+| КиберКлуб YouPlay (Ты играешь). Клуб компьютерных и консольных игр | лофт | https://www.reveltime.ru/venue/2840766?eventtype=vecherinka | phone | +79676928564 |
+| КиберКлуб Youplay (Юплей). Кибер-лофт с консолями, рулями, VR и ПК | лофт | https://www.reveltime.ru/venue/7591289?eventtype=vecherinka | phone | +79584974228 |
 | КиберКлуб на праздник / КиберКлуб на праздникКибер-Клуб | лофт | https://www.loft2rent.ru/loft/169049/171682 | phone | 89663220805 |
 | Киберпанк | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
 | КидсТаунЛофт - игровая КидсТаун , детский центр | лофт | https://www.loft2rent.ru/loft/198921/199771 | phone | +79015203025 |
 | Киндер Лофт | лофт | https://www.loft2rent.ru/loft/66611 | phone | +7 (915) 397-54-32 |
 | Кинобар на крыше | лофт | https://www.loft2rent.ru/loft/194243 | phone | 89933426897 |
 | Киностудия ТвоёКино | лофт | https://www.loft2rent.ru/loft/9768/44321 | phone | +7 (499) 113-10-95 |
+| Киото. Светлый зал с кухней | лофт | https://www.reveltime.ru/venue/9157812?eventtype=vecherinka | phone | +79910172413 |
 | Китай | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Китайский Летчик Джао ДаГостиная Лётчика | лофт | https://www.loft2rent.ru/loft/205810/206021 | phone | +74956245611 |
 | Классик | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
@@ -13208,6 +13485,7 @@
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | social | https://vk.com/widget_community.php?act=a_subscribe_box&oid=-23482909&state=1 |
 | Компас зал 120 Quattro Space | лофт | https://www.loft2rent.ru/loft/120842 | phone | +7 (499) 444-19-08 |
 | Комфортный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Комфортный лофт | лофт | https://www.reveltime.ru/venue/6930239?eventtype=vecherinka | phone | +79584973975 |
 | Комфортный, стильный, просторный лофт «BRONZA»  в центре Москвы, 10 мин. от метро | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
 | Конгресс-КейтерингЛофт "Серый" | лофт | https://www.loft2rent.ru/loft/197027/197029 | phone | +79031609009 |
 | Консерватория им. Чайковского | музыкальный вуз | https://www.mosconsv.ru | email | document@mosconsv.ru |
@@ -13231,6 +13509,7 @@
 | Конференц-зал с балконом во Дворце тенниса Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Конференц-зал УСЗ Дружба в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Концептуальный лофт/бар на МаросейкеThe Last Bar | лофт | https://www.loft2rent.ru/loft/166332/166334 | phone | 89153422339 |
+| Концертная площадка с панорамными окнами | лофт | https://www.reveltime.ru/venue/4104387?eventtype=vecherinka | phone | +79584974206 |
 | Концертно-репетиционный лофт ТРИТОНТритон | лофт | https://www.loft2rent.ru/loft/171022/171024 | phone | +79778333192 |
 | Концертный зал Зарядье | концертный зал | https://zaryadyehall.ru | email | concert@zaryadyehall.ru |
 | Концертный зал Зарядье | концертный зал | https://zaryadyehall.ru | email | corporate@zaryadyehall.ru |
@@ -13262,7 +13541,9 @@
 | Концертный зал Чайковского | ивент-спейс | https://meloman.ru | social | https://vk.com/mosfilarmonia |
 | Концертный зал Чайковского | ивент-спейс | https://meloman.ru | social | https://www.youtube.com/mosfilarmonia |
 | Корабль Илона Маска | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Королева. Стильный лофт с караоке и светомузыкой | лофт | https://www.reveltime.ru/venue/6829637?eventtype=vecherinka | phone | +79346692796 |
 | Космо Кидс Символ | лофт | https://www.loft2rent.ru/loft/203892/203894 | phone | +79260330440 |
+| Космополитен. Розовый лофт-зал | лофт | https://www.reveltime.ru/venue/4890611?eventtype=vecherinka | phone | +79019397094 |
 | Космос | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Космос | лофт | https://www.loft2rent.ru/loft/125195 | phone | +79990071109 |
 | КОСМОС | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
@@ -13273,6 +13554,7 @@
 | Кошелев-Банк | организация | https://koshelev-bank.ru | phone | +7 (495) 232-37-23 |
 | Кошелев-Банк | организация | https://koshelev-bank.ru | phone | +7 (846) 251-00-00 |
 | Кошелев-Банк | организация | https://koshelev-bank.ru | social | https://vk.com/kvbank |
+| Коэффициент притяжения. Уютный лофт в центре | лофт | https://www.reveltime.ru/venue/5014234?eventtype=vecherinka | phone | +79774941734 |
 | Коэффициент тепла | лофт | https://www.loft2rent.ru/loft/92780 | phone | +7 993 590-58-84 |
 | Красивый Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Красивый лофт «BALANCE». Включено -караоке, светомузыка, мебель, PS4.  3 минуты от метро | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
@@ -13320,6 +13602,7 @@
 | Кредит Европа Банк | организация | https://crediteurope.ru | phone | +7 (991) 875-77-57 |
 | Кредит Европа Банк | организация | https://crediteurope.ru | social | https://t.me/crediteuropebank_official |
 | Кредит Европа Банк | организация | https://crediteurope.ru | social | https://vk.com/crediteurope |
+| Кремлёвская Кухня. Кулинарная студия в башне | лофт | https://www.reveltime.ru/venue/2710801?eventtype=vecherinka | phone | +79584630738 |
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | email | bilet@gkdkreml.ru |
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | email | kremlinballet@list.ru |
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | email | mezekaeva7070@mail.ru |
@@ -13333,6 +13616,7 @@
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | social | https://vk.com/kremlinpalace |
 | Криминальное Чтиво | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Кристалл | лофт | https://www.loft2rent.ru/loft/154278 | phone | 89999798783 |
+| Кристофер. Лофт-пространство | лофт | https://www.reveltime.ru/venue/3276192?eventtype=vecherinka | phone | +79257803535 |
 | КРЫМ terrace Moscow | лофт | https://www.loft2rent.ru/loft/189235/189240 | phone | +74953084959 |
 | Крыша Лофт | лофт | https://www.loft2rent.ru/loft/141021 | phone | 8(925)-253-83-93 |
 | Крыша на Красном Октябре | лофт | https://www.loft2rent.ru/loft/208949 | phone | +79955932808 |
@@ -13367,12 +13651,13 @@
 | Культура | лофт | https://www.loft2rent.ru/loft/203539/203547 | phone | +79161474724 |
 | Культурный Центр "Строгино"Концертный зал и другие помещения | лофт | https://www.loft2rent.ru/loft/77854/77856 | phone | +7(495)198-65-36 |
 | Культурный центр СемимостьеЗал 95м | лофт | https://www.loft2rent.ru/loft/85818/85823 | phone | +79214220213 |
+| Купол на крыше с панорамным видом | лофт | https://www.reveltime.ru/venue/257853?eventtype=vecherinka | phone | +74954320156 |
 | Купольная беседка ВДНХ с верандой на крыше | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
 | Купольная беседка на ВДНХ с верандой | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
-| Купольная беседка на двоих праздник на крыше \| rooftop | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
-| Купольная беседка праздник на крыше \| rooftop | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
+| Купольная беседка на двоих праздник на крыше \ | rooftop | лофт | https://www.loft2rent.ru/loft/43392 | phone |
+| Купольная беседка праздник на крыше \ | rooftop | лофт | https://www.loft2rent.ru/loft/43392 | phone |
 | Купольная беседка с верандой | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
-| Купольная ВИП беседка праздник на крыше \| rooftop | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
+| Купольная ВИП беседка праздник на крыше \ | rooftop | лофт | https://www.loft2rent.ru/loft/43392 | phone |
 | Куркино лофт | лофт | https://www.loft2rent.ru/loft/46562/46670 | phone | 89057337525 |
 | Кусково | ивент-спейс | https://kuskovo.ru | phone | +0749537531310 |
 | Кусково | ивент-спейс | https://kuskovo.ru | social | https://ok.ru/kuskovo |
@@ -13383,16 +13668,20 @@
 | Кусь | лофт | https://www.loft2rent.ru/loft/128814/129168 | phone | +7 (977) 341-85-39 |
 | КУТУЗОВ ЛОФТ (ex ПОРТАЛ) | лофт | https://www.loft2rent.ru/loft/28030 | phone | +7 (495) 798-51-81 |
 | Лаборатория | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
+| Лампа лофт | лофт | https://www.reveltime.ru/venue/6185676?eventtype=vecherinka | phone | +79252118822 |
 | Лас-Вегас | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | ЛАСТОЧКА | лофт | https://www.loft2rent.ru/loft/90945 | phone | +7 (495) 765-11-01 |
 | Лаундж-бар на Трифоновской | лофт | https://www.loft2rent.ru/loft/121243 | phone | +7 926 824-43-18 |
-| Легион \| Крылатское. Пространство праздников и активных развлечений. | лофт | https://www.loft2rent.ru/loft/182884 | phone | 74951282293 |
+| Лаундж-пространство с кафе для детских мероприятий | лофт | https://www.reveltime.ru/venue/3639863?eventtype=vecherinka | phone | +79629959666 |
+| Лаунж-бар в тропическом стиле | лофт | https://www.reveltime.ru/venue/4036529?eventtype=vecherinka | phone | +79584974160 |
+| Легион \ | Крылатское. Пространство праздников и активных развлечений. | лофт | https://www.loft2rent.ru/loft/182884 | phone |
 | Легпромпарк Экспо | лофт | https://www.loft2rent.ru/loft/207134/207137 | phone | +79166521012 |
 | Лекторий | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
 | Лекторий 1 | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
 | ЛЕНЬ.ЛЕНЬ. | лофт | https://www.loft2rent.ru/loft/76940/76973 | phone | +79055296305 |
 | Лео Лофт Мск | лофт | https://www.loft2rent.ru/loft/100917/104078 | phone | 89670066399 |
 | Лео Лофт МскДинамика | лофт | https://www.loft2rent.ru/loft/100917/166494 | phone | 89850033387 |
+| Лес. Театральный лофт с верандой, сценой и вторым ярусом | лофт | https://www.reveltime.ru/venue/6650714?eventtype=vecherinka | phone | +79586097164 |
 | ЛЕСТеатральный лофт «ЛЕС» | лофт | https://www.loft2rent.ru/loft/52135/52137 | phone | +79999780977 |
 | Летний шатер Тиффани | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Летняя веранда ПригорокБелоснежный шатер | лофт | https://www.loft2rent.ru/loft/171193/172264 | phone | 9099093669 |
@@ -13437,6 +13726,7 @@
 | Лефортово | ивент-спейс | https://mosmuseum.ru | social | ttps://t.me/gilyarovsky_center |
 | Литературная гостиная | лофт | https://www.loft2rent.ru/loft/110170 | phone | +79213544851 |
 | личноПоддворье | лофт | https://www.loft2rent.ru/loft/193047/193058 | phone | 89269818713 |
+| Ловушка. Яркая лофт-комната для мероприятий | лофт | https://www.reveltime.ru/venue/7493732?eventtype=vecherinka | phone | +79584973975 |
 | Локо-Банк | банк | https://lockobank.ru | email | aatimofeeva@lockobank.ru |
 | Локо-Банк | банк | https://lockobank.ru | email | abulatnikova@lockobank.ru |
 | Локо-Банк | банк | https://lockobank.ru | email | agubin@krs.lockobank.ru |
@@ -13539,6 +13829,7 @@
 | Лофт 13 на Мясницкойпереговорная 30 | лофт | https://www.loft2rent.ru/loft/3442/3531 | phone | 89257405902 |
 | Лофт 1914. Исторический лофт с выходом на веранду | лофт | https://www.loft2rent.ru/loft/22257 | phone | +7 (495) 432-01-36 |
 | Лофт 24 | лофт | https://www.loft2rent.ru/loft/56966/56968 | phone | +79855044979 |
+| Лофт 24 | лофт | https://www.reveltime.ru/venue/4416899?eventtype=vecherinka | phone | +79584974160 |
 | Лофт 365 Серебряный бор | лофт | https://www.loft2rent.ru/loft/184910/184912 | phone | 89197279747 |
 | Лофт 40-150м2 на Арбатской, в историческом особнякеSecret place | лофт | https://www.loft2rent.ru/loft/40247/59955 | phone | 89169557531 |
 | Лофт 40-150м2 на Арбатской, в историческом особнякеUnderground lounge | лофт | https://www.loft2rent.ru/loft/40247/40249 | phone | 89169557531 |
@@ -13557,21 +13848,29 @@
 | Лофт FLORA - включено посуда, светомузыка, караоке. ЦАО, отдельный вход, возле реки | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
 | Лофт Garden с летней верандой | лофт | https://www.loft2rent.ru/loft/41186 | phone | +79939054093 |
 | Лофт Gold с телевизором, караоке и музыкой | лофт | https://vk.me/magnatloft | phone | +79999141421 |
+| Лофт Grape (Виноград) | лофт | https://www.reveltime.ru/venue/4744920?eventtype=vecherinka | phone | +79939054093 |
 | Лофт Grapefruit | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
 | Лофт Happy TimeHappy Time | лофт | https://www.loft2rent.ru/loft/172337/172353 | phone | +79218889012 |
 | Лофт Happy TimeHАРРY ТIMЕ | лофт | https://www.loft2rent.ru/loft/172337/172363 | phone | +7 921 888-90-12 |
 | Лофт Hide | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Лофт HIGHLIGHT с выходом на крышу с панорамным видом | лофт | https://www.loft2rent.ru/loft/22257 | phone | +7 (495) 432-01-36 |
+| Лофт IDEALISTA (Идеалиста). Просторный двухуровневый лофт | лофт | https://www.reveltime.ru/venue/2910426?eventtype=vecherinka | phone | +79910173255 |
 | Лофт Industrial | лофт | https://www.loft2rent.ru/loft/30979 | phone | +79936053121 |
+| Лофт ITALY (Италия) | лофт | https://www.reveltime.ru/venue/5013656?eventtype=vecherinka | phone | +79584611054 |
+| Лофт komoД. Лофт Дельта. Большой лофт | лофт | https://www.reveltime.ru/venue/6966120?eventtype=vecherinka | phone | +79586097164 |
 | ЛОФТ LIKEЛОФТ ЛАЙК | лофт | https://www.loft2rent.ru/loft/125076/125078 | phone | 89295107900 |
 | ЛОФТ LIKEЛОФТ ЛАЙК | лофт | https://www.loft2rent.ru/loft/125076/152270 | phone | +79295107900 |
 | Лофт NEFTЬ с телевизором, музыкой и караоке | лофт | https://vk.me/magnatloft | phone | +79999141421 |
+| Лофт Ocean vibe (Оушен вайб) | лофт | https://www.reveltime.ru/venue/5712199?eventtype=vecherinka | phone | +79910172413 |
 | Лофт Pomelo | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
 | Лофт Pool Party Молодежная 26 | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
 | Лофт Pro-Platforma | лофт | https://www.loft2rent.ru/loft/159974/159996 | phone | +7 495 023 96 00 |
 | Лофт RentPlaza Караоке | лофт | https://www.loft2rent.ru/loft/121270/121272 | phone | 89276977102 |
+| Лофт Rise (Райз) | лофт | https://www.reveltime.ru/venue/6748593?eventtype=vecherinka | phone | +79584974064 |
 | Лофт STAR Centre на Тукая | лофт | https://www.loft2rent.ru/loft/181433/181435 | phone | 89932550001 |
+| Лофт Surf house (Сёрф Хаус) | лофт | https://www.reveltime.ru/venue/3903515?eventtype=vecherinka | phone | +79346699837 |
 | Лофт Sweetie | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
+| Лофт TROPICANA (Тропиканка) | лофт | https://www.reveltime.ru/venue/6192590?eventtype=vecherinka | phone | +79346608162 |
 | Лофт Tалисман на Нижегородской | лофт | https://www.loft2rent.ru/loft/157778 | phone | +7 9262851941 |
 | Лофт White с проектором, караоке и музыкой | лофт | https://vk.me/magnatloft | phone | +79999141421 |
 | лофт Wood&stone Лофт Wood&stone / Лофт ВудСтоун | лофт | https://www.loft2rent.ru/loft/58757/58788 | phone | +79776638891 |
@@ -13583,8 +13882,8 @@
 | Лофт «Арена» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Арис» | лофт | https://www.loft2rent.ru/loft/157583 | phone | +7 (917) 790-08-53 |
 | Лофт «Арт Фьюжен» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
-| Лофт «Атлантида» \| летняя веранда на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
-| Лофт «Атриум» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Атлантида» \ | летняя веранда на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone |
+| Лофт «Атриум» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Баленсиага» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Блэк Антик» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «Богема» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
@@ -13592,7 +13891,7 @@
 | Лофт «Бруталити» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
 | Лофт «Бунгало» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Буржуй» с летней верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
-| Лофт «Бэд Гёрл» с верандой \| панорама на Останкинскую башню | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
+| Лофт «Бэд Гёрл» с верандой \ | панорама на Останкинскую башню | лофт | https://www.loft2rent.ru/loft/77624 | phone |
 | Лофт «Вандал» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Вегас» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Веном» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
@@ -13603,8 +13902,8 @@
 | Лофт «Галерея» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Гармония» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
 | Лофт «Гетсби» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
-| Лофт «Готэм» \| летняя веранда на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
-| Лофт «Грейлофт» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Готэм» \ | летняя веранда на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 |
+| Лофт «Грейлофт» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Гримерка» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Гринвуд» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «ГТА» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
@@ -13615,12 +13914,12 @@
 | Лофт «Дримлофт» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «Душа» в парке Сокольники | лофт | https://www.loft2rent.ru/loft/199153 | phone | +79153556751 |
 | Лофт «Дюна» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
-| Лофт «Золотое яблоко» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
+| Лофт «Золотое яблоко» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Империал» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «Индастриал» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/145926 | phone | +79322105457 |
 | Лофт «Индиго» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
-| Лофт «Интрига» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
-| Лофт «Кашемир» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Интрига» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
+| Лофт «Кашемир» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Кибер Антик» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «Киберпанк» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Контент база» для фотосессий с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
@@ -13629,24 +13928,24 @@
 | Лофт «Красная комната» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Кристалл» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Кэш» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
-| Лофт «Лав из» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
-| Лофт «Лакрица» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Лав из» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
+| Лофт «Лакрица» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Либерти» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
-| Лофт «Луи»  с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Луи»  с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Люкс» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Люмьер» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
-| Лофт «Мантра» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
-| Лофт «Марсель» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Мантра» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
+| Лофт «Марсель» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Миллениум» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Мира» | лофт | https://www.loft2rent.ru/loft/157583 | phone | +7 (917) 790-08-53 |
 | Лофт «Модерн Платинум» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «МУН» аренда под мероприятия | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
-| Лофт «Нео классик» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Нео классик» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Необарокко» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Неон бар» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Нефрит» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «Нефть» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
-| Лофт «Оазис» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Оазис» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Око» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
 | Лофт «Октава» звукозаписывающая студия с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Олимпия» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
@@ -13663,7 +13962,7 @@
 | Лофт «Слово пацана» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Союз» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «Студия» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
-| Лофт «ТехноБар» с верандой \| панорама на Останкинскую башню | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
+| Лофт «ТехноБар» с верандой \ | панорама на Останкинскую башню | лофт | https://www.loft2rent.ru/loft/77624 | phone |
 | Лофт «Ультра» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Ультрафиолет» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Урбан» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
@@ -13672,13 +13971,14 @@
 | Лофт «Центральный» аренда под корпоратив | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Лофт «Черный Антик» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт «Чилаут» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/145926 | phone | +79322105457 |
-| Лофт «Шэдоулофт» с верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Шэдоулофт» с верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Элита» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/145926 | phone | +79322105457 |
 | Лофт «Эра» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
-| Лофт «Эрмитаж» с летней верандой на крыше \| панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065004 |
+| Лофт «Эрмитаж» с летней верандой на крыше \ | панорамные окна | лофт | https://www.loft2rent.ru/loft/54749 | phone |
 | Лофт «Эстетика» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/77624 | phone | +79311066350 |
 | Лофт «Якудза» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
 | Лофт Алиса с пилоном и мангалом | лофт | https://www.loft2rent.ru/loft/187063 | phone | +7(903)239 99 89 |
+| Лофт Амулет | лофт | https://www.reveltime.ru/venue/6117307?eventtype=vecherinka | phone | +79346642952 |
 | Лофт Амулет с верандой, мангалом и игровой. Сценический звук, свет, сцена | лофт | https://www.loft2rent.ru/loft/1665 | phone | +79932617652 |
 | Лофт АндерСон Resort | лофт | https://www.loft2rent.ru/loft/79093/79095 | phone | +7 (903) 211-00-66 |
 | Лофт АндерСон Resortзал "Марк Твен" | лофт | https://www.loft2rent.ru/loft/79093/94040 | phone | +7 (903) 211-00-66 |
@@ -13687,7 +13987,9 @@
 | Лофт Атмосфера | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
 | Лофт Атриум | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Лофт АУДИЕНЦИЯ с верандой и крышей | лофт | https://www.loft2rent.ru/loft/884/114551 | phone | +74991121830 |
+| Лофт база. Просторная мансарда для вечеринок | лофт | https://www.reveltime.ru/venue/6325004?eventtype=vecherinka | phone | +79584974167 |
 | Лофт Бангкок | лофт | https://www.loft2rent.ru/loft/27053 | phone | +79854311004 |
+| Лофт Бангкок | лофт | https://www.reveltime.ru/venue/206436?eventtype=vecherinka | phone | +79346699837 |
 | ЛОФТ БАНКА | лофт | https://www.loft2rent.ru/loft/884/892 | phone | +74991121830 |
 | Лофт Бар ВДНХ | лофт | https://www.loft2rent.ru/loft/101001 | phone | +7 916 440 01 30 |
 | Лофт Бар на Люсиновской | лофт | https://www.loft2rent.ru/loft/132896/132900 | phone | +79852143202 |
@@ -13698,16 +14000,23 @@
 | Лофт Бурбон на Бауманской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
 | Лофт в Москва сити в стиле BurjAlArab | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Лофт в самом центре Москвы | лофт | https://www.loft2rent.ru/loft/114638/114640 | phone | +7 916 388-51-31 |
+| Лофт в стиле SteamPank | лофт | https://www.reveltime.ru/venue/593855?eventtype=vecherinka | phone | +79399007993 |
+| Лофт в стиле Диско | лофт | https://www.reveltime.ru/venue/3408496?eventtype=vecherinka | phone | +79584974226 |
 | Лофт в центре Москвы | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | ЛОФТ В ЦЕНТРЕ МОСКВЫ | лофт | https://www.loft2rent.ru/loft/55645 | phone | +79999721717 |
 | Лофт Ван Гог с верандой и мангалом | лофт | https://www.loft2rent.ru/loft/187063 | phone | +7(903)239 99 89 |
 | Лофт Видео-салон | лофт | https://www.loft2rent.ru/loft/158569 | phone | +79219569468 |
 | ЛОФТ ВИТРИНА с верандой | лофт | https://www.loft2rent.ru/loft/884/10700 | phone | +74991121830 |
 | Лофт ВОЙС с большим экраном и лазерной анимацией | лофт | https://www.loft2rent.ru/loft/183656 | phone | +79770002153 |
+| Лофт Вудсток. Лофт с высокими потолками | лофт | https://www.reveltime.ru/venue/7870122?eventtype=vecherinka | phone | +79346695974 |
 | Лофт Галерея с верандой на Электрозаводской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 951 085 8112 |
+| Лофт где можно все | лофт | https://www.kremlin.apartments | phone | +79852287192 |
 | Лофт ГОЛЛИВУД | лофт | https://www.loft2rent.ru/loft/53422 | phone | 8-800-550-11-60 |
 | Лофт Головоломка с мангалом | лофт | https://www.loft2rent.ru/loft/187063 | phone | +7(903)239 99 89 |
+| Лофт Гости | лофт | https://www.reveltime.ru/venue/2875559?eventtype=vecherinka | phone | +79676932714 |
 | Лофт Графит с проектором, музыкой и караоке | лофт | https://vk.me/magnatloft | phone | +79999141421 |
+| Лофт Граффити | лофт | https://www.reveltime.ru/venue/9183162?eventtype=vecherinka | phone | +79584974064 |
+| Лофт для вечеринок в самом центре | лофт | https://www.reveltime.ru/venue/211808?eventtype=vecherinka | phone | +79036104324 |
 | Лофт для вечеринок Новосибирск Галущака 2 | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
 | Лофт для свидания и девичника Сладкий | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
 | Лофт для творческих «Это место»Пространство для творческих "Это место" | лофт | https://www.loft2rent.ru/loft/134358/155204 | phone | 89175778451 |
@@ -13716,10 +14025,15 @@
 | Лофт ДОМ + АФРИКА с кухней и топ звуком, 100м2 | лофт | https://www.loft2rent.ru/loft/16584 | phone | +7 (958) 827 71 73 |
 | Лофт ДунькаDunka / Лофт Дунька | лофт | https://www.loft2rent.ru/loft/70103/70107 | phone | 89312925079 |
 | Лофт Екатерининский для свадьбы | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Лофт Зазеркалье | лофт | https://www.reveltime.ru/venue/209632?eventtype=vecherinka | phone | +79346692796 |
 | Лофт зал №14 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
 | Лофт зал №4 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
 | Лофт зал №6 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
 | Лофт Зеркальный | лофт | https://www.loft2rent.ru/loft/30979 | phone | +79936053121 |
+| Лофт ИЗНАНКА. Зал ГОЛЛИВУД | лофт | https://www.reveltime.ru/venue/4698621?eventtype=vecherinka | phone | +79584974139 |
+| Лофт ИЗНАНКА. Зал КАСТЛ | лофт | https://www.reveltime.ru/venue/3778845?eventtype=vecherinka | phone | +79584974215 |
+| Лофт ИЗНАНКА. Зал ЛИХИЕ 90-е | лофт | https://www.reveltime.ru/venue/359047?eventtype=vecherinka | phone | +79584973975 |
+| Лофт ИЗНАНКА. Зал ТОКИО | лофт | https://www.reveltime.ru/venue/6183917?eventtype=vecherinka | phone | +79346657019 |
 | Лофт Империя - Шаболовка 58 Караоке-Лофт Империя на Шаболовке 58 | лофт | https://www.loft2rent.ru/loft/160497/160500 | phone | +74959991220 |
 | Лофт ИнсайтИнсайт Лофт | лофт | https://www.loft2rent.ru/loft/169065/169069 | phone | +79879895000 |
 | Лофт Карлсон | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
@@ -13728,13 +14042,17 @@
 | Лофт Квартира | лофт | https://www.loft2rent.ru/loft/110422 | phone | +79251976532 |
 | Лофт КВАРТИРА. Включено - посуда, светомузыка, караоке. ЦАО, возле реки | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
 | Лофт клуб с шикарным звукомКлуб с Шикарным звуком | лофт | https://www.loft2rent.ru/loft/80523/112724 | phone | +7 (960) 280 28 28 |
+| Лофт Комод. Уютный лофт | лофт | https://www.reveltime.ru/venue/722937?eventtype=vecherinka | phone | +79019397085 |
 | Лофт КОМПАСБелый лофт | лофт | https://www.loft2rent.ru/loft/21225/24298 | phone | +7 (926) 648-55-66 |
 | Лофт КОМПАСЛофт Компас | лофт | https://www.loft2rent.ru/loft/21225/28845 | phone | +7 (926) 648-55-66 |
 | Лофт КОМПАССтильный офис для деловых встреч | лофт | https://www.loft2rent.ru/loft/21225/39775 | phone | +7 (926) 648-55-66 |
 | Лофт КОНФЕТАЛофт "КОНФЕТА" | лофт | https://www.loft2rent.ru/loft/96624/96627 | phone | 89998354342 |
+| Лофт Космос. Белый лофт в особняке | лофт | https://www.reveltime.ru/venue/2784991?eventtype=vecherinka | phone | +79254013159 |
+| Лофт Котельная | лофт | https://hlebozavod9.ru/rent/#kotelnaja | phone | +79386982643 |
 | ЛОФТ КРЕПОСТЬ ДЛЯ КОМПАНИИ 15-20 ЧЕЛОВЕК С КАРАОКЕ И МЯГКОЙ МЕБЕЛЬЮ | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | Лофт Крылья | лофт | https://www.loft2rent.ru/loft/179457 | phone | +79268244318 |
 | Лофт Кухня №19 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
+| Лофт Лайф | лофт | https://www.reveltime.ru/venue/8423125?eventtype=vecherinka | phone | +79584974206 |
 | Лофт лесной аренда для свадьбы | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Лофт ЛИХИЕ 90-Е | лофт | https://www.loft2rent.ru/loft/53422 | phone | 8-800-550-11-60 |
 | Лофт Лодж 1 | лофт | https://www.loft2rent.ru/loft/6825 | phone | 89091554505 |
@@ -13749,8 +14067,18 @@
 | Лофт Лодж 8 | лофт | https://www.loft2rent.ru/loft/6825 | phone | 89091554505 |
 | Лофт Лодж 9 | лофт | https://www.loft2rent.ru/loft/6825 | phone | 89091554505 |
 | Лофт Льюис  на Дмитровской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
+| Лофт Льюис. Эстетичный зал | лофт | https://www.reveltime.ru/venue/8966590?eventtype=vecherinka | phone | +79346695974 |
+| Лофт Мави. Премиальное пространство | лофт | https://www.reveltime.ru/venue/8665359?eventtype=vecherinka | phone | +79676928674 |
 | Лофт МАЙ с верандой на Электрозаводской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 951 085 8112 |
+| Лофт Май. Зал Август | лофт | https://www.reveltime.ru/venue/6438893?eventtype=vecherinka | phone | +79584974208 |
+| Лофт Май. Зал Гоголь | лофт | https://www.reveltime.ru/venue/6451118?eventtype=vecherinka | phone | +79584974206 |
+| Лофт Май. Зал Место | лофт | https://www.reveltime.ru/venue/7433564?eventtype=vecherinka | phone | +79584055346 |
+| Лофт Май. Зал Мира | лофт | https://www.reveltime.ru/venue/8860811?eventtype=vecherinka | phone | +79584974089 |
+| Лофт Май. Зал Молекула на Бауманской | лофт | https://www.reveltime.ru/venue/7433562?eventtype=vecherinka | phone | +79019397085 |
+| Лофт Май. Зал Роза | лофт | https://www.reveltime.ru/venue/6544418?eventtype=vecherinka | phone | +79584974139 |
+| Лофт Май. Зал Юг | лофт | https://www.reveltime.ru/venue/7431905?eventtype=vecherinka | phone | +79019397094 |
 | Лофт Марти с караоке на Бауманской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
+| Лофт Мемфис. Зал в итальянском стиле | лофт | https://www.reveltime.ru/venue/8776082?eventtype=vecherinka | phone | +79584974215 |
 | ЛОФТ МИРАЖ с верандой | лофт | https://www.loft2rent.ru/loft/884/57768 | phone | +74991121830 |
 | Лофт Мой первый с верандой на Дмитровской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
 | ЛОФТ МОККО С ПРОЕКТОРОМ, БОЛЬШИМ СТОЛОМ И НЕОНОМ! | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
@@ -13787,6 +14115,7 @@
 | Лофт на Рождественском бульвареЛофт на Сретенке | лофт | https://www.loft2rent.ru/loft/64508/64562 | phone | +7-963-693-6248 |
 | Лофт на Северке | лофт | https://www.loft2rent.ru/loft/173226/173228 | phone | +7 (901) 519-50-13 |
 | Лофт на ТаганкеАРТ-ГАЛЕРЕЯ В ЦЕНТРЕ МОСКВЫ | лофт | https://www.loft2rent.ru/loft/73701/73720 | phone | +7 9851880503 |
+| Лофт на территории арт-кластера Кристалл | лофт | https://www.reveltime.ru/venue/616183?eventtype=vecherinka | phone | +79584974139 |
 | Лофт на Тульской | лофт | https://www.loft2rent.ru/loft/148122/148128 | phone | 89268475200 |
 | Лофт на Чистых прудах | лофт | https://www.loft2rent.ru/loft/41092 | phone | 89774909897 |
 | Лофт на Яузе | лофт | https://www.loft2rent.ru/loft/40532/40534 | phone | +79969805056 |
@@ -13794,6 +14123,8 @@
 | Лофт на Яузе (Зал 2) | лофт | https://www.loft2rent.ru/loft/40532 | phone | +79969805056 |
 | Лофт на Яузе (Зал 3) | лофт | https://www.loft2rent.ru/loft/40532 | phone | +79969805056 |
 | Лофт настроение | лофт | https://www.loft2rent.ru/loft/56966 | phone | +79855044979 |
+| Лофт Настроение | лофт | https://www.reveltime.ru/venue/4676587?eventtype=vecherinka | phone | +79019317663 |
+| Лофт Наше место | лофт | https://www.reveltime.ru/venue/8418731?eventtype=vecherinka | phone | +79019317643 |
 | Лофт Новый с верандой | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 951 085 8112 |
 | Лофт Нуар с караоке на Бауманской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 951 085 8112 |
 | Лофт Облака ОдинцовоЛофт для детских праздников | лофт | https://www.loft2rent.ru/loft/131385/131387 | phone | +7 (977) 185-76-27 |
@@ -13801,6 +14132,9 @@
 | Лофт Октябрь для мероприятий на Кропоткинской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +79264950653 |
 | Лофт Оливковый с верандой на Электрозаводской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 951 085 8112 |
 | Лофт ОПЕРА кирпичный лофт со сценой и неонами | лофт | https://www.loft2rent.ru/loft/183656 | phone | +79770002153 |
+| Лофт Опера. Кирпичный лофт | лофт | https://www.reveltime.ru/venue/623057?eventtype=vecherinka | phone | +79584974208 |
+| Лофт Охра. Комнатный лофт для мероприятий | лофт | https://www.reveltime.ru/venue/8632548?eventtype=vecherinka | phone | +79910172413 |
+| Лофт Палермо | лофт | https://www.reveltime.ru/venue/8501774?eventtype=vecherinka | phone | +79019317588 |
 | лофт ПАРТИЯ | лофт | https://www.loft2rent.ru/loft/117096/129604 | phone | +79263427655 |
 | Лофт ПИЖАМА ПАТИ | лофт | https://www.loft2rent.ru/loft/29977/29986 | phone | 9264111984 |
 | Лофт ПЛАН БЗал Артель | лофт | https://www.loft2rent.ru/loft/138440/138460 | phone | +79643685920 |
@@ -13814,46 +14148,71 @@
 | Лофт Пространство Семеновский | лофт | https://www.loft2rent.ru/loft/30979 | phone | +7 9936053121 |
 | Лофт Рассвет | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
 | Лофт Рассвет с летней верандой | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 951 085 8112 |
+| Лофт Репаблик | лофт | https://www.reveltime.ru/venue/4722446?eventtype=vecherinka | phone | +79019397046 |
+| Лофт РИ | лофт | https://www.reveltime.ru/venue/3683740?eventtype=vecherinka | phone | +79346644195 |
 | Лофт РУНА - это светлый, уютный лофт со сценой, мангальной зоной, караоке... | лофт | https://www.loft2rent.ru/loft/61271 | phone | +79912974996 |
 | Лофт рядом с М Курская, с большим окном и выходом на собственную террасу на крыше | лофт | https://www.loft2rent.ru/loft/122172 | phone | 89250545290 |
 | лофт с  мангалом ГНЕЗДО ЛЕС | лофт | https://www.loft2rent.ru/loft/16584 | phone | +7 958 827 71 73 |
 | Лофт с бассейном | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | ЛОФТ С БИЛЬЯРДНЫМ СТОЛОМ И НЕОНОМ 100М2 | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | Лофт с верандой в парке Сокольники | лофт | https://www.loft2rent.ru/loft/58317 | phone | +79013551562 |
+| Лофт с внутренним двориком | лофт | https://www.reveltime.ru/venue/798011?eventtype=vecherinka | phone | +74991112578 |
 | Лофт с джакузи на террассе Центр СпбJumeirah Super Loft | лофт | https://www.loft2rent.ru/loft/182388/182392 | phone | +78129672423 |
+| Лофт с зеркальной стеной | лофт | https://www.reveltime.ru/venue/4207123?eventtype=vecherinka | phone | +79346691548 |
 | Лофт с игровой для семейных праздников | лофт | https://www.loft2rent.ru/loft/58317 | phone | +79013551562 |
 | Лофт с караоке для дня рождения | лофт | https://www.loft2rent.ru/loft/137353/137372 | phone | 8 (905) 833-30-03 |
 | Лофт с караоке для дня рожденияЛофт для вечеринки с караоке и x-box | лофт | https://www.loft2rent.ru/loft/137353/138024 | phone | 8 (905) 833-30-03 |
 | Лофт с караоке у метро Менделеевская Crystal loft | лофт | https://www.loft2rent.ru/loft/66644 | phone | 7 (499) 322-24-13 |
+| Лофт с кинотеатром | лофт | https://www.reveltime.ru/venue/2782124?eventtype=vecherinka | phone | +74991107697 |
 | Лофт с коктейлями | лофт | https://www.loft2rent.ru/loft/136279 | phone | +79165904662 |
+| Лофт с космическим дизайном | лофт | https://www.reveltime.ru/venue/6987162?eventtype=vecherinka | phone | +79019397046 |
+| Лофт с кухней, панорамными окнами и верандой | лофт | https://www.reveltime.ru/venue/6778151?eventtype=vecherinka | phone | +79019317663 |
 | Лофт с настольным теннисом и светомузыкой | лофт | https://www.loft2rent.ru/loft/77071/77088 | phone | +7 (996) 677-70-32 |
 | лофт с оборудованием и фото зонами | лофт | https://www.loft2rent.ru/loft/106924 | phone | 89857776453 |
 | Лофт с панорамным видом на набережную | лофт | https://www.loft2rent.ru/loft/96367 | phone | +79161004416 |
+| Лофт с панорамными окнами в парке Сокольники | лофт | https://www.reveltime.ru/venue/7734842?eventtype=vecherinka | phone | +79676928564 |
+| Лофт с покерным столом на мансардном этаже | лофт | https://www.reveltime.ru/venue/7120903?eventtype=vecherinka | phone | +79676928674 |
 | Лофт СЕНДИ | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
 | Лофт Силино | лофт | https://www.loft2rent.ru/loft/179457 | phone | +79268244318 |
+| Лофт Скарлет. Уютное пространство на 6 гостей | лофт | https://www.reveltime.ru/venue/8620804?eventtype=vecherinka | phone | +79910172113 |
+| Лофт Событие | лофт | https://www.reveltime.ru/venue/5798476?eventtype=vecherinka | phone | +79910173255 |
 | Лофт Событие на Таганке | лофт | https://www.loft2rent.ru/loft/118569 | phone | 79268640107 |
+| Лофт СОВА. Пространство с верандой в Измайловском Кремле | лофт | https://www.reveltime.ru/venue/3703249?eventtype=vecherinka | phone | +79584974215 |
 | Лофт Сосновый для свадьбы | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Лофт Софт | лофт | https://www.reveltime.ru/venue/8422925?eventtype=vecherinka | phone | +79584974208 |
 | Лофт Сочный на Ордынке | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 999 405 0699 |
 | Лофт СПЭЙС - это светлый, уютный лофт с панорамными окнами, караоке, кальянами... | лофт | https://www.loft2rent.ru/loft/61271 | phone | +79912974996 |
 | Лофт стеклянный "Бриз" аренда под свадьбу | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Лофт Таежный для свадьбы | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Лофт Тайна | лофт | https://www.loft2rent.ru/loft/176812 | phone | 89251973620 |
 | Лофт ТВИКС - это светлый, уютный лофт с верандой, мангалом, караоке, кальянами... | лофт | https://www.loft2rent.ru/loft/61271 | phone | +7 (991) 297-49-96 |
+| Лофт Твоя вина | лофт | https://www.reveltime.ru/venue/8471705?eventtype=vecherinka | phone | +79584974228 |
 | ЛОФТ ТЕЛЕСКОП с собственной Крышей | лофт | https://www.loft2rent.ru/loft/884/893 | phone | +74991121830 |
 | Лофт Тепло в ЕКБ | лофт | https://www.loft2rent.ru/loft/80704 | phone | 89953430416 |
 | Лофт ТОКИО | лофт | https://www.loft2rent.ru/loft/53422 | phone | 8-800-550-11-60 |
 | Лофт Толстого | лофт | https://www.loft2rent.ru/loft/94725/94734 | phone | +79274923932 |
+| Лофт Три бобра | лофт | https://www.reveltime.ru/venue/6171456?eventtype=vecherinka | phone | +79346644195 |
 | Лофт ТУСА - включено караоке, светомузыка, посуда. ЦАО, рядом с рекой | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
 | Лофт Удачи | лофт | https://www.loft2rent.ru/loft/156910/157365 | phone | 89122608967 |
 | Лофт Уютный | лофт | https://www.loft2rent.ru/loft/110422 | phone | +79251976532 |
+| Лофт Фантом | лофт | https://www.reveltime.ru/venue/5117405?eventtype=vecherinka | phone | +79386982643 |
+| Лофт Фарфор. Большой исторический лофт | лофт | https://www.reveltime.ru/venue/3509324?eventtype=vecherinka | phone | +79910172413 |
+| Лофт Фарфор. Лофт в здании 18 века | лофт | https://www.reveltime.ru/venue/294022?eventtype=vecherinka | phone | +79778814724 |
+| Лофт Фарфор. Неоновый лисенок. Дизайнерский лофт-зал 70кв.м | лофт | https://www.reveltime.ru/venue/3464143?eventtype=vecherinka | phone | +79910172113 |
+| Лофт Фарфор. Современный двухкомнатный лофт | лофт | https://www.reveltime.ru/venue/4406245?eventtype=vecherinka | phone | +79584974160 |
+| Лофт Фарфор. Стильный лофт с колоннами | лофт | https://www.reveltime.ru/venue/332947?eventtype=vecherinka | phone | +79778814724 |
+| Лофт Фарфор. Торжественный лофт с роялем | лофт | https://www.reveltime.ru/venue/643984?eventtype=vecherinka | phone | +79778814724 |
+| Лофт Фарфор. Тёмный лофт | лофт | https://www.reveltime.ru/venue/4898097?eventtype=vecherinka | phone | +79019397094 |
 | Лофт Флора | лофт | https://www.loft2rent.ru/loft/30979 | phone | +79936053121 |
 | Лофт Флоу | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
 | Лофт Цоколь | лофт | https://www.loft2rent.ru/loft/94725 | phone | +79274923932 |
 | Лофт Шекспир с караоке на Дмитровской | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 926 495 0693 |
+| Лофт Эко. Эго | лофт | https://www.reveltime.ru/venue/4553418?eventtype=vecherinka | phone | +79688786565 |
 | Лофт, залы для мероприятий, тренингов, праздников, корпоративов, обучения | лофт | https://www.loft2rent.ru/loft/170584 | phone | +7 913 716-21-33 |
 | Лофт-BEE-LOUNGE | лофт | https://www.loft2rent.ru/loft/77214 | phone | +79254101344 |
 | Лофт-RAVE | лофт | https://www.loft2rent.ru/loft/77214 | phone | +79254101344 |
 | Лофт-The-Forest | лофт | https://www.loft2rent.ru/loft/77214 | phone | +79254101344 |
+| Лофт-бар | лофт | https://www.reveltime.ru/venue/3509254?eventtype=vecherinka | phone | +79386989873 |
 | Лофт-Бар "Сота" на Алексеевской | лофт | https://www.loft2rent.ru/loft/110857/110865 | phone | +79771476874 |
 | Лофт-бар зал "Под Крышей" | лофт | https://www.loft2rent.ru/loft/39383 | phone | +79993492320 |
 | Лофт-Веранда "Дивный лес" | лофт | https://www.loft2rent.ru/loft/182845 | phone | 8 9167150457 |
@@ -13864,6 +14223,49 @@
 | Лофт-нарния «Иду Лесом» | лофт | https://www.loft2rent.ru/loft/49814 | phone | 89998957134 |
 | Лофт-пространство Centrum круглой формы со сценой и диско-шарами | лофт | https://www.loft2rent.ru/loft/97467 | phone | +7 985 219 8400 |
 | Лофт-центр «Б69» с верандой на крыше | лофт | https://www.loft2rent.ru/loft/54749 | phone | +79311065003 |
+| Лофт-центр Б69. Зал Disco Spa с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462119?eventtype=vecherinka | phone | +79584974089 |
+| Лофт-центр Б69. Зал Lollipop с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462192?eventtype=vecherinka | phone | +79584974206 |
+| Лофт-центр Б69. Зал Pop Art с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462205?eventtype=vecherinka | phone | +79584974208 |
+| Лофт-центр Б69. Зал Red Flag с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512912?eventtype=vecherinka | phone | +79019317588 |
+| Лофт-центр Б69. Зал UFC с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462280?eventtype=vecherinka | phone | +79584974208 |
+| Лофт-центр Б69. Зал Urban с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462256?eventtype=vecherinka | phone | +79584974208 |
+| Лофт-центр Б69. Зал Акира | лофт | https://www.reveltime.ru/venue/4461391?eventtype=vecherinka | phone | +79584974167 |
+| Лофт-центр Б69. Зал Арена с верандой на крыше | лофт | https://www.reveltime.ru/venue/4498432?eventtype=vecherinka | phone | +79584974228 |
+| Лофт-центр Б69. Зал Арт Фьюжен с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461906?eventtype=vecherinka | phone | +79584974139 |
+| Лофт-центр Б69. Зал Багз Банни с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512848?eventtype=vecherinka | phone | +79584974039 |
+| Лофт-центр Б69. Зал Бохо с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461757?eventtype=vecherinka | phone | +79584974150 |
+| Лофт-центр Б69. Зал Бунгало с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461721?eventtype=vecherinka | phone | +79584974150 |
+| Лофт-центр Б69. Зал Бэнкси с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512761?eventtype=vecherinka | phone | +79584974084 |
+| Лофт-центр Б69. Зал Вандал с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461712?eventtype=vecherinka | phone | +79584974150 |
+| Лофт-центр Б69. Зал Вегас с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512725?eventtype=vecherinka | phone | +79584974084 |
+| Лофт-центр Б69. Зал Веном с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461793?eventtype=vecherinka | phone | +79584974150 |
+| Лофт-центр Б69. Зал Винишко | лофт | https://www.reveltime.ru/venue/7693809?eventtype=vecherinka | phone | +79019317663 |
+| Лофт-центр Б69. Зал Во все тяжкие с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512906?eventtype=vecherinka | phone | +79584973975 |
+| Лофт-центр Б69. Зал Галерея | лофт | https://www.reveltime.ru/venue/4512874?eventtype=vecherinka | phone | +79584973975 |
+| Лофт-центр Б69. Зал Гараж | лофт | https://www.reveltime.ru/venue/4461877?eventtype=vecherinka | phone | +79584974139 |
+| Лофт-центр Б69. Зал Гетсби с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461922?eventtype=vecherinka | phone | +79584974139 |
+| Лофт-центр Б69. Зал Гримерка с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461946?eventtype=vecherinka | phone | +79584974139 |
+| Лофт-центр Б69. Зал Давид с верандой на крыше | лофт | https://www.reveltime.ru/venue/4461977?eventtype=vecherinka | phone | +79584974139 |
+| Лофт-центр Б69. Зал Дисней 16+ с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462046?eventtype=vecherinka | phone | +79584974089 |
+| Лофт-центр Б69. Зал Индиго с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512901?eventtype=vecherinka | phone | +79584973975 |
+| Лофт-центр Б69. Зал Контент База с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512868?eventtype=vecherinka | phone | +79584974039 |
+| Лофт-центр Б69. Зал Кристалл | лофт | https://www.reveltime.ru/venue/4498497?eventtype=vecherinka | phone | +79584974228 |
+| Лофт-центр Б69. Зал Кутюр с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462088?eventtype=vecherinka | phone | +79584974089 |
+| Лофт-центр Б69. Зал Кэш с верандой на крыше | лофт | https://www.reveltime.ru/venue/4996505?eventtype=vecherinka | phone | +79584611054 |
+| Лофт-центр Б69. Зал ЛоуРайдер | лофт | https://www.reveltime.ru/venue/4462139?eventtype=vecherinka | phone | +79584974206 |
+| Лофт-центр Б69. Зал Материя с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512896?eventtype=vecherinka | phone | +79584973975 |
+| Лофт-центр Б69. Зал Нейросеть с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512858?eventtype=vecherinka | phone | +79584974039 |
+| Лофт-центр Б69. Зал Неон бар с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462178?eventtype=vecherinka | phone | +79584974206 |
+| Лофт-центр Б69. Зал Октава с верандой на крыше | лофт | https://www.reveltime.ru/venue/4910989?eventtype=vecherinka | phone | +79584055346 |
+| Лофт-центр Б69. Зал Олимпия с верандой на крыше | лофт | https://www.reveltime.ru/venue/4512820?eventtype=vecherinka | phone | +79584974039 |
+| Лофт-центр Б69. Зал Подушка Пати с верандой на крыше | лофт | https://www.reveltime.ru/venue/4497618?eventtype=vecherinka | phone | +79584974228 |
+| Лофт-центр Б69. Зал Призма с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462294?eventtype=vecherinka | phone | +79584974331 |
+| Лофт-центр Б69. Зал Слово пацана | лофт | https://www.reveltime.ru/venue/4462237?eventtype=vecherinka | phone | +79584974208 |
+| Лофт-центр Б69. Зал СССР | лофт | https://www.reveltime.ru/venue/4498536?eventtype=vecherinka | phone | +79584974228 |
+| Лофт-центр Б69. Зал Ультра с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462148?eventtype=vecherinka | phone | +79584974206 |
+| Лофт-центр Б69. Зал Форсаж | лофт | https://www.reveltime.ru/venue/4512891?eventtype=vecherinka | phone | +79584973975 |
+| Лофт-центр Б69. Зал Черный Антик с верандой на крыше | лофт | https://www.reveltime.ru/venue/4462264?eventtype=vecherinka | phone | +79584974208 |
+| Лофт-центр Б69. Зал Якудза | лофт | https://www.reveltime.ru/venue/4512806?eventtype=vecherinka | phone | +79584974064 |
 | ЛофтDream Game Center | лофт | https://www.loft2rent.ru/loft/144107/144124 | phone | + 7 (495) 739-09-15 |
 | Лофт«PAPA BARVILLAGE» | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | ЛофтЗал-сцена | лофт | https://www.loft2rent.ru/loft/141961/149990 | phone | +7-(977)-422-26-29 |
@@ -13871,6 +14273,7 @@
 | ЛофтЛаунж-зал | лофт | https://www.loft2rent.ru/loft/141961/176556 | phone | +7-(977)-422-26-29 |
 | ЛофтПати Рум №1 | лофт | https://www.loft2rent.ru/loft/144107/183473 | phone | + 7 (495) 739-09-15 |
 | ЛофтСамый Лучший День | лофт | https://www.loft2rent.ru/loft/101669/101686 | phone | +73432710202 |
+| ЛофтСити Лаундж. Grey Silk (Грей Силк) | лофт | https://www.reveltime.ru/venue/6637413?eventtype=vecherinka | phone | +79346699837 |
 | Лофты в Химках и ЗеленоградеЛофт "Королевство праздников" | лофт | https://www.loft2rent.ru/loft/142525/142528 | phone | 89637619043 |
 | Лофты в Химках и ЗеленоградеЛофт "Планета праздника" | лофт | https://www.loft2rent.ru/loft/142525/186860 | phone | +79637619043 |
 | Лофты в Химках и ЗеленоградеЛофт "У дяди Саши" | лофт | https://www.loft2rent.ru/loft/142525/142584 | phone | 89685251155 |
@@ -13899,7 +14302,9 @@
 | Люкс апартаменты Москва-СитиThe Cloud Room №3 | лофт | https://www.loft2rent.ru/loft/174655/174674 | phone | +7(995) 557-39-68 |
 | Люкс-лофт 89 м² в Москва-Сити Neva Towers (Moscow city Neva Towers) | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Люксовые Апартаменты В Москва-Сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Люксовый лофт Дюна со стеклянным баром | лофт | https://www.reveltime.ru/venue/8404629?eventtype=vecherinka | phone | +79584974150 |
 | Люксовый лофт Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Люмьер. Кинолофт с выходом на крышу | лофт | https://www.reveltime.ru/venue/5339840?eventtype=vecherinka | phone | +79676928674 |
 | Ля МузонКонцертный зал | лофт | https://www.loft2rent.ru/loft/186547/186554 | phone | +79857662030 |
 | Ля МузонХрустальный зал | лофт | https://www.loft2rent.ru/loft/186547/186549 | phone | +79857662030 |
 | ЛЁГКИЙ | лофт | https://www.loft2rent.ru/loft/15054 | phone | +79035558942 |
@@ -13951,10 +14356,14 @@
 | Малый Тронный Зал | лофт | https://www.loft2rent.ru/loft/81543 | phone | +7 (952) 373-58-70 |
 | Мансарда | лофт | https://www.loft2rent.ru/loft/110170 | phone | +79213544851 |
 | Мансарда | лофт | https://www.loft2rent.ru/loft/94725 | phone | +79274923932 |
+| Мансардный лофт | лофт | https://www.reveltime.ru/venue/804143?eventtype=vecherinka | phone | +74991112578 |
 | Манхэттен | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Марокко | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
-| МастериумЛофт 230м² \| Потолки 5м \| Звук 1000Вт \| Своя парковка \| Метро 10 мин | лофт | https://www.loft2rent.ru/loft/189763/189826 | phone | +79032625352 |
-| МастериумПереговорка 12 чел \| 55" ЖК \| Своя парковка \| Метро 10 мин | лофт | https://www.loft2rent.ru/loft/189763/196965 | phone | +79032625352 |
+| МастериумЛофт 230м² \ | Потолки 5м \ | Звук 1000Вт \ | Своя парковка \ | Метро 10 мин |
+| МастериумПереговорка 12 чел \ | 55" ЖК \ | Своя парковка \ | Метро 10 мин | лофт |
+| Мастерская на Кулишках | лофт | https://www.reveltime.ru/venue/482584?eventtype=vecherinka | phone | +79651473923 |
+| Мастерская на Кулишках. Атмосферный лофт | лофт | https://www.reveltime.ru/venue/463327?eventtype=vecherinka | phone | +79651473923 |
+| Мастерская на Кулишках. Творческий лофт | лофт | https://www.reveltime.ru/venue/471230?eventtype=vecherinka | phone | +79651473923 |
 | МаякDanceБольшой зал (2 танцкласс) | лофт | https://www.loft2rent.ru/loft/43338/108226 | phone | 89295879151 |
 | МаякDanceМалый зал (4 танцкласс) | лофт | https://www.loft2rent.ru/loft/43338/108512 | phone | 89295879151 |
 | МаякDanceСредний зал (3 танцзал) | лофт | https://www.loft2rent.ru/loft/43338/43340 | phone | 89295879151 |
@@ -13968,6 +14377,17 @@
 | Мексика | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | МелОк Лофт | лофт | https://www.loft2rent.ru/loft/120045/120947 | phone | +7 936 313 1606 |
 | Мемори - танцевальный лофт с караоке, большим экраном, фотозоной с неоном и сценой! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
+| Мемори лофт. Versailles (Версаль). Элегантный лофт | лофт | https://www.reveltime.ru/venue/8307065?eventtype=vecherinka | phone | +79346608162 |
+| Мемори лофт. Гэтсби. Стильный тематический лофт в черно-золотых цветах | лофт | https://www.reveltime.ru/venue/6560186?eventtype=vecherinka | phone | +79019397085 |
+| Мемори лофт. Дримс. Клубный лофт с караоке и диско‑шаром | лофт | https://www.reveltime.ru/venue/6560340?eventtype=vecherinka | phone | +79019397085 |
+| Мемори лофт. Дэнс. Современный лофт | лофт | https://www.reveltime.ru/venue/6560375?eventtype=vecherinka | phone | +79019397085 |
+| Мемори лофт. Классик. Лофт с двумя залами | лофт | https://www.reveltime.ru/venue/7566650?eventtype=vecherinka | phone | +79346644195 |
+| Мемори лофт. Классик. Элегантный лофт в классическом стиле | лофт | https://www.reveltime.ru/venue/6560301?eventtype=vecherinka | phone | +79019397085 |
+| Мемори лофт. Мемори. Танцевальный лофт | лофт | https://www.reveltime.ru/venue/6559792?eventtype=vecherinka | phone | +79019397046 |
+| Мемори лофт. Севилья. Уютный лофт с мебелью и светомузыкой | лофт | https://www.reveltime.ru/venue/8307501?eventtype=vecherinka | phone | +79346657019 |
+| Мемори лофт. Тиффани. Изысканный лофт | лофт | https://www.reveltime.ru/venue/6560444?eventtype=vecherinka | phone | +79019397094 |
+| Мемори лофт. Токио. Лофт в японском стиле с модным дизайном | лофт | https://www.reveltime.ru/venue/6560415?eventtype=vecherinka | phone | +79019397094 |
+| Мемори лофт. Хэппи. Светлый лофт | лофт | https://www.reveltime.ru/venue/6560202?eventtype=vecherinka | phone | +79019397085 |
 | Мемфис - дизайнерский лофт с отдельной кухней и отдельным входом в ЦАО | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Место Встречи | лофт | https://www.loft2rent.ru/loft/202376/202378 | phone | 79912822728 |
 | Металлинвестбанк | банк | https://metallinvestbank.ru | email | metib@metib.ru |
@@ -13983,10 +14403,12 @@
 | МИКС ЛОФТ | лофт | https://www.loft2rent.ru/loft/126318 | phone | +79117555688 |
 | МИЛК (MILK) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
 | Милый Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Мини-лофт с кухней | лофт | https://www.reveltime.ru/venue/539567?eventtype=vecherinka | phone | +79150794620 |
 | Мини-отель "Таёжный"Банкетный зал | лофт | https://www.loft2rent.ru/loft/81868/81870 | phone | 7 495 134 34 64 |
 | Мини-отель "Таёжный"Деревянный Дом | лофт | https://www.loft2rent.ru/loft/81868/162285 | phone | 7 495 134 34 64 |
 | Мини-отель "Таёжный"Треугольный дом | лофт | https://www.loft2rent.ru/loft/81868/120531 | phone | 7 495 134 34 64 |
 | МиниМания – Детская игровая комнатаМиниМания | лофт | https://www.loft2rent.ru/loft/152329/152369 | phone | +7(917)599-5654 |
+| МиниПати. Уютный лофт для небольшой компании, с караоке, большим экраном, диско-шаром, фотозоной с неоном и мощным звуком | лофт | https://www.reveltime.ru/venue/6829674?eventtype=vecherinka | phone | +79346691548 |
 | Министерство лофт в Столешниковом переулке | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
 | МИР концертный зал | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Мира - атмосферный лофт в арт-пространстве с барами и кафе | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
@@ -14056,6 +14478,7 @@
 | Модильяни - Просторный светлый лофт с камином | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | МодникиБар Модники | лофт | https://www.loft2rent.ru/loft/119050/119662 | phone | +7 (915) 134-33-39 |
 | Молодежное пространствоЛофт Молодежное пространстов | лофт | https://www.loft2rent.ru/loft/198256/202532 | phone | 89268153040 |
+| Момент. Просторный светлый зал со сценой, светомузыкой и караоке | лофт | https://www.reveltime.ru/venue/8465977?eventtype=vecherinka | phone | +79584974215 |
 | Мондриан | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Моне - Уютный лофт в стиле импрессионизм | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | Монмартр - 3-х этажный особняк | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
@@ -14110,6 +14533,24 @@
 | МОЭСК | организация | https://rossetimr.ru | social | https://rutube.ru/channel/24148141 |
 | МОЭСК | организация | https://rossetimr.ru | social | https://t.me/rossetimr_ru |
 | МОЭСК | организация | https://rossetimr.ru | social | https://vk.com/rossetimr |
+| МСК Плейс. Лофт Sava (Сава) | лофт | https://www.reveltime.ru/venue/3892535?eventtype=vecherinka | phone | +79346699837 |
+| МСК Плейс. Лофт Wine (Вайн) | лофт | https://www.reveltime.ru/venue/3892587?eventtype=vecherinka | phone | +79346699837 |
+| МСК Плейс. Лофт Будда | лофт | https://www.reveltime.ru/venue/3892486?eventtype=vecherinka | phone | +79346695974 |
+| МСК Плейс. Лофт Вега | лофт | https://www.reveltime.ru/venue/4715576?eventtype=vecherinka | phone | +79019317685 |
+| МСК Плейс. Лофт Кактус | лофт | https://www.reveltime.ru/venue/3047800?eventtype=vecherinka | phone | +79813347290 |
+| МСК Плейс. Лофт Стекло | лофт | https://www.reveltime.ru/venue/4715548?eventtype=vecherinka | phone | +79019317685 |
+| МСК Плэйс. Лофт Candy (Конфета) | лофт | https://www.reveltime.ru/venue/5951389?eventtype=vecherinka | phone | +79346699837 |
+| МСК Плэйс. Лофт Deep (Дип) | лофт | https://www.reveltime.ru/venue/5952307?eventtype=vecherinka | phone | +79386982643 |
+| МСК Плэйс. Лофт Diamond (Бриллиант) | лофт | https://www.reveltime.ru/venue/5951795?eventtype=vecherinka | phone | +79386982643 |
+| МСК Плэйс. Лофт Karma (Карма) | лофт | https://www.reveltime.ru/venue/5952845?eventtype=vecherinka | phone | +79386989873 |
+| МСК Плэйс. Лофт Kristal (Кристалл ) | лофт | https://www.reveltime.ru/venue/5952189?eventtype=vecherinka | phone | +79386982643 |
+| МСК Плэйс. Лофт Luna (Луна) | лофт | https://www.reveltime.ru/venue/4715559?eventtype=vecherinka | phone | +79019317685 |
+| МСК Плэйс. Лофт Queen Loft (Королева Лофт) | лофт | https://www.reveltime.ru/venue/5080205?eventtype=vecherinka | phone | +79584611054 |
+| МСК Плэйс. Лофт Rich (Рич) | лофт | https://www.reveltime.ru/venue/5951144?eventtype=vecherinka | phone | +79346699837 |
+| МСК Плэйс. Лофт Solo (Соло) | лофт | https://www.reveltime.ru/venue/5952327?eventtype=vecherinka | phone | +79386982643 |
+| МСК Плэйс. Лофт White Swan (Белый Лебедь) | лофт | https://www.reveltime.ru/venue/5952371?eventtype=vecherinka | phone | +79386989873 |
+| МСК Плэйс. Лофт Алоха | лофт | https://www.reveltime.ru/venue/4715593?eventtype=vecherinka | phone | +79019397046 |
+| МСК Плэйс. Лофт со светомузыкой | лофт | https://www.reveltime.ru/venue/5000508?eventtype=vecherinka | phone | +79584611054 |
 | МСЛВЕРАНДА-Лофт | лофт | https://www.loft2rent.ru/loft/87538/87568 | phone | +79855635615 |
 | МСЛКОНГА-Лофт | лофт | https://www.loft2rent.ru/loft/87538/100853 | phone | +79937772233 |
 | МСЛЛофт-МОЖЖЕВЕЛЬНИК | лофт | https://www.loft2rent.ru/loft/87538/129164 | phone | +79855635615 |
@@ -14357,6 +14798,7 @@
 | Музыкальная студия | лофт | https://www.loft2rent.ru/loft/80704 | phone | 89937738586 |
 | Музыкальный караоке лофт ПарусМузыкальный лаунж караоке Парус | лофт | https://www.loft2rent.ru/loft/29021/31149 | phone | +7(985) 617-48-34 |
 | Музыкальный лофт | лофт | https://www.loft2rent.ru/loft/72825 | phone | +7 (921) 857-75-44 |
+| Музыкальный лофт на Тульской | лофт | https://www.reveltime.ru/venue/4122307?eventtype=vecherinka | phone | +79218577544 |
 | Мультивселенная | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Мультимедиа Арт Музей (МАММ) | ивент-спейс | https://mamm-mdf.ru | email | event@mdf.ru |
 | Мультимедиа Арт Музей (МАММ) | ивент-спейс | https://mamm-mdf.ru | email | info@mdf.ru |
@@ -14369,6 +14811,7 @@
 | Мультимедиа Арт Музей (МАММ) | ивент-спейс | https://mamm-mdf.ru | social | https://t.me/multimediaartmuseum |
 | Мультимедиа Арт Музей (МАММ) | ивент-спейс | https://mamm-mdf.ru | social | https://vk.com/mamm_mdf |
 | Мультимедийное пространство LUMIONМультимедийное пространство LUMION | лофт | https://www.loft2rent.ru/loft/146054/146061 | phone | +79211811188 |
+| Мультиформатный лофт-зал | лофт | https://www.reveltime.ru/venue/6748625?eventtype=vecherinka | phone | +79584974084 |
 | Мун-светлый лофт с луной, высокими потолками и караоке! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
 | МункMunk | лофт | https://www.loft2rent.ru/loft/84338/84380 | phone | +7 (999) 5587889 |
 | Мураново | ивент-спейс | https://muranovo-museum.ru | email | mk_muranovo@mosreg.ru |
@@ -14390,6 +14833,7 @@
 | На Тульской | лофт | https://www.loft2rent.ru/loft/27053 | phone | +79937772233 |
 | Набережная Севкабель Порта | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | НаВысоте | лофт | https://www.loft2rent.ru/loft/186080/187537 | phone | +79629723232 |
+| Назаров Студио. Лофт с музыкальным оборудованием | лофт | https://www.reveltime.ru/venue/4199777?eventtype=vecherinka | phone | +79346692796 |
 | НАО «Абс Энергонефть» | организация | https://www.absenergo.ru | email | abs_info@absenergo.ru |
 | НАО «Право.Ру» | организация | https://pravo.ru | email | rating@mail.ru |
 | НАО «Право.Ру» | организация | https://pravo.ru | phone | +7 (495) 645-37-60 |
@@ -14440,6 +14884,7 @@
 | Невероятный лофт Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Нежный лофт "Дримзон" с диско-шаром, фотозоной и караоке / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | Необычная Веранда | лофт | https://www.loft2rent.ru/loft/3318 | phone | +74952080038 |
+| Неоновый лофт Гламур | лофт | https://www.reveltime.ru/venue/5653088?eventtype=vecherinka | phone | +79893636021 |
 | неорюмочная "Мама Тата" | лофт | https://www.loft2rent.ru/loft/95637/95639 | phone | +7 911 258 23-76 |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | andreev_dn@nlmk.com |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | bulashov_io@nlmk.com |
@@ -14513,7 +14958,7 @@
 | Ночной клуб SistersПлощадка под мероприятия (до 600 чел) | лофт | https://www.loft2rent.ru/loft/103728/103735 | phone | 7 905 569-69-86 |
 | Ночной Клуб Zall | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Ночной клуб ZANOZA | лофт | https://www.loft2rent.ru/loft/190306/190484 | phone | 79256147616 |
-| Ночной_Клуб\|\|ЦС/19 | лофт | https://www.loft2rent.ru/loft/77474 | phone | +79264661718 |
+| Ночной_Клуб\ | \ | ЦС/19 | лофт | https://www.loft2rent.ru/loft/77474 |
 | НРД (Нац. расчётный депозитарий) | организация | https://www.nsd.ru | email | clients@nsd.ru |
 | НРД (Нац. расчётный депозитарий) | организация | https://www.nsd.ru | email | sales@nsd.ru |
 | НРД (Нац. расчётный депозитарий) | организация | https://www.nsd.ru | phone | +7 (495) 234-48-27 |
@@ -14565,6 +15010,8 @@
 | Общая гостиная | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Общий зал караоке на Новослободской | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
 | Объект47 | лофт | https://www.loft2rent.ru/loft/96044/96046 | phone | +7 9167569159 |
+| Объект47. Двухэтажный лофт | лофт | https://vk.ru/object47 | phone | +79959017418 |
+| Огромное пространство для событий | лофт | https://www.reveltime.ru/venue/631962?eventtype=vecherinka | phone | +79019317588 |
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | email | info@uecrus.com |
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | email | press@uecrus.com |
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | phone | +7 (495) 232-55-02 |
@@ -14578,6 +15025,8 @@
 | Однажды в Голливуде | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Ой, всё! Content Studio 24/7«Ой, всё!» | лофт | https://www.loft2rent.ru/loft/162087/162090 | phone | 89260150090 |
 | Океан | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Оливка. Пространство с большими окнами | лофт | https://www.reveltime.ru/venue/6253266?eventtype=vecherinka | phone | +79584974160 |
+| Оливка. Современный дизайнерский лофт с барной стойкой, караоке, светомузыкой и удобным зонированием | лофт | https://www.reveltime.ru/venue/8460866?eventtype=vecherinka | phone | +79584974226 |
 | Олимп | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | ОМ | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
 | Омега | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
@@ -22852,6 +23301,7 @@
 | ОрденАнтарес | лофт | https://www.loft2rent.ru/loft/88187/116614 | phone | +79099991836 |
 | ОрденОРДЕН | лофт | https://www.loft2rent.ru/loft/88187/88191 | phone | +79099991836 |
 | Орлеан | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Оружейный лофт КАРБОН | лофт | https://www.reveltime.ru/venue/8500393?eventtype=vecherinka | phone | +79584973975 |
 | Оружейный лофт КАРБОН с аэрохоккеем | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
 | ОсноваОсноваLOFT | лофт | https://www.loft2rent.ru/loft/163461/163463 | phone | 89221563034 |
 | Основной зал | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
@@ -22915,7 +23365,7 @@
 | ПАЛАТИУМ-ЛОФТ - ПРОСТОРНЫЙ ЗАЛ С ПРОЕКТОРОМ И АКУСТИЧЕСКОЙ СИСТЕМОЙ, ИДЕАЛЬНО ДЛЯ ТРЕНИНГОВ И БОЛЬШИХ ВЕЧЕРИНОК! | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | ПалаццоИсторический особняк на набережной | лофт | https://www.loft2rent.ru/loft/96611/96977 | phone | +79219337016 |
 | палитра чувств | лофт | https://www.loft2rent.ru/loft/126748/126750 | phone | +79779097925 |
-| Пандора \| Выхино. Пространство праздников и активных развлечений | лофт | https://www.loft2rent.ru/loft/182884 | phone | 74951280076 |
+| Пандора \ | Выхино. Пространство праздников и активных развлечений | лофт | https://www.loft2rent.ru/loft/182884 | phone |
 | Панорама | лофт | https://www.loft2rent.ru/loft/99182 | phone | +7 (812) 984-43-54 |
 | Панорама-холл Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Панорамный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
@@ -23098,6 +23548,7 @@
 | Парадайз | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Парадайс / ПарадайсРИЗЗ / РИЗЗ | лофт | https://www.loft2rent.ru/loft/180043/187835 | phone | +79254200006 |
 | Парадная | лофт | https://www.loft2rent.ru/loft/191214/191364 | phone | 89853810192 |
+| Парадная. Пространство на мансардном этаже | лофт | https://www.reveltime.ru/venue/8259964?eventtype=vecherinka | phone | +79346692796 |
 | ПАРИЖ - PROSPECT | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | Парк виртуальной реальности WARPOINTWarpoint Vegas | лофт | https://www.loft2rent.ru/loft/134894/134919 | phone | 89031032447 |
 | Парк Горького | парк / культурное пространство | https://park-gorkogo.ru | email | email |
@@ -23172,6 +23623,7 @@
 | Площадки в разном стиле под мероприятияМногофункциональная площадка со Сценой | лофт | https://www.loft2rent.ru/loft/14228/14266 | phone | +7(916)242-10-22 |
 | Площадки в разном стиле под мероприятияСтудия с лесной поляной в стиле Прованс | лофт | https://www.loft2rent.ru/loft/14228/17292 | phone | +7(916)242-10-22 |
 | Площадки в разном стиле под мероприятияСтудия с морским песком и водопадом | лофт | https://www.loft2rent.ru/loft/14228/17291 | phone | +7(916)242-10-22 |
+| Плэйс Лофт. Prisma Loft (Призма Лофт) | лофт | https://www.reveltime.ru/venue/5952237?eventtype=vecherinka | phone | +79386982643 |
 | Повод ЕстьПространство Повод Есть | лофт | https://www.loft2rent.ru/loft/127212/127215 | phone | 8 929 628 94 38 |
 | Подземелье Тёмного Лорда | лофт | https://www.loft2rent.ru/loft/140849/140852 | phone | 89251935330 |
 | Подземелье Тёмного ЛордаДом Гарри | лофт | https://www.loft2rent.ru/loft/140849/145212 | phone | 89251935330 |
@@ -23249,10 +23701,13 @@
 | Промсвязьбанк | банк | https://psbank.ru | social | https://rutube.ru/channel/24734074 |
 | Промсвязьбанк | банк | https://psbank.ru | social | https://t.me/psbbank |
 | Промсвязьбанк | банк | https://psbank.ru | social | https://vk.com/psbank_ru |
+| Просторный двухуровневый зал для мероприятий | лофт | https://www.reveltime.ru/venue/9030250?eventtype=vecherinka | phone | +79346644195 |
 | Просторный зал 120 м² со сценой на Чистых прудах | лофт | https://www.loft2rent.ru/loft/74665 | phone | 89175091916 |
 | Просторный лофт  с двумя верандами и караоке | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
 | Просторный лофт Дельта со сценой, караоке, верандой и активностями в 3-х минутах от метро | лофт | https://www.loft2rent.ru/loft/1665 | phone | +7 (967) 239 36 03 |
 | Просторный лофт на Вернисаже  с терассой и окошками | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +79773592477 |
+| Просторный лофт с верандой | лофт | https://www.reveltime.ru/venue/5463072?eventtype=vecherinka | phone | +79346692796 |
+| Просторный лофт с панорамными окнами и циклорамой | лофт | https://www.reveltime.ru/venue/5138448?eventtype=vecherinka | phone | +79584630738 |
 | Пространство | лофт | https://www.loft2rent.ru/loft/85879 | phone | +79267395955 |
 | Пространство " Аквариум"Арт-зал для мероприятий | лофт | https://www.loft2rent.ru/loft/78685/78687 | phone | +79818924436 |
 | Пространство " Аквариум"Большой Арт Зал | лофт | https://www.loft2rent.ru/loft/78685/136059 | phone | +79818924436 |
@@ -23263,9 +23718,11 @@
 | Пространство "Место Радости"Лофт "Место Радости" | лофт | https://www.loft2rent.ru/loft/116515/116519 | phone | +79669305406 |
 | Пространство Lime | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
 | Пространство Mandarin | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
+| Пространство MIXSTUDIO (МиксСтудия) | лофт | https://www.reveltime.ru/venue/268738?eventtype=vecherinka | phone | +79019317643 |
 | Пространство «Мистерия»Зал 1 | лофт | https://www.loft2rent.ru/loft/108221/108223 | phone | +79966663431 |
 | Пространство «Мистерия»Зал 2 | лофт | https://www.loft2rent.ru/loft/108221/109881 | phone | +79966663431 |
 | Пространство «Мистерия»Кабинет | лофт | https://www.loft2rent.ru/loft/108221/109884 | phone | +79966663431 |
+| Пространство в индустриальном стиле | лофт | https://www.reveltime.ru/venue/3541472?eventtype=vecherinka | phone | +79818745551 |
 | Пространство ВЕСНА | лофт | https://www.loft2rent.ru/loft/5676/6087 | phone | +7(929) 630-30-19 |
 | Пространство с большой террасой. | лофт | https://www.loft2rent.ru/loft/49928 | phone | 89031888081 |
 | ПРОСТРАНСТВОЛофт Пространство | лофт | https://www.loft2rent.ru/loft/171350/171353 | phone | +7 963 711-78-81 |
@@ -23308,7 +23765,7 @@
 | Райффайзенбанк | банк | https://raiffeisen.ru | social | http://t.me/Raiffeisenbankrus |
 | Райффайзенбанк | банк | https://raiffeisen.ru | social | https://t.me/Raiffeisenbankrus |
 | Райффайзенбанк | банк | https://raiffeisen.ru | social | https://vk.com/raiffeisenbankrus |
-| Реактор \| Тропарёво. Пространство праздников и активных развлечений. | лофт | https://www.loft2rent.ru/loft/182884 | phone | 74951282293 |
+| Реактор \ | Тропарёво. Пространство праздников и активных развлечений. | лофт | https://www.loft2rent.ru/loft/182884 | phone |
 | Реалист Банк | организация | https://realistbank.ru | email | a.muzalevskaya@realistbank.ru |
 | Реалист Банк | организация | https://realistbank.ru | email | award-1@2x.png |
 | Реалист Банк | организация | https://realistbank.ru | email | back-info@pyrus.realistbank.ru |
@@ -23330,6 +23787,7 @@
 | РЕД лофт | лофт | https://www.loft2rent.ru/loft/134158 | phone | +79035848913 |
 | Резиденция | лофт | https://www.loft2rent.ru/loft/44815 | phone | +79164961191 |
 | Резиденция | лофт | https://www.loft2rent.ru/loft/97743 | phone | +79055733733 |
+| Рент-Лофт. TangoMio (ТангоМио) | лофт | https://www.reveltime.ru/venue/1465312?eventtype=vecherinka | phone | +79019397046 |
 | Ресто-лаунж "Мятный Енот""Сакура" | лофт | https://www.loft2rent.ru/loft/157829/157872 | phone | 89100050014 |
 | Ресто-лаунж "Мятный Енот"Vip-комната "Ночь" | лофт | https://www.loft2rent.ru/loft/157829/157905 | phone | 89100050014 |
 | Ресто-лаунж "Мятный Енот"Вип-комната "День" | лофт | https://www.loft2rent.ru/loft/157829/157897 | phone | 89100050014 |
@@ -23520,6 +23978,7 @@
 | СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://www.instagram.com/light__wed |
 | Свадебный Белый Лофт | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
 | Свети Прима | лофт | https://www.loft2rent.ru/loft/156268 | phone | +79111207195 |
+| Светлая фотостудия для ваших мероприятий | лофт | https://www.reveltime.ru/venue/5684782?eventtype=vecherinka | phone | +79910172113 |
 | Светлый Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Светлый зал 33 м² на Чистых прудах для любых мероприятий | лофт | https://www.loft2rent.ru/loft/74665 | phone | 89175091916 |
 | Светлый и просторный лофт в Москва-Сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
@@ -23594,14 +24053,19 @@
 | Сказка | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
 | Сказочный лес | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Скандинавское | лофт | https://www.loft2rent.ru/loft/30979 | phone | +7 9936053121 |
+| Скарфейс. Светлый лофт | лофт | https://www.reveltime.ru/venue/9034989?eventtype=vecherinka | phone | +79911714217 |
 | Скиния Спейс | лофт | https://www.loft2rent.ru/loft/201426/201447 | phone | +7 (916) 515-11-10 |
 | Склад №3 | лофт | https://www.loft2rent.ru/loft/165296/165298 | phone | 89100879032 |
 | Славия | организация | https://slaviabank.ru | phone | +7 (495) 787-33-33 |
 | Славия | организация | https://slaviabank.ru | phone | +7 (495) 969-24-15 |
 | Снежинский | организация | https://snbank.ru | email | infocenter@snbank.ru |
 | СобытИКо | лофт | https://www.loft2rent.ru/loft/183995/183997 | phone | 89253413314 |
+| Современное дизайнерское пространство | лофт | https://www.reveltime.ru/venue/5178304?eventtype=vecherinka | phone | +79952220259 |
 | Современный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | СОГЛАСИЕ HALL | лофт | https://www.loft2rent.ru/loft/74542/74547 | phone | 8 (495) 150-45-91 |
+| Соколиная Нора. Антикафе | лофт | https://www.reveltime.ru/venue/5997203?eventtype=vecherinka | phone | +79386989873 |
+| Соколиная Нора. Большая комната | лофт | https://www.reveltime.ru/venue/5998037?eventtype=vecherinka | phone | +79386989873 |
+| Соколиная Нора. Мягкая комната | лофт | https://www.reveltime.ru/venue/5997624?eventtype=vecherinka | phone | +79386989873 |
 | Сол х Магнето | лофт | https://www.loft2rent.ru/loft/20616/26722 | phone | +79264277701 |
 | Солид Банк | организация | https://solidbank.ru | email | bank@solidbank.ru |
 | Солид Банк | организация | https://solidbank.ru | email | ckp@solidbank.ru |
@@ -23638,6 +24102,7 @@
 | Старт ХабУчебная аудитория №4 на Красном Октябре | лофт | https://www.loft2rent.ru/loft/45041/68299 | phone | +7 (499) 455-24-03 |
 | Статусный лофт МАВИ на Ордынке | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 999 405 0699 |
 | Стеклянный лофт "ВОЗДУХ" под мероприятия | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Стилизованный лофт с отдельным входом | лофт | https://www.reveltime.ru/venue/3021620?eventtype=vecherinka | phone | +79259575977 |
 | Стильная игровая комната в центре Мск! | лофт | https://www.loft2rent.ru/loft/53089 | phone | 89099256100 |
 | Стильное пространство Soft loft со сценой и отдельным входом | лофт | https://www.loft2rent.ru/loft/97467 | phone | +7 985 219 8400 |
 | Стильные апартаменты в Москва-Сити с современными удобствами | лофт | https://www.loft2rent.ru/loft/170302/170320 | phone | 89649056209 |
@@ -23647,9 +24112,14 @@
 | Стильный лофт "Венеция" / Эстетика и уют / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | Стильный лофт "Гринвуд" с неоном и караоке / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | Стильный лофт ГЛАМУР | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
+| Стильный лофт Джаванди | лофт | https://www.reveltime.ru/venue/5444819?eventtype=vecherinka | phone | +79813347290 |
+| Стильный лофт для уютных вечеринок | лофт | https://www.reveltime.ru/venue/6427968?eventtype=vecherinka | phone | +79584974139 |
 | Стильный лофт на Западе Москвы | лофт | https://www.loft2rent.ru/loft/48012/48045 | phone | +79653004704 |
+| Стильный лофт с верандой | лофт | https://www.reveltime.ru/venue/398987?eventtype=vecherinka | phone | +79259575977 |
 | Стильный лофт с панорамным окном и барной стойкой (лофт БРЭДЛИ) | лофт | https://www.loft2rent.ru/loft/1564 | phone | 8 (939)888-00-08 |
 | Стильный лофт с потрясающим видом в Москва-Сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Стильный лофт-зал на Бауманской | лофт | https://www.reveltime.ru/venue/6778427?eventtype=vecherinka | phone | +79019317663 |
+| Стильный многофункциональный лофт | лофт | https://www.reveltime.ru/venue/7558312?eventtype=vecherinka | phone | +79584973975 |
 | Стильный уютный зал для вашего события рядом с метро Дмитровская | лофт | https://www.loft2rent.ru/loft/155206 | phone | +79160876137 |
 | Столица | лофт | https://www.loft2rent.ru/loft/176325/176327 | phone | +7 (953) 858-15-51 |
 | СТОУН (STONE) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
@@ -23661,11 +24131,12 @@
 | Студия "Электрод" | лофт | https://www.loft2rent.ru/loft/182967/182979 | phone | 89263586569 |
 | Студия 42 | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | Студия PROSPECT | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
-| Студия Б-33 \| "Парижская квартира" | лофт | https://www.loft2rent.ru/loft/69466 | phone | +79150624544 |
+| Студия Б-33 \ | "Парижская квартира" | лофт | https://www.loft2rent.ru/loft/69466 | phone |
 | Студия для проведения мастер-классовСтудия для проведения мастер-классов | лофт | https://www.loft2rent.ru/loft/135492/135718 | phone | +79852319920 |
 | Студия для танцев и вокалаАренда студии 50м2 | лофт | https://www.loft2rent.ru/loft/175546/175557 | phone | +79150593678 |
 | Студия достижений ТУДАЗал для тренингов и семинаров | лофт | https://www.loft2rent.ru/loft/192425/192428 | phone | +79663164223 |
 | Студия йоги и женских практик Храм Женщин | лофт | https://www.loft2rent.ru/loft/169857/169861 | phone | 87991186986 |
+| Студия Парус. Музыкальный лаунж лофт | лофт | https://www.reveltime.ru/venue/3017747?eventtype=vecherinka | phone | +79346657019 |
 | Студия Том Сойер | лофт | https://www.loft2rent.ru/loft/70039/70047 | phone | 89122932755 |
 | СтудияСтудия НАТ | лофт | https://www.loft2rent.ru/loft/197636/197642 | phone | +79817464074 |
 | Супер скидки до 15 июня.Камерная площадка. Все под ключ. | лофт | https://www.loft2rent.ru/loft/128345 | phone | +7-985-034-53-30 |
@@ -23753,6 +24224,7 @@
 | Терра. Лофт для тренингов и мероприятийЗал "АРИЗОНА" | лофт | https://www.loft2rent.ru/loft/108340/108386 | phone | +79132070014 |
 | Терра. Лофт для тренингов и мероприятийЗал "НЕВАДА" | лофт | https://www.loft2rent.ru/loft/108340/108364 | phone | +79132070014 |
 | Терра. Лофт для тренингов и мероприятийЗал "ОГАЙО" | лофт | https://www.loft2rent.ru/loft/108340/108424 | phone | +79132070014 |
+| Терра. Стилизованный двухэтажный лофт | лофт | https://www.reveltime.ru/venue/4189506?eventtype=vecherinka | phone | +79346691548 |
 | Терраса Cépage | лофт | https://www.loft2rent.ru/loft/199380 | phone | +79999917444 |
 | Территория Вквадрате | лофт | https://www.loft2rent.ru/loft/200197/202099 | phone | 89963046961 |
 | Тесла | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
@@ -23770,6 +24242,7 @@
 | Титан | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | Тиффани | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Тиффани - изысканный лофт с мебелью, светомузыкой, караоке и диско-шаром! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
+| Тиффани. Лофт с авторской мебелью | лофт | https://www.reveltime.ru/venue/3316656?eventtype=vecherinka | phone | +79584973975 |
 | ТНТ-Premier Production | организация | https://tnt-online.ru | email | crp@gpm-rtv.ru |
 | ТНТ-Premier Production | организация | https://tnt-online.ru | email | info@tnt-tv.ru |
 | ТНТ-Premier Production | организация | https://tnt-online.ru | email | o.nagornaya@gazprom-media.ru |
@@ -23864,6 +24337,7 @@
 | ТрансКапиталБанк | банк | https://tkbbank.ru | social | https://vk.com/tkb.bank |
 | тренинг центр | лофт | https://www.loft2rent.ru/loft/182399/184157 | phone | +74957456789 |
 | Тренинг-центр на Пресне, малый зал 35 м2 | лофт | https://www.loft2rent.ru/loft/207105 | phone | +7 (495) 130-11-27 |
+| Третье место | лофт | https://www.reveltime.ru/venue/4437874?eventtype=vecherinka | phone | +79346657019 |
 | Тринити | лофт | https://www.loft2rent.ru/loft/92780 | phone | +79935905884 |
 | Трудмос | лофт | https://www.loft2rent.ru/loft/198917/198919 | phone | 89150401164 |
 | Тёплая купольная беседка с панорамной верандой | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
@@ -23920,6 +24394,7 @@
 | УтренникВалетта | лофт | https://www.loft2rent.ru/loft/177770/177776 | phone | +79165827700 |
 | Уютная Летняя терраса | лофт | https://www.loft2rent.ru/loft/208153 | phone | +79032143720 |
 | Уютная переговорная № 11 с круглым столом | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
+| Уютное и камерное пространство для мероприятий | лофт | https://www.reveltime.ru/venue/3829933?eventtype=vecherinka | phone | +79584974208 |
 | Уютный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Уютный бар Лето | лофт | https://www.loft2rent.ru/loft/177908 | phone | +79164400130 |
 | Уютный бар лофт рядом с Кремлем | лофт | https://www.loft2rent.ru/loft/11791/26548 | phone | 8 915 268 38 31 |
@@ -23927,13 +24402,19 @@
 | УЮТНЫЙ ДВУХЭТАЖНЫЙ ЛОФТ С КАРАОКЕ И МЯГКОЙ МЕБЕЛЬЮ | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | Уютный и просторный лофт "Кинозвезда" / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | Уютный лофт в Москва-Сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Уютный лофт в центре города | лофт | https://www.reveltime.ru/venue/2363053?eventtype=vecherinka | phone | +74957489338 |
+| Уютный лофт для детских событий | лофт | https://www.reveltime.ru/venue/5383466?eventtype=vecherinka | phone | +79645120698 |
 | Уютный лофт КомоД с верандой, мангалом и сценой | лофт | https://www.loft2rent.ru/loft/1665 | phone | +79672393603 |
 | УЮТНЫЙ ЛОФТ ПЕРСИД | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
 | уютный лофт с верандой в парке ВДНХ | лофт | https://www.loft2rent.ru/loft/47660 | phone | 88005001523 |
+| Уютный лофт с отдельным входом и внутренним двором | лофт | https://www.reveltime.ru/venue/4556601?eventtype=vecherinka | phone | +79584974039 |
 | Уютный лофт с яркими акцентами LuckyDucky | лофт | https://www.loft2rent.ru/loft/22257 | phone | +7 (495) 432-01-36 |
+| Уютный лофт с яркими акцентами с летней верандой | лофт | https://www.reveltime.ru/venue/3539723?eventtype=vecherinka | phone | +79584974331 |
+| Уютный песочный лофт Персид | лофт | https://www.reveltime.ru/venue/8410119?eventtype=vecherinka | phone | +79584974089 |
 | Уютный премиальный ресторан с панорамным видом на озеро и Останкинскую башню | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Уютный ресторан на ВДНХ | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Уютный ретро лофт у метро с мощным звуком и караоке | лофт | https://www.loft2rent.ru/loft/207724 | phone | +79955046069 |
+| Уютный тропический лофт | лофт | https://www.reveltime.ru/venue/4145213?eventtype=vecherinka | phone | +79584974160 |
 | фазенда | лофт | https://www.loft2rent.ru/loft/27053 | phone | +79854311004 |
 | Фактура | лофт | https://www.loft2rent.ru/loft/126016/126018 | phone | +7 (495) 127-13-39 |
 | Фактурный лофт с барной стойкой и кухней (лофт ДУГЛАС) | лофт | https://www.loft2rent.ru/loft/1564 | phone | 8 (939)888-00-08 |
@@ -23982,10 +24463,19 @@
 | ФосАгро | химическая компания | https://www.phosagro.ru | email | pr@website.phosagro.ru |
 | ФосАгро | химическая компания | https://www.phosagro.ru | email | region@phosagro.ru |
 | ФосАгро | химическая компания | https://www.phosagro.ru | phone | +7 (800) 234-29-00 |
+| Фото карета. Зал Зефирка | лофт | https://www.reveltime.ru/venue/6992918?eventtype=vecherinka | phone | +79019317685 |
+| Фото карета. Зал Лаборатория | лофт | https://www.reveltime.ru/venue/7018070?eventtype=vecherinka | phone | +79019317685 |
+| Фото карета. Лофт Лось | лофт | https://www.reveltime.ru/venue/7012563?eventtype=vecherinka | phone | +79019317685 |
+| Фото карета. Неоновый зал Юность | лофт | https://www.reveltime.ru/venue/2416835?eventtype=vecherinka | phone | +79019397046 |
+| Фото карета. Сказка. Двухуровневый лофт | лофт | https://www.reveltime.ru/venue/6982364?eventtype=vecherinka | phone | +79019397046 |
 | Фотостудия "Кухня"Студия "Кухня" | лофт | https://www.loft2rent.ru/loft/74035/78056 | phone | +79167033377 |
+| Фотостудия Lounge (Лаунж) | лофт | https://www.reveltime.ru/venue/1332218?eventtype=vecherinka | phone | +79019397046 |
+| Фотостудия Lounge. LovelyLOFT (Лаунж. ЛовлиЛОФТ). Лофт из трех изолированных помещений | лофт | https://www.reveltime.ru/venue/1332224?eventtype=vecherinka | phone | +79019397046 |
+| Фотостудия Panda Зал с различными локациями | лофт | https://www.reveltime.ru/venue/2838375?eventtype=vecherinka | phone | +79259261415 |
 | Фотостудия RS StudioКомфортный конференц зал | лофт | https://www.loft2rent.ru/loft/134321/134325 | phone | +79122942009 |
 | Фотостудия RS StudioПлощадка под мероприятия фотостудия Rosso | лофт | https://www.loft2rent.ru/loft/134321/134324 | phone | +79122942009 |
 | Фотостудия StatusФото и Видео | лофт | https://www.loft2rent.ru/loft/176316/176318 | phone | +79816817834 |
+| Фотостудия WhitePlace. Лофт-кальянная | лофт | https://www.reveltime.ru/venue/489473?eventtype=vecherinka | phone | +74952222360 |
 | фотостудия Пространство зал Филикуди | лофт | https://www.loft2rent.ru/loft/31821 | phone | +74992887790 |
 | Фрактал Бенуа: уютный лофт для мероприятий с караоке и PlayStation | лофт | https://www.loft2rent.ru/loft/15086/26624 | phone | +79779620844 |
 | Фряново | ивент-спейс | https://museum-schel.ru | email | shel_muzeyshikm@mosreg.ru |
@@ -24070,6 +24560,7 @@
 | Центр РипаЛунгта | лофт | https://www.loft2rent.ru/loft/184918/184923 | phone | +7( 991) 935-99-93 |
 | Центр РипаПаво | лофт | https://www.loft2rent.ru/loft/184918/184944 | phone | +7( 991) 935-99-93 |
 | Центр РипаСиджи | лофт | https://www.loft2rent.ru/loft/184918/185037 | phone | +7( 991) 935-99-93 |
+| Центр современного искусства ВИНЗАВОД | лофт | https://www.reveltime.ru/venue/206461?eventtype=vecherinka | phone | +74959174646 |
 | Центр цифрового искусства Внутри | лофт | https://www.loft2rent.ru/loft/177814/177817 | phone | +7 916 583 7656 |
 | Центр ШамбалаБалетный зал | лофт | https://www.loft2rent.ru/loft/58461/114147 | phone | +79166703353 |
 | Центр ШамбалаШамбала | лофт | https://www.loft2rent.ru/loft/58461/58490 | phone | +79166703353 |
@@ -24092,6 +24583,7 @@
 | Центральный детский музей | ивент-спейс | https://cdm-moscow.ru | social | https://t.me/cdm_moscow |
 | Центральный детский музей | ивент-спейс | https://cdm-moscow.ru | social | https://t.me/ne_detskii |
 | Центральный детский музей | ивент-спейс | https://cdm-moscow.ru | social | https://vk.com/cdmmoscow |
+| Центрум. Уютное светлое пространство круглой формы | лофт | https://www.reveltime.ru/venue/6315341?eventtype=vecherinka | phone | +79584974160 |
 | ЦЕХ (1 ЭТАЖ) | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | ЦЕХ (2 ЭТАЖ) | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | ЦЕХ 42Малый зал | лофт | https://www.loft2rent.ru/loft/162410/200975 | phone | +7 (993) 281-43-76 |
@@ -24121,10 +24613,12 @@
 | Черкизово | агрохолдинг | https://cherkizovo.com | social | https://t.me/Cherkizovo_official |
 | Черкизово | агрохолдинг | https://cherkizovo.com | social | https://vk.com/cherkizovo_official?ysclid=ll21y8ncax23882637 |
 | Черника лофт | лофт | https://www.loft2rent.ru/loft/151581/151585 | phone | +79537802832 |
+| Честер. Зал с яркими диванами и камином | лофт | https://www.reveltime.ru/venue/3316674?eventtype=vecherinka | phone | +79346699837 |
 | Четыре зала Фотостудии BASE с отдельным входом в БЦ на Преображенке | лофт | https://www.loft2rent.ru/loft/53804 | phone | +79254214746 |
 | ЧеховЪ Лофт | лофт | https://www.loft2rent.ru/loft/126157/126539 | phone | 89957807068 |
 | Чечевица Лофт | лофт | https://www.loft2rent.ru/loft/83446/83448 | phone | 89052556556 |
 | Чикаго | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Чил лофт. Яркий лофт-зал для девичников | лофт | https://www.reveltime.ru/venue/5920735?eventtype=vecherinka | phone | +79346695974 |
 | Чудеса | лофт | https://www.loft2rent.ru/loft/40150 | phone | +79296769998 |
 | Шале | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Шале | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
@@ -24176,6 +24670,8 @@
 | Экспобанк | банк | https://expobank.ru | social | https://vk.com/share.php?url=https%3A%2F%2Fexpobank.ru%2Fblog%2Finvestitsii-v-zoloto-v-2025-godu%2F |
 | Экспобанк | банк | https://expobank.ru | social | https://vk.com/share.php?url=https%3A%2F%2Fexpobank.ru%2Fblog%2Fkibermoshennichestvo-kak-zashchitit-svoi-finansy%2F |
 | Элегантный зал ГОТЭМ | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
+| Элегантный лофт Готэм | лофт | https://www.reveltime.ru/venue/8504465?eventtype=vecherinka | phone | +79584974039 |
+| Элегантный лофт с хорошим звуком и балконом | лофт | https://www.reveltime.ru/venue/9168851?eventtype=vecherinka | phone | +79910173255 |
 | Элефантия | лофт | https://www.loft2rent.ru/loft/176750/176752 | phone | 8 343 238-15-50 |
 | Эль Плейс | лофт | https://www.loft2rent.ru/loft/73458/73460 | phone | 89600300400 |
 | Энгейдж ВДНХ | лофт | https://www.loft2rent.ru/loft/47660 | phone | 88005001523 |
@@ -24276,11 +24772,13 @@
 | Якитория | ресторанная сеть | https://yakitoriya.ru | social | https://vk.com/yakitoriyaru |
 | Якудза | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Ямайка | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
+| Ямайка. Уютный лофт в гавайском стиле | лофт | https://www.reveltime.ru/venue/5223286?eventtype=vecherinka | phone | +79586097164 |
 | Яндекс Банк | организация | https://bank.yandex.ru | email | connect@bank.yandex.ru |
 | Яндекс Банк | организация | https://bank.yandex.ru | email | support@bank.yandex.ru |
 | Яндекс Банк | организация | https://bank.yandex.ru | social | https://t.me/YANfintech |
 | Яндекс Банк | организация | https://bank.yandex.ru | social | https://t.me/yandexfintech |
 | Яндекс Маркет | организация | https://market.yandex.ru | social | https://vk.com/yandex.market |
+| Яркий двухуровневый лофт | лофт | https://www.reveltime.ru/venue/5828600?eventtype=vecherinka | phone | +79386989873 |
 | Яркий лофт "Диско" с розовым неоном / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | Яровит ХоллКонгресс центр Яровит Холл | лофт | https://www.loft2rent.ru/loft/115873/115891 | phone | +79952608808 |
 | Яровит ХоллЯровит Лофт | лофт | https://www.loft2rent.ru/loft/115873/177053 | phone | +79952608808 |
