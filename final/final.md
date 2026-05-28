@@ -1,6 +1,6 @@
 ## FINAL — контакты + тип организации
 
-Источник: `all/all_contacts.md` + `all/all_no_focus_has_site.md` (тип по совпадению организации+сайта) + `final/org_type_overrides.md` (ручные оверрайды по названию) + `data/лофтв/loft2rent_moscow.csv` (лофты loft2rent.ru, тип «лофт») + `data/лофтв/reveltime_moscow_vecherinka.csv` (reveltime.ru).
+Источник: `all/all_contacts.md` + `all/all_no_focus_has_site.md` (тип по совпадению организации+сайта) + `final/org_type_overrides.md` (ручные оверрайды по названию) + `data/лофтв/loft2rent_moscow.csv` (лофты loft2rent.ru, тип «лофт») + `data/лофтв/reveltime_moscow_vecherinka.csv` (reveltime.ru) + `data/hotels/ostrovok_moscow_4_5_stars.csv` (ostrovok.ru, 4–5★).
 
 | Организация | Тип | Сайт | Вид контакта | Контакт |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | 1 Арт Отель | отель | https://1arthotel.ru | phone | +7 (495) 323-99-99 |
 | 1 Арт Отель | отель | https://1arthotel.ru | phone | +7 (968) 508-47-54 |
 | 1 Арт Отель | отель | https://1arthotel.ru | social | https://t.me/onearthotel |
+| 1 Арт Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid9764903/1_art_hotel | address | Староалексеевская улица, д.20, Москва |
 | 1 зал Караоке Лофт-студии | лофт | https://www.loft2rent.ru/loft/12511 | phone | +7 (968) 992 44 84 |
 | 1 Зал Шайн 45 м2 | лофт | https://www.loft2rent.ru/loft/125716 | phone | 89612267251 |
 | 16 Тонн Арбат | лофт | https://www.loft2rent.ru/loft/197584/201762 | phone | 89264331399 |
@@ -770,6 +771,7 @@
 | Anvil Club | премиальный фитнес / private club | https://anvilclub.ru | social | https://t.me/anvilclub_f |
 | Apple Russia | технологическая компания | https://www.apple.com | phone | +18006927753 |
 | Apriori Photo Коричневый лофт с верандой | лофт | https://www.reveltime.ru/venue/455631?eventtype=vecherinka | phone | +74950034525 |
+| Aquamarine | отель | https://ostrovok.ru/hotel/russia/moscow/mid9291722/crowne_plaza_moscow_tretyakovskaya | address | Озерковская наб., д. 26, Москва |
 | Aquarel Hall | лофт | https://www.loft2rent.ru/loft/74440 | phone | 88124674730 |
 | Ararat Park Hyatt | luxury-отель | https://araratparkhotel.ru | email | moscow.park@araratph.ru |
 | Ararat Park Hyatt | luxury-отель | https://araratparkhotel.ru | email | reservation@araratph.ru |
@@ -1008,8 +1010,13 @@
 | AZIMUT Hotel Tulskaya | отель | https://azimuthotels.com/ru/moscow/azimut-hotel-tulskaya | social | https://t.me/iwafsupport |
 | Azimut Hotels | гостиничная сеть | https://azimuthotels.com/ru | email | iwaf@icewood.net |
 | Azimut Hotels | гостиничная сеть | https://azimuthotels.com/ru | social | https://t.me/iwafsupport |
+| AZIMUT Отель Аэростар Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7598118/aerostar_hotel | address | Ленинградский проспект, д.37 строение 9, Москва |
 | AZIMUT Сити Отель Комсити | отель | https://azimuthotels.com/ru/moscow/azimut-hotel-comcity | email | iwaf@icewood.net |
 | AZIMUT Сити Отель Комсити | отель | https://azimuthotels.com/ru/moscow/azimut-hotel-comcity | social | https://t.me/iwafsupport |
+| AZIMUT Сити Отель Комсити Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid10292782/hotel_azimut_siti_hotel_komsiti_moskva | address | Киевское шоссе, 22-й километр, 6А с3, Москва |
+| AZIMUT Сити Отель Олимпик Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597419/azimut_moscow_olympic_hotel | address | Олимпийский пр-т, д. 18/1, Москва |
+| AZIMUT Сити Отель Смоленская Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid8744391/azimut_hotel_smolenskaya_moscow | address | ул. Смоленская, д.8, Москва |
+| AZIMUT Сити Отель Тульская Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7768573/azimut_moscow_tulskaya_hotel | address | Варшавское шоссе, 9, Москва |
 | Azur Loft / Азур Лофт | лофт | https://www.loft2rent.ru/loft/182119 | phone | +7 (993) 958-73-96 |
 | AРМА КОВОРКИНГБольшая переговорная в ARMA COWORKING | лофт | https://www.loft2rent.ru/loft/191350/191352 | phone | +7 (495) 755-42-24 |
 | BackgroundЗАЛ КОНФЕРЕНЦ | лофт | https://www.loft2rent.ru/loft/42217/42376 | phone | +7 (499) 455-45-04 |
@@ -1362,6 +1369,7 @@
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | social | https://t.me/BusinessLoungeHotel |
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | social | https://wa.me/79651938570 |
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | social | https://www.instagram.com/business_lounge_hotel |
+| Business lounge hotel (Бизнес Лаундж Отель) | отель | https://ostrovok.ru/hotel/russia/moscow/mid9988118/business_lounge_hotel | address | ул. Мантулинская, д. 10 (подъезд 3, этаж 2), Москва |
 | Butler | ресторан | https://butler.rest | phone | +7 (495) 150-45-86 |
 | Butler | ресторан | https://butler.rest | social | https://t.me/butler_restaurant |
 | Butler | ресторан | https://butler.rest | social | https://vk.com/butler_restaurant |
@@ -1727,6 +1735,7 @@
 | Cosmos Москва Шереметьево Аэропорт Отель | отель | https://selectionsheremetyevo.cosmosgroup.ru | phone | +7 (800) 707-77-64 |
 | Cosmos Москва Шереметьево Аэропорт Отель | отель | https://selectionsheremetyevo.cosmosgroup.ru | social | https://t.me/cosmosselection |
 | Cosmos Москва Шереметьево Аэропорт Отель | отель | https://selectionsheremetyevo.cosmosgroup.ru | social | https://vk.com/selectionsheremetyevo |
+| Cosmos Москва Шереметьево Аэропорт Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597228/park_inn_by_radisson_sheremetyevo_airport_moscow | address | шоссе Международное, владение 1а, Химки |
 | Cosmoscow | арт-ярмарка | https://cosmoscow.com | email | 3306b12ddf0b4e76bb90f9e8bd155510@gt.cosmoscow.com |
 | Cosmoscow | арт-ярмарка | https://cosmoscow.com | email | alekhina@cosmoscow.com |
 | Cosmoscow | арт-ярмарка | https://cosmoscow.com | email | andrews@cosmoscow.com |
@@ -1991,6 +2000,8 @@
 | DoubleTree by Hilton | гостиничная сеть | https://doubletreemoscow.ru | social | https://wa.me/74952122060 |
 | DoubleTree by Hilton | гостиничная сеть | https://doubletreemoscow.ru | social | https://www.facebook.com/DTbHMoscow?ref=hl |
 | DoubleTree by Hilton | гостиничная сеть | https://doubletreemoscow.ru | social | https://www.instagram.com/dt.hilton.moscow.marina |
+| Doubletree by Hilton Moscow - Marina | отель | https://ostrovok.ru/hotel/russia/moscow/mid8313259/doubletree_by_hilton_hotel_moscow__marina | address | Ленинградское шоссе, 39 строение 1, Москва |
+| DoubleTree by Hilton Moscow — Vnukovo Airport | отель | https://ostrovok.ru/hotel/russia/moscow/mid8848335/doubletree_by_hilton_moscow_vnukovo_airport | address | улица 2-я Рейсовая, дом 2, Москва |
 | DoubleTree by Hilton Skolkovo | отель | https://www.hilton.com/ru/locations/russian-federation/doubletree-by-hilton | phone | +18004466677 |
 | Dr. Zhivago | ресторан | https://drzhivago.ru | phone | +7 (495) 363-89-77 |
 | Dr. Zhivago | ресторан | https://drzhivago.ru | social | http://instagram.com/grandcafezhivago |
@@ -2118,6 +2129,7 @@
 | Encore City (Oko Tower) | fitness / wellness club | https://www.encorefitness.ru | social | https://vk.com/encorefitness |
 | EnjoyMe_studio (Арт пространство, мастерская) | лофт | https://www.loft2rent.ru/loft/142043 | phone | +79124518733 |
 | EnjoyMe_studio (Лофт рояль, бильярд) | лофт | https://www.loft2rent.ru/loft/142043 | phone | +79124518733 |
+| ENZO Hotel Moscow by ZONT Hotel Group | отель | https://ostrovok.ru/hotel/russia/moscow/mid13725634/enzo_hotel_moscow_by_zont_hotel_group | address | Поклонная улица, 9, Москва |
 | Espada. Brosco (Эспада. Броско). Дизайнерский неоновый лофт | лофт | https://www.reveltime.ru/venue/5445072?eventtype=vecherinka | phone | +79813347290 |
 | EsterumEsterum | лофт | https://www.loft2rent.ru/loft/187739/187741 | phone | +7 (969) 130-13-12 |
 | ESTETIKA - уютный лофт с окнами. Включено - караоке, светомузыка, мебель.  Подарок при бронировании | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
@@ -2825,6 +2837,7 @@
 | GOLDY Ролевой ЛофтСеновал | лофт | https://www.loft2rent.ru/loft/140289/140340 | phone | +7 (913) 777-37-50 |
 | Golfostrov | гольф-клуб | https://golfostrov.ru | phone | +7 (926) 736-45-24 |
 | Good girl : лофт с барной стойкой из розового меха, с караоке и PS 4 !! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-16-19 |
+| GOPARK Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid9250776/gopark_hotel | address | деревня Голиково, Шоссейная улица, стр. 4, Голиково |
 | GORDEEVA WEDDING EVENT SHOW | свадебное агентство | https://top100awards.ru/gordeeva-wedding-event-show | phone | +7 (915) 333-22-55 |
 | GORDEEVA WEDDING EVENT SHOW | свадебное агентство | https://top100awards.ru/gordeeva-wedding-event-show | social | https://t.me/olesyagordeeva1?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20GORDEEVA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | GORDEEVA WEDDING EVENT SHOW | свадебное агентство | https://top100awards.ru/gordeeva-wedding-event-show | social | https://www.instagram.com/gordeeva_events |
@@ -4946,6 +4959,7 @@
 | PLAV BANYAPLAV BANYA, баня на яхте в центре Москвы | лофт | https://www.loft2rent.ru/loft/168328/170248 | phone | 89099695025 |
 | PlaykortПомещение под съемки | лофт | https://www.loft2rent.ru/loft/137226/180772 | phone | +79060544499 |
 | PlaykortСпортивно-развлекательная арена PLAYKORT в Мытищах | лофт | https://www.loft2rent.ru/loft/137226/143781 | phone | +79060544499 |
+| Plaza Garden Moscow WTC Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid8075994/crowne_plaza_moscow_world_trade_centre | address | набережная Краснопресненская, дом 12, Москва |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | email | hr@flypobeda.ru |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | phone | +7 (809) 505-87-77 |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | social | https://dzen.ru/pobeda_aero |
@@ -6652,6 +6666,7 @@
 | Sea Grill банкетный зал с панорамным видом на Неву | лофт | https://www.loft2rent.ru/loft/169659 | phone | +79112601333 |
 | Secret lounge | лофт | https://www.loft2rent.ru/loft/163923/164276 | phone | +7 (993) 005-31-67 |
 | Segreto | лофт | https://www.loft2rent.ru/loft/129937/129940 | phone | +7 909 949 50 85 |
+| Select Hotel Paveletskaya | отель | https://select-hotel.ru | phone | +7 495 788-77-00 |
 | Selectel | cloud provider | https://selectel.ru | email | ir@selectel.ru |
 | Selectel | cloud provider | https://selectel.ru | email | pr@selectel.ru |
 | Selectel | cloud provider | https://selectel.ru | email | sales@selectel.ru |
@@ -6690,6 +6705,7 @@
 | ShantiPlaceShantiPlace Зал Музей | лофт | https://www.loft2rent.ru/loft/94258/94288 | phone | +79163083838 |
 | ShantiPlaceShantiPlace Каминный зал | лофт | https://www.loft2rent.ru/loft/94258/94329 | phone | +79163083838 |
 | ShantiPlaceShantiPlace Музыкальный зал | лофт | https://www.loft2rent.ru/loft/94258/94326 | phone | +79163083838 |
+| Sheraton Skypoint Luxe | отель | https://ostrovok.ru/hotel/russia/moscow/mid8022376/sheraton_moscow_sheremetyevo_airport_hotel | address | шоссе Международное, д.28Б, стр.5, Москва |
 | Shisha lounge room (Кальянная комната) № 257 | лофт | https://www.reveltime.ru/venue/6435477?eventtype=vecherinka | phone | +79584974089 |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | email | info@shkulev.ru |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | phone | +7 (495) 633-57-57 |
@@ -6791,6 +6807,7 @@
 | Snob | lifestyle-медиа | https://snob.ru | social | https://twitter.com/snob_project |
 | Snob | lifestyle-медиа | https://snob.ru | social | https://vk.com/club17760452 |
 | Snob | lifestyle-медиа | https://snob.ru | social | https://www.youtube.com/channel/UC1geY6Cj8u2UxnnL4KhCasQ |
+| Soderis Residence & Spa | отель | https://ostrovok.ru/hotel/russia/moscow/mid9209124/soderis_residence_spa_hotel | address | 2-я Бородинская улица, 20, Москва |
 | SOFT | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
 | Softline | IT-компания | https://softline.ru | email | edusales@softline.ru |
 | Softline | IT-компания | https://softline.ru | email | info.spb@softline.com |
@@ -7150,6 +7167,7 @@
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | social | https://t.me/stay_ag?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20STAY.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | social | https://www.instagram.com/stay_ag |
 | Steklo loft - с грилем, верандой и настольным теннисом в ЦАО | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Stella di Mosca by BVLGARI Hotels | отель | https://ostrovok.ru/hotel/russia/moscow/mid11196975/hotel_stella_di_mosca | address | Большая Никитская улица 9, Москва |
 | StockOut Loft | лофт | https://www.loft2rent.ru/loft/40111 | phone | +7 (985) 362-45-58 |
 | STONE | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
 | Strata Concept | лофт | https://www.loft2rent.ru/loft/162585/162587 | phone | 89104505611 |
@@ -7450,6 +7468,7 @@
 | TV3 Russia | телеканал | https://tv3.ru | social | https://rutube.ru/feeds/tv3 |
 | TV3 Russia | телеканал | https://tv3.ru | social | https://t.me/s/tv3russiaofficial |
 | TV3 Russia | телеканал | https://tv3.ru | social | https://vk.com/kanal_tv3 |
+| Tverskoy Boutique Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid6297673/miniotel_sleepy_tom | address | Старопименовский переулок, д. 11/6, Москва |
 | Twede's Cafe | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Twenty OneTwenty One Club | лофт | https://www.loft2rent.ru/loft/86185/86510 | phone | +7 (495) 134-61-21 |
 | TWIGA PR | PR-агентство | https://twiga.ru | email | ask@twigacg.com |
@@ -8791,6 +8810,7 @@
 | Автономная НО Высшего Образования «Российский Новый Университет» | организация | https://rosnou.ru | social | https://vk.com/rosnou |
 | Автономная НО Высшего Образования «Российский Новый Университет» | организация | https://rosnou.ru | social | https://wa.me/qr/MR3VJIYCUFMUL1 |
 | Автономная НО Высшего Образования «Российский Новый Университет» | организация | https://rosnou.ru | social | https://www.youtube.com/c/RosnouRussia |
+| Авторский Отель Паррадоссо | отель | https://ostrovok.ru/hotel/russia/moscow/mid9716237/avtorskij_hotel_parradosso | address | Настасьинский переулок, д. 8/1, Москва |
 | Агава лофт | лофт | https://www.loft2rent.ru/loft/144719 | phone | +7 (958) 521-27-15 |
 | АгартаЗал 62м | лофт | https://www.loft2rent.ru/loft/146099/146101 | phone | +79269091991 |
 | АГЕНТСТВО ДАРЬИ ТЕРЕНТЬЕВОЙ / TERENTEVA EVENT | event-агентство | http://terenteva-event.ru | email | email |
@@ -11758,6 +11778,26 @@
 | Апарамент в Москва Сити 54 этаж | лофт | https://www.loft2rent.ru/loft/19512 | phone | +79021444676 |
 | Апарт-отель "Анис СтайлБанкетный зал "Амарант" | лофт | https://www.loft2rent.ru/loft/125358/125450 | phone | +7 (495) 123-32-94 |
 | Апарт-отель "Анис СтайлКонференц-залы "Шафран" и "Мускат" | лофт | https://www.loft2rent.ru/loft/125358/125366 | phone | +7 (495) 123-32-94 |
+| Апарт-отель Adagio Москва Павелецкая | отель | https://ostrovok.ru/hotel/russia/moscow/mid7864897/adagio_moscow_paveletskaya_4 | address | Бахрушина ул., д.11, Москва |
+| Апарт-отель Ap-in | отель | https://ostrovok.ru/hotel/russia/moscow/mid9996446/apin_aparts | address | улица Василисы Кожиной, д. 13, Москва |
+| Апарт-отель Diamond Apartments | отель | https://ostrovok.ru/hotel/russia/moscow/mid8869265/hotel_diamond_apartments | address | 1 Красногвардейский проезд, д. 21/2, Москва |
+| Апарт-отель Idera | отель | https://ostrovok.ru/hotel/russia/moscow/mid13106596/idera_hotel | address | Рязанский проспект, д.2к3, Москва |
+| Апарт-отель Intermark Residence | отель | https://ostrovok.ru/hotel/russia/moscow/mid9024447/intermark_residence_apartments | address | улица Новый Арбат, д. 15, Москва |
+| Апарт-отель Mamaison All-Suites Spa Pokrovka Moscow | отель | https://ostrovok.ru/hotel/russia/moscow/mid7590428/mamaison_allsuites_spa_hotel_pokrovka | address | ул. Покровка, д. 40 стр. 2, Москва |
+| Апарт-отель Norke Prime Сретенка | отель | https://ostrovok.ru/hotel/russia/moscow/mid10864367/apartotel_norke_prime_sretenskaya | address | улица Сретенка, 36, Москва |
+| Апарт-Отель Page 20 | отель | https://ostrovok.ru/hotel/russia/moscow/mid9768720/page_20 | address | улица Новый Арбат, дом 15, Москва |
+| Апарт-отель Yes Technopark | отель | https://ostrovok.ru/hotel/russia/moscow/mid10151494/apartotel_yes_technopark | address | проспект Андропова, д.10, Москва |
+| Апарт-отель «﻿На высоте﻿» | отель | https://ostrovok.ru/hotel/russia/moscow/mid9210977/panorama_aparthotel | address | улица Мосфильмовская, дом 74Б, Москва |
+| Апарт-отель Адажио Москва Киевская | отель | https://ostrovok.ru/hotel/russia/moscow/mid9204547/adazhio_moskva_kievskaya_aparthotel | address | улица Киевская, дом 2, Москва |
+| Апарт-отель Анис Стайл Москва Октябрьское Поле | отель | https://ostrovok.ru/hotel/russia/moscow/mid10437053/anisstayl_moskva_oktyabryskoye_pole_aparthotel | address | 3-я Хорошёвская улица, д.23А, Москва |
+| Апарт-Отель Веста | отель | https://ostrovok.ru/hotel/russia/moscow/mid10161790/vesta_aparthotel | address | улица Трудовая, д.3а, Королёв |
+| Апарт-отель Веста Подлипки | отель | https://ostrovok.ru/hotel/russia/moscow/mid13290973/vesta_podlipki_apartment_hotel | address | улица Грабина, д. 10б, Королёв |
+| Апарт-отель Гринстоун | отель | https://ostrovok.ru/hotel/russia/moscow/mid10093965/greenstone_apartmens | address | Россия, Москва, ул. Большая Переяславская, д. 14, стр. 1, Москва |
+| Апарт-отель Международная | отель | https://ostrovok.ru/hotel/russia/moscow/mid8748311/apartment_hotel_mezhdunarodnaya | address | Краснопресненская наб., 12, Москва, Москва |
+| Апарт-отель Окно | отель | https://ostrovok.ru/hotel/russia/moscow/mid13285109/apartment_hotel_okno_butik_aparthotel | address | Петровка улица, 26, стр. 3, Москва |
+| Апарт-отель Петровский парк Syncotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid10591033/travelto_petrovskiy_park_aparthotel | address | Большой Коптевский проезд, д. 3 строение 7, Москва |
+| Апарт-отель Тета Измайлово | отель | https://ostrovok.ru/hotel/russia/moscow/mid13314245/teta_izmaylovo_hotel | address | Окружной проезд, д.10Б помещ.529, Москва |
+| Апарт-отель Ханой-Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid8495398/in_mfk_hanoymoskva_aparthotel | address | Ярославское шоссе, д. 146/2, Москва |
 | Апартаменты Sky City Moscow Особенный вид на Лужники, Парк Победы, башни и город! | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Апартаменты в Москва Сити посуточно и почасово38 SPB Лучший вид - так называемый золотой угол. | лофт | https://www.loft2rent.ru/loft/27218/82702 | phone | +79534678202 |
 | Апартаменты в Москва Сити посуточно и почасово42 этаж иделаьная Лаундж зона в апартаментах Москва Сити | лофт | https://www.loft2rent.ru/loft/27218/196078 | phone | +79534678202 |
@@ -11792,6 +11832,7 @@
 | Апартаменты МоскваВеликолепные апартаменты Москва-Сити | лофт | https://www.loft2rent.ru/loft/174341/175253 | phone | +79852388407 |
 | Апартаменты МоскваМосква-сити апартаменты с видом на башни | лофт | https://www.loft2rent.ru/loft/174341/175276 | phone | +79852388407 |
 | Апартаменты с видом на Москву | лофт | https://www.reveltime.ru/venue/4992890?eventtype=vecherinka | phone | +74954324143 |
+| Арарат Парк Хаятт Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7599730/ararat_park_khaiatt | address | Неглинная ул., 4, Москва, Москва |
 | Арбат HallАрбат холл (Arbat hall) | лофт | https://www.loft2rent.ru/loft/207597/207760 | phone | +7 (996) 902-34-50 |
 | Аргентина | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Аренда антикафе полностью на Тверской | лофт | https://www.loft2rent.ru/loft/104695 | phone | 89262851313 |
@@ -11918,6 +11959,7 @@
 | База отдыха ЗаветноеАктовый зал с деревянным покрытием | лофт | https://www.loft2rent.ru/loft/161069/161186 | phone | +781232348535 |
 | База отдыха ЗаветноеУчебный класс для тренингов и семинаров | лофт | https://www.loft2rent.ru/loft/161069/161203 | phone | +781232348535 |
 | База отдыха ЗаветноеШатер | лофт | https://www.loft2rent.ru/loft/161069/161179 | phone | +781232348535 |
+| База Отдыха Остров Рыболовная усадьба | отель | https://ostrovok.ru/hotel/russia/moscow/mid10268813/rybolovnaya_usadba_ostrov_2 | address | Московская область, Ленинский район, село Остров, Новая ул., 1А, Остров |
 | Базовая переговорная комната до 12 человек | лофт | https://www.loft2rent.ru/loft/199576 | phone | 8 980 430 08 88 |
 | Байкал | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | Бакарди | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
@@ -12033,6 +12075,7 @@
 | Барби | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Барби | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Барби - розовый лофт с диско-шаром, фотозоной и караоке! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
+| Барин Резиденс Центр | отель | https://ostrovok.ru/hotel/russia/moscow/mid8854270/barin_rezidence_balchug | address | Ulitsa Sadovnicheskaya 8, Москва, Москва |
 | Бармалей | лофт | https://www.loft2rent.ru/loft/114920/114923 | phone | +79629939200 |
 | Барное - творческое пространство ИНСАЙД | лофт | https://www.loft2rent.ru/loft/94069 | phone | 89112793938 |
 | Барный кластер в АТС на Некрасова | лофт | https://www.loft2rent.ru/loft/166206/166208 | phone | +79222688548 |
@@ -12090,6 +12133,7 @@
 | бизнес-отель "Россо Рива"Римини | лофт | https://www.loft2rent.ru/loft/42712/42735 | phone | +74957952444 |
 | бизнес-отель "Россо Рива"Сан-Ремо | лофт | https://www.loft2rent.ru/loft/42712/42731 | phone | +74957952444 |
 | бизнес-отель "Россо Рива"Флоренция | лофт | https://www.loft2rent.ru/loft/42712/42733 | phone | +74957952444 |
+| Бизнес-отель «Времена Года» | отель | https://ostrovok.ru/hotel/russia/moscow/mid7692949/hotel_radishchevskaya_at_taganka | address | ул. Верхняя Радищевская, 14/21, Москва |
 | Бильярдный клуб Double KissPrivate Space с бильярдом (малый зал до 10 человек) в фудмолле Три Вокзала.Депо | лофт | https://www.loft2rent.ru/loft/185623/186124 | phone | +79032602220 |
 | Бильярдный клуб Double KissБильярд в фудмолле Три вокзала.Депо | лофт | https://www.loft2rent.ru/loft/185623/185668 | phone | +79032602220 |
 | Биологический музей Тимирязева | музей | https://www.gbmt.ru | email | dfku-excursioncultur@culture.mos.ru |
@@ -12116,6 +12160,7 @@
 | Большой конференц-зал в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | БОЛЬШОЙ ЛОФТ 100М2 С БИЛЬЯРДОМ, ПРОЕКТОРОМ, НАСТОЛЬНЫМ ТЕННИСОМ И ДАРТС! | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | БОЛЬШОЙ ФИОЛЕТОВЫЙ ЗАЛ | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
+| Боулинг-отель Новые Горки | отель | https://ostrovok.ru/hotel/russia/moscow/mid7709714/boulingotel_novye_gorki | address | мкр. Первомайский, ул. Мира д. 37, Королёв |
 | Бохо | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Браун | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | БРАШ (BRASH) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
@@ -12125,6 +12170,22 @@
 | Брусницын Лофт Брусницын Лофт | лофт | https://www.loft2rent.ru/loft/140258/140263 | phone | +7 (953) 410-22-76 |
 | БСА Конф Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Бутик в БутикеПространство для камерных мероприятий Бутик в Бутике | лофт | https://www.loft2rent.ru/loft/202669/202673 | phone | +7 (999) 460-44-50 |
+| Бутик Отель Брайтон | отель | https://ostrovok.ru/hotel/russia/moscow/mid7400924/brighton_hotel | address | Петровско-Разумовский проезд, д.29, Москва |
+| Бутик-отель Axis.Moscow Heritage | отель | https://ostrovok.ru/hotel/russia/moscow/mid11292139/axismoscow_heritage_aparthotel | address | улица Покровка, д. 10, стр. 1, Москва |
+| Бутик-Отель Loft | отель | https://ostrovok.ru/hotel/russia/moscow/mid8871248/loft_boutique_hotel_2 | address | улица Академика Легостаева, д.13, Королёв |
+| Бутик-отель PR Myasnitsky | отель | https://ostrovok.ru/hotel/russia/moscow/mid8753290/pr_myasnitsky_boutique_hotel | address | улица Мясницкая, д.13/3, Москва |
+| Бутик-отель Twelve Reasons | отель | https://ostrovok.ru/hotel/russia/moscow/mid10367887/twelve_reasons_butikhotel | address | улица Земляной Вал, д.56 / 3, Москва |
+| Бутик-Отель Арбат 6 | отель | https://ostrovok.ru/hotel/russia/moscow/mid8745238/arbat_6_hotel | address | улица Арбат, д.6/2, Москва |
+| Бутик-отель Казначейский | отель | https://ostrovok.ru/hotel/russia/moscow/mid11323757/kaznacheyskiy_boutique_hotel | address | Большой Златоустинский переулок, д. 7с1, помещ. 1/Ч, Москва |
+| Бутик-Отель Люмьер | отель | https://ostrovok.ru/hotel/russia/moscow/mid9084809/lyumer_butikhotel | address | улица Мясницкая, д. 16, помещ. 1/5, Москва |
+| Бутик-Отель П 17 / P 17 Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid9741283/p_17_hotel | address | улица Петровка, д. 17, строение 1, Москва |
+| Бутик-отель Палаты Хованских | отель | https://ostrovok.ru/hotel/russia/moscow/mid11341011/palaty_khovanskikh_butikhotel | address | Старопименовский переулок, д.11с2, Москва |
+| Бутик-отель Петровка 26 | отель | https://ostrovok.ru/hotel/russia/moscow/mid10675430/petrovka_26_boutiquehotel | address | улица Петровка, д. 26с8, помещ. 1Н, Москва |
+| Бутик-Отель Регул | отель | https://ostrovok.ru/hotel/russia/moscow/mid8848163/russkie_sezonyi | address | Дегтярный переулок, д. 8/2, Москва |
+| Бутик-отель Румс | отель | https://ostrovok.ru/hotel/russia/moscow/mid8169297/otel_the_rooms | address | улица Николоямская, д. 38/23, Москва |
+| Бутик-отель Семь Слонов | отель | https://ostrovok.ru/hotel/russia/moscow/mid13108661/7_slonov_boutique_hotel | address | ул. Маросейка , 7/8 стр.1, Москва |
+| Бутик-отель Софит | отель | https://ostrovok.ru/hotel/russia/moscow/mid8849518/sofit_butikhotel | address | пер. Сытинский, д.3/5, помещ. 4/1, Москва |
+| Бутик-Отель Чемодановъ | отель | https://ostrovok.ru/hotel/russia/moscow/mid8744325/chemodanov_butikhotel | address | улица Покровка, д.2/1 стр.1, Москва |
 | Бутиковый лофт "Гештальт клуб" в старинном особняке на Чистых прудах | лофт | https://www.loft2rent.ru/loft/102611 | phone | 7 901 417-24-60 |
 | Бухта Майями | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | БЦ STROTSKISEvent Пространство | лофт | https://www.loft2rent.ru/loft/110939/110959 | phone | +79645119243 |
@@ -12500,7 +12561,29 @@
 | Гостиная | лофт | https://www.loft2rent.ru/loft/100720/100722 | phone | +7 (999) 062-33-53 |
 | Гостиная для друзей с террасой | лофт | https://www.loft2rent.ru/loft/107715 | phone | +79360019650 |
 | Гостиная №9 | лофт | https://www.loft2rent.ru/loft/115019 | phone | +7 (926)769-99-90 |
+| Гостиница Four Seasons Hotel Moscow | отель | https://fourseasons.com | phone | +7 499 277-71-00 |
+| Гостиница Park Inn, Одинцово | отель | https://ostrovok.ru/hotel/russia/moscow/mid7668697/park_inn_by_radisson_odintsovo | address | улица Маршала Неделина, д.8, Одинцово |
+| Гостиница Radisson Blu Белорусская, Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7858838/redisson_belorusskaia_moskva | address | 3-я ул. Ямского поля, д. 26А, Москва |
+| Гостиница Radisson Blu Олимпийский, Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid8869780/radisson_blu_olympiyskiy_hotel | address | Samarskaya street, 1, Москва, Москва |
+| Гостиница Radisson Collection Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid8876782/radisson_collection_hotel_moscow | address | Кутузовский пр-т, д. 2/1 стр.1, Москва |
+| Гостиница «Президент-Отель» | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467290/president_3 | address | улица Большая Якиманка, д. 24, Москва |
+| Гостиница Апарт-отель Raido.Moscow History | отель | https://ostrovok.ru/hotel/russia/moscow/mid13099355/moscow_history_apartments | address | Ходынский бульвар, д.2, Москва |
+| Гостиница Арбат Хауc | отель | https://ostrovok.ru/hotel/russia/moscow/mid7601703/gostinitsa_arbat_house_byvshaia_melodiia | address | Скатертный переулок, дом 13, Москва |
+| Гостиница Бега | отель | https://ostrovok.ru/hotel/russia/moscow/mid7590905/bega_hotel_ | address | Беговая аллея, д.11, Москва |
+| Гостиница ВАРС | отель | https://ostrovok.ru/hotel/russia/moscow/mid6954172/gostinitsa_vars | address | ул. Капотня, д. 34, Москва |
+| Гостиница Даниловская | отель | https://ostrovok.ru/hotel/russia/moscow/mid7378628/danilovskaya_2 | address | Большой Староданиловский переулок, д.5, Москва |
 | Гостиница Звёздная«Звёздная» | лофт | https://www.loft2rent.ru/loft/208020/208024 | phone | +79851124227 |
+| Гостиница Золотое Кольцо | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467289/golden_ring_hotel_2 | address | Смоленская улица, 5, Москва |
+| Гостиница Кадашевская | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597455/kadashevskaya_hotel | address | набережная Кадашевская, д.26, Москва |
+| Гостиница Националь Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467340/gostinitsa_natsional_moskva | address | улица Моховая, д. 15/1, стр. 1, Москва |
+| Гостиница Памир-ТяньШань | отель | https://ostrovok.ru/hotel/russia/moscow/mid8877200/hotel_pamir_tyanshyan | address | улица Новая, д. 100, Сколково |
+| Гостиница Парк Тауэр | отель | https://ostrovok.ru/hotel/russia/moscow/mid7401579/molodozhny | address | Дмитровское шоссе 27, Москва |
+| Гостиница Пекин | отель | https://ostrovok.ru/hotel/russia/moscow/mid7465127/gostinitsa_pekin | address | улица Большая садовая 5, Москва |
+| Гостиница Покровская | отель | https://ostrovok.ru/hotel/russia/moscow/mid8621527/pokrov_convent_hotel | address | улица Таганская, 58 стр. 12, Москва |
+| Гостиница Рэдиссон Славянская | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467357/otel_radisson_slavyanskaya_and_business_centre | address | Площадь Евразии, д.2, Москва |
+| Гостиница Сретенская | отель | https://ostrovok.ru/hotel/russia/moscow/mid7400794/sretenskaya_hotel | address | улица Сретенка, д.15, Москва |
+| Гостинично-оздоровительный комплекс Тропарёво | отель | https://ostrovok.ru/hotel/russia/moscow/mid6996685/gostinitsa_troparevo | address | улица Академика Бакулева, д.3, Москва |
+| Гостинично-ресторанный комплекс Мэриан Холл | отель | https://ostrovok.ru/hotel/russia/moscow/mid8290228/marianhall | address | кв-л Щитниково, д. 36А, помещ. 2, Балашиха |
 | Государственное бюджетное учреждение Города Москвы «Жилищник Района Бирюлево Восточное» | организация | https://gbu-bv.moscow | email | dez_bv@mail.ru |
 | Государственное бюджетное учреждение Города Москвы «Жилищник Района Бирюлево Восточное» | организация | https://gbu-bv.moscow | phone | +7 (495) 326-61-26 |
 | Государственное бюджетное учреждение Города Москвы «Жилищник Района Бирюлево Восточное» | организация | https://gbu-bv.moscow | phone | +7 (495) 326-95-38 |
@@ -12541,6 +12624,7 @@
 | Государственный музей изобразительных искусств им. Пушкина | музей | https://pushkinmuseum.art | social | https://t.me/theartsmuseum |
 | Государственный музей изобразительных искусств им. Пушкина | музей | https://pushkinmuseum.art | social | https://vk.com/club23141780 |
 | ГоТайГоТай - Китайский ресторан | лофт | https://www.loft2rent.ru/loft/139533/139535 | phone | +7 985 890 57 25 |
+| Града Бутик Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid8853263/grada_boutique_hotel_ex_kyznetskiy_inn_hotel | address | ул. Кузнецкий мост, д.6/3, корп.3, Москва |
 | Гранд | лофт | https://www.loft2rent.ru/loft/116807 | phone | +79150127722 |
 | Гранд Лес | лофт | https://www.loft2rent.ru/loft/125499 | phone | 89250520976 |
 | Гранд-холл Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
@@ -12549,6 +12633,7 @@
 | Гримёрка. VIP-комната | лофт | https://www.reveltime.ru/venue/8786280?eventtype=vecherinka | phone | +79346642952 |
 | Гримёрка. Купол на крыше | лофт | https://www.reveltime.ru/venue/8786419?eventtype=vecherinka | phone | +79346642952 |
 | Гримёрка. Стильный караоке-зал | лофт | https://www.reveltime.ru/venue/8783829?eventtype=vecherinka | phone | +79346642952 |
+| Гринвуд Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid7624861/melior_greenwood_hotel | address | МКАД, 72, бизнес-центр «Гринвуд», строение 24, Москва |
 | Гринвуд. Мраморный лофт-зал | лофт | https://www.reveltime.ru/venue/4758573?eventtype=vecherinka | phone | +74992888034 |
 | Гриндей - свежий лофт с диско-шаром, караоке и приставкой! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
 | Группа ЛСР | девелопер | https://www.lsrgroup.ru | email | mail@lsrgroup.ru |
@@ -12757,6 +12842,7 @@
 | Джуманджи | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
 | Джунгли | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Джунгли. Танцевальный лофт со стильной фотозоной, барной стойкой, неоном и всех необходимой техникой | лофт | https://www.reveltime.ru/venue/8461284?eventtype=vecherinka | phone | +79584974084 |
+| Дизайн-отель СтандАрт | отель | https://ostrovok.ru/hotel/russia/moscow/mid6783512/standart_hotel_moscow | address | бульвар Страстной, д.2, Москва |
 | Дизайнерский лофт Гараж с караоке и игровой в 2-х минутах от метро | лофт | https://www.loft2rent.ru/loft/1665 | phone | +7 9932617652 |
 | Дизайнерский лофт с панорамными окнами и кухней | лофт | https://www.reveltime.ru/venue/3287091?eventtype=vecherinka | phone | +79777137848 |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | email | action@dixy.ru |
@@ -12920,6 +13006,7 @@
 | Живописный лофт Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | За Нарисованным Очагом | лофт | https://www.loft2rent.ru/loft/81543 | phone | +79811682250 |
 | Загородный банкетный комплекс "ТЕПЛИЦА-ПАРК"ТЕПЛИЦА-ПАРК | лофт | https://www.loft2rent.ru/loft/181035/181040 | phone | +7 (926) 127 25 22 |
+| Загородный комплекс Art Village Club | отель | https://ostrovok.ru/hotel/russia/moscow/mid10161324/art_villge_club_hotel | address | улица Рябиновая, д.1а, Химки |
 | Зазеркалье | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Зал "Барный" для новогоднего корпоратива | лофт | https://www.loft2rent.ru/loft/109505 | phone | +7 (900) 649-02-29 |
 | Зал "Вознесенский" | лофт | https://www.loft2rent.ru/loft/114505 | phone | +7 958 538-65-47 |
@@ -13674,6 +13761,7 @@
 | Лаундж-бар на Трифоновской | лофт | https://www.loft2rent.ru/loft/121243 | phone | +7 926 824-43-18 |
 | Лаундж-пространство с кафе для детских мероприятий | лофт | https://www.reveltime.ru/venue/3639863?eventtype=vecherinka | phone | +79629959666 |
 | Лаунж-бар в тропическом стиле | лофт | https://www.reveltime.ru/venue/4036529?eventtype=vecherinka | phone | +79584974160 |
+| Легендарный отель Советский | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467335/sovetsky_historical_hotel | address | Ленинградский проспект, д.32/2, Москва |
 | Легион \ | Крылатское. Пространство праздников и активных развлечений. | лофт | https://www.loft2rent.ru/loft/182884 | phone |
 | Легпромпарк Экспо | лофт | https://www.loft2rent.ru/loft/207134/207137 | phone | +79166521012 |
 | Лекторий | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
@@ -13758,6 +13846,7 @@
 | Локо-Банк | банк | https://lockobank.ru | social | https://t.me/s/LockoBank_Official |
 | Локо-Банк | банк | https://lockobank.ru | social | https://vk.com/lockobank |
 | Лось | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
+| Лотте Отель Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7382812/lotte_otel_moskva | address | Новинский Бульвар, д. 8, стр. 2, Москва |
 | Лофт | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Лофт | лофт | https://www.loft2rent.ru/loft/90263/90285 | phone | +7 (985) 684-78-40 |
 | Лофт  NOAR | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
@@ -14407,6 +14496,10 @@
 | Мини-отель "Таёжный"Банкетный зал | лофт | https://www.loft2rent.ru/loft/81868/81870 | phone | 7 495 134 34 64 |
 | Мини-отель "Таёжный"Деревянный Дом | лофт | https://www.loft2rent.ru/loft/81868/162285 | phone | 7 495 134 34 64 |
 | Мини-отель "Таёжный"Треугольный дом | лофт | https://www.loft2rent.ru/loft/81868/120531 | phone | 7 495 134 34 64 |
+| Мини-отель Гнёздышко | отель | https://ostrovok.ru/hotel/russia/moscow/mid10125619/gnyozdyshko_minihotel | address | Пер. Малый Гнездниковский д. 9 с. 1, Москва |
+| Мини-отель Дом Художников Коровиных | отель | https://ostrovok.ru/hotel/russia/moscow/mid13122954/dom_khudozhnikov_korovinykh_minihotel | address | Товарищеский переулок, д.24, стр.4, Москва |
+| Мини-отель РГК Алексеевский | отель | https://ostrovok.ru/hotel/russia/moscow/mid9990589/rgk_alekseevskij | address | Щёлковское шоссе, 3А, Балашиха |
+| Мини-отель Фонда | отель | https://ostrovok.ru/hotel/russia/moscow/mid6388942/minihotel_fonda | address | улица Угрешская, д. 2, стр. 90, Москва |
 | МиниМания – Детская игровая комнатаМиниМания | лофт | https://www.loft2rent.ru/loft/152329/152369 | phone | +7(917)599-5654 |
 | МиниПати. Уютный лофт для небольшой компании, с караоке, большим экраном, диско-шаром, фотозоной с неоном и мощным звуком | лофт | https://www.reveltime.ru/venue/6829674?eventtype=vecherinka | phone | +79346691548 |
 | Министерство лофт в Столешниковом переулке | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
@@ -14519,6 +14612,7 @@
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://t.me/planetarium_mos |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://vk.com/planetarium_mos |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://www.youtube.com/user/mosplanetarium |
+| Москоу Кантри Клаб | отель | https://ostrovok.ru/hotel/russia/moscow/mid7807955/moscow_country_club_8 | address | Московская область, Красногорский район, Нахабино |
 | Мост семейный центрМОСТ | лофт | https://www.loft2rent.ru/loft/173599/173605 | phone | +79117700408 |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://rutube.ru/channel/24846301 |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://t.me/mosenergo_news |
@@ -14824,6 +14918,7 @@
 | Мураново | ивент-спейс | https://muranovo-museum.ru | social | https://ok.ru/muranovo |
 | Мураново | ивент-спейс | https://muranovo-museum.ru | social | https://t.me/muranovo_museum |
 | Мураново | ивент-спейс | https://muranovo-museum.ru | social | https://vk.com/muranovo_museum |
+| Мясницкий Бутик Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid9022928/myasnitskiy_boutique_hotel | address | улица Мясницкая, д.14/2 стр.1, Москва |
 | Мята PlatinumМята Platinum PS5 | лофт | https://www.loft2rent.ru/loft/169095/170471 | phone | +7 (996) 677-59-66 |
 | Мята PlatinumМята Platinum VIP | лофт | https://www.loft2rent.ru/loft/169095/170475 | phone | +7 (996) 677-59-66 |
 | Мятный лисМятный лис | лофт | https://www.loft2rent.ru/loft/68312/68315 | phone | 89952609094 |
@@ -23358,6 +23453,157 @@
 | Отель "40-й меридиан Яхт-Клуб"Зал "Речной" | лофт | https://www.loft2rent.ru/loft/107724/108119 | phone | +7 (496) 615-20-27 |
 | Отель "Сретенская" Зал "Пушкарев" | лофт | https://www.loft2rent.ru/loft/72485/72487 | phone | +7 495 933-55-44 |
 | Отель "Сретенская"Зал "Русский" | лофт | https://www.loft2rent.ru/loft/72485/116921 | phone | +7 495 933-55-44 |
+| Отель ApeironSpace | отель | https://ostrovok.ru/hotel/russia/moscow/mid10627179/apeironspace_hotel | address | Раушская набережная, д. 4/5, 1, Москва |
+| Отель Arium by Brosko | отель | https://ostrovok.ru/hotel/russia/moscow/mid8745790/arium_hotel | address | ул. Малая Дмитровка, д 25, строение 3, Москва |
+| Отель Artiland | отель | https://ostrovok.ru/hotel/russia/moscow/mid7967097/arti_land | address | Новское шоссе, д.10, Балашиха |
+| Отель Astrus | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467913/astrus_hotel | address | проспект Ленинский, д.146, Москва |
+| Отель Avshar | отель | https://ostrovok.ru/hotel/russia/moscow/mid8455144/avshar_club_hotel_3 | address | улица Ново-Никольская, д. 2Б, Красногорск |
+| Отель Barin Residence Grand&Myasnitskaya | отель | https://ostrovok.ru/hotel/russia/moscow/mid9157844/barin_residence_grand | address | Милютинский пер., 2, Москва, Москва |
+| Отель Barvikha Hotel&SPA | отель | https://ostrovok.ru/hotel/russia/moscow/mid7404974/barvikha_otel_i_spa | address | Рублёво-Успенское шоссе, 114/3, Барвиха |
+| Отель Brosko Moscow | отель | https://ostrovok.ru/hotel/russia/moscow/mid8854267/hotel_brosko | address | улица Новый Арбат, д. 21, строение 2, Москва |
+| Отель Cosmos Selection Москва Арбат | отель | https://ostrovok.ru/hotel/russia/moscow/mid13369156/hotel_cosmos_selection_moscow_arbat | address | улица Новый Арбат, 2, Москва |
+| Отель Cosmos Selection Москва Внуково Спорт Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid13866274/hotel_kosmos_selekshn_moskva_vnukovo_sport_hotel | address | вн.тер.г. муниципальный округ Внуково, ул. Большая Внуковская, д. 8, Москва |
+| Отель Cosmos Москва Павелецкая | отель | https://ostrovok.ru/hotel/russia/moscow/mid7765017/courtyard_by_marriott_moscow_paveletskaya_hotel | address | улица Кожевническая, д. 8, стр. 3, Москва |
+| Отель DoubleTree Москва Арбат | отель | https://ostrovok.ru/hotel/russia/moscow/mid9989265/doubletree_by_hilton_moscow_arbat | address | Никитский бул., 10, Москва, Москва |
+| Отель East Gate | отель | https://ostrovok.ru/hotel/russia/moscow/mid7778713/east_gate_hotel | address | пр. Ленина, д. 25, Балашиха |
+| Отель Edge Seligerskaya Moscow | отель | https://edgeseligerskaya.ru | phone | +7 495 645-00-00 |
+| Отель Edge Vinogradovo Moscow | отель | https://edgevinogradovo.ru | phone | +7 495 645-00-02 |
+| Отель Garden Embassy | отель | https://ostrovok.ru/hotel/russia/moscow/mid6344236/garden_embassy_apartments | address | Ботанический переулок, д. 5, Москва |
+| Отель Gentalion | отель | https://ostrovok.ru/hotel/russia/moscow/mid7779256/otel_gentalion | address | улица 1-я Брестская, д. 38, стр. 1, Москва |
+| Отель Glenver Garden | отель | https://ostrovok.ru/hotel/russia/moscow/mid11236308/glenver_garden_paveletskaya_hotel | address | Кожевническая улица, д.4, Москва |
+| Отель Grand Wellness Hotel & Spa 5* | отель | https://ostrovok.ru/hotel/russia/moscow/mid7999298/novahoff_geospa | address | ул. Гагарина, д. 23,Красногорский район, Николо-Урюпино |
+| Отель Hampton by Hilton Moscow Рогожский вал | отель | https://ostrovok.ru/hotel/russia/moscow/mid9770069/hampton_by_hilton_moscow_rogozhsky_val | address | улица Рогожский Вал, дом 10, Москва |
+| Отель Hartwell | отель | https://ostrovok.ru/hotel/russia/moscow/mid8735752/ooo_hartvel_hotel | address | улица Садовая-Кудринская, д.21/5, Москва |
+| Отель Hilton Москва Ленинградская | отель | https://ostrovok.ru/hotel/russia/moscow/mid7601804/gostinitsa_khilton_leningradskaia | address | Каланчевская ул.21/40, Москва |
+| Отель Hyatt Regency Moscow Petrovsky Park | отель | https://hyatt.com | phone | +7 495 479-12-34 |
+| Отель Magic Harp | отель | https://ostrovok.ru/hotel/russia/moscow/mid11020434/magic_harp_hotel | address | Лялин переулок, 3с3, Москва |
+| Отель Maidens Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid13100159/hotel_maidens_hotel | address | Зубовская площадь, 3 строение 1, Москва |
+| Отель Malakhovka Palace | отель | https://ostrovok.ru/hotel/russia/moscow/mid13075160/malakhovka_palace_hotel | address | улица Красковский Обрыв, д.7, корп.1, Малаховка |
+| Отель Marco Polo by Moss Hospitality | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467371/otel_marko_polo_presnia | address | Спиридоньевский переулок, д. 9, стр. 1., Москва |
+| Отель Marins Москва Пражская | отель | https://ostrovok.ru/hotel/russia/moscow/mid13330344/marins_park_hotel_moskva_prazhskaya_hotel | address | Кировоградская улица, д.11, Москва |
+| Отель Mercure Арбат Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7796014/mercure_arbat_moscow | address | Смоленская площадь, д.6, Москва |
+| Отель Mercure Москва Бауманская | отель | https://ostrovok.ru/hotel/russia/moscow/mid8142740/mercure_moscow_baumanskaya | address | Бауманская улица, д.54, стр. 1, Москва |
+| Отель Mercure Москва Павелецкая | отель | https://ostrovok.ru/hotel/russia/moscow/mid8326248/mercure_moscow_paveletskaya_2 | address | улица Бахрушина, д 11 , Москва |
+| Отель Moscow Holiday | отель | https://ostrovok.ru/hotel/russia/moscow/mid8664628/moscow_holiday_hotel | address | улица Мневники, дом 3, корп. 2, Москва |
+| Отель Movenpiсk Москва Таганская | отель | https://ostrovok.ru/hotel/russia/moscow/mid9260139/movenpick_moscow_taganskaya | address | улица Земляной Вал, д.70, Москва |
+| Отель MYS BOUTIQUE HOTEL | отель | https://ostrovok.ru/hotel/russia/moscow/mid10674888/mys_boutiqueotel | address | Кривоколенный переулок, дом 10, строение 4, Москва |
+| Отель Norke Prime Бауманская | отель | https://ostrovok.ru/hotel/russia/moscow/mid11161354/norke_prime_baumanskaya_hotel | address | улица Доброслободская, д. 6 стр. 1, Москва |
+| Отель Norke Prime Курская | отель | https://ostrovok.ru/hotel/russia/moscow/mid10272479/hotel_norke_prime_kurskaya | address | переулок Яковоапостольский, д. 9/3, Москва |
+| Отель Novotel Москва Аэропорт Шереметьево | отель | https://ostrovok.ru/hotel/russia/moscow/mid7590072/novotel_moskva_sheremetevo | address | Международное шоссе, вл. 3, Химки |
+| Отель Novotel Москва Сити | отель | https://ostrovok.ru/hotel/russia/moscow/mid7620527/novotel_moscow_city_hotel | address | Пресненская Набережная, д. 2, Москва |
+| Отель Novotel Москва Центр | отель | https://ostrovok.ru/hotel/russia/moscow/mid7806857/novotel_moskva_tsentr | address | Новослободская улица, д. 23, Москва |
+| Отель Palmira Art | отель | https://ostrovok.ru/hotel/russia/moscow/mid13287330/palmira_art_hotel | address | улица 4-я Магистральная, д. 4/11, Москва |
+| Отель Pentahotel Moscow Arbat | отель | https://ostrovok.ru/hotel/russia/moscow/mid8869717/pentahotel_moscow_arbat | address | улица Новый Арбат, 15, Москва |
+| Отель Radisson Blu Ленинский проспект, Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid10621095/hotel_radisson_blu_leninsky_prospect_hotel_moscow | address | Ленинский проспект, дом 90/3, Москва |
+| Отель Ribella | отель | https://ostrovok.ru/hotel/russia/moscow/mid8846991/ribella | address | улица 1-я Машиностроения, д.10, Москва |
+| Отель Riverside | отель | https://ostrovok.ru/hotel/russia/moscow/mid8737742/riverside_hotel_40 | address | Кутузовский проспект, д.2/1 строение 1Б, Москва |
+| Отель S7 Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid10055706/s7_hotel_domodedovo | address | г. Домодедово,  мкрн. Авиационный, ул. Ильюшина, 1Б, Москва |
+| Отель Sadovnicheskaya City Center | отель | https://ostrovok.ru/hotel/russia/moscow/mid9997889/sadovnicheskaya_city_center_2 | address | Садовническая улица, д. 20, стр. 1, Москва |
+| Отель Silky Way | отель | https://ostrovok.ru/hotel/russia/moscow/mid7379349/butikotel_shelkovyi_put | address | ул. Ленина, 45, Октябрьский |
+| Отель SK Royal Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7815497/skroyal_hotel | address | Дмитровское шоссе, д.163А, корп.2, Москва |
+| Отель Skypoint Gamma Delta Alfa | отель | https://ostrovok.ru/hotel/russia/moscow/mid7770271/skypoint_hotel | address | 141402, г Москва, вн.тер.г. муниципальный округ Молжаниновский, ш Международное, д. 28Б, стр. 3, Москва |
+| Отель Soluxe Hotel Moscow | отель | https://soluxehotelmoscow.com | phone | +7 495 139-20-20 |
+| Отель Spektrcity Taganskaya | отель | https://ostrovok.ru/hotel/russia/moscow/mid11024207/spektrcity_taganskaya_hotel | address | улица Воронцовская, д. 20, Москва |
+| Отель Sunflower Внуково ZONT Hotel Group | отель | https://ostrovok.ru/hotel/russia/moscow/mid8748293/inside_moskovskiy | address | улица Хабарова, д. 2, вход 2, этаж 6, Московский |
+| Отель Sunflower Румянцево ZONT Hotel Group | отель | https://ostrovok.ru/hotel/russia/moscow/mid7770730/otel_insaidbiznes | address | Kievskoe shosse, 22nd km, Business-park Rumjantsevo, estate 4, building E, Москва |
+| Отель Swissotel Красные Холмы | отель | https://ostrovok.ru/hotel/russia/moscow/mid7590804/swissotel_krasnye_holmy | address | Космодамианская наб., д. 52, стр.6, Москва |
+| Отель The St. Regis Moscow Nikolskaya | отель | https://stregis.com | phone | +7 495 967-77-76 |
+| Отель V Hotel Tverskaya | отель | https://ostrovok.ru/hotel/russia/moscow/mid9080044/vhotel_tverskaya | address | Малый Палашевский переулок,  д.5, Москва |
+| Отель Veshki Park | отель | https://ostrovok.ru/hotel/russia/moscow/mid6580436/veshki_park_hotel | address | Липкинское шоссе, 2-й километр, вл. 7, стр. 1, Москва |
+| Отель Viewpoint Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid8878179/balchug_viewpoint_hotel | address | Садовническая набережная, д. 7, помещ. 50, Москва |
+| Отель WineWood Moscow | отель | https://ostrovok.ru/hotel/russia/moscow/mid8854262/winewood_moscow_lounge_hotel | address | улица Красная Пресня, д.30 стр.3, Москва |
+| Отель «Рихтер», участник Design Hotels | отель | https://ostrovok.ru/hotel/russia/moscow/mid8939679/richter_2 | address | ул. Пятницкая, 42, Москва |
+| Отель Акварель | отель | https://ostrovok.ru/hotel/russia/moscow/mid7378024/akvarel_hotel | address | Столешников переулок, 12с3, Москва |
+| Отель Альянс Бородино | отель | https://ostrovok.ru/hotel/russia/moscow/mid7599836/borodino_hotel | address | ул. Русаковская, д. 13, стр. 5, Москва |
+| Отель Амато | отель | https://ostrovok.ru/hotel/russia/moscow/mid10470292/amato_hotel | address | Сыромятнический проезд, д.4 строение 2, Москва |
+| Отель Амбассадори | отель | https://ostrovok.ru/hotel/russia/moscow/mid7464651/kebur_palace_2 | address | Улица Остоженка 32, строение 1, Москва |
+| Отель Арт Москва, ZONT Hotel Group | отель | https://ostrovok.ru/hotel/russia/moscow/mid8748812/art_moskva_hotel | address | улица Космонавта Волкова, д.6 А, Москва |
+| Отель Арткорт Москва Центр | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597525/courtyard_by_marriott_moscow_city_center | address | Вознесенский переулок, д.7, Москва |
+| Отель Астро Плаза | отель | https://ostrovok.ru/hotel/russia/moscow/mid9091582/astro_plaza_hotel | address | проспект Ленинского Комсомола, 41, Видное |
+| Отель Балчуг Кемпински Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7590814/hotel_baltschug_kempinski_moscow | address | улица Балчуг, д. 1, Москва |
+| Отель Билибин Гарден Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid8660992/otel_troika_moskva | address | улица Садовническая, д.5, Москва |
+| Отель Борис Годунов | отель | https://ostrovok.ru/hotel/russia/moscow/mid6431725/otel_godunov | address | Нижний кисельный переулок, дом 4 , Москва |
+| Отель Будапешт | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467391/otel_budapesht | address | Улица Петровские линии 2, Москва |
+| Отель в Центре Гимнастики Ирины Винер-Усмановой | отель | https://ostrovok.ru/hotel/russia/moscow/mid10613300/v_tsentre_gimnastiki_iriny_vinerusmanovoy_hotel | address | ул. Олимпийская 15, Центр гимнастики Ирины Винер, Новогорск, Химки |
+| Отель В.60 | отель | https://ostrovok.ru/hotel/russia/moscow/mid9823318/b60_hotel | address | 1-я Брестская улица, д.60, Москва |
+| Отель Ваш Салют Апарт | отель | https://ostrovok.ru/hotel/russia/moscow/mid11176521/salyut_aparthotel | address | проспект Ленинский, д. 158, Москва |
+| Отель Вега Измайлово | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467768/best_western_vega_hotel | address | Измайловское шоссе, д. 71, стр. 3В, Москва |
+| Отель Везендорф ВДНХ | отель | https://ostrovok.ru/hotel/russia/moscow/mid6945292/hotel_wesendorf | address | улица Проходчиков, д.16с1, Москва |
+| Отель Веллион Смоленский | отель | https://ostrovok.ru/hotel/russia/moscow/mid13297596/boutique_hotel_vellion_smolenskiy | address | переулок Сивцев Вражек, 45, строение 1, Москва |
+| Отель Веллион Сухаревский | отель | https://ostrovok.ru/hotel/russia/moscow/mid9078221/vellion_sukharevsky | address | Большая Спасская улица, д.13с1, Москва |
+| Отель Волынское Конгресс-Парк | отель | https://ostrovok.ru/hotel/russia/moscow/mid7590591/congresspark_volynskoe_2 | address | улица Староволынская, владение 9, стр. 1, Москва |
+| Отель Воронцовский | отель | https://ostrovok.ru/hotel/russia/moscow/mid7724453/vorontsovsky_hotel | address | Воронцовский переулок, д.5/7 стр2, Москва |
+| Отель Времена Года | отель | https://ostrovok.ru/hotel/russia/moscow/mid7029613/vremena_goda_2 | address | Большой Кисловский переулок 1, строение 2, Москва, Москва |
+| Отель Городской Malvida | отель | https://ostrovok.ru/hotel/russia/moscow/mid8734795/malvida_hotel | address | Таболово, д. 19а, Видное |
+| Отель Гостиница Скайвью Сити | отель | https://ostrovok.ru/hotel/russia/moscow/mid7058678/status_hotel_5 | address | Большая Никитская 24/1 с.6, Москва |
+| Отель Графский | отель | https://ostrovok.ru/hotel/russia/moscow/mid8660400/hotel_grafskij | address | улица Льва Толстого, дом 23, строение 5, Москва |
+| Отель Грегори | отель | https://ostrovok.ru/hotel/russia/moscow/mid13647491/gregori_hotel | address | улица Бауманская, д.58/3с5, Москва |
+| Отель Дворец Ирины Винер | отель | https://ostrovok.ru/hotel/russia/moscow/mid9721453/dvorets_gimnastiki_irinyi_vinerusmanovoj_hotel | address | улица Лужники, д.24, стр.24, Москва |
+| Отель Де Пари | отель | https://ostrovok.ru/hotel/russia/moscow/mid7681565/otel_de_pari | address | улица Большая Бронная, 23, строение 3, Москва |
+| Отель Дельта Измайлово | отель | https://ostrovok.ru/hotel/russia/moscow/mid7402133/otel_izmailovo_delta | address | Измайловское шоссе, д. 71, корп. 4 Г-Д, Москва |
+| Отель Дизайн Сенатор | отель | https://ostrovok.ru/hotel/russia/moscow/mid8877301/senator_hotel_8 | address | Лубянский проезд, д. 7/1, Москва |
+| Отель Загородный комплекс Видная Усадьба. | отель | https://ostrovok.ru/hotel/russia/moscow/mid9994505/vidnaya_usadba | address | Старо-Нагорная улица д.20А, Видное |
+| Отель Звёзды Арбата | отель | https://ostrovok.ru/hotel/russia/moscow/mid8139930/moscow_marriott_hotel_novy_arbat | address | ул. Новый Арбат, 32, Москва, Москва |
+| Отель Измайлово Альфа | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467385/izmailovo_alpha_hotel | address | Измайловское шоссе, д.71 А, Москва |
+| Отель Интурист Коломенское | отель | https://ostrovok.ru/hotel/russia/moscow/mid8126782/kolomenskoye__2 | address | Каширское Шоссе,д. 39 стр. Б, Москва |
+| Отель Истра Гарден | отель | https://ostrovok.ru/hotel/russia/moscow/mid9974554/istra_garden_otel | address | 3-я Песчаная улица, д.2, Москва |
+| Отель Карлтон Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597420/ritz_carlton | address | ул. Тверская, д. 3, Москва |
+| Отель Континенталь | отель | https://ostrovok.ru/hotel/russia/moscow/mid7741106/interkontinental_moskva | address | Тверская улица, д.22 , Москва |
+| Отель Кунь Лунь | отель | https://ostrovok.ru/hotel/russia/moscow/mid10013909/kunlun | address | Осташковское шоссе, вл52с4, Москва |
+| Отель Курортно - развлекательный комплекс Внуково Вилладж (Vnukovo Village) | отель | https://ostrovok.ru/hotel/russia/moscow/mid13392663/hotel_kurortno_razvlekatelny_kompleks_vnukovo_villadzh_vnukovo_village | address | д. Картмазово, ул. Киевская, д. 4, Картмазово |
+| Отель Лесная Сафмар (бывший Холидей Инн Москва Лесная) | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467380/kholidei_inn_moskva_lesnaia | address | улица Лесная, д. 15, Москва |
+| Отель Лесной Кантри Хауз | отель | https://ostrovok.ru/hotel/russia/moscow/mid8744327/lesnoy_country_house_hotel | address | поселок Лесной городок, улица Школьная, д. 6 А, Москва |
+| Отель Максима Домодедово | отель | https://ostrovok.ru/hotel/russia/moscow/mid10249097/maxima_domodedovo | address | Аэропорт Домодедово, территория "Аэропорт "Домодедово", строение 53, Москва |
+| Отель Максима Панорама | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467382/maxima_panorama_hotel | address | улица Мастеркова, д.4, Москва |
+| Отель Мандарин Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467339/mandarin_moscow_hotel | address | улица Ольховская, д.23, Москва |
+| Отель Мегаполис Новокузнецкая 4* | отель | https://ostrovok.ru/hotel/russia/moscow/mid13745318/megapolis_hotel_5 | address | улица Большая Татарская, д. 46, Москва |
+| Отель Меншиков | отель | https://ostrovok.ru/hotel/russia/moscow/mid9005421/menshikov_boutique_hotel | address | Архангельский переулок, д.15, стр. 3, Москва |
+| Отель Метрополь | отель | https://ostrovok.ru/hotel/russia/moscow/mid7595994/metropol_hotel | address | Театральный пр-д, д.2, Москва |
+| Отель Миа Милано | отель | https://ostrovok.ru/hotel/russia/moscow/mid9083383/mia_milano_hotel | address | Кутузовский проспект, д.30, подъезд 11 А, Москва |
+| Отель Милан | отель | https://ostrovok.ru/hotel/russia/moscow/mid7573441/milan_hotel | address | улица Шипиловская, д.28 А, Москва |
+| Отель МонАрх Москва (ранее Ренессанс Монарх) | отель | https://ostrovok.ru/hotel/russia/moscow/mid7469066/otel_renaissance_moscow_monarch_centre | address | Ленинградский проспект 31 А стр.1, Москва |
+| Отель Москва Красносельская (бывший Хилтон Гарден Инн Красносельская) | отель | https://ostrovok.ru/hotel/russia/moscow/mid9751449/hilton_garden_inn_moscow_krasnoselskaya_hotel | address | Верхняя Красносельская улица, д.11Ас4, Москва |
+| Отель Москва Марриотт Империал Плаза | отель | https://ostrovok.ru/hotel/russia/moscow/mid9988092/moscow_marriott_imperial_plaza_hotel | address | Краснопрудная, 12, Москва  107140 Российская Федерация, Москва |
+| Отель На Казачьем | отель | https://ostrovok.ru/hotel/russia/moscow/mid7594715/hotel_in_kazachy_pereulok | address | 1-й Казачий переулок, д.4, Москва |
+| Отель Набат | отель | https://ostrovok.ru/hotel/russia/moscow/mid9091240/nabat_palace_arbat_hotel | address | улица Арбат, д.28/1 ст.2, Москва |
+| Отель Немчиновка-парк | отель | https://ostrovok.ru/hotel/russia/moscow/mid7715901/otel_nemchinovkapark | address | улица 2-я Запрудная, д. 46, Немчиновка |
+| Отель Новотель Москва Киевская | отель | https://ostrovok.ru/hotel/russia/moscow/mid8661280/novotel_moscow_kievskaya | address | улица Киевская дом 2, Москва |
+| Отель Норд Стар | отель | https://ostrovok.ru/hotel/russia/moscow/mid7853685/north_star_hotel | address | улица Свердлова, д.20/3, Химки |
+| Отель Особняк 1830 | отель | https://ostrovok.ru/hotel/russia/moscow/mid10213247/osobnyak_na_syezzhinskom_apartments_2 | address | Съезжинский переулок, д.10, строение 5, Москва |
+| Отель Пальмира Бизнес Клуб | отель | https://ostrovok.ru/hotel/russia/moscow/mid11157982/palmira_business_club_hotel | address | Новоданиловская наб., д. 6, Москва |
+| Отель Панорама Сити Отель Империя | отель | https://ostrovok.ru/hotel/russia/moscow/mid6613941/panorama_siti | address | Пресненская набережная, д. 6, стр. 2, помещ.4808, Москва |
+| Отель Панорама Сити Отель Федерация | отель | https://ostrovok.ru/hotel/russia/moscow/mid9260156/panorama_city_federation | address | Пресненская набережная, 12, башня "Федерация" 53 этаж, Москва |
+| Отель Петровский Путевой Дворец | отель | https://ostrovok.ru/hotel/russia/moscow/mid7741454/petrovskii_putevoi_dvorets | address | проспект Ленинградский, д. 40, Москва |
+| Отель Плаза | отель | https://ostrovok.ru/hotel/russia/moscow/mid11202171/plaza_hotel_75 | address | Лухмановская улица, д.37, Москва |
+| Отель ПостоялецЪ | отель | https://ostrovok.ru/hotel/russia/moscow/mid7969166/postoyalets_hotel | address | улица Свободы, д. 1, Одинцово |
+| Отель Протон | отель | https://ostrovok.ru/hotel/russia/moscow/mid7375866/proton_business_hotel | address | улица Новозаводская, д.22, Москва |
+| Отель Пушкин | отель | https://ostrovok.ru/hotel/russia/moscow/mid8037921/otel_pushkin | address | Настасьинский переулок, д.5 стр. 1, Москва |
+| Отель Пётр I | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467388/peter_1 | address | улица Неглинная, 17, стр. 1, Москва |
+| Отель Радио | отель | https://ostrovok.ru/hotel/russia/moscow/mid8854265/radio_hotel_2 | address | улица Радио, д.14. строение 1, Москва |
+| Отель Райкин Плаза | отель | https://ostrovok.ru/hotel/russia/moscow/mid7930655/raikin_plaza_hotel | address | Улица Шереметьевская, д. 6, к. 1, Москва |
+| Отель Резиденция Булгакова | отель | https://ostrovok.ru/hotel/russia/moscow/mid8737626/bulgakov_residence | address | Большой Палашевский переулок, д.9 стр. 2, Москва |
+| Отель Репин | отель | https://ostrovok.ru/hotel/russia/moscow/mid9209404/repin_2 | address | улица Репина, д.6, стр. 8, Химки |
+| Отель Рига Ленд | отель | https://ostrovok.ru/hotel/russia/moscow/mid8337574/gostinitsa_rigaland | address | 26 км автодороги «Балтия» стр. 6, БЦ «РигаЛенд», Москва |
+| Отель Россо Рива | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597146/katerina_city_hotel | address | Шлюзовая набережная, д. 6, стр. 2, Москва |
+| Отель Роял Зенит 1 | отель | https://ostrovok.ru/hotel/russia/moscow/mid7846982/royal_zenith | address | улица Таманская, д. 49Б, Москва |
+| Отель Руссо-Балт | отель | https://ostrovok.ru/hotel/russia/moscow/mid7777816/russo_balt_otel | address | Гоголевский бул., 31, стр. 1, Москва, Москва |
+| Отель Савой | отель | https://ostrovok.ru/hotel/russia/moscow/mid7573372/savoy_hotel | address | улица Рождественка, д.3/6, стр.1, Москва |
+| Отель Садовническая | отель | https://ostrovok.ru/hotel/russia/moscow/mid8660616/sadovnicheskaya | address | улица Садовническая , д.20, стр.1, Москва |
+| Отель Садовое Кольцо | отель | https://ostrovok.ru/hotel/russia/moscow/mid7394603/sadovoe_koltso_hotel | address | Пр-т Мира, д. 14, стр. 2, Москва |
+| Отель Салют | отель | https://ostrovok.ru/hotel/russia/moscow/mid7830709/salut_hotel | address | Ленинский проспект, д.158, Москва |
+| Отель Сафмар Палас Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597114/gostinitsa_sheraton_palas_moskva | address | 1-ая Тверская Ямская ул., д. 19, Москва, Москва |
+| Отель Сафмар Тверская Москва (бывший Марриотт Тверская) | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597423/gostinitsa_marriott_tverskaia | address | ул. 1-я Тверская Ямская, д. 34, Москва |
+| Отель Севастополь Гранд Классик | отель | https://ostrovok.ru/hotel/russia/moscow/mid7625812/sevastopol_hotel_bld2 | address | улица Большая Юшуньская, д. 1А к1, Москва |
+| Отель Союз | отель | https://ostrovok.ru/hotel/russia/moscow/mid8879371/soyuz_hotel | address | улица Восточная, д.10, Одинцово |
+| Отель СПА Palmira Garden | отель | https://ostrovok.ru/hotel/russia/moscow/mid9291179/palmira_garden_hotel_spa_palmira_garden | address | ул. Школьная 92, Видное |
+| Отель Сущевский Сафмар (бывший Холидей Инн Москва Сущевский) | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467381/kholidei_inn_sushchevskii | address | улица Сущевский Вал, д. 74, Москва |
+| Отель Теплица Парк | отель | https://ostrovok.ru/hotel/russia/moscow/mid8851919/teplitsa_park | address | Липовая улица, д. 3а, ВНИИССОК |
+| Отель Фуд Сити | отель | https://ostrovok.ru/hotel/russia/moscow/mid9761064/fud_siti_hotel | address | Калужское шоссе, 22-й километр, д.10с23, Москва |
+| Отель Хитровка | отель | https://ostrovok.ru/hotel/russia/moscow/mid7660730/hitrovka_hotel_2 | address | Певческий переулок, д.4, стр.1, Москва |
+| Отель Холидей Инн Москва Сокольники | отель | https://ostrovok.ru/hotel/russia/moscow/mid7600142/otel_kholidei_inn_moskva_sokolniki | address | Русаковская улица, д. 24, Москва |
+| Отель Холидей Таганский | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467389/kholidei_inn_moskva_simonovskii | address | ул. Симоновский Вал, 2, Москва |
+| Отель Чайковский | отель | https://ostrovok.ru/hotel/russia/moscow/mid8733261/tchaikovsky_hotel | address | улица Большая Никитская, д.24/1 стр.6, Москва |
+| Отель Яхт-Клуб Новый Берег | отель | https://ostrovok.ru/hotel/russia/moscow/mid7383057/oteliakhtklub_novyi_bereg | address | ул. Туристическая 10, Болтино |
 | ОТСЕБЯлофт на Арбате | лофт | https://www.loft2rent.ru/loft/209596/209598 | phone | 89773149423 |
 | Офис | лофт | https://www.loft2rent.ru/loft/86306 | phone | +74952042861 |
 | Офис на Красном Октябре | лофт | https://www.loft2rent.ru/loft/129904/129926 | phone | +7 977 669 03 00 |
@@ -23563,6 +23809,8 @@
 | Парк отдыха Атмосфера | лофт | https://www.loft2rent.ru/loft/101835/101837 | phone | 89042530111 |
 | Парк СказкаБазилик | лофт | https://www.loft2rent.ru/loft/196281/196294 | phone | +79680122670 |
 | Парк-отель "Медвежья гора"Ресторан "Мейд ин Раша" | лофт | https://www.loft2rent.ru/loft/132459/132467 | phone | +7 (812) 408-88-88 |
+| Парк-Отель Орловский | отель | https://ostrovok.ru/hotel/russia/moscow/mid7700514/gostinichnyi_kompleks_orlovskii | address | Орловский проезд, строение 12, Богданиха |
+| Парк-Отель Юдино | отель | https://ostrovok.ru/hotel/russia/moscow/mid8732812/yudino_parkhotel | address | Одинцовский р-н, с.Юдино, 1б, Москва |
 | Паста и Вино | лофт | https://www.loft2rent.ru/loft/170615 | phone | +79112389747 |
 | Пафосный апартамент Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | ПенкаЛофт | лофт | https://www.loft2rent.ru/loft/147486/147492 | phone | 89262270222 |
@@ -23681,6 +23929,7 @@
 | Приморье | организация | https://primbank.ru | social | https://t.me/primbank |
 | Приморье | организация | https://primbank.ru | social | https://t.me/primbank_bot |
 | Приморье | организация | https://primbank.ru | social | https://vk.ru/bankprim |
+| Принц Парк Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid6458819/prince_park_hotel_ | address | Новоясеневский проспект, д.1 Б, корп. 1, Москва |
 | Природа | лофт | https://www.loft2rent.ru/loft/44815 | phone | +7-916-496-11-91 |
 | Притяжение | лофт | https://www.loft2rent.ru/loft/92780 | phone | +7 993 590-58-84 |
 | Прованс | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
@@ -23855,6 +24104,7 @@
 | РНКБ | организация | https://rncb.ru | social | https://vk.com/im?sel=-22749457 |
 | РНКБ | организация | https://rncb.ru | social | https://vk.com/vtb |
 | Роден - Трехуровневый лофт в стиле Industrial | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Романи | отель | https://ostrovok.ru/hotel/russia/moscow/mid8568856/_0x60fd4 | address | 5-я Парковая ул., д. 28, лит. А, Москва |
 | Романс | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Романтический лофт на 55 этаже Москва-Сити Neva Towers (Moscow city Neva Towers) | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Росагролизинг | организация | https://www.rosagroleasing.ru | email | aafanaseva@rosagroleasing.ru |
@@ -23955,6 +24205,8 @@
 | Салем | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Салон Усачева "Система Ценностей" | лофт | https://www.loft2rent.ru/loft/171228/171230 | phone | +79039615585 |
 | Самобранка ЛофтЛофт Самобранка | лофт | https://www.loft2rent.ru/loft/174602/174605 | phone | +79035281880 |
+| Сафмар Аврора Люкс (бывший Марриотт Ройал Аврора) | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597450/gostinitsa_marriott_roiial_avrora | address | улица Петровка, 11, Москва |
+| Сафмар Грандъ Москва (бывший Марриотт Гранд) | отель | https://ostrovok.ru/hotel/russia/moscow/mid11231733/safmar_grand_moscow_exmarriott_grand | address | ул. Тверская, 26/1, Москва |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | +7 (915) 214-59-52 |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | phone |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://t.me/Kate_i_Leo |
@@ -24047,6 +24299,7 @@
 | Системный оператор ЕЭС | организация | https://so-ups.ru | social | https://rutube.ru/channel/24096838 |
 | Системный оператор ЕЭС | организация | https://so-ups.ru | social | https://t.me/so_ups_official |
 | Системный оператор ЕЭС | организация | https://so-ups.ru | social | https://vk.com/so_ups_official |
+| Сити Отель 1905 | отель | https://ostrovok.ru/hotel/russia/moscow/mid8869200/city_hotel_1905 | address | Шмитовский проезд, д. 3, строение 1, Москва |
 | Сицилия | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Сказка | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Сказка | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
@@ -24616,6 +24869,7 @@
 | Честер. Зал с яркими диванами и камином | лофт | https://www.reveltime.ru/venue/3316674?eventtype=vecherinka | phone | +79346699837 |
 | Четыре зала Фотостудии BASE с отдельным входом в БЦ на Преображенке | лофт | https://www.loft2rent.ru/loft/53804 | phone | +79254214746 |
 | ЧеховЪ Лофт | лофт | https://www.loft2rent.ru/loft/126157/126539 | phone | 89957807068 |
+| Чехофф Отель Москва Кьюрио Коллекшен Хилтон | отель | https://ostrovok.ru/hotel/russia/moscow/mid9023595/chekhoff_hotel_moscow_curio_collection_by_hilton | address | улица Малая Дмитровка, д. 11, Москва |
 | Чечевица Лофт | лофт | https://www.loft2rent.ru/loft/83446/83448 | phone | 89052556556 |
 | Чикаго | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Чил лофт. Яркий лофт-зал для девичников | лофт | https://www.reveltime.ru/venue/5920735?eventtype=vecherinka | phone | +79346695974 |
@@ -24642,6 +24896,7 @@
 | Шоурум | лофт | https://www.loft2rent.ru/loft/116807 | phone | +79150127722 |
 | ШП Образовательное Пространство | лофт | https://www.loft2rent.ru/loft/179435/179440 | phone | +7 (991) 640-35-77 |
 | ШтудияШтудия. Проспект мира | лофт | https://www.loft2rent.ru/loft/110445/110449 | phone | +74957612323 |
+| Ъ (Знак) | отель | https://ostrovok.ru/hotel/russia/moscow/mid11227231/hotel_znak | address | Оружейный переулок, д. 3, строение 1, Москва |
 | Эдисон | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | ЭДИСОН | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
 | Эко-парк "Земляничный"Event-hall (Эко-парк "Земляничный") | лофт | https://www.loft2rent.ru/loft/145745/145749 | phone | +79506067877 |
@@ -24673,6 +24928,7 @@
 | Элегантный лофт Готэм | лофт | https://www.reveltime.ru/venue/8504465?eventtype=vecherinka | phone | +79584974039 |
 | Элегантный лофт с хорошим звуком и балконом | лофт | https://www.reveltime.ru/venue/9168851?eventtype=vecherinka | phone | +79910173255 |
 | Элефантия | лофт | https://www.loft2rent.ru/loft/176750/176752 | phone | 8 343 238-15-50 |
+| Элит | отель | https://ostrovok.ru/hotel/russia/moscow/mid6811604/elit_hotel_5 | address | Волгоградский пр-т, д.98, корп.1, Москва |
 | Эль Плейс | лофт | https://www.loft2rent.ru/loft/73458/73460 | phone | 89600300400 |
 | Энгейдж ВДНХ | лофт | https://www.loft2rent.ru/loft/47660 | phone | 88005001523 |
 | Энджой комьюнитиЗал 1 | лофт | https://www.loft2rent.ru/loft/99646/99655 | phone | +7 (499) 495-17-81 |

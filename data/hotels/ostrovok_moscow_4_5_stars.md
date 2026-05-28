@@ -1,259 +1,263 @@
-## Отели Москвы (4–5★) — только названия
+## Ostrovok — отели Москвы 4–5★
+Источник: `https://ostrovok.ru/hotel/russia/moscow/?stars=5.4`
 
-Всего: **253** отелей.
+Всего: **256** отелей.
 
-| № | Отель |
-|---:|---|
-| 1 | Гостиница Radisson Blu Олимпийский |
-| 2 | Отель Новотель Москва Киевская |
-| 3 | Бутик-отель Софит |
-| 4 | Отель Swissotel Красные Холмы |
-| 5 | Отель Москва Красносельская (бывший Хилтон Гарден Инн Красносельская) |
-| 6 | Отель Москва Марриотт Империал Плаза |
-| 7 | Отель Лесная Сафмар (бывший Холидей Инн Москва Лесная) |
-| 8 | Отель Холидей Таганский |
-| 9 | Отель Hyatt Regency Moscow Petrovsky Park |
-| 10 | Отель Pentahotel Moscow Arbat |
-| 11 | Отель Ваш Салют Апарт |
-| 12 | Отель Mercure Москва Павелецкая |
-| 13 | Отель Сафмар Тверская Москва (бывший Марриотт Тверская) |
-| 14 | Гостиница Националь |
-| 15 | Гостиница Radisson Blu Белорусская |
-| 16 | Отель Palmira Art |
-| 17 | Отель Вега Измайлово |
-| 18 | Отель Холидей Инн Москва Сокольники |
-| 19 | Отель Glenver Garden |
-| 20 | Отель Континенталь |
-| 21 | Plaza Garden Moscow WTC Hotel |
-| 22 | Апарт-отель Анис Стайл Москва Октябрьское Поле |
-| 23 | AZIMUT Сити Отель Смоленская |
-| 24 | Отель Дельта Измайлово |
-| 25 | Отель Звёзды Арбата |
-| 26 | ENZO Hotel Moscow by ZONT Hotel Group |
-| 27 | Отель Сафмар Палас |
-| 28 | Отель Сущевский Сафмар (бывший Холидей Инн Москва Сущевский) |
-| 29 | Отель Hampton by Hilton Moscow Рогожский вал |
-| 30 | Отель Mercure Арбат |
-| 31 | Отель Novotel Москва Сити |
-| 32 | Отель Brosko |
-| 33 | Отель Novotel Москва Центр |
-| 34 | Отель Cosmos Selection Москва Внуково Спорт Отель |
-| 35 | Отель Альянс Бородино |
-| 36 | Эрмитаж Отель |
-| 37 | Mercure |
-| 38 | Azimut Hotels |
-| 39 | Novotel |
-| 40 | Swissotel Hotels & Resorts |
-| 41 | DoubleTree by Hilton |
-| 42 | Hampton by Hilton |
-| 43 | Hilton Hotels & Resorts |
-| 44 | Holiday Inn |
-| 45 | Safmar |
-| 46 | Holiday Inn Express |
-| 47 | Park Inn by Radisson |
-| 48 | Отель Измайлово Бета |
-| 49 | Cosmos Москва ВДНХ Отель |
-| 50 | Гостиница Рэдиссон Славянская |
-| 51 | AZIMUT Сити Отель Олимпик |
-| 52 | Отель Soluxe Hotel |
-| 53 | Отель Балчуг Кемпински |
-| 54 | AZIMUT Отель Аэростар |
-| 55 | Отель Арт Москва, ZONT Hotel Group |
-| 56 | Гостиница Radisson Collection |
-| 57 | Отель Viewpoint Hotel |
-| 58 | Апарт-отель Yes Technopark |
-| 59 | Отель Cosmos Selection Москва Арбат |
-| 60 | Отель Hilton Москва Ленинградская |
-| 61 | Отель Измайлово Альфа |
-| 62 | Гостиница Золотое Кольцо |
-| 63 | Отель Maidens Hotel |
-| 64 | Отель Cosmos Москва Павелецкая |
-| 65 | Отель Веллион Смоленский |
-| 66 | Отель Арткорт Москва Центр |
-| 67 | Отель Movenpiсk Москва Таганская |
-| 68 | Отель Савой |
-| 69 | Отель Mercure Москва Бауманская |
-| 70 | Отель Edge Seligerskaya |
-| 71 | Отель DoubleTree Москва Арбат |
-| 72 | Отель WineWood |
-| 73 | Отель Novotel Москва Аэропорт Шереметьево |
-| 74 | Бутик-отель Петровка 26 |
-| 75 | Отель Sunflower Румянцево ZONT Hotel Group |
-| 76 | Отель Norke Prime Бауманская |
-| 77 | Апарт-отель Адажио Москва Киевская |
-| 78 | Отель Radisson Blu Ленинский проспект |
-| 79 | Гостиница Сретенская |
-| 80 | Бутик-отель PR Myasnitsky |
-| 81 | Отель Пальмира Бизнес Клуб |
-| 82 | Отель МонАрх Москва (ранее Ренессанс Монарх) |
-| 83 | Отель Метрополь |
-| 84 | AZIMUT Сити Отель Тульская |
-| 85 | Отель Интурист Коломенское |
-| 86 | Гостиница Парк Тауэр |
-| 87 | Отель Россо Рива |
-| 88 | Отель Салют |
-| 89 | Апарт-отель Norke Prime Сретенка |
-| 90 | Гостиница «Президент-Отель» |
-| 91 | Отель Билибин Гарден |
-| 92 | Отель Marco Polo by Moss Hospitality |
-| 93 | Гостиница Park Inn, Одинцово |
-| 94 | Отель The St. Regis Moscow Nikolskaya |
-| 95 | Doubletree by Hilton Moscow - Marina |
-| 96 | Отель Astrus |
-| 97 | Гостиница Арбат Хауc |
-| 98 | Отель Marins Москва Пражская |
-| 99 | Бутик-отель Палаты Хованских |
-| 100 | Select Hotel Paveletskaya |
-| 101 | Отель Arium by Brosko |
-| 102 | Отель Будапешт |
-| 103 | Отель Barin Residence Grand&Myasnitskaya |
-| 104 | DoubleTree by Hilton Moscow — Vnukovo Airport |
-| 105 | Отель Пушкин |
-| 106 | Отель Edge Vinogradovo |
-| 107 | Апарт-отель Петровский парк Syncotel |
-| 108 | Отель V Hotel Tverskaya |
-| 109 | Отель Гостиница Скайвью Сити |
-| 110 | Апарт-отель Adagio Москва Павелецкая |
-| 111 | Отель Мегаполис Новокузнецкая 4* |
-| 112 | Гостиница Пекин |
-| 113 | Лотте Отель |
-| 114 | Отель Севастополь Гранд Классик |
-| 115 | Tverskoy Boutique Hotel |
-| 116 | Апарт-отель Ap-in |
-| 117 | Апарт-отель Idera |
-| 118 | Отель Петровский Путевой Дворец |
-| 119 | Отель Де Пари |
-| 120 | Отель Милан |
-| 121 | Отель Spektrcity Taganskaya |
-| 122 | Отель Пётр I |
-| 123 | Отель Мандарин |
-| 124 | Отель Волынское Конгресс-Парк |
-| 125 | Гостиница Бега |
-| 126 | Отель Акварель |
-| 127 | Отель Hartwell |
-| 128 | Отель Moscow Holiday |
-| 129 | Мясницкий Бутик Отель |
-| 130 | Отель Barvikha Hotel&SPA |
-| 131 | Отель Борис Годунов |
-| 132 | Отель Чайковский |
-| 133 | Отель Веллион Сухаревский |
-| 134 | Отель СПА Palmira Garden |
-| 135 | Отель Riverside |
-| 136 | Апарт-Отель Page 20 |
-| 137 | Cosmos Москва Шереметьево Аэропорт Отель |
-| 138 | Чехофф Отель Москва Кьюрио Коллекшен Хилтон |
-| 139 | Гостиница Апарт-отель Raido.Moscow History |
-| 140 | 1 Арт Отель |
-| 141 | Отель На Казачьем |
-| 142 | Отель Дизайн Сенатор |
-| 143 | Апарт-отель Intermark Residence |
-| 144 | Отель Максима Домодедово |
-| 145 | Отель Максима Панорама |
-| 146 | Бутик-отель Axis.Moscow Heritage |
-| 147 | Гринвуд Отель |
-| 148 | Отель Кунь Лунь |
-| 149 | Отель Райкин Плаза |
-| 150 | Отель Garden Embassy |
-| 151 | Принц Парк Отель |
-| 152 | Легендарный отель Советский |
-| 153 | Мини-отель Дом Художников Коровиных |
-| 154 | Дизайн-отель СтандАрт |
-| 155 | Отель Амато |
-| 156 | Отель SK Royal |
-| 157 | Отель Magic Harp |
-| 158 | Отель Миа Милано |
-| 159 | Бутик-отель Семь Слонов |
-| 160 | Бутик-Отель П 17 / P 17 Hotel |
-| 161 | Апарт-отель Mamaison All-Suites Spa Pokrovka |
-| 162 | Отель Фуд Сити |
-| 163 | Отель Амбассадори |
-| 164 | Отель Курортно - развлекательный комплекс Внуково Вилладж (Vnukovo Village) |
-| 165 | AZIMUT Сити Отель Комсити |
-| 166 | Града Бутик Отель |
-| 167 | Гостиница Даниловская |
-| 168 | Отель ПостоялецЪ |
-| 169 | Отель Немчиновка-парк |
-| 170 | Отель Набат |
-| 171 | Апарт-отель Гринстоун |
-| 172 | Апарт-отель Diamond Apartments |
-| 173 | Отель East Gate |
-| 174 | Отель Sadovnicheskaya City Center |
-| 175 | Отель Дворец Ирины Винер |
-| 176 | Сити Отель 1905 |
-| 177 | Отель Резиденция Булгакова |
-| 178 | Мини-отель Гнёздышко |
-| 179 | Отель Gentalion |
-| 180 | Отель Садовническая |
-| 181 | Отель Графский |
-| 182 | Отель Меншиков |
-| 183 | Отель Sunflower Внуково ZONT Hotel Group |
-| 184 | Апарт-отель «﻿На высоте﻿» |
-| 185 | Отель ApeironSpace |
-| 186 | Отель Хитровка |
-| 187 | Отель MYS BOUTIQUE HOTEL |
-| 188 | Бутик-Отель Арбат 6 |
-| 189 | Апарт-отель Ханой-Москва |
-| 190 | Бутик-Отель Регул |
-| 191 | Отель В.60 |
-| 192 | Апарт-отель Тета Измайлово |
-| 193 | Отель Veshki Park |
-| 194 | Отель Grand Wellness Hotel & Spa 5* |
-| 195 | Отель Лесной Кантри Хауз |
-| 196 | Отель Грегори |
-| 197 | Парк-Отель Орловский |
-| 198 | Отель Особняк 1830 |
-| 199 | Отель Астро Плаза |
-| 200 | Гостиница Кадашевская |
-| 201 | Апарт-Отель Веста |
-| 202 | Отель Времена Года |
-| 203 | Гостиница Памир-ТяньШань |
-| 204 | Отель Норд Стар |
-| 205 | Бутик-отель Румс |
-| 206 | Отель Рига Ленд |
-| 207 | Бутик Отель Брайтон |
-| 208 | Боулинг-отель Новые Горки |
-| 209 | Отель Skypoint Gamma Delta Alfa |
-| 210 | Отель в Центре Гимнастики Ирины Винер-Усмановой |
-| 211 | Бутик-отель Казначейский |
-| 212 | Отель Плаза |
-| 213 | Бутик-Отель Чемодановъ |
-| 214 | Отель Ribella |
-| 215 | Апарт-отель Веста Подлипки |
-| 216 | GOPARK Hotel |
-| 217 | Апарт-отель Окно |
-| 218 | Отель Радио |
-| 219 | Бутик-Отель Loft |
-| 220 | Бутик-Отель Люмьер |
-| 221 | Отель Norke Prime Курская |
-| 222 | Гостиница Four Seasons Hotel |
-| 223 | Отель Везендорф ВДНХ |
-| 224 | Отель Репин |
-| 225 | Авторский Отель Паррадоссо |
-| 226 | Апарт-отель Международная |
-| 227 | Отель Городской Malvida |
-| 228 | Отель Истра Гарден |
-| 229 | Парк-Отель Юдино |
-| 230 | Отель Протон |
-| 231 | Отель Карлтон |
-| 232 | Отель Панорама Сити Отель Федерация |
-| 233 | Отель Malakhovka Palace |
-| 234 | Отель Artiland |
-| 235 | Отель Воронцовский |
-| 236 | Отель Загородный комплекс Видная Усадьба. |
-| 237 | Отель Avshar |
-| 238 | Отель Теплица Парк |
-| 239 | Business lounge hotel (Бизнес Лаундж Отель) |
-| 240 | Отель Союз |
-| 241 | Отель «Рихтер», участник Design Hotels |
-| 242 | Отель Руссо-Балт |
-| 243 | Мини-отель РГК Алексеевский |
-| 244 | Бутик-отель Twelve Reasons |
-| 245 | Гостиница Покровская |
-| 246 | Отель Роял Зенит 1 |
-| 247 | Отель Silky Way |
-| 248 | Гостиница ВАРС |
-| 249 | Мини-отель Фонда |
-| 250 | Отель S7 Hotel |
-| 251 | Бизнес-отель «Времена Года» |
-| 252 | Отель Яхт-Клуб Новый Берег |
-| 253 | Отель Панорама Сити Отель Империя |
+| № | Отель | Телефон | Сайт | Адрес | Ostrovok |
+|---:|---|---|---|---|---|
+| 1 | [Гостиница Radisson Blu Олимпийский, Москва](https://ostrovok.ru/hotel/russia/moscow/mid8869780/radisson_blu_olympiyskiy_hotel/) |  |  | Samarskaya street, 1, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8869780/radisson_blu_olympiyskiy_hotel/ |
+| 2 | [Отель Новотель Москва Киевская](https://ostrovok.ru/hotel/russia/moscow/mid8661280/novotel_moscow_kievskaya/) |  |  | улица Киевская дом 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8661280/novotel_moscow_kievskaya/ |
+| 3 | [Бутик-отель Софит](https://ostrovok.ru/hotel/russia/moscow/mid8849518/sofit_butikhotel/) |  |  | пер. Сытинский, д.3/5, помещ. 4/1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8849518/sofit_butikhotel/ |
+| 4 | [Отель Swissotel Красные Холмы](https://ostrovok.ru/hotel/russia/moscow/mid7590804/swissotel_krasnye_holmy/) |  |  | Космодамианская наб., д. 52, стр.6, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7590804/swissotel_krasnye_holmy/ |
+| 5 | [Сафмар Грандъ Москва (бывший Марриотт Гранд)](https://ostrovok.ru/hotel/russia/moscow/mid11231733/safmar_grand_moscow_exmarriott_grand/) |  |  | ул. Тверская, 26/1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11231733/safmar_grand_moscow_exmarriott_grand/ |
+| 6 | [Отель Москва Марриотт Империал Плаза](https://ostrovok.ru/hotel/russia/moscow/mid9988092/moscow_marriott_imperial_plaza_hotel/) |  |  | Краснопрудная, 12, Москва  107140 Российская Федер… | https://ostrovok.ru/hotel/russia/moscow/mid9988092/moscow_marriott_imperial_plaza_hotel/ |
+| 7 | [Отель Москва Красносельская (бывший Хилтон Гарден Инн Красносельская)](https://ostrovok.ru/hotel/russia/moscow/mid9751449/hilton_garden_inn_moscow_krasnoselskaya_hotel/) |  |  | Верхняя Красносельская улица, д.11Ас4, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9751449/hilton_garden_inn_moscow_krasnoselskaya_hotel/ |
+| 8 | [Сафмар Аврора Люкс (бывший Марриотт Ройал Аврора)](https://ostrovok.ru/hotel/russia/moscow/mid7597450/gostinitsa_marriott_roiial_avrora/) |  |  | улица Петровка, 11, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597450/gostinitsa_marriott_roiial_avrora/ |
+| 9 | [Отель Лесная Сафмар (бывший Холидей Инн Москва Лесная)](https://ostrovok.ru/hotel/russia/moscow/mid7467380/kholidei_inn_moskva_lesnaia/) |  |  | улица Лесная, д. 15, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467380/kholidei_inn_moskva_lesnaia/ |
+| 10 | [Отель Hyatt Regency Moscow Petrovsky Park](https://ostrovok.ru/hotel/russia/moscow/mid10001298/petrovskij_park_congress_hotel/) | +7 495 479-12-34 | https://hyatt.com | Ленинградский проспект 36 строение 33, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10001298/petrovskij_park_congress_hotel/ |
+| 11 | [Отель Холидей Таганский](https://ostrovok.ru/hotel/russia/moscow/mid7467389/kholidei_inn_moskva_simonovskii/) |  |  | ул. Симоновский Вал, 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467389/kholidei_inn_moskva_simonovskii/ |
+| 12 | [Отель Pentahotel Moscow Arbat](https://ostrovok.ru/hotel/russia/moscow/mid8869717/pentahotel_moscow_arbat/) |  |  | улица Новый Арбат, 15, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8869717/pentahotel_moscow_arbat/ |
+| 13 | [Отель Сафмар Тверская Москва (бывший Марриотт Тверская)](https://ostrovok.ru/hotel/russia/moscow/mid7597423/gostinitsa_marriott_tverskaia/) |  |  | ул. 1-я Тверская Ямская, д. 34, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597423/gostinitsa_marriott_tverskaia/ |
+| 14 | [Отель Ваш Салют Апарт](https://ostrovok.ru/hotel/russia/moscow/mid11176521/salyut_aparthotel/) |  |  | проспект Ленинский, д. 158, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11176521/salyut_aparthotel/ |
+| 15 | [Гостиница Националь Москва](https://ostrovok.ru/hotel/russia/moscow/mid7467340/gostinitsa_natsional_moskva/) |  |  | улица Моховая, д. 15/1, стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467340/gostinitsa_natsional_moskva/ |
+| 16 | [Отель Mercure Москва Павелецкая](https://ostrovok.ru/hotel/russia/moscow/mid8326248/mercure_moscow_paveletskaya_2/) |  |  | улица Бахрушина, д 11 , Москва | https://ostrovok.ru/hotel/russia/moscow/mid8326248/mercure_moscow_paveletskaya_2/ |
+| 17 | [Гостиница Radisson Blu Белорусская, Москва](https://ostrovok.ru/hotel/russia/moscow/mid7858838/redisson_belorusskaia_moskva/) |  |  | 3-я ул. Ямского поля, д. 26А, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7858838/redisson_belorusskaia_moskva/ |
+| 18 | [Отель Palmira Art](https://ostrovok.ru/hotel/russia/moscow/mid13287330/palmira_art_hotel/) |  |  | улица 4-я Магистральная, д. 4/11, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13287330/palmira_art_hotel/ |
+| 19 | [Отель Вега Измайлово](https://ostrovok.ru/hotel/russia/moscow/mid7467768/best_western_vega_hotel/) |  |  | Измайловское шоссе, д. 71, стр. 3В, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467768/best_western_vega_hotel/ |
+| 20 | [Отель Континенталь](https://ostrovok.ru/hotel/russia/moscow/mid7741106/interkontinental_moskva/) |  |  | Тверская улица, д.22 , Москва | https://ostrovok.ru/hotel/russia/moscow/mid7741106/interkontinental_moskva/ |
+| 21 | [AZIMUT Сити Отель Олимпик Москва](https://ostrovok.ru/hotel/russia/moscow/mid7597419/azimut_moscow_olympic_hotel/) |  |  | Олимпийский пр-т, д. 18/1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597419/azimut_moscow_olympic_hotel/ |
+| 22 | [Гостиница Рэдиссон Славянская](https://ostrovok.ru/hotel/russia/moscow/mid7467357/otel_radisson_slavyanskaya_and_business_centre/) |  |  | Площадь Евразии, д.2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467357/otel_radisson_slavyanskaya_and_business_centre/ |
+| 23 | [Отель Glenver Garden](https://ostrovok.ru/hotel/russia/moscow/mid11236308/glenver_garden_paveletskaya_hotel/) |  |  | Кожевническая улица, д.4, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11236308/glenver_garden_paveletskaya_hotel/ |
+| 24 | [Отель Сущевский Сафмар (бывший Холидей Инн Москва Сущевский)](https://ostrovok.ru/hotel/russia/moscow/mid7467381/kholidei_inn_sushchevskii/) |  |  | улица Сущевский Вал, д. 74, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467381/kholidei_inn_sushchevskii/ |
+| 25 | [Отель Сафмар Палас Москва](https://ostrovok.ru/hotel/russia/moscow/mid7597114/gostinitsa_sheraton_palas_moskva/) |  |  | 1-ая Тверская Ямская ул., д. 19, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597114/gostinitsa_sheraton_palas_moskva/ |
+| 26 | [Отель Холидей Инн Москва Сокольники](https://ostrovok.ru/hotel/russia/moscow/mid7600142/otel_kholidei_inn_moskva_sokolniki/) |  |  | Русаковская улица, д. 24, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7600142/otel_kholidei_inn_moskva_sokolniki/ |
+| 27 | [Апарт-отель Анис Стайл Москва Октябрьское Поле](https://ostrovok.ru/hotel/russia/moscow/mid10437053/anisstayl_moskva_oktyabryskoye_pole_aparthotel/) |  |  | 3-я Хорошёвская улица, д.23А, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10437053/anisstayl_moskva_oktyabryskoye_pole_aparthotel/ |
+| 28 | [Отель Дельта Измайлово](https://ostrovok.ru/hotel/russia/moscow/mid7402133/otel_izmailovo_delta/) |  |  | Измайловское шоссе, д. 71, корп. 4 Г-Д, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7402133/otel_izmailovo_delta/ |
+| 29 | [ENZO Hotel Moscow by ZONT Hotel Group](https://ostrovok.ru/hotel/russia/moscow/mid13725634/enzo_hotel_moscow_by_zont_hotel_group/) |  |  | Поклонная улица, 9, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13725634/enzo_hotel_moscow_by_zont_hotel_group/ |
+| 30 | [Plaza Garden Moscow WTC Hotel](https://ostrovok.ru/hotel/russia/moscow/mid8075994/crowne_plaza_moscow_world_trade_centre/) |  |  | набережная Краснопресненская, дом 12, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8075994/crowne_plaza_moscow_world_trade_centre/ |
+| 31 | [Отель Hampton by Hilton Moscow Рогожский вал](https://ostrovok.ru/hotel/russia/moscow/mid9770069/hampton_by_hilton_moscow_rogozhsky_val/) |  |  | улица Рогожский Вал, дом 10, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9770069/hampton_by_hilton_moscow_rogozhsky_val/ |
+| 32 | [Отель Звёзды Арбата](https://ostrovok.ru/hotel/russia/moscow/mid8139930/moscow_marriott_hotel_novy_arbat/) |  |  | ул. Новый Арбат, 32, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8139930/moscow_marriott_hotel_novy_arbat/ |
+| 33 | [Отель Mercure Арбат Москва](https://ostrovok.ru/hotel/russia/moscow/mid7796014/mercure_arbat_moscow/) |  |  | Смоленская площадь, д.6, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7796014/mercure_arbat_moscow/ |
+| 34 | [AZIMUT Сити Отель Смоленская Москва](https://ostrovok.ru/hotel/russia/moscow/mid8744391/azimut_hotel_smolenskaya_moscow/) |  |  | ул. Смоленская, д.8, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8744391/azimut_hotel_smolenskaya_moscow/ |
+| 35 | [Отель Альянс Бородино](https://ostrovok.ru/hotel/russia/moscow/mid7599836/borodino_hotel/) |  |  | ул. Русаковская, д. 13, стр. 5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7599836/borodino_hotel/ |
+| 36 | [AZIMUT Отель Аэростар Москва](https://ostrovok.ru/hotel/russia/moscow/mid7598118/aerostar_hotel/) |  |  | Ленинградский проспект, д.37 строение 9, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7598118/aerostar_hotel/ |
+| 37 | [Отель Арт Москва, ZONT Hotel Group](https://ostrovok.ru/hotel/russia/moscow/mid8748812/art_moskva_hotel/) |  |  | улица Космонавта Волкова, д.6 А, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8748812/art_moskva_hotel/ |
+| 38 | [Отель Novotel Москва Центр](https://ostrovok.ru/hotel/russia/moscow/mid7806857/novotel_moskva_tsentr/) |  |  | Новослободская улица, д. 23, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7806857/novotel_moskva_tsentr/ |
+| 39 | [Гостиница Radisson Collection Москва](https://ostrovok.ru/hotel/russia/moscow/mid8876782/radisson_collection_hotel_moscow/) |  |  | Кутузовский пр-т, д. 2/1 стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8876782/radisson_collection_hotel_moscow/ |
+| 40 | [Отель Novotel Москва Сити](https://ostrovok.ru/hotel/russia/moscow/mid7620527/novotel_moscow_city_hotel/) |  |  | Пресненская Набережная, д. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7620527/novotel_moscow_city_hotel/ |
+| 41 | [Отель Балчуг Кемпински Москва](https://ostrovok.ru/hotel/russia/moscow/mid7590814/hotel_baltschug_kempinski_moscow/) |  |  | улица Балчуг, д. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7590814/hotel_baltschug_kempinski_moscow/ |
+| 42 | [Отель Soluxe Hotel Moscow](https://ostrovok.ru/hotel/russia/moscow/mid10480541/soluxe_hotel_moscow/) | +7 495 139-20-20 | https://soluxehotelmoscow.com | улица Вильгельма Пика, д. 16, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10480541/soluxe_hotel_moscow/ |
+| 43 | [Отель Арткорт Москва Центр](https://ostrovok.ru/hotel/russia/moscow/mid7597525/courtyard_by_marriott_moscow_city_center/) |  |  | Вознесенский переулок, д.7, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597525/courtyard_by_marriott_moscow_city_center/ |
+| 44 | [Отель Brosko Moscow](https://ostrovok.ru/hotel/russia/moscow/mid8854267/hotel_brosko/) |  |  | улица Новый Арбат, д. 21, строение 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8854267/hotel_brosko/ |
+| 45 | [Отель Измайлово Альфа](https://ostrovok.ru/hotel/russia/moscow/mid7467385/izmailovo_alpha_hotel/) |  |  | Измайловское шоссе, д.71 А, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467385/izmailovo_alpha_hotel/ |
+| 46 | [Отель Viewpoint Hotel](https://ostrovok.ru/hotel/russia/moscow/mid8878179/balchug_viewpoint_hotel/) |  |  | Садовническая набережная, д. 7, помещ. 50, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8878179/balchug_viewpoint_hotel/ |
+| 47 | [Отель Cosmos Selection Москва Внуково Спорт Отель](https://ostrovok.ru/hotel/russia/moscow/mid13866274/hotel_kosmos_selekshn_moskva_vnukovo_sport_hotel/) |  |  | вн.тер.г. муниципальный округ Внуково, ул. Большая… | https://ostrovok.ru/hotel/russia/moscow/mid13866274/hotel_kosmos_selekshn_moskva_vnukovo_sport_hotel/ |
+| 48 | [Отель Cosmos Selection Москва Арбат](https://ostrovok.ru/hotel/russia/moscow/mid13369156/hotel_cosmos_selection_moscow_arbat/) |  |  | улица Новый Арбат, 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13369156/hotel_cosmos_selection_moscow_arbat/ |
+| 49 | [Гостиница Золотое Кольцо](https://ostrovok.ru/hotel/russia/moscow/mid7467289/golden_ring_hotel_2/) |  |  | Смоленская улица, 5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467289/golden_ring_hotel_2/ |
+| 50 | [Aquamarine](https://ostrovok.ru/hotel/russia/moscow/mid9291722/crowne_plaza_moscow_tretyakovskaya/) |  |  | Озерковская наб., д. 26, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9291722/crowne_plaza_moscow_tretyakovskaya/ |
+| 51 | [Отель Cosmos Москва Павелецкая](https://ostrovok.ru/hotel/russia/moscow/mid7765017/courtyard_by_marriott_moscow_paveletskaya_hotel/) |  |  | улица Кожевническая, д. 8, стр. 3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7765017/courtyard_by_marriott_moscow_paveletskaya_hotel/ |
+| 52 | [Отель Hilton Москва Ленинградская](https://ostrovok.ru/hotel/russia/moscow/mid7601804/gostinitsa_khilton_leningradskaia/) |  |  | Каланчевская ул.21/40, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7601804/gostinitsa_khilton_leningradskaia/ |
+| 53 | [Апарт-отель Yes Technopark](https://ostrovok.ru/hotel/russia/moscow/mid10151494/apartotel_yes_technopark/) |  |  | проспект Андропова, д.10, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10151494/apartotel_yes_technopark/ |
+| 54 | [Отель Movenpiсk Москва Таганская](https://ostrovok.ru/hotel/russia/moscow/mid9260139/movenpick_moscow_taganskaya/) |  |  | улица Земляной Вал, д.70, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9260139/movenpick_moscow_taganskaya/ |
+| 55 | [Отель Maidens Hotel](https://ostrovok.ru/hotel/russia/moscow/mid13100159/hotel_maidens_hotel/) |  |  | Зубовская площадь, 3 строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13100159/hotel_maidens_hotel/ |
+| 56 | [Отель Веллион Смоленский](https://ostrovok.ru/hotel/russia/moscow/mid13297596/boutique_hotel_vellion_smolenskiy/) |  |  | переулок Сивцев Вражек, 45, строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13297596/boutique_hotel_vellion_smolenskiy/ |
+| 57 | [Барин Резиденс Центр](https://ostrovok.ru/hotel/russia/moscow/mid8854270/barin_rezidence_balchug/) |  |  | Ulitsa Sadovnicheskaya 8, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8854270/barin_rezidence_balchug/ |
+| 58 | [Отель Mercure Москва Бауманская](https://ostrovok.ru/hotel/russia/moscow/mid8142740/mercure_moscow_baumanskaya/) |  |  | Бауманская улица, д.54, стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8142740/mercure_moscow_baumanskaya/ |
+| 59 | [Отель Edge Seligerskaya Moscow](https://ostrovok.ru/hotel/russia/moscow/mid7600189/iris_congress_hotel/) | +7 495 645-00-00 | https://edgeseligerskaya.ru | Коровинское шоссе, д.10, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7600189/iris_congress_hotel/ |
+| 60 | [Отель Савой](https://ostrovok.ru/hotel/russia/moscow/mid7573372/savoy_hotel/) |  |  | улица Рождественка, д.3/6, стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7573372/savoy_hotel/ |
+| 61 | [Отель Norke Prime Бауманская](https://ostrovok.ru/hotel/russia/moscow/mid11161354/norke_prime_baumanskaya_hotel/) |  |  | улица Доброслободская, д. 6 стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11161354/norke_prime_baumanskaya_hotel/ |
+| 62 | [Отель Novotel Москва Аэропорт Шереметьево](https://ostrovok.ru/hotel/russia/moscow/mid7590072/novotel_moskva_sheremetevo/) |  |  | Международное шоссе, вл. 3, Химки | https://ostrovok.ru/hotel/russia/moscow/mid7590072/novotel_moskva_sheremetevo/ |
+| 63 | [Отель Пальмира Бизнес Клуб](https://ostrovok.ru/hotel/russia/moscow/mid11157982/palmira_business_club_hotel/) |  |  | Новоданиловская наб., д. 6, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11157982/palmira_business_club_hotel/ |
+| 64 | [Отель WineWood Moscow](https://ostrovok.ru/hotel/russia/moscow/mid8854262/winewood_moscow_lounge_hotel/) |  |  | улица Красная Пресня, д.30 стр.3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8854262/winewood_moscow_lounge_hotel/ |
+| 65 | [Бутик-отель Петровка 26](https://ostrovok.ru/hotel/russia/moscow/mid10675430/petrovka_26_boutiquehotel/) |  |  | улица Петровка, д. 26с8, помещ. 1Н, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10675430/petrovka_26_boutiquehotel/ |
+| 66 | [Отель Edge Vinogradovo Moscow](https://ostrovok.ru/hotel/russia/moscow/mid7601773/kholidei_inn_moskva_vinogradovo/) | +7 495 645-00-02 | https://edgevinogradovo.ru | Дмитровское шоссе, д. 171, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7601773/kholidei_inn_moskva_vinogradovo/ |
+| 67 | [Отель МонАрх Москва (ранее Ренессанс Монарх)](https://ostrovok.ru/hotel/russia/moscow/mid7469066/otel_renaissance_moscow_monarch_centre/) |  |  | Ленинградский проспект 31 А стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7469066/otel_renaissance_moscow_monarch_centre/ |
+| 68 | [Отель DoubleTree Москва Арбат](https://ostrovok.ru/hotel/russia/moscow/mid9989265/doubletree_by_hilton_moscow_arbat/) |  |  | Никитский бул., 10, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9989265/doubletree_by_hilton_moscow_arbat/ |
+| 69 | [Отель Sunflower Румянцево ZONT Hotel Group](https://ostrovok.ru/hotel/russia/moscow/mid7770730/otel_insaidbiznes/) |  |  | Kievskoe shosse, 22nd km, Business-park Rumjantsev… | https://ostrovok.ru/hotel/russia/moscow/mid7770730/otel_insaidbiznes/ |
+| 70 | [Отель Билибин Гарден Москва](https://ostrovok.ru/hotel/russia/moscow/mid8660992/otel_troika_moskva/) |  |  | улица Садовническая, д.5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8660992/otel_troika_moskva/ |
+| 71 | [Отель Astrus](https://ostrovok.ru/hotel/russia/moscow/mid7467913/astrus_hotel/) |  |  | проспект Ленинский, д.146, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467913/astrus_hotel/ |
+| 72 | [Отель Radisson Blu Ленинский проспект, Москва](https://ostrovok.ru/hotel/russia/moscow/mid10621095/hotel_radisson_blu_leninsky_prospect_hotel_moscow/) |  |  | Ленинский проспект, дом 90/3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10621095/hotel_radisson_blu_leninsky_prospect_hotel_moscow/ |
+| 73 | [Отель Метрополь](https://ostrovok.ru/hotel/russia/moscow/mid7595994/metropol_hotel/) |  |  | Театральный пр-д, д.2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7595994/metropol_hotel/ |
+| 74 | [AZIMUT Сити Отель Тульская Москва](https://ostrovok.ru/hotel/russia/moscow/mid7768573/azimut_moscow_tulskaya_hotel/) |  |  | Варшавское шоссе, 9, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7768573/azimut_moscow_tulskaya_hotel/ |
+| 75 | [Гостиница «Президент-Отель»](https://ostrovok.ru/hotel/russia/moscow/mid7467290/president_3/) |  |  | улица Большая Якиманка, д. 24, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467290/president_3/ |
+| 76 | [Апарт-отель Адажио Москва Киевская](https://ostrovok.ru/hotel/russia/moscow/mid9204547/adazhio_moskva_kievskaya_aparthotel/) |  |  | улица Киевская, дом 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9204547/adazhio_moskva_kievskaya_aparthotel/ |
+| 77 | [Апарт-отель Norke Prime Сретенка](https://ostrovok.ru/hotel/russia/moscow/mid10864367/apartotel_norke_prime_sretenskaya/) |  |  | улица Сретенка, 36, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10864367/apartotel_norke_prime_sretenskaya/ |
+| 78 | [Бутик-отель PR Myasnitsky](https://ostrovok.ru/hotel/russia/moscow/mid8753290/pr_myasnitsky_boutique_hotel/) |  |  | улица Мясницкая, д.13/3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8753290/pr_myasnitsky_boutique_hotel/ |
+| 79 | [Отель Россо Рива](https://ostrovok.ru/hotel/russia/moscow/mid7597146/katerina_city_hotel/) |  |  | Шлюзовая набережная, д. 6, стр. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597146/katerina_city_hotel/ |
+| 80 | [Select Hotel Paveletskaya](https://ostrovok.ru/hotel/russia/moscow/mid7596982/tatiana/) | +7 495 788-77-00 | https://select-hotel.ru | Стремянный переулок, д.11, помещ. 1/П, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7596982/tatiana/ |
+| 81 | [Отель Салют](https://ostrovok.ru/hotel/russia/moscow/mid7830709/salut_hotel/) |  |  | Ленинский проспект, д.158, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7830709/salut_hotel/ |
+| 82 | [Апарт-отель Петровский парк Syncotel](https://ostrovok.ru/hotel/russia/moscow/mid10591033/travelto_petrovskiy_park_aparthotel/) |  |  | Большой Коптевский проезд, д. 3 строение 7, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10591033/travelto_petrovskiy_park_aparthotel/ |
+| 83 | [Гостиница Парк Тауэр](https://ostrovok.ru/hotel/russia/moscow/mid7401579/molodozhny/) |  |  | Дмитровское шоссе 27, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7401579/molodozhny/ |
+| 84 | [Отель Будапешт](https://ostrovok.ru/hotel/russia/moscow/mid7467391/otel_budapesht/) |  |  | Улица Петровские линии 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467391/otel_budapesht/ |
+| 85 | [Отель The St. Regis Moscow Nikolskaya](https://ostrovok.ru/hotel/russia/moscow/mid7710430/the_st_regis_moscow_nikolskaya/) | +7 495 967-77-76 | https://stregis.com | Никольская ул., 12, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7710430/the_st_regis_moscow_nikolskaya/ |
+| 86 | [Отель Marins Москва Пражская](https://ostrovok.ru/hotel/russia/moscow/mid13330344/marins_park_hotel_moskva_prazhskaya_hotel/) |  |  | Кировоградская улица, д.11, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13330344/marins_park_hotel_moskva_prazhskaya_hotel/ |
+| 87 | [Doubletree by Hilton Moscow - Marina](https://ostrovok.ru/hotel/russia/moscow/mid8313259/doubletree_by_hilton_hotel_moscow__marina/) |  |  | Ленинградское шоссе, 39 строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8313259/doubletree_by_hilton_hotel_moscow__marina/ |
+| 88 | [Апарт-отель Idera](https://ostrovok.ru/hotel/russia/moscow/mid13106596/idera_hotel/) |  |  | Рязанский проспект, д.2к3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13106596/idera_hotel/ |
+| 89 | [Отель Интурист Коломенское](https://ostrovok.ru/hotel/russia/moscow/mid8126782/kolomenskoye__2/) |  |  | Каширское Шоссе,д. 39 стр. Б, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8126782/kolomenskoye__2/ |
+| 90 | [Отель Arium by Brosko](https://ostrovok.ru/hotel/russia/moscow/mid8745790/arium_hotel/) |  |  | ул. Малая Дмитровка, д 25, строение 3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8745790/arium_hotel/ |
+| 91 | [Гостиница Арбат Хауc](https://ostrovok.ru/hotel/russia/moscow/mid7601703/gostinitsa_arbat_house_byvshaia_melodiia/) |  |  | Скатертный переулок, дом 13, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7601703/gostinitsa_arbat_house_byvshaia_melodiia/ |
+| 92 | [Бутик-отель Палаты Хованских](https://ostrovok.ru/hotel/russia/moscow/mid11341011/palaty_khovanskikh_butikhotel/) |  |  | Старопименовский переулок, д.11с2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11341011/palaty_khovanskikh_butikhotel/ |
+| 93 | [Гостиница Сретенская](https://ostrovok.ru/hotel/russia/moscow/mid7400794/sretenskaya_hotel/) |  |  | улица Сретенка, д.15, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7400794/sretenskaya_hotel/ |
+| 94 | [Отель Marco Polo by Moss Hospitality](https://ostrovok.ru/hotel/russia/moscow/mid7467371/otel_marko_polo_presnia/) |  |  | Спиридоньевский переулок, д. 9, стр. 1., Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467371/otel_marko_polo_presnia/ |
+| 95 | [Отель V Hotel Tverskaya](https://ostrovok.ru/hotel/russia/moscow/mid9080044/vhotel_tverskaya/) |  |  | Малый Палашевский переулок,  д.5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9080044/vhotel_tverskaya/ |
+| 96 | [Лотте Отель Москва](https://ostrovok.ru/hotel/russia/moscow/mid7382812/lotte_otel_moskva/) |  |  | Новинский Бульвар, д. 8, стр. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7382812/lotte_otel_moskva/ |
+| 97 | [Апарт-отель Adagio Москва Павелецкая](https://ostrovok.ru/hotel/russia/moscow/mid7864897/adagio_moscow_paveletskaya_4/) |  |  | Бахрушина ул., д.11, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7864897/adagio_moscow_paveletskaya_4/ |
+| 98 | [DoubleTree by Hilton Moscow — Vnukovo Airport](https://ostrovok.ru/hotel/russia/moscow/mid8848335/doubletree_by_hilton_moscow_vnukovo_airport/) |  |  | улица 2-я Рейсовая, дом 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8848335/doubletree_by_hilton_moscow_vnukovo_airport/ |
+| 99 | [Отель Мандарин Москва](https://ostrovok.ru/hotel/russia/moscow/mid7467339/mandarin_moscow_hotel/) |  |  | улица Ольховская, д.23, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467339/mandarin_moscow_hotel/ |
+| 100 | [Отель Петровский Путевой Дворец](https://ostrovok.ru/hotel/russia/moscow/mid7741454/petrovskii_putevoi_dvorets/) |  |  | проспект Ленинградский, д. 40, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7741454/petrovskii_putevoi_dvorets/ |
+| 101 | [Гостиница Park Inn, Одинцово](https://ostrovok.ru/hotel/russia/moscow/mid7668697/park_inn_by_radisson_odintsovo/) |  |  | улица Маршала Неделина, д.8, Одинцово | https://ostrovok.ru/hotel/russia/moscow/mid7668697/park_inn_by_radisson_odintsovo/ |
+| 102 | [Гостиница Пекин](https://ostrovok.ru/hotel/russia/moscow/mid7465127/gostinitsa_pekin/) |  |  | улица Большая садовая 5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7465127/gostinitsa_pekin/ |
+| 103 | [Отель Мегаполис Новокузнецкая 4*](https://ostrovok.ru/hotel/russia/moscow/mid13745318/megapolis_hotel_5/) |  |  | улица Большая Татарская, д. 46, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13745318/megapolis_hotel_5/ |
+| 104 | [Отель Spektrcity Taganskaya](https://ostrovok.ru/hotel/russia/moscow/mid11024207/spektrcity_taganskaya_hotel/) |  |  | улица Воронцовская, д. 20, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11024207/spektrcity_taganskaya_hotel/ |
+| 105 | [Апарт-отель Ap-in](https://ostrovok.ru/hotel/russia/moscow/mid9996446/apin_aparts/) |  |  | улица Василисы Кожиной, д. 13, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9996446/apin_aparts/ |
+| 106 | [Отель Максима Домодедово](https://ostrovok.ru/hotel/russia/moscow/mid10249097/maxima_domodedovo/) |  |  | Аэропорт Домодедово, территория "Аэропорт "Домодед… | https://ostrovok.ru/hotel/russia/moscow/mid10249097/maxima_domodedovo/ |
+| 107 | [Отель Barin Residence Grand&Myasnitskaya](https://ostrovok.ru/hotel/russia/moscow/mid9157844/barin_residence_grand/) |  |  | Милютинский пер., 2, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9157844/barin_residence_grand/ |
+| 108 | [Отель Пётр I](https://ostrovok.ru/hotel/russia/moscow/mid7467388/peter_1/) |  |  | улица Неглинная, 17, стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467388/peter_1/ |
+| 109 | [Отель Милан](https://ostrovok.ru/hotel/russia/moscow/mid7573441/milan_hotel/) |  |  | улица Шипиловская, д.28 А, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7573441/milan_hotel/ |
+| 110 | [Отель Пушкин](https://ostrovok.ru/hotel/russia/moscow/mid8037921/otel_pushkin/) |  |  | Настасьинский переулок, д.5 стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8037921/otel_pushkin/ |
+| 111 | [Tverskoy Boutique Hotel](https://ostrovok.ru/hotel/russia/moscow/mid6297673/miniotel_sleepy_tom/) |  |  | Старопименовский переулок, д. 11/6, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6297673/miniotel_sleepy_tom/ |
+| 112 | [Отель Миа Милано](https://ostrovok.ru/hotel/russia/moscow/mid9083383/mia_milano_hotel/) |  |  | Кутузовский проспект, д.30, подъезд 11 А, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9083383/mia_milano_hotel/ |
+| 113 | [Отель Де Пари](https://ostrovok.ru/hotel/russia/moscow/mid7681565/otel_de_pari/) |  |  | улица Большая Бронная, 23, строение 3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7681565/otel_de_pari/ |
+| 114 | [Отель Hartwell](https://ostrovok.ru/hotel/russia/moscow/mid8735752/ooo_hartvel_hotel/) |  |  | улица Садовая-Кудринская, д.21/5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8735752/ooo_hartvel_hotel/ |
+| 115 | [Отель Riverside](https://ostrovok.ru/hotel/russia/moscow/mid8737742/riverside_hotel_40/) |  |  | Кутузовский проспект, д.2/1 строение 1Б, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8737742/riverside_hotel_40/ |
+| 116 | [Отель Гостиница Скайвью Сити](https://ostrovok.ru/hotel/russia/moscow/mid7058678/status_hotel_5/) |  |  | Большая Никитская 24/1 с.6, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7058678/status_hotel_5/ |
+| 117 | [Отель SK Royal Москва](https://ostrovok.ru/hotel/russia/moscow/mid7815497/skroyal_hotel/) |  |  | Дмитровское шоссе, д.163А, корп.2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7815497/skroyal_hotel/ |
+| 118 | [Отель Акварель](https://ostrovok.ru/hotel/russia/moscow/mid7378024/akvarel_hotel/) |  |  | Столешников переулок, 12с3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7378024/akvarel_hotel/ |
+| 119 | [Отель Веллион Сухаревский](https://ostrovok.ru/hotel/russia/moscow/mid9078221/vellion_sukharevsky/) |  |  | Большая Спасская улица, д.13с1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9078221/vellion_sukharevsky/ |
+| 120 | [Отель Борис Годунов](https://ostrovok.ru/hotel/russia/moscow/mid6431725/otel_godunov/) |  |  | Нижний кисельный переулок, дом 4 , Москва | https://ostrovok.ru/hotel/russia/moscow/mid6431725/otel_godunov/ |
+| 121 | [Мясницкий Бутик Отель](https://ostrovok.ru/hotel/russia/moscow/mid9022928/myasnitskiy_boutique_hotel/) |  |  | улица Мясницкая, д.14/2 стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9022928/myasnitskiy_boutique_hotel/ |
+| 122 | [Отель Чайковский](https://ostrovok.ru/hotel/russia/moscow/mid8733261/tchaikovsky_hotel/) |  |  | улица Большая Никитская, д.24/1 стр.6, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8733261/tchaikovsky_hotel/ |
+| 123 | [Гостиница Бега](https://ostrovok.ru/hotel/russia/moscow/mid7590905/bega_hotel_/) |  |  | Беговая аллея, д.11, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7590905/bega_hotel_/ |
+| 124 | [Отель СПА Palmira Garden](https://ostrovok.ru/hotel/russia/moscow/mid9291179/palmira_garden_hotel_spa_palmira_garden/) |  |  | ул. Школьная 92, Видное | https://ostrovok.ru/hotel/russia/moscow/mid9291179/palmira_garden_hotel_spa_palmira_garden/ |
+| 125 | [Чехофф Отель Москва Кьюрио Коллекшен Хилтон](https://ostrovok.ru/hotel/russia/moscow/mid9023595/chekhoff_hotel_moscow_curio_collection_by_hilton/) |  |  | улица Малая Дмитровка, д. 11, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9023595/chekhoff_hotel_moscow_curio_collection_by_hilton/ |
+| 126 | [Арарат Парк Хаятт Москва](https://ostrovok.ru/hotel/russia/moscow/mid7599730/ararat_park_khaiatt/) |  |  | Неглинная ул., 4, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7599730/ararat_park_khaiatt/ |
+| 127 | [Апарт-Отель Page 20](https://ostrovok.ru/hotel/russia/moscow/mid9768720/page_20/) |  |  | улица Новый Арбат, дом 15, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9768720/page_20/ |
+| 128 | [Отель Дизайн Сенатор](https://ostrovok.ru/hotel/russia/moscow/mid8877301/senator_hotel_8/) |  |  | Лубянский проезд, д. 7/1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8877301/senator_hotel_8/ |
+| 129 | [Апарт-отель Intermark Residence](https://ostrovok.ru/hotel/russia/moscow/mid9024447/intermark_residence_apartments/) |  |  | улица Новый Арбат, д. 15, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9024447/intermark_residence_apartments/ |
+| 130 | [Отель Максима Панорама](https://ostrovok.ru/hotel/russia/moscow/mid7467382/maxima_panorama_hotel/) |  |  | улица Мастеркова, д.4, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467382/maxima_panorama_hotel/ |
+| 131 | [Отель Амато](https://ostrovok.ru/hotel/russia/moscow/mid10470292/amato_hotel/) |  |  | Сыромятнический проезд, д.4 строение 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10470292/amato_hotel/ |
+| 132 | [Отель На Казачьем](https://ostrovok.ru/hotel/russia/moscow/mid7594715/hotel_in_kazachy_pereulok/) |  |  | 1-й Казачий переулок, д.4, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7594715/hotel_in_kazachy_pereulok/ |
+| 133 | [Бутик-отель Axis.Moscow Heritage](https://ostrovok.ru/hotel/russia/moscow/mid11292139/axismoscow_heritage_aparthotel/) |  |  | улица Покровка, д. 10, стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11292139/axismoscow_heritage_aparthotel/ |
+| 134 | [Отель Райкин Плаза](https://ostrovok.ru/hotel/russia/moscow/mid7930655/raikin_plaza_hotel/) |  |  | Улица Шереметьевская, д. 6, к. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7930655/raikin_plaza_hotel/ |
+| 135 | [Бутик-отель Семь Слонов](https://ostrovok.ru/hotel/russia/moscow/mid13108661/7_slonov_boutique_hotel/) |  |  | ул. Маросейка , 7/8 стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13108661/7_slonov_boutique_hotel/ |
+| 136 | [Отель Garden Embassy](https://ostrovok.ru/hotel/russia/moscow/mid6344236/garden_embassy_apartments/) |  |  | Ботанический переулок, д. 5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6344236/garden_embassy_apartments/ |
+| 137 | [Отель Barvikha Hotel&SPA](https://ostrovok.ru/hotel/russia/moscow/mid7404974/barvikha_otel_i_spa/) |  |  | Рублёво-Успенское шоссе, 114/3, Барвиха | https://ostrovok.ru/hotel/russia/moscow/mid7404974/barvikha_otel_i_spa/ |
+| 138 | [Отель Севастополь Гранд Классик](https://ostrovok.ru/hotel/russia/moscow/mid7625812/sevastopol_hotel_bld2/) |  |  | улица Большая Юшуньская, д. 1А к1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7625812/sevastopol_hotel_bld2/ |
+| 139 | [Гринвуд Отель](https://ostrovok.ru/hotel/russia/moscow/mid7624861/melior_greenwood_hotel/) |  |  | МКАД, 72, бизнес-центр «Гринвуд», строение 24, Мос… | https://ostrovok.ru/hotel/russia/moscow/mid7624861/melior_greenwood_hotel/ |
+| 140 | [Отель East Gate](https://ostrovok.ru/hotel/russia/moscow/mid7778713/east_gate_hotel/) |  |  | пр. Ленина, д. 25, Балашиха | https://ostrovok.ru/hotel/russia/moscow/mid7778713/east_gate_hotel/ |
+| 141 | [Отель Кунь Лунь](https://ostrovok.ru/hotel/russia/moscow/mid10013909/kunlun/) |  |  | Осташковское шоссе, вл52с4, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10013909/kunlun/ |
+| 142 | [Легендарный отель Советский](https://ostrovok.ru/hotel/russia/moscow/mid7467335/sovetsky_historical_hotel/) |  |  | Ленинградский проспект, д.32/2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7467335/sovetsky_historical_hotel/ |
+| 143 | [Дизайн-отель СтандАрт](https://ostrovok.ru/hotel/russia/moscow/mid6783512/standart_hotel_moscow/) |  |  | бульвар Страстной, д.2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6783512/standart_hotel_moscow/ |
+| 144 | [Отель Волынское Конгресс-Парк](https://ostrovok.ru/hotel/russia/moscow/mid7590591/congresspark_volynskoe_2/) |  |  | улица Староволынская, владение 9, стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7590591/congresspark_volynskoe_2/ |
+| 145 | [Отель Moscow Holiday](https://ostrovok.ru/hotel/russia/moscow/mid8664628/moscow_holiday_hotel/) |  |  | улица Мневники, дом 3, корп. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8664628/moscow_holiday_hotel/ |
+| 146 | [1 Арт Отель](https://ostrovok.ru/hotel/russia/moscow/mid9764903/1_art_hotel/) |  |  | Староалексеевская улица, д.20, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9764903/1_art_hotel/ |
+| 147 | [Гостиница Апарт-отель Raido.Moscow History](https://ostrovok.ru/hotel/russia/moscow/mid13099355/moscow_history_apartments/) |  |  | Ходынский бульвар, д.2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13099355/moscow_history_apartments/ |
+| 148 | [Мини-отель Дом Художников Коровиных](https://ostrovok.ru/hotel/russia/moscow/mid13122954/dom_khudozhnikov_korovinykh_minihotel/) |  |  | Товарищеский переулок, д.24, стр.4, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13122954/dom_khudozhnikov_korovinykh_minihotel/ |
+| 149 | [Града Бутик Отель](https://ostrovok.ru/hotel/russia/moscow/mid8853263/grada_boutique_hotel_ex_kyznetskiy_inn_hotel/) |  |  | ул. Кузнецкий мост, д.6/3, корп.3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8853263/grada_boutique_hotel_ex_kyznetskiy_inn_hotel/ |
+| 150 | [Отель Magic Harp](https://ostrovok.ru/hotel/russia/moscow/mid11020434/magic_harp_hotel/) |  |  | Лялин переулок, 3с3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11020434/magic_harp_hotel/ |
+| 151 | [Cosmos Москва Шереметьево Аэропорт Отель](https://ostrovok.ru/hotel/russia/moscow/mid7597228/park_inn_by_radisson_sheremetyevo_airport_moscow/) |  |  | шоссе Международное, владение 1а, Химки | https://ostrovok.ru/hotel/russia/moscow/mid7597228/park_inn_by_radisson_sheremetyevo_airport_moscow/ |
+| 152 | [Апарт-отель Mamaison All-Suites Spa Pokrovka Moscow](https://ostrovok.ru/hotel/russia/moscow/mid7590428/mamaison_allsuites_spa_hotel_pokrovka/) |  |  | ул. Покровка, д. 40 стр. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7590428/mamaison_allsuites_spa_hotel_pokrovka/ |
+| 153 | [Бутик-Отель П 17 / P 17 Hotel](https://ostrovok.ru/hotel/russia/moscow/mid9741283/p_17_hotel/) |  |  | улица Петровка, д. 17, строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9741283/p_17_hotel/ |
+| 154 | [Отель Графский](https://ostrovok.ru/hotel/russia/moscow/mid8660400/hotel_grafskij/) |  |  | улица Льва Толстого, дом 23, строение 5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8660400/hotel_grafskij/ |
+| 155 | [Отель Амбассадори](https://ostrovok.ru/hotel/russia/moscow/mid7464651/kebur_palace_2/) |  |  | Улица Остоженка 32, строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7464651/kebur_palace_2/ |
+| 156 | [Отель Фуд Сити](https://ostrovok.ru/hotel/russia/moscow/mid9761064/fud_siti_hotel/) |  |  | Калужское шоссе, 22-й километр, д.10с23, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9761064/fud_siti_hotel/ |
+| 157 | [Гостиница Даниловская](https://ostrovok.ru/hotel/russia/moscow/mid7378628/danilovskaya_2/) |  |  | Большой Староданиловский переулок, д.5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7378628/danilovskaya_2/ |
+| 158 | [Принц Парк Отель](https://ostrovok.ru/hotel/russia/moscow/mid6458819/prince_park_hotel_/) |  |  | Новоясеневский проспект, д.1 Б, корп. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6458819/prince_park_hotel_/ |
+| 159 | [Отель Немчиновка-парк](https://ostrovok.ru/hotel/russia/moscow/mid7715901/otel_nemchinovkapark/) |  |  | улица 2-я Запрудная, д. 46, Немчиновка | https://ostrovok.ru/hotel/russia/moscow/mid7715901/otel_nemchinovkapark/ |
+| 160 | [Отель ПостоялецЪ](https://ostrovok.ru/hotel/russia/moscow/mid7969166/postoyalets_hotel/) |  |  | улица Свободы, д. 1, Одинцово | https://ostrovok.ru/hotel/russia/moscow/mid7969166/postoyalets_hotel/ |
+| 161 | [Сити Отель 1905](https://ostrovok.ru/hotel/russia/moscow/mid8869200/city_hotel_1905/) |  |  | Шмитовский проезд, д. 3, строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8869200/city_hotel_1905/ |
+| 162 | [Отель Садовое Кольцо](https://ostrovok.ru/hotel/russia/moscow/mid7394603/sadovoe_koltso_hotel/) |  |  | Пр-т Мира, д. 14, стр. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7394603/sadovoe_koltso_hotel/ |
+| 163 | [Отель Sadovnicheskaya City Center](https://ostrovok.ru/hotel/russia/moscow/mid9997889/sadovnicheskaya_city_center_2/) |  |  | Садовническая улица, д. 20, стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9997889/sadovnicheskaya_city_center_2/ |
+| 164 | [Отель Садовническая](https://ostrovok.ru/hotel/russia/moscow/mid8660616/sadovnicheskaya/) |  |  | улица Садовническая , д.20, стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8660616/sadovnicheskaya/ |
+| 165 | [Отель Gentalion](https://ostrovok.ru/hotel/russia/moscow/mid7779256/otel_gentalion/) |  |  | улица 1-я Брестская, д. 38, стр. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7779256/otel_gentalion/ |
+| 166 | [Мини-отель Гнёздышко](https://ostrovok.ru/hotel/russia/moscow/mid10125619/gnyozdyshko_minihotel/) |  |  | Пер. Малый Гнездниковский д. 9 с. 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10125619/gnyozdyshko_minihotel/ |
+| 167 | [Отель Norke Prime Курская](https://ostrovok.ru/hotel/russia/moscow/mid10272479/hotel_norke_prime_kurskaya/) |  |  | переулок Яковоапостольский, д. 9/3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10272479/hotel_norke_prime_kurskaya/ |
+| 168 | [Отель Курортно - развлекательный комплекс Внуково Вилладж (Vnukovo Village)](https://ostrovok.ru/hotel/russia/moscow/mid13392663/hotel_kurortno_razvlekatelny_kompleks_vnukovo_villadzh_vnukovo_village/) |  |  | д. Картмазово, ул. Киевская, д. 4, Картмазово | https://ostrovok.ru/hotel/russia/moscow/mid13392663/hotel_kurortno_razvlekatelny_kompleks_vnukovo_villadzh_vnukovo_village/ |
+| 169 | [Отель Меншиков](https://ostrovok.ru/hotel/russia/moscow/mid9005421/menshikov_boutique_hotel/) |  |  | Архангельский переулок, д.15, стр. 3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9005421/menshikov_boutique_hotel/ |
+| 170 | [Soderis Residence & Spa](https://ostrovok.ru/hotel/russia/moscow/mid9209124/soderis_residence_spa_hotel/) |  |  | 2-я Бородинская улица, 20, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9209124/soderis_residence_spa_hotel/ |
+| 171 | [Отель Sunflower Внуково ZONT Hotel Group](https://ostrovok.ru/hotel/russia/moscow/mid8748293/inside_moskovskiy/) |  |  | улица Хабарова, д. 2, вход 2, этаж 6, Московский | https://ostrovok.ru/hotel/russia/moscow/mid8748293/inside_moskovskiy/ |
+| 172 | [Апарт-отель «﻿На высоте﻿»](https://ostrovok.ru/hotel/russia/moscow/mid9210977/panorama_aparthotel/) |  |  | улица Мосфильмовская, дом 74Б, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9210977/panorama_aparthotel/ |
+| 173 | [Отель Набат](https://ostrovok.ru/hotel/russia/moscow/mid9091240/nabat_palace_arbat_hotel/) |  |  | улица Арбат, д.28/1 ст.2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9091240/nabat_palace_arbat_hotel/ |
+| 174 | [Отель Дворец Ирины Винер](https://ostrovok.ru/hotel/russia/moscow/mid9721453/dvorets_gimnastiki_irinyi_vinerusmanovoj_hotel/) |  |  | улица Лужники, д.24, стр.24, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9721453/dvorets_gimnastiki_irinyi_vinerusmanovoj_hotel/ |
+| 175 | [Отель ApeironSpace](https://ostrovok.ru/hotel/russia/moscow/mid10627179/apeironspace_hotel/) |  |  | Раушская набережная, д. 4/5, 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10627179/apeironspace_hotel/ |
+| 176 | [AZIMUT Сити Отель Комсити Москва](https://ostrovok.ru/hotel/russia/moscow/mid10292782/hotel_azimut_siti_hotel_komsiti_moskva/) |  |  | Киевское шоссе, 22-й километр, 6А с3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10292782/hotel_azimut_siti_hotel_komsiti_moskva/ |
+| 177 | [Отель Хитровка](https://ostrovok.ru/hotel/russia/moscow/mid7660730/hitrovka_hotel_2/) |  |  | Певческий переулок, д.4, стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7660730/hitrovka_hotel_2/ |
+| 178 | [Отель MYS BOUTIQUE HOTEL](https://ostrovok.ru/hotel/russia/moscow/mid10674888/mys_boutiqueotel/) |  |  | Кривоколенный переулок, дом 10, строение 4, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10674888/mys_boutiqueotel/ |
+| 179 | [Апарт-отель Ханой-Москва](https://ostrovok.ru/hotel/russia/moscow/mid8495398/in_mfk_hanoymoskva_aparthotel/) |  |  | Ярославское шоссе, д. 146/2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8495398/in_mfk_hanoymoskva_aparthotel/ |
+| 180 | [Отель Рига Ленд](https://ostrovok.ru/hotel/russia/moscow/mid8337574/gostinitsa_rigaland/) |  |  | 26 км автодороги «Балтия» стр. 6, БЦ «РигаЛенд», М… | https://ostrovok.ru/hotel/russia/moscow/mid8337574/gostinitsa_rigaland/ |
+| 181 | [Бутик-Отель Арбат 6](https://ostrovok.ru/hotel/russia/moscow/mid8745238/arbat_6_hotel/) |  |  | улица Арбат, д.6/2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8745238/arbat_6_hotel/ |
+| 182 | [Отель Лесной Кантри Хауз](https://ostrovok.ru/hotel/russia/moscow/mid8744327/lesnoy_country_house_hotel/) |  |  | поселок Лесной городок, улица Школьная, д. 6 А, Мо… | https://ostrovok.ru/hotel/russia/moscow/mid8744327/lesnoy_country_house_hotel/ |
+| 183 | [Апарт-отель Гринстоун](https://ostrovok.ru/hotel/russia/moscow/mid10093965/greenstone_apartmens/) |  |  | Россия, Москва, ул. Большая Переяславская, д. 14, … | https://ostrovok.ru/hotel/russia/moscow/mid10093965/greenstone_apartmens/ |
+| 184 | [Отель В.60](https://ostrovok.ru/hotel/russia/moscow/mid9823318/b60_hotel/) |  |  | 1-я Брестская улица, д.60, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9823318/b60_hotel/ |
+| 185 | [Бутик-Отель Регул](https://ostrovok.ru/hotel/russia/moscow/mid8848163/russkie_sezonyi/) |  |  | Дегтярный переулок, д. 8/2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8848163/russkie_sezonyi/ |
+| 186 | [Боулинг-отель Новые Горки](https://ostrovok.ru/hotel/russia/moscow/mid7709714/boulingotel_novye_gorki/) |  |  | мкр. Первомайский, ул. Мира д. 37, Королёв | https://ostrovok.ru/hotel/russia/moscow/mid7709714/boulingotel_novye_gorki/ |
+| 187 | [Апарт-отель Тета Измайлово](https://ostrovok.ru/hotel/russia/moscow/mid13314245/teta_izmaylovo_hotel/) |  |  | Окружной проезд, д.10Б помещ.529, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13314245/teta_izmaylovo_hotel/ |
+| 188 | [Бутик-Отель Люмьер](https://ostrovok.ru/hotel/russia/moscow/mid9084809/lyumer_butikhotel/) |  |  | улица Мясницкая, д. 16, помещ. 1/5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9084809/lyumer_butikhotel/ |
+| 189 | [Бутик-отель Румс](https://ostrovok.ru/hotel/russia/moscow/mid8169297/otel_the_rooms/) |  |  | улица Николоямская, д. 38/23, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8169297/otel_the_rooms/ |
+| 190 | [Апарт-Отель Веста](https://ostrovok.ru/hotel/russia/moscow/mid10161790/vesta_aparthotel/) |  |  | улица Трудовая, д.3а, Королёв | https://ostrovok.ru/hotel/russia/moscow/mid10161790/vesta_aparthotel/ |
+| 191 | [Отель Резиденция Булгакова](https://ostrovok.ru/hotel/russia/moscow/mid8737626/bulgakov_residence/) |  |  | Большой Палашевский переулок, д.9 стр. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8737626/bulgakov_residence/ |
+| 192 | [Отель Grand Wellness Hotel & Spa 5*](https://ostrovok.ru/hotel/russia/moscow/mid7999298/novahoff_geospa/) |  |  | ул. Гагарина, д. 23,Красногорский район, Николо-Ур… | https://ostrovok.ru/hotel/russia/moscow/mid7999298/novahoff_geospa/ |
+| 193 | [Отель Грегори](https://ostrovok.ru/hotel/russia/moscow/mid13647491/gregori_hotel/) |  |  | улица Бауманская, д.58/3с5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13647491/gregori_hotel/ |
+| 194 | [Stella di Mosca by BVLGARI Hotels](https://ostrovok.ru/hotel/russia/moscow/mid11196975/hotel_stella_di_mosca/) |  |  | Большая Никитская улица 9, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11196975/hotel_stella_di_mosca/ |
+| 195 | [Апарт-отель Diamond Apartments](https://ostrovok.ru/hotel/russia/moscow/mid8869265/hotel_diamond_apartments/) |  |  | 1 Красногвардейский проезд, д. 21/2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8869265/hotel_diamond_apartments/ |
+| 196 | [Отель Особняк 1830](https://ostrovok.ru/hotel/russia/moscow/mid10213247/osobnyak_na_syezzhinskom_apartments_2/) |  |  | Съезжинский переулок, д.10, строение 5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10213247/osobnyak_na_syezzhinskom_apartments_2/ |
+| 197 | [Отель Астро Плаза](https://ostrovok.ru/hotel/russia/moscow/mid9091582/astro_plaza_hotel/) |  |  | проспект Ленинского Комсомола, 41, Видное | https://ostrovok.ru/hotel/russia/moscow/mid9091582/astro_plaza_hotel/ |
+| 198 | [Отель Времена Года](https://ostrovok.ru/hotel/russia/moscow/mid7029613/vremena_goda_2/) |  |  | Большой Кисловский переулок 1, строение 2, Москва,… | https://ostrovok.ru/hotel/russia/moscow/mid7029613/vremena_goda_2/ |
+| 199 | [Отель Skypoint Gamma Delta Alfa](https://ostrovok.ru/hotel/russia/moscow/mid7770271/skypoint_hotel/) |  |  | 141402, г Москва, вн.тер.г. муниципальный округ Мо… | https://ostrovok.ru/hotel/russia/moscow/mid7770271/skypoint_hotel/ |
+| 200 | [Гостиница Памир-ТяньШань](https://ostrovok.ru/hotel/russia/moscow/mid8877200/hotel_pamir_tyanshyan/) |  |  | улица Новая, д. 100, Сколково | https://ostrovok.ru/hotel/russia/moscow/mid8877200/hotel_pamir_tyanshyan/ |
+| 201 | [Отель Норд Стар](https://ostrovok.ru/hotel/russia/moscow/mid7853685/north_star_hotel/) |  |  | улица Свердлова, д.20/3, Химки | https://ostrovok.ru/hotel/russia/moscow/mid7853685/north_star_hotel/ |
+| 202 | [Апарт-отель Окно](https://ostrovok.ru/hotel/russia/moscow/mid13285109/apartment_hotel_okno_butik_aparthotel/) |  |  | Петровка улица, 26, стр. 3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid13285109/apartment_hotel_okno_butik_aparthotel/ |
+| 203 | [Бутик Отель Брайтон](https://ostrovok.ru/hotel/russia/moscow/mid7400924/brighton_hotel/) |  |  | Петровско-Разумовский проезд, д.29, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7400924/brighton_hotel/ |
+| 204 | [Москоу Кантри Клаб](https://ostrovok.ru/hotel/russia/moscow/mid7807955/moscow_country_club_8/) |  |  | Московская область, Красногорский район, Нахабино | https://ostrovok.ru/hotel/russia/moscow/mid7807955/moscow_country_club_8/ |
+| 205 | [Sheraton Skypoint Luxe](https://ostrovok.ru/hotel/russia/moscow/mid8022376/sheraton_moscow_sheremetyevo_airport_hotel/) |  |  | шоссе Международное, д.28Б, стр.5, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8022376/sheraton_moscow_sheremetyevo_airport_hotel/ |
+| 206 | [Бутик-отель Казначейский](https://ostrovok.ru/hotel/russia/moscow/mid11323757/kaznacheyskiy_boutique_hotel/) |  |  | Большой Златоустинский переулок, д. 7с1, помещ. 1/… | https://ostrovok.ru/hotel/russia/moscow/mid11323757/kaznacheyskiy_boutique_hotel/ |
+| 207 | [Отель Плаза](https://ostrovok.ru/hotel/russia/moscow/mid11202171/plaza_hotel_75/) |  |  | Лухмановская улица, д.37, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11202171/plaza_hotel_75/ |
+| 208 | [Отель Veshki Park](https://ostrovok.ru/hotel/russia/moscow/mid6580436/veshki_park_hotel/) |  |  | Липкинское шоссе, 2-й километр, вл. 7, стр. 1, Мос… | https://ostrovok.ru/hotel/russia/moscow/mid6580436/veshki_park_hotel/ |
+| 209 | [Гостиница Кадашевская](https://ostrovok.ru/hotel/russia/moscow/mid7597455/kadashevskaya_hotel/) |  |  | набережная Кадашевская, д.26, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597455/kadashevskaya_hotel/ |
+| 210 | [Бутик-Отель Чемодановъ](https://ostrovok.ru/hotel/russia/moscow/mid8744325/chemodanov_butikhotel/) |  |  | улица Покровка, д.2/1 стр.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8744325/chemodanov_butikhotel/ |
+| 211 | [Отель Ribella](https://ostrovok.ru/hotel/russia/moscow/mid8846991/ribella/) |  |  | улица 1-я Машиностроения, д.10, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8846991/ribella/ |
+| 212 | [Апарт-отель Веста Подлипки](https://ostrovok.ru/hotel/russia/moscow/mid13290973/vesta_podlipki_apartment_hotel/) |  |  | улица Грабина, д. 10б, Королёв | https://ostrovok.ru/hotel/russia/moscow/mid13290973/vesta_podlipki_apartment_hotel/ |
+| 213 | [Отель в Центре Гимнастики Ирины Винер-Усмановой](https://ostrovok.ru/hotel/russia/moscow/mid10613300/v_tsentre_gimnastiki_iriny_vinerusmanovoy_hotel/) |  |  | ул. Олимпийская 15, Центр гимнастики Ирины Винер, … | https://ostrovok.ru/hotel/russia/moscow/mid10613300/v_tsentre_gimnastiki_iriny_vinerusmanovoy_hotel/ |
+| 214 | [GOPARK Hotel](https://ostrovok.ru/hotel/russia/moscow/mid9250776/gopark_hotel/) |  |  | деревня Голиково, Шоссейная улица, стр. 4, Голиков… | https://ostrovok.ru/hotel/russia/moscow/mid9250776/gopark_hotel/ |
+| 215 | [Отель Радио](https://ostrovok.ru/hotel/russia/moscow/mid8854265/radio_hotel_2/) |  |  | улица Радио, д.14. строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8854265/radio_hotel_2/ |
+| 216 | [Бутик-Отель Loft](https://ostrovok.ru/hotel/russia/moscow/mid8871248/loft_boutique_hotel_2/) |  |  | улица Академика Легостаева, д.13, Королёв | https://ostrovok.ru/hotel/russia/moscow/mid8871248/loft_boutique_hotel_2/ |
+| 217 | [Гостиница Four Seasons Hotel Moscow](https://ostrovok.ru/hotel/russia/moscow/mid6374284/four_seasons_hotel_moscow/) | +7 499 277-71-00 | https://fourseasons.com | улица Охотный Ряд, д. 2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6374284/four_seasons_hotel_moscow/ |
+| 218 | [База Отдыха Остров Рыболовная усадьба](https://ostrovok.ru/hotel/russia/moscow/mid10268813/rybolovnaya_usadba_ostrov_2/) |  |  | Московская область, Ленинский район, село Остров, … | https://ostrovok.ru/hotel/russia/moscow/mid10268813/rybolovnaya_usadba_ostrov_2/ |
+| 219 | [Отель Репин](https://ostrovok.ru/hotel/russia/moscow/mid9209404/repin_2/) |  |  | улица Репина, д.6, стр. 8, Химки | https://ostrovok.ru/hotel/russia/moscow/mid9209404/repin_2/ |
+| 220 | [Авторский Отель Паррадоссо](https://ostrovok.ru/hotel/russia/moscow/mid9716237/avtorskij_hotel_parradosso/) |  |  | Настасьинский переулок, д. 8/1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9716237/avtorskij_hotel_parradosso/ |
+| 221 | [Апарт-отель Международная](https://ostrovok.ru/hotel/russia/moscow/mid8748311/apartment_hotel_mezhdunarodnaya/) |  |  | Краснопресненская наб., 12, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8748311/apartment_hotel_mezhdunarodnaya/ |
+| 222 | [Отель Везендорф ВДНХ](https://ostrovok.ru/hotel/russia/moscow/mid6945292/hotel_wesendorf/) |  |  | улица Проходчиков, д.16с1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6945292/hotel_wesendorf/ |
+| 223 | [Отель Городской Malvida](https://ostrovok.ru/hotel/russia/moscow/mid8734795/malvida_hotel/) |  |  | Таболово, д. 19а, Видное | https://ostrovok.ru/hotel/russia/moscow/mid8734795/malvida_hotel/ |
+| 224 | [Парк-Отель Орловский](https://ostrovok.ru/hotel/russia/moscow/mid7700514/gostinichnyi_kompleks_orlovskii/) |  |  | Орловский проезд, строение 12, Богданиха | https://ostrovok.ru/hotel/russia/moscow/mid7700514/gostinichnyi_kompleks_orlovskii/ |
+| 225 | [Отель Истра Гарден](https://ostrovok.ru/hotel/russia/moscow/mid9974554/istra_garden_otel/) |  |  | 3-я Песчаная улица, д.2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid9974554/istra_garden_otel/ |
+| 226 | [Парк-Отель Юдино](https://ostrovok.ru/hotel/russia/moscow/mid8732812/yudino_parkhotel/) |  |  | Одинцовский р-н, с.Юдино, 1б, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8732812/yudino_parkhotel/ |
+| 227 | [Отель Протон](https://ostrovok.ru/hotel/russia/moscow/mid7375866/proton_business_hotel/) |  |  | улица Новозаводская, д.22, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7375866/proton_business_hotel/ |
+| 228 | [Отель Карлтон Москва](https://ostrovok.ru/hotel/russia/moscow/mid7597420/ritz_carlton/) |  |  | ул. Тверская, д. 3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7597420/ritz_carlton/ |
+| 229 | [Отель Панорама Сити Отель Федерация](https://ostrovok.ru/hotel/russia/moscow/mid9260156/panorama_city_federation/) |  |  | Пресненская набережная, 12, башня "Федерация" 53 э… | https://ostrovok.ru/hotel/russia/moscow/mid9260156/panorama_city_federation/ |
+| 230 | [Отель Artiland](https://ostrovok.ru/hotel/russia/moscow/mid7967097/arti_land/) |  |  | Новское шоссе, д.10, Балашиха | https://ostrovok.ru/hotel/russia/moscow/mid7967097/arti_land/ |
+| 231 | [Отель Malakhovka Palace](https://ostrovok.ru/hotel/russia/moscow/mid13075160/malakhovka_palace_hotel/) |  |  | улица Красковский Обрыв, д.7, корп.1, Малаховка | https://ostrovok.ru/hotel/russia/moscow/mid13075160/malakhovka_palace_hotel/ |
+| 232 | [Отель Воронцовский](https://ostrovok.ru/hotel/russia/moscow/mid7724453/vorontsovsky_hotel/) |  |  | Воронцовский переулок, д.5/7 стр2, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7724453/vorontsovsky_hotel/ |
+| 233 | [Отель Avshar](https://ostrovok.ru/hotel/russia/moscow/mid8455144/avshar_club_hotel_3/) |  |  | улица Ново-Никольская, д. 2Б, Красногорск | https://ostrovok.ru/hotel/russia/moscow/mid8455144/avshar_club_hotel_3/ |
+| 234 | [Отель Загородный комплекс Видная Усадьба.](https://ostrovok.ru/hotel/russia/moscow/mid9994505/vidnaya_usadba/) |  |  | Старо-Нагорная улица д.20А, Видное | https://ostrovok.ru/hotel/russia/moscow/mid9994505/vidnaya_usadba/ |
+| 235 | [Отель Теплица Парк](https://ostrovok.ru/hotel/russia/moscow/mid8851919/teplitsa_park/) |  |  | Липовая улица, д. 3а, ВНИИССОК | https://ostrovok.ru/hotel/russia/moscow/mid8851919/teplitsa_park/ |
+| 236 | [Business lounge hotel (Бизнес Лаундж Отель)](https://ostrovok.ru/hotel/russia/moscow/mid9988118/business_lounge_hotel/) |  |  | ул. Мантулинская, д. 10 (подъезд 3, этаж 2), Москв… | https://ostrovok.ru/hotel/russia/moscow/mid9988118/business_lounge_hotel/ |
+| 237 | [Отель Союз](https://ostrovok.ru/hotel/russia/moscow/mid8879371/soyuz_hotel/) |  |  | улица Восточная, д.10, Одинцово | https://ostrovok.ru/hotel/russia/moscow/mid8879371/soyuz_hotel/ |
+| 238 | [Отель «Рихтер», участник Design Hotels](https://ostrovok.ru/hotel/russia/moscow/mid8939679/richter_2/) |  |  | ул. Пятницкая, 42, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8939679/richter_2/ |
+| 239 | [Отель Руссо-Балт](https://ostrovok.ru/hotel/russia/moscow/mid7777816/russo_balt_otel/) |  |  | Гоголевский бул., 31, стр. 1, Москва, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7777816/russo_balt_otel/ |
+| 240 | [Мини-отель РГК Алексеевский](https://ostrovok.ru/hotel/russia/moscow/mid9990589/rgk_alekseevskij/) |  |  | Щёлковское шоссе, 3А, Балашиха | https://ostrovok.ru/hotel/russia/moscow/mid9990589/rgk_alekseevskij/ |
+| 241 | [Бутик-отель Twelve Reasons](https://ostrovok.ru/hotel/russia/moscow/mid10367887/twelve_reasons_butikhotel/) |  |  | улица Земляной Вал, д.56 / 3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid10367887/twelve_reasons_butikhotel/ |
+| 242 | [Ъ (Знак)](https://ostrovok.ru/hotel/russia/moscow/mid11227231/hotel_znak/) |  |  | Оружейный переулок, д. 3, строение 1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid11227231/hotel_znak/ |
+| 243 | [Гостиница Покровская](https://ostrovok.ru/hotel/russia/moscow/mid8621527/pokrov_convent_hotel/) |  |  | улица Таганская, 58 стр. 12, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8621527/pokrov_convent_hotel/ |
+| 244 | [Романи](https://ostrovok.ru/hotel/russia/moscow/mid8568856/_0x60fd4/) |  |  | 5-я Парковая ул., д. 28, лит. А, Москва | https://ostrovok.ru/hotel/russia/moscow/mid8568856/_0x60fd4/ |
+| 245 | [Гостинично-ресторанный комплекс Мэриан Холл](https://ostrovok.ru/hotel/russia/moscow/mid8290228/marianhall/) |  |  | кв-л Щитниково, д. 36А, помещ. 2, Балашиха | https://ostrovok.ru/hotel/russia/moscow/mid8290228/marianhall/ |
+| 246 | [Отель Роял Зенит 1](https://ostrovok.ru/hotel/russia/moscow/mid7846982/royal_zenith/) |  |  | улица Таманская, д. 49Б, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7846982/royal_zenith/ |
+| 247 | [Отель Silky Way](https://ostrovok.ru/hotel/russia/moscow/mid7379349/butikotel_shelkovyi_put/) |  |  | ул. Ленина, 45, Октябрьский | https://ostrovok.ru/hotel/russia/moscow/mid7379349/butikotel_shelkovyi_put/ |
+| 248 | [Гостинично-оздоровительный комплекс Тропарёво](https://ostrovok.ru/hotel/russia/moscow/mid6996685/gostinitsa_troparevo/) |  |  | улица Академика Бакулева, д.3, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6996685/gostinitsa_troparevo/ |
+| 249 | [Гостиница ВАРС](https://ostrovok.ru/hotel/russia/moscow/mid6954172/gostinitsa_vars/) |  |  | ул. Капотня, д. 34, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6954172/gostinitsa_vars/ |
+| 250 | [Элит](https://ostrovok.ru/hotel/russia/moscow/mid6811604/elit_hotel_5/) |  |  | Волгоградский пр-т, д.98, корп.1, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6811604/elit_hotel_5/ |
+| 251 | [Мини-отель Фонда](https://ostrovok.ru/hotel/russia/moscow/mid6388942/minihotel_fonda/) |  |  | улица Угрешская, д. 2, стр. 90, Москва | https://ostrovok.ru/hotel/russia/moscow/mid6388942/minihotel_fonda/ |
+| 252 | [Загородный комплекс Art Village Club](https://ostrovok.ru/hotel/russia/moscow/mid10161324/art_villge_club_hotel/) |  |  | улица Рябиновая, д.1а, Химки | https://ostrovok.ru/hotel/russia/moscow/mid10161324/art_villge_club_hotel/ |
+| 253 | [Отель S7 Hotel](https://ostrovok.ru/hotel/russia/moscow/mid10055706/s7_hotel_domodedovo/) |  |  | г. Домодедово,  мкрн. Авиационный, ул. Ильюшина, 1… | https://ostrovok.ru/hotel/russia/moscow/mid10055706/s7_hotel_domodedovo/ |
+| 254 | [Бизнес-отель «Времена Года»](https://ostrovok.ru/hotel/russia/moscow/mid7692949/hotel_radishchevskaya_at_taganka/) |  |  | ул. Верхняя Радищевская, 14/21, Москва | https://ostrovok.ru/hotel/russia/moscow/mid7692949/hotel_radishchevskaya_at_taganka/ |
+| 255 | [Отель Яхт-Клуб Новый Берег](https://ostrovok.ru/hotel/russia/moscow/mid7383057/oteliakhtklub_novyi_bereg/) |  |  | ул. Туристическая 10, Болтино | https://ostrovok.ru/hotel/russia/moscow/mid7383057/oteliakhtklub_novyi_bereg/ |
+| 256 | [Отель Панорама Сити Отель Империя](https://ostrovok.ru/hotel/russia/moscow/mid6613941/panorama_siti/) |  |  | Пресненская набережная, д. 6, стр. 2, помещ.4808, … | https://ostrovok.ru/hotel/russia/moscow/mid6613941/panorama_siti/ |
