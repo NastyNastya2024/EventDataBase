@@ -37,7 +37,7 @@ def main() -> int:
         sys.argv = [
             old_argv[0],
             "--input",
-            str(ROOT / "final" / "final_contacts_with_type.md"),
+            str(ROOT / "final" / "final.md"),
             "--output",
             str(dst / "contacts.json"),
         ]

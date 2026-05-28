@@ -4,9 +4,9 @@
 
 | Организация | Тип | Сайт | Вид контакта | Контакт |
 |---|---|---|---|---|
-| (АВТОРЫ) | N/A | http://avtors.agency | phone | +7 (910) 462-19-56 |
-| (АВТОРЫ) | N/A | http://avtors.agency | social | https://t.me/valeri_zueva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%28%D0%90%D0%92%D0%A2%D0%9E%D0%A0%D0%AB%29.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| (АВТОРЫ) | N/A | http://avtors.agency | social | https://www.instagram.com/avtors.agency |
+| (АВТОРЫ) | event / creative production | http://avtors.agency | phone | +7 (910) 462-19-56 |
+| (АВТОРЫ) | event / creative production | http://avtors.agency | social | https://t.me/valeri_zueva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%28%D0%90%D0%92%D0%A2%D0%9E%D0%A0%D0%AB%29.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| (АВТОРЫ) | event / creative production | http://avtors.agency | social | https://www.instagram.com/avtors.agency |
 | 0.75 Please | ресторан / бар | https://075please.ru | email | 075pls@bk.ru |
 | 0.75 Please | ресторан / бар | https://075please.ru | phone | +7 (391) 215-29-13 |
 | 0.75 Please | ресторан / бар | https://075please.ru | phone | +7 (923) 355-29-13 |
@@ -2628,48 +2628,48 @@
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | phone | +7 (401) 295-66-77 |
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | social | https://t.me/jazzfestivalru |
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | social | https://vk.com/jazzfestivalru |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | email | bacchusproject@mail.ru |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | email | email |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | phone | +7 (926) 040-78-29 |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | phone | phone |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | https://api.whatsapp.com/send/?phone=79260407829 |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | https://t.me/Kamilla_Bahus |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | https://t.me/Kamilla_bahus_bot |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | https://vk.com/kamilla_bahus_wed |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | social |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | social |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | social |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | phone | +7 (926) 040-78-29 |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | https://t.me/Kamilla_bahus?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Kamilla.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| KAMILLA BAHUS | N/A | http://kamillabahus.ru | social | https://www.instagram.com/Kamilla_bahus_wed |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | email | email |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | email | email |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | email | karavayevent@gmail.com |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | email | karavayevent@mail.ru |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | https://t.me/+79803961444 |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | https://wa.me/+79032433878 |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | https://wa.me/79803961444 |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | https://www.instagram.com/karavay_event |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | social |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | social |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | social |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | phone | +7 (980) 396-14-44 |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | https://t.me/karavay_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Karavay_Event.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| KARAVAY_EVENT | N/A | http://karavayevent.ru | social | https://www.instagram.com/karavay_event |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | email | email |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | email | kasitskaya_wedding@mail.ru |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | phone | +7 (969) 010-74-57 |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | phone | phone |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | https://t.me/anastasia_kasitskaya |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | https://t.me/kupryukhina_i |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | https://wa.me/79690107457 |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | https://www.instagram.com/kasitskaya.wedding?igsh=MTI2N3h1cTQwZ2JzYw== |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | social |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | social |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | social |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | phone | +7 (969) 010-74-57 |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | https://t.me/anastasia_kasitskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KASITSKAYA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| KASITSKAYA WEDDING | N/A | http://kasitskayawedding.ru | social | https://www.instagram.com/kasitskaya.wedding |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | email | bacchusproject@mail.ru |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | email | email |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | phone | +7 (926) 040-78-29 |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | phone | phone |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | https://api.whatsapp.com/send/?phone=79260407829 |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | https://t.me/Kamilla_Bahus |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | https://t.me/Kamilla_bahus_bot |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | https://vk.com/kamilla_bahus_wed |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | social |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | social |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | social |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | phone | +7 (926) 040-78-29 |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | https://t.me/Kamilla_bahus?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Kamilla.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| KAMILLA BAHUS | свадебное агентство / wedding planner | http://kamillabahus.ru | social | https://www.instagram.com/Kamilla_bahus_wed |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | email | email |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | email | email |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | email | karavayevent@gmail.com |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | email | karavayevent@mail.ru |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | https://t.me/+79803961444 |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | https://wa.me/+79032433878 |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | https://wa.me/79803961444 |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | https://www.instagram.com/karavay_event |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | social |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | social |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | social |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | phone | +7 (980) 396-14-44 |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | https://t.me/karavay_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Karavay_Event.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | https://www.instagram.com/karavay_event |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | email | email |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | email | kasitskaya_wedding@mail.ru |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | phone | +7 (969) 010-74-57 |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | phone | phone |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | https://t.me/anastasia_kasitskaya |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | https://t.me/kupryukhina_i |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | https://wa.me/79690107457 |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | https://www.instagram.com/kasitskaya.wedding?igsh=MTI2N3h1cTQwZ2JzYw== |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | social |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | social |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | social |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | phone | +7 (969) 010-74-57 |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | https://t.me/anastasia_kasitskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KASITSKAYA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | social | https://www.instagram.com/kasitskaya.wedding |
 | KELIA Business Club | бизнес-клуб | https://kelia.me | email | club@kelia.me |
 | KELIA Business Club | бизнес-клуб | https://kelia.me | phone | +7 (495) 775-07-20 |
 | KELIA Business Club | бизнес-клуб | https://kelia.me | social | https://t.me/keliaclub |
@@ -2689,12 +2689,12 @@
 | KIT Film Studio | киностудия | https://kitstudio.ru | social | https://rutube.ru |
 | KIT Film Studio | киностудия | https://kitstudio.ru | social | https://t.me/kitstudio |
 | KIT Film Studio | киностудия | https://kitstudio.ru | social | https://vk.ru/public211246229 |
-| KRAVTSOVA EVENT | N/A | http://kravtsova.org | social | https://t.me/darkravt |
-| KRAVTSOVA EVENT | N/A | http://kravtsova.org | social | https://t.me/kravtsovaevent_reviews |
-| KRAVTSOVA EVENT | N/A | http://kravtsova.org | social | social |
-| KRAVTSOVA EVENT | N/A | http://kravtsova.org | phone | +7 (985) 994-24-46 |
-| KRAVTSOVA EVENT | N/A | http://kravtsova.org | social | https://t.me/darkravt?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KRAVTSOVA%20EVENT.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| KRAVTSOVA EVENT | N/A | http://kravtsova.org | social | https://www.instagram.com/kravtsova.event |
+| KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://t.me/darkravt |
+| KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://t.me/kravtsovaevent_reviews |
+| KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | social |
+| KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | phone | +7 (985) 994-24-46 |
+| KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://t.me/darkravt?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KRAVTSOVA%20EVENT.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://www.instagram.com/kravtsova.event |
 | KSK “Agalarov Polo Division” | ивент-спейс | https://agalarovestate.com | email | hotel@crocusgroup.ru |
 | KSK “Agalarov Polo Division” | ивент-спейс | https://agalarovestate.com | email | pressoffice@crocusgroup.ru |
 | KSK “Agalarov Polo Division” | ивент-спейс | https://agalarovestate.com | email | rating@mail.ru |
@@ -2730,20 +2730,20 @@
 | KSK “Zavidovo Golf & Polo” | ивент-спейс | https://zavidovo.ru | phone | +7 (800) 200-18-01 |
 | KSK “Zavidovo Golf & Polo” | ивент-спейс | https://zavidovo.ru | social | https://t.me/zavidovo_updk |
 | KSK “Zavidovo Golf & Polo” | ивент-спейс | https://zavidovo.ru | social | https://vk.com/zavidovo.updk |
-| KULWEDDING | N/A | http://kulwedding.ru | phone | +7 (977) 918-71-78 |
-| KULWEDDING | N/A | http://kulwedding.ru | phone | phone |
-| KULWEDDING | N/A | http://kulwedding.ru | social | https://m.vk.com/kulikova_wedding |
-| KULWEDDING | N/A | http://kulwedding.ru | social | https://t.me/nasyakulikova |
-| KULWEDDING | N/A | http://kulwedding.ru | social | https://t.me/wow_yevgesha |
-| KULWEDDING | N/A | http://kulwedding.ru | social | https://wa.me/79779187178 |
-| KULWEDDING | N/A | http://kulwedding.ru | social | https://www.instagram.com/kulwedding?igsh=MWg1d2kxMXk2OGdydA== |
-| KULWEDDING | N/A | http://kulwedding.ru | social | social |
-| KULWEDDING | N/A | http://kulwedding.ru | social | social |
-| KULWEDDING | N/A | http://kulwedding.ru | social | social |
-| KULWEDDING | N/A | http://kulwedding.ru | social | social |
-| KULWEDDING | N/A | http://kulwedding.ru | phone | +7 (977) 918-71-78 |
-| KULWEDDING | N/A | http://kulwedding.ru | social | https://t.me/nasyakulikova?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KULWEDDING.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| KULWEDDING | N/A | http://kulwedding.ru | social | https://www.instagram.com/kulwedding |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | phone | +7 (977) 918-71-78 |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | phone | phone |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://m.vk.com/kulikova_wedding |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://t.me/nasyakulikova |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://t.me/wow_yevgesha |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://wa.me/79779187178 |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://www.instagram.com/kulwedding?igsh=MWg1d2kxMXk2OGdydA== |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | social |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | social |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | social |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | social |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | phone | +7 (977) 918-71-78 |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://t.me/nasyakulikova?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KULWEDDING.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://www.instagram.com/kulwedding |
 | Kamaz (МСК представительство) | организация | https://kamaz.ru | email | callcentre@kamaz.org |
 | Kamaz (МСК представительство) | организация | https://kamaz.ru | email | export@kamaz.ru |
 | Kamaz (МСК представительство) | организация | https://kamaz.ru | email | info@kamazleasing.ru |
@@ -2814,18 +2814,18 @@
 | LANIT | IT-компания | https://lanit.ru | social | https://dzen.ru/lanit |
 | LANIT | IT-компания | https://lanit.ru | social | https://t.me/Lanit_life |
 | LANIT | IT-компания | https://lanit.ru | social | https://vk.com/lanit_life |
-| LUBWED | N/A | http://lubwed.ru | phone | +7 (916) 814-61-48 |
-| LUBWED | N/A | http://lubwed.ru | phone | phone |
-| LUBWED | N/A | http://lubwed.ru | social | https://instagram.com/lubwed?igshid=YmMyMTA2M2Y= |
-| LUBWED | N/A | http://lubwed.ru | social | https://t.me/Lubwedd |
-| LUBWED | N/A | http://lubwed.ru | social | https://t.me/zvyrlik |
-| LUBWED | N/A | http://lubwed.ru | social | https://wa.me/79168146248?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B%21 |
-| LUBWED | N/A | http://lubwed.ru | social | social |
-| LUBWED | N/A | http://lubwed.ru | social | social |
-| LUBWED | N/A | http://lubwed.ru | social | social |
-| LUBWED | N/A | http://lubwed.ru | phone | +7 (916) 814-62-48 |
-| LUBWED | N/A | http://lubwed.ru | social | https://t.me/Lubwedd?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Lubwed.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| LUBWED | N/A | http://lubwed.ru | social | https://www.instagram.com/lubwed |
+| LUBWED | свадебное агентство | http://lubwed.ru | phone | +7 (916) 814-61-48 |
+| LUBWED | свадебное агентство | http://lubwed.ru | phone | phone |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | https://instagram.com/lubwed?igshid=YmMyMTA2M2Y= |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | https://t.me/Lubwedd |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | https://t.me/zvyrlik |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | https://wa.me/79168146248?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B%21 |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | social |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | social |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | social |
+| LUBWED | свадебное агентство | http://lubwed.ru | phone | +7 (916) 814-62-48 |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | https://t.me/Lubwedd?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Lubwed.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| LUBWED | свадебное агентство | http://lubwed.ru | social | https://www.instagram.com/lubwed |
 | Lenfilm Production | организация | https://lenfilm.ru | email | info@lenfilm.ru |
 | Lenfilm Production | организация | https://lenfilm.ru | email | ok@lenfilm.ru |
 | Lenfilm Production | организация | https://lenfilm.ru | email | pr@lenfilm.ru |
@@ -2922,25 +2922,25 @@
 | M2 EVENTS AGENCY | event-агентство | http://m2events.ru | social | https://www.instagram.com/m2_event_agency |
 | MGCom | digital-агентство | https://mgcom.ru | email | mgcom@mgcom.ru |
 | MGCom | digital-агентство | https://mgcom.ru | social | https://t.me/mgcom360 |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | email | email |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | email | info@mironovawedding.ru |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | phone | +7 (495) 181-00-41 |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | phone | phone |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | https://t.me/mironovawedding |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | https://www.instagram.com/mironovawedding |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | https://www.youtube.com/MironovaWedding |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | social |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | social |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | social |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | phone | +7 (968) 895-22-03 |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | https://t.me/mironovawedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Mironova%20Wedding.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| MIRONOVA WEDDING | N/A | http://mironovawedding.ru | social | https://www.instagram.com/mironovawedding |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | email | email |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | email | info@mironovawedding.ru |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | phone | +7 (495) 181-00-41 |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | phone | phone |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | https://t.me/mironovawedding |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | https://www.instagram.com/mironovawedding |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | https://www.youtube.com/MironovaWedding |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | social |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | social |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | social |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | phone | +7 (968) 895-22-03 |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | https://t.me/mironovawedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Mironova%20Wedding.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | https://www.instagram.com/mironovawedding |
 | MOJO | event / creative agency | https://top100awards.ru/mojo | phone | +7 (911) 117-63-46 |
 | MOJO | event / creative agency | https://top100awards.ru/mojo | social | https://t.me/Dahlia_Salamatina?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20MOJO.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | MOJO | event / creative agency | https://top100awards.ru/mojo | social | https://www.instagram.com/mojo_wed |
-| MOLLY EVENT 2.0 | N/A | https://top100awards.ru/molly-event-2-0 | phone | +7 (916) 271-47-37 |
-| MOLLY EVENT 2.0 | N/A | https://top100awards.ru/molly-event-2-0 | social | https://t.me/carolinamalinskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Molly.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| MOLLY EVENT 2.0 | N/A | https://top100awards.ru/molly-event-2-0 | social | https://www.instagram.com/molly.event2.0_ |
+| MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | phone | +7 (916) 271-47-37 |
+| MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | social | https://t.me/carolinamalinskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Molly.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | social | https://www.instagram.com/molly.event2.0_ |
 | MOMENTO | event-агентство | http://www.momento-event.ru | email | email |
 | MOMENTO | event-агентство | http://www.momento-event.ru | email | email |
 | MOMENTO | event-агентство | http://www.momento-event.ru | email | momento-event@mail.ru |
@@ -3062,12 +3062,12 @@
 | Maxima Park Equestrian Center | конный клуб | https://maximapark.ru | phone | +791500842438 |
 | Maxima Park Equestrian Center | конный клуб | https://maximapark.ru | social | https://t.me/maximaparkkompleks |
 | Maxima Park Equestrian Center | конный клуб | https://maximapark.ru | social | https://vk.com/maxima_park |
-| Maximice | N/A | https://maximice.ru | email | email |
-| Maximice | N/A | https://maximice.ru | email | info@maximice.ru |
-| Maximice | N/A | https://maximice.ru | phone | +7 (495) 739-33-58 |
-| Maximice | N/A | https://maximice.ru | phone | phone |
-| Maximice | N/A | https://maximice.ru | social | https://www.youtube.com/@MaxiMICEcompany |
-| Maximice | N/A | https://maximice.ru | social | social |
+| Maximice | event / experiential marketing agency | https://maximice.ru | email | email |
+| Maximice | event / experiential marketing agency | https://maximice.ru | email | info@maximice.ru |
+| Maximice | event / experiential marketing agency | https://maximice.ru | phone | +7 (495) 739-33-58 |
+| Maximice | event / experiential marketing agency | https://maximice.ru | phone | phone |
+| Maximice | event / experiential marketing agency | https://maximice.ru | social | https://www.youtube.com/@MaxiMICEcompany |
+| Maximice | event / experiential marketing agency | https://maximice.ru | social | social |
 | Maximum Radio | радиостанция | https://maximum.ru | social | https://ok.ru/group/maximum |
 | Maximum Radio | радиостанция | https://maximum.ru | social | https://vk.com/radiomaximum |
 | Media Direction Group (OMD) | медиабаинговое агентство | https://omd.ru | email | buying@group-omd.com |
@@ -3485,10 +3485,10 @@
 | Moscow Capital Club | комьюнити | https://moscowcapitalclub.com | email | mailto:info@moscowcapitalclub.com |
 | Moscow Capital Club | комьюнити | https://moscowcapitalclub.com | phone | +7 (495) 922-40-30 |
 | Moscow Capital Club | комьюнити | https://moscowcapitalclub.com | phone | +7 (985) 290-30-30 |
-| Moscow City Hall Cultural Office | N/A | https://www.mos.ru | email | email |
-| Moscow City Hall Cultural Office | N/A | https://www.mos.ru | email | press-service@mos.ru |
-| Moscow City Hall Cultural Office | N/A | https://www.mos.ru | phone | +7 (495) 620-27-17 |
-| Moscow City Hall Cultural Office | N/A | https://www.mos.ru | phone | phone |
+| Moscow City Hall Cultural Office | государственная культурная организация | https://www.mos.ru | email | email |
+| Moscow City Hall Cultural Office | государственная культурная организация | https://www.mos.ru | email | press-service@mos.ru |
+| Moscow City Hall Cultural Office | государственная культурная организация | https://www.mos.ru | phone | +7 (495) 620-27-17 |
+| Moscow City Hall Cultural Office | государственная культурная организация | https://www.mos.ru | phone | phone |
 | Moscow Country Club | гольф-клуб / resort | https://www.mccgolf.ru | email | golfreception@mcc.updk.ru |
 | Moscow Country Club | гольф-клуб / resort | https://www.mccgolf.ru | email | reception@mcc.updk.ru |
 | Moscow Country Club | гольф-клуб / resort | https://www.mccgolf.ru | phone | +7 (495) 626-59-10 |
@@ -3581,45 +3581,45 @@
 | Mutabor Events | event ecosystem | https://mutabor.club | social | social |
 | Mutabor Events | event ecosystem | https://mutabor.club | social | social |
 | Mutabor Events | event ecosystem | https://mutabor.club | social | social |
-| N1 Event | N/A | https://n1event.ru | email | email |
-| N1 Event | N/A | https://n1event.ru | email | info@n1event.ru |
-| N1 Event | N/A | https://n1event.ru | phone | +7 (927) 711-11-10 |
-| N1 Event | N/A | https://n1event.ru | phone | phone |
-| N1 Event | N/A | https://n1event.ru | social | https://instagram.com/numberoneaward_russia?igshid=ZmRlMzRkMDU= |
-| N1 Event | N/A | https://n1event.ru | social | https://t.me/+79277111110 |
-| N1 Event | N/A | https://n1event.ru | social | https://www.youtube.com/@n1event/featured |
-| N1 Event | N/A | https://n1event.ru | social | social |
-| N1 Event | N/A | https://n1event.ru | social | social |
-| N1 Event | N/A | https://n1event.ru | social | social |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | email | email |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | email | novawedevent@ya.ru |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | +7 (495) 795-18-89 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | +7 (903) 795-18-89 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | +971507948713 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | +971523799721 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | +971547762794 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | phone |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | phone |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | phone |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | phone |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | phone |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://t.me/Natalianova |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://t.me/NovaEventsBot |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://t.me/novaeventsagency |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://wa.me/79037951889 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://wa.me/79037951889?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%AF%20%D1%85%D0%BE%D1%87%D1%83%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8E%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83%20%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://wa.me/79688182893 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://www.facebook.com/novawedevent |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://www.instagram.com/novawedevent |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://www.youtube.com/channel/UCjRppCWfSZ2ZWy28Nfpk29w |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | social |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | social |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | social |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | social |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | social |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | phone | +7 (965) 247-13-20 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://t.me/novaeventsagency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Nova.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| NOVA EVENTS AGENCY | N/A | http://novawedevent.com | social | https://www.instagram.com/novaevents.agency |
+| N1 Event | event-агентство | https://n1event.ru | email | email |
+| N1 Event | event-агентство | https://n1event.ru | email | info@n1event.ru |
+| N1 Event | event-агентство | https://n1event.ru | phone | +7 (927) 711-11-10 |
+| N1 Event | event-агентство | https://n1event.ru | phone | phone |
+| N1 Event | event-агентство | https://n1event.ru | social | https://instagram.com/numberoneaward_russia?igshid=ZmRlMzRkMDU= |
+| N1 Event | event-агентство | https://n1event.ru | social | https://t.me/+79277111110 |
+| N1 Event | event-агентство | https://n1event.ru | social | https://www.youtube.com/@n1event/featured |
+| N1 Event | event-агентство | https://n1event.ru | social | social |
+| N1 Event | event-агентство | https://n1event.ru | social | social |
+| N1 Event | event-агентство | https://n1event.ru | social | social |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | email | email |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | email | novawedevent@ya.ru |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +7 (495) 795-18-89 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +7 (903) 795-18-89 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +971507948713 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +971523799721 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +971547762794 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | phone |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | phone |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | phone |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | phone |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | phone |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://t.me/Natalianova |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://t.me/NovaEventsBot |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://t.me/novaeventsagency |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://wa.me/79037951889 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://wa.me/79037951889?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%AF%20%D1%85%D0%BE%D1%87%D1%83%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8E%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83%20%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://wa.me/79688182893 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://www.facebook.com/novawedevent |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://www.instagram.com/novawedevent |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://www.youtube.com/channel/UCjRppCWfSZ2ZWy28Nfpk29w |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | social |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | social |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | social |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | social |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | social |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +7 (965) 247-13-20 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://t.me/novaeventsagency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Nova.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://www.instagram.com/novaevents.agency |
 | NTV | телеканал | https://ntv.ru | email | www@ntv.ru |
 | NTV | телеканал | https://ntv.ru | social | https://dzen.ru/ntv.ru |
 | NTV | телеканал | https://ntv.ru | social | https://ok.ru/ntv |
@@ -3648,22 +3648,22 @@
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | social | https://vk.com/ntv_kvartirnik |
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | social | https://vk.com/vkmusic |
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | social | social |
-| Nebo Records | N/A | https://neborecords.ru | email | concert@neborecords.ru |
-| Nebo Records | N/A | https://neborecords.ru | email | dasha@neborecords.ru |
-| Nebo Records | N/A | https://neborecords.ru | email | email |
-| Nebo Records | N/A | https://neborecords.ru | email | email |
-| Nebo Records | N/A | https://neborecords.ru | email | info@neborecords.ru |
-| Nebo Records | N/A | https://neborecords.ru | email | remennikov@neborecords.ru |
-| Nebo Records | N/A | https://neborecords.ru | email | show@neborecords.ru |
-| Nebo Records | N/A | https://neborecords.ru | email | smm@neborecords.ru |
-| Nebo Records | N/A | https://neborecords.ru | phone | +7 (800) 550-40-19 |
-| Nebo Records | N/A | https://neborecords.ru | phone | phone |
-| Nebo Records | N/A | https://neborecords.ru | social | https://twitter.com/ArtemEvseenko |
-| Nebo Records | N/A | https://neborecords.ru | social | https://vk.com/neborecords |
-| Nebo Records | N/A | https://neborecords.ru | social | https://www.youtube.com/user/NRconcert |
-| Nebo Records | N/A | https://neborecords.ru | social | social |
-| Nebo Records | N/A | https://neborecords.ru | social | social |
-| Nebo Records | N/A | https://neborecords.ru | social | social |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | concert@neborecords.ru |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | dasha@neborecords.ru |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | email |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | email |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | info@neborecords.ru |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | remennikov@neborecords.ru |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | show@neborecords.ru |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | smm@neborecords.ru |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | phone | +7 (800) 550-40-19 |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | phone | phone |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | https://twitter.com/ArtemEvseenko |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | https://vk.com/neborecords |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | https://www.youtube.com/user/NRconcert |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | social |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | social |
+| Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | social |
 | Nestlé Russia | FMCG компания | https://www.nestle.ru | social | https://vk.com/nestlerussia |
 | Neva Towers Event | event space | https://nevatowers.ru | email | neva.desk@desnadev.com |
 | Neva Towers Event | event space | https://nevatowers.ru | email | neva.retail@desnadev.com |
@@ -3732,21 +3732,21 @@
 | Noôdome | private / business club | https://noodome.club | social | https://t.me/noodome_com_bot?start=token_54a028b0 |
 | Noôdome | private / business club | https://noodome.club | social | https://vk.com/noodomeclub |
 | Noôdome | private / business club | https://noodome.club | social | https://www.youtube.com/channel/UCvgTLmVKwmfFULLf4NQTHvA |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | email | email |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | email | olga@kuptsova.com |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | phone | +7 (903) 282-52-34 |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | phone | phone |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | https://t.me/OlgaKuptsova_event |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | https://wa.me/79032825234 |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | https://www.instagram.com/olgakuptsova_event/profilecard/?igsh=Zm5tZDZwN2gzeThh |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | https://www.youtube.com/@olgakuptsova_event |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | social |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | social |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | social |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | social |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | phone | +7 (903) 282-52-34 |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | https://t.me/OlgaKuptsova_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20OLGA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| OLGA KUPTSOVA WEDDINGS & EVENTS | N/A | http://kuptsova.com | social | https://www.instagram.com/olgakuptsova_event |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | email | email |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | email | olga@kuptsova.com |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | phone | +7 (903) 282-52-34 |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | phone | phone |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | https://t.me/OlgaKuptsova_event |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | https://wa.me/79032825234 |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | https://www.instagram.com/olgakuptsova_event/profilecard/?igsh=Zm5tZDZwN2gzeThh |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | https://www.youtube.com/@olgakuptsova_event |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | social |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | social |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | social |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | social |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | phone | +7 (903) 282-52-34 |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | https://t.me/OlgaKuptsova_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20OLGA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | social | https://www.instagram.com/olgakuptsova_event |
 | OMD Optimum Media | медиаагентство | https://omd.ru | email | buying@group-omd.com |
 | OMD Optimum Media | медиаагентство | https://omd.ru | email | newbiz@group.omd.ru |
 | OMD Optimum Media | медиаагентство | https://omd.ru | email | omdjob@group-omd.com |
@@ -3849,18 +3849,18 @@
 | OMD Optimum Media | медиаагентство | https://omd.ru | social | https://www.youtube.com/watch?v=aiKT88i1Pno&feature=youtu.be |
 | OMD Optimum Media | медиаагентство | https://omd.ru | social | https://www.youtube.com/watch?v=i55xwt_hp8I&app=desktop |
 | OMD Optimum Media | медиаагентство | https://omd.ru | social | https://youtu.be/xDZ7hb75iyM |
-| Oblako 53 | N/A | https://oblako53.ru | email | oblakolounge@yandex.ru |
-| Oblako 53 | N/A | https://oblako53.ru | social | https://t.me/Oblako_mos |
-| Oblako 53 | N/A | https://oblako53.ru | social | https://vk.com/oblako_moscow |
-| Oblako 53 | N/A | https://oblako53.ru | social | https://vk.com/oblakopekin |
-| Olivier Agency | N/A | https://olivier.ru | email | email |
-| Olivier Agency | N/A | https://olivier.ru | email | info@olivier.ru |
-| Olivier Agency | N/A | https://olivier.ru | phone | +7 (495) 276-00-86 |
-| Olivier Agency | N/A | https://olivier.ru | phone | phone |
-| Omega Rooftop | N/A | https://omegarooftop.ru | email | event@omegaevents.ru |
-| Omega Rooftop | N/A | https://omegarooftop.ru | email | kseniya@omegarooftop.ru |
-| Omega Rooftop | N/A | https://omegarooftop.ru | phone | +7 (495) 108-40-40 |
-| Omega Rooftop | N/A | https://omegarooftop.ru | social | http://wa.me/+79030008176 |
+| Oblako 53 | event space / площадка | https://oblako53.ru | email | oblakolounge@yandex.ru |
+| Oblako 53 | event space / площадка | https://oblako53.ru | social | https://t.me/Oblako_mos |
+| Oblako 53 | event space / площадка | https://oblako53.ru | social | https://vk.com/oblako_moscow |
+| Oblako 53 | event space / площадка | https://oblako53.ru | social | https://vk.com/oblakopekin |
+| Olivier Agency | event / PR agency | https://olivier.ru | email | email |
+| Olivier Agency | event / PR agency | https://olivier.ru | email | info@olivier.ru |
+| Olivier Agency | event / PR agency | https://olivier.ru | phone | +7 (495) 276-00-86 |
+| Olivier Agency | event / PR agency | https://olivier.ru | phone | phone |
+| Omega Rooftop | rooftop venue / event venue | https://omegarooftop.ru | email | event@omegaevents.ru |
+| Omega Rooftop | rooftop venue / event venue | https://omegarooftop.ru | email | kseniya@omegarooftop.ru |
+| Omega Rooftop | rooftop venue / event venue | https://omegarooftop.ru | phone | +7 (495) 108-40-40 |
+| Omega Rooftop | rooftop venue / event venue | https://omegarooftop.ru | social | http://wa.me/+79030008176 |
 | Opora Russia | комьюнити | https://opora.ru | email | id@opora.ru |
 | Opora Russia | комьюнити | https://opora.ru | email | pressa@opora.ru |
 | Opora Russia | комьюнити | https://opora.ru | social | https://t.me/opora_russia |
@@ -3895,40 +3895,40 @@
 | PANORAMA360 | смотровая площадка | https://panorama360.ru | social | social |
 | PANORAMA360 | смотровая площадка | https://panorama360.ru | social | social |
 | PANORAMA360 | смотровая площадка | https://panorama360.ru | social | social |
-| PAR AMOUR | N/A | http://paramour-wed.ru | phone | +7 (923) 408-02-85 |
-| PAR AMOUR | N/A | http://paramour-wed.ru | phone | phone |
-| PAR AMOUR | N/A | http://paramour-wed.ru | social | https://t.me/par_amour_wed |
-| PAR AMOUR | N/A | http://paramour-wed.ru | social | https://t.me/paramour_wed |
-| PAR AMOUR | N/A | http://paramour-wed.ru | social | https://www.instagram.com/paramour.wed |
-| PAR AMOUR | N/A | http://paramour-wed.ru | social | social |
-| PAR AMOUR | N/A | http://paramour-wed.ru | social | social |
-| PAR AMOUR | N/A | http://paramour-wed.ru | phone | +7 (923) 408-02-85 |
-| PAR AMOUR | N/A | http://paramour-wed.ru | social | https://t.me/paramour_wed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Par.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| PAR AMOUR | N/A | http://paramour-wed.ru | social | https://www.instagram.com/paramour.wed |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | phone | +7 (923) 408-02-85 |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | phone | phone |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://t.me/par_amour_wed |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://t.me/paramour_wed |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://www.instagram.com/paramour.wed |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | social |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | social |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | phone | +7 (923) 408-02-85 |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://t.me/paramour_wed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Par.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://www.instagram.com/paramour.wed |
 | PBN Hill+Knowlton | PR-агентство | https://www.hkstrategies.com | phone | +7 495 937-44-50 |
-| PEACH EVENT | N/A | https://top100awards.ru/peach-event | phone | +7 (977) 878-58-51 |
-| PEACH EVENT | N/A | https://top100awards.ru/peach-event | social | https://t.me/katya_sorkh?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20PEACH%20EVENT.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| PEACH EVENT | N/A | https://top100awards.ru/peach-event | social | https://www.instagram.com/peach__event |
+| PEACH EVENT | event-агентство | https://top100awards.ru/peach-event | phone | +7 (977) 878-58-51 |
+| PEACH EVENT | event-агентство | https://top100awards.ru/peach-event | social | https://t.me/katya_sorkh?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20PEACH%20EVENT.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| PEACH EVENT | event-агентство | https://top100awards.ru/peach-event | social | https://www.instagram.com/peach__event |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | email | hr@flypobeda.ru |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | phone | +7 (809) 505-87-77 |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | social | https://dzen.ru/pobeda_aero |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | social | https://t.me/+_fDKIESKKHQzODQy |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | social | https://t.me/pobeda_aero_bot |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | social | https://vk.com/flypobeda |
-| POLOTNO | N/A | http://polotnoagency.ru | email | email |
-| POLOTNO | N/A | http://polotnoagency.ru | email | info@polotnoagency.ru |
-| POLOTNO | N/A | http://polotnoagency.ru | phone | +7 (926) 915-18-11 |
-| POLOTNO | N/A | http://polotnoagency.ru | phone | phone |
-| POLOTNO | N/A | http://polotnoagency.ru | social | https://t.me/MargaritaMoskaleva |
-| POLOTNO | N/A | http://polotnoagency.ru | social | https://www.facebook.com |
-| POLOTNO | N/A | http://polotnoagency.ru | social | https://www.instagram.com/margarita.moskaleva |
-| POLOTNO | N/A | http://polotnoagency.ru | social | https://www.instagram.com/polotnoagency |
-| POLOTNO | N/A | http://polotnoagency.ru | social | social |
-| POLOTNO | N/A | http://polotnoagency.ru | social | social |
-| POLOTNO | N/A | http://polotnoagency.ru | social | social |
-| POLOTNO | N/A | http://polotnoagency.ru | phone | +7 (926) 915-18-11 |
-| POLOTNO | N/A | http://polotnoagency.ru | social | https://t.me/MargaritaMoskaleva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20POLOTNO.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| POLOTNO | N/A | http://polotnoagency.ru | social | https://www.instagram.com/polotnoagency |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | email | email |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | email | info@polotnoagency.ru |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | phone | +7 (926) 915-18-11 |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | phone | phone |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | https://t.me/MargaritaMoskaleva |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | https://www.facebook.com |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | https://www.instagram.com/margarita.moskaleva |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | https://www.instagram.com/polotnoagency |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | social |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | social |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | social |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | phone | +7 (926) 915-18-11 |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | https://t.me/MargaritaMoskaleva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20POLOTNO.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| POLOTNO | creative agency / production | http://polotnoagency.ru | social | https://www.instagram.com/polotnoagency |
 | PR Inc. | PR-агентство | https://princ.ru | phone | +7 495 660-38-88 |
 | PR Inc. | PR-агентство | https://princ.ru | social | https://t.me/${encodeURIComponent(tg)} |
 | PR Inc. | PR-агентство | https://princ.ru | social | https://t.me/durcoin |
@@ -3960,17 +3960,17 @@
 | PR Partner | PR-агентство | https://prpartner.ru | social | social |
 | PR Partner | PR-агентство | https://prpartner.ru | social | social |
 | PRO-Vision | коммуникационное агентство | https://pro-vision.ru | phone | +7 495 540-50-60 |
-| PRO.LYUBOV | N/A | http://prolyubov.com | phone | +7 (936) 288-85-31 |
-| PRO.LYUBOV | N/A | http://prolyubov.com | phone | phone |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | https://t.me/m/FsOHru3wNmFi |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | https://wa.me/79362888531?text=Привет,%20Люба%20и%20Марина!%20Хотим%20обсудить%20мероприятие |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | https://www.instagram.com/pro.lyubov.agency?igsh=bG85eHhqOGY2b2dw |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | social |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | social |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | social |
-| PRO.LYUBOV | N/A | http://prolyubov.com | phone | +7 (936) 288-85-31 |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | https://t.me/pro_lyubov_agency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20PRO.LYUBOV.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| PRO.LYUBOV | N/A | http://prolyubov.com | social | https://www.instagram.com/pro.lyubov.agency |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | +7 (936) 288-85-31 |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | phone |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://t.me/m/FsOHru3wNmFi |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://wa.me/79362888531?text=Привет,%20Люба%20и%20Марина!%20Хотим%20обсудить%20мероприятие |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://www.instagram.com/pro.lyubov.agency?igsh=bG85eHhqOGY2b2dw |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | social |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | social |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | social |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | +7 (936) 288-85-31 |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://t.me/pro_lyubov_agency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20PRO.LYUBOV.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://www.instagram.com/pro.lyubov.agency |
 | Padel Club “Premium Padel Moscow” | падел-клуб | https://premiumpadel.ru | email | info@premiumpadel.ru |
 | Padel Club “Premium Padel Moscow” | падел-клуб | https://premiumpadel.ru | phone | +7 (916) 272-66-37 |
 | Padel Club “Premium Padel Moscow” | падел-клуб | https://premiumpadel.ru | social | https://wa.me/79199988108 |
@@ -3996,37 +3996,37 @@
 | PepsiCo Russia | FMCG компания | https://www.pepsico.ru | social | https://ok.ru/group/54336018841721 |
 | PepsiCo Russia | FMCG компания | https://www.pepsico.ru | social | https://twitter.com/PepsiCoRUS |
 | PepsiCo Russia | FMCG компания | https://www.pepsico.ru | social | https://vk.com/pepsicorussia |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | adb@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | adb_vip@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | email |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | letter@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | marketing@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | news-rests@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | picnic@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | promo@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | restaurants@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003eadb@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003eadb_vip@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003eletter@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003emarketing@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003enews-rests@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003epicnic@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003epromo@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | email | u003erestaurants@afisha.ru |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | social | https://ok.ru/afisha |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | social | https://t.me/afisha |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | social | https://vk.com/public1672730 |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | social | social |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | social | social |
-| Picnic Afisha Team | N/A | https://www.afisha.ru | social | social |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | adb@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | adb_vip@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | email |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | letter@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | marketing@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | news-rests@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | picnic@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | promo@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | restaurants@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003eadb@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003eadb_vip@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003eletter@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003emarketing@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003enews-rests@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003epicnic@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003epromo@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | u003erestaurants@afisha.ru |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | social | https://ok.ru/afisha |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | social | https://t.me/afisha |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | social | https://vk.com/public1672730 |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | social | social |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | social | social |
+| Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | social | social |
 | Pikabu Media | digital-медиа | https://pikabu.ru | email | sales@pikabu.ru |
 | Pikabu Media | digital-медиа | https://pikabu.ru | email | support@pikabu.ru |
 | Pikabu Media | digital-медиа | https://pikabu.ru | social | https://t.me/pikabu |
@@ -4114,7 +4114,7 @@
 | Python Moscow Community | IT community | https://python.ru | social | https://t.me/moscow_python |
 | Python Moscow Community | IT community | https://python.ru | social | https://t.me/moscowpythonconf |
 | Python Moscow Community | IT community | https://python.ru | social | https://www.facebook.com/groups/MoscowDjango |
-| R.S.V.P. PR | N/A | https://rsvp.agency | phone | +7 495 737-89-09 |
+| R.S.V.P. PR | PR-агентство | https://rsvp.agency | phone | +7 495 737-89-09 |
 | RANEPA Alumni Network | комьюнити | https://ranepa.ru | email | anticorruption@ranepa.ru |
 | RANEPA Alumni Network | комьюнити | https://ranepa.ru | email | army@ranepa.ru |
 | RANEPA Alumni Network | комьюнити | https://ranepa.ru | email | information@ranepa.ru |
@@ -4216,11 +4216,11 @@
 | RESO-Garantia | страховая компания | https://www.reso.ru | phone | +7 (800) 234-18-02 |
 | RESO-Garantia | страховая компания | https://www.reso.ru | social | http://t.me/reso_ru_official |
 | RESO-Garantia | страховая компания | https://www.reso.ru | social | http://vk.com/reso_garantia |
-| RIM Group | N/A | https://rimgroup.ru | email | email |
-| RIM Group | N/A | https://rimgroup.ru | email | info@rimgroup.ru |
-| RIM Group | N/A | https://rimgroup.ru | email | zavod@tsp-s.ru |
-| RIM Group | N/A | https://rimgroup.ru | phone | +7 (938) 777-00-03 |
-| RIM Group | N/A | https://rimgroup.ru | phone | phone |
+| RIM Group | event production / застройка / multimedia | https://rimgroup.ru | email | email |
+| RIM Group | event production / застройка / multimedia | https://rimgroup.ru | email | info@rimgroup.ru |
+| RIM Group | event production / застройка / multimedia | https://rimgroup.ru | email | zavod@tsp-s.ru |
+| RIM Group | event production / застройка / multimedia | https://rimgroup.ru | phone | +7 (938) 777-00-03 |
+| RIM Group | event production / застройка / multimedia | https://rimgroup.ru | phone | phone |
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | email | reception@rolf.ru |
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | phone | +7 (495) 126-94-15 |
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | phone | +7 (495) 755-88-44 |
@@ -4235,31 +4235,31 @@
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | social | https://t.me/rolf_company |
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | social | https://vk.com/rolfcompany |
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | social | https://www.youtube.com/c/ROLFCompany |
-| Radio Record Events | N/A | https://www.radiorecord.ru | email | email |
-| Radio Record Events | N/A | https://www.radiorecord.ru | email | email |
-| Radio Record Events | N/A | https://www.radiorecord.ru | email | email |
-| Radio Record Events | N/A | https://www.radiorecord.ru | email | muzred@radiorecord.ru |
-| Radio Record Events | N/A | https://www.radiorecord.ru | email | priz@radiorecord.ru |
-| Radio Record Events | N/A | https://www.radiorecord.ru | email | reklama@radiorecord.ru |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | +7 (499) 700-50-50 |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | +7 (812) 327-06-27 |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | +7 (812) 380-90-90 |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | +7 (812) 758-36-21 |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | +7 (812) 777-04-77 |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | phone |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | phone |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | phone |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | phone |
-| Radio Record Events | N/A | https://www.radiorecord.ru | phone | phone |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | https://ok.ru/radiorecord |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | https://t.me/radiorecord |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | https://vk.com/record |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | https://vk.com/t_robots |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | https://www.youtube.com/c/RadioRecordRussia |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | social |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | social |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | social |
-| Radio Record Events | N/A | https://www.radiorecord.ru | social | social |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | email | email |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | email | email |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | email | email |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | email | muzred@radiorecord.ru |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | email | priz@radiorecord.ru |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | email | reklama@radiorecord.ru |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | +7 (499) 700-50-50 |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | +7 (812) 327-06-27 |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | +7 (812) 380-90-90 |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | +7 (812) 758-36-21 |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | +7 (812) 777-04-77 |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | phone |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | phone |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | phone |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | phone |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | phone | phone |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | https://ok.ru/radiorecord |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | https://t.me/radiorecord |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | https://vk.com/record |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | https://vk.com/t_robots |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | https://www.youtube.com/c/RadioRecordRussia |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | social |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | social |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | social |
+| Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | social |
 | Radio Record | радиостанция | https://radiorecord.ru | email | muzred@radiorecord.ru |
 | Radio Record | радиостанция | https://radiorecord.ru | email | priz@radiorecord.ru |
 | Radio Record | радиостанция | https://radiorecord.ru | email | reklama@radiorecord.ru |
@@ -4287,8 +4287,8 @@
 | Red Media | медиахолдинг | https://red-media.ru | social | https://ok.ru/group/63145683452079 |
 | Red Media | медиахолдинг | https://red-media.ru | social | https://t.me/redmediatv |
 | Red Media | медиахолдинг | https://red-media.ru | social | https://vk.ru/redmediatv |
-| Redday | N/A | https://redday.ru | email | email |
-| Redday | N/A | https://redday.ru | email | hotline@redday.ru |
+| Redday | event-агентство | https://redday.ru | email | email |
+| Redday | event-агентство | https://redday.ru | email | hotline@redday.ru |
 | Regent | ресторан | https://regent.rest | phone | +7 (926) 435-55-54 |
 | Regent | ресторан | https://regent.rest | social | https://www.instagram.com/regent.rest?igsh=bHNsMG5wMXF2dXRn |
 | Renaissance Insurance | страховая компания | https://www.renins.ru | email | akochetkova@renins.com |
@@ -4308,10 +4308,10 @@
 | Rhythm & Blues Café | музыкальный клуб / ресторан | https://rhythm-blues-cafe.ru | phone | +7 (495) 765-93-13 |
 | Rhythm & Blues Café | музыкальный клуб / ресторан | https://rhythm-blues-cafe.ru | social | https://t.me/rhythmandbluesmoscow |
 | Rhythm & Blues Café | музыкальный клуб / ресторан | https://rhythm-blues-cafe.ru | social | https://vk.com/rhythmbluescafe |
-| Rock Bar | N/A | https://rockbar.ru | social | https://instagram.com/rockbar_nn |
-| Rock Bar | N/A | https://rockbar.ru | social | https://twitter.com/rockbar_nn |
-| Rock Bar | N/A | https://rockbar.ru | social | https://vk.com/rockbarnnov |
-| Rock Bar | N/A | https://rockbar.ru | social | https://www.facebook.com/RockBar152 |
+| Rock Bar | бар / концертная площадка | https://rockbar.ru | social | https://instagram.com/rockbar_nn |
+| Rock Bar | бар / концертная площадка | https://rockbar.ru | social | https://twitter.com/rockbar_nn |
+| Rock Bar | бар / концертная площадка | https://rockbar.ru | social | https://vk.com/rockbarnnov |
+| Rock Bar | бар / концертная площадка | https://rockbar.ru | social | https://www.facebook.com/RockBar152 |
 | Roofevents | rooftop event agency | https://roofevents.ru | email | email |
 | Roofevents | rooftop event agency | https://roofevents.ru | email | email |
 | Roofevents | rooftop event agency | https://roofevents.ru | email | email |
@@ -5473,34 +5473,34 @@
 | Rutube | видеоплатформа | https://rutube.ru | social | https://rutube.ru/video/person/944917 |
 | Rutube | видеоплатформа | https://rutube.ru | social | https://t.me/rutube |
 | Rutube | видеоплатформа | https://rutube.ru | social | https://vk.com/rutube |
-| SAKHAROK | N/A | http://sakharokevents.ru | email | email |
-| SAKHAROK | N/A | http://sakharokevents.ru | email | sakharokevents@gmail.com |
-| SAKHAROK | N/A | http://sakharokevents.ru | phone | +7 (967) 184-59-84 |
-| SAKHAROK | N/A | http://sakharokevents.ru | phone | phone |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | https://instagram.com/sakharokevents |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | https://t.me/sakharokevents |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | https://wa.me/79671845984 |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | https://www.instagram.com/alenafedra |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | https://www.instagram.com/sakharokevents?igsh=djY3MmEydnhrMmhw |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | social |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | social |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | social |
-| SAKHAROK | N/A | http://sakharokevents.ru | phone | +7 (967) 184-59-84 |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | https://t.me/sakharokevents?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20SAKHAROK.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| SAKHAROK | N/A | http://sakharokevents.ru | social | https://www.instagram.com/sakharokevents |
-| SALT.WEDDING | N/A | http://saltwedding.ru | phone | +7 (920) 096-60-68 |
-| SALT.WEDDING | N/A | http://saltwedding.ru | phone | phone |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | https://t.me/saltwedding |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | https://vk.com/salt.wedding |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | https://wa.me/79200966068 |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | https://www.instagram.com/salt.wedding |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | social |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | social |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | social |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | social |
-| SALT.WEDDING | N/A | http://saltwedding.ru | phone | +7 (920) 096-60-68 |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | https://t.me/saltwedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20SALT.WEDDING.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| SALT.WEDDING | N/A | http://saltwedding.ru | social | https://www.instagram.com/salt.wedding |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | email | email |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | email | sakharokevents@gmail.com |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | phone | +7 (967) 184-59-84 |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | phone | phone |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | https://instagram.com/sakharokevents |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | https://t.me/sakharokevents |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | https://wa.me/79671845984 |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | https://www.instagram.com/alenafedra |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | https://www.instagram.com/sakharokevents?igsh=djY3MmEydnhrMmhw |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | social |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | social |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | social |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | phone | +7 (967) 184-59-84 |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | https://t.me/sakharokevents?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20SAKHAROK.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| SAKHAROK | creative / event agency | http://sakharokevents.ru | social | https://www.instagram.com/sakharokevents |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | phone | +7 (920) 096-60-68 |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | phone | phone |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://t.me/saltwedding |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://vk.com/salt.wedding |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://wa.me/79200966068 |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://www.instagram.com/salt.wedding |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | social |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | social |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | social |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | social |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | phone | +7 (920) 096-60-68 |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://t.me/saltwedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20SALT.WEDDING.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://www.instagram.com/salt.wedding |
 | SAP Russia | enterprise software company | https://www.sap.com | social | https://www.facebook.com/SAP |
 | SAP Russia | enterprise software company | https://www.sap.com | social | https://www.instagram.com/sap |
 | SAP Russia | enterprise software company | https://www.sap.com | social | https://www.linkedin.com/company/sap |
@@ -5519,17 +5519,17 @@
 | SAV Entertainment | концертный оператор | https://savshow.ru | social | social |
 | SAV Entertainment | концертный оператор | https://savshow.ru | social | social |
 | SAV Entertainment | концертный оператор | https://savshow.ru | social | social |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | email | email |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | email | savina.wedding@mail.ru |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | phone | +7 (929) 606-27-96 |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | phone | phone |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | social | https://wa.me/79296062796 |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | social | https://www.instagram.com/savina.wedding |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | social | social |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | social | social |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | phone | +7 (929) 606-27-96 |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | social | https://t.me/savinawed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20SAVINA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| SAVINA WEDDING | N/A | http://savinawedding.ru | social | https://www.instagram.com/savina.wedding |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | email | email |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | email | savina.wedding@mail.ru |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | phone | +7 (929) 606-27-96 |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | phone | phone |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | social | https://wa.me/79296062796 |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | social | https://www.instagram.com/savina.wedding |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | social | social |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | social | social |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | phone | +7 (929) 606-27-96 |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | social | https://t.me/savinawed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20SAVINA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | social | https://www.instagram.com/savina.wedding |
 | SOGAZ | страховая компания | https://www.sogaz.ru | email | ai-desktop@2x.png |
 | SOGAZ | страховая компания | https://www.sogaz.ru | email | ai-desktop@2x.webp |
 | SOGAZ | страховая компания | https://www.sogaz.ru | email | ai-mobile@2x.png |
@@ -5644,7 +5644,7 @@
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | phone | +7 (812) 335-51-11 |
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | social | https://t.me/setlgroup |
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | social | https://vk.com/setlgroupnews |
-| Severyane | N/A | https://severyane.com | social | https://wa.me/+77010446666 |
+| Severyane | ресторан | https://severyane.com | social | https://wa.me/+77010446666 |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | email | info@shkulev.ru |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | phone | +7 (495) 633-57-57 |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | social | https://t.me/shkulevholding |
@@ -6022,9 +6022,9 @@
 | TCS Group (T-Bank) | организация | https://www.tbank.ru | social | https://ok.ru/tbank |
 | TCS Group (T-Bank) | организация | https://www.tbank.ru | social | https://t.me/tbank |
 | TCS Group (T-Bank) | организация | https://www.tbank.ru | social | https://vk.com/tbank |
-| TIU_WED КСЕНИЯ ТЮТИНА | N/A | https://top100awards.ru/tiu-wed-kseniya-tyutina | phone | +7 (985) 347-51-01 |
-| TIU_WED КСЕНИЯ ТЮТИНА | N/A | https://top100awards.ru/tiu-wed-kseniya-tyutina | social | https://t.me/TiuWed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20TIU_WED.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| TIU_WED КСЕНИЯ ТЮТИНА | N/A | https://top100awards.ru/tiu-wed-kseniya-tyutina | social | https://www.instagram.com/tiu_wed |
+| TIU_WED КСЕНИЯ ТЮТИНА | свадебное агентство | https://top100awards.ru/tiu-wed-kseniya-tyutina | phone | +7 (985) 347-51-01 |
+| TIU_WED КСЕНИЯ ТЮТИНА | свадебное агентство | https://top100awards.ru/tiu-wed-kseniya-tyutina | social | https://t.me/TiuWed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20TIU_WED.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| TIU_WED КСЕНИЯ ТЮТИНА | свадебное агентство | https://top100awards.ru/tiu-wed-kseniya-tyutina | social | https://www.instagram.com/tiu_wed |
 | TNT | телеканал | https://tnt-online.ru | email | crp@gpm-rtv.ru |
 | TNT | телеканал | https://tnt-online.ru | email | info@tnt-tv.ru |
 | TNT | телеканал | https://tnt-online.ru | email | o.nagornaya@gazprom-media.ru |
@@ -6037,18 +6037,18 @@
 | TNT | телеканал | https://tnt-online.ru | social | https://rutube.ru/channel/23463954 |
 | TNT | телеканал | https://tnt-online.ru | social | https://t.me/TNT_television |
 | TNT | телеканал | https://tnt-online.ru | social | https://vk.com/tnt |
-| TOK EVENT AGENCY | N/A | https://top100awards.ru/tok-event-agency | phone | +7 (905) 707-19-92 |
-| TOK EVENT AGENCY | N/A | https://top100awards.ru/tok-event-agency | social | https://t.me/TOK_Tatyana_Bugrova?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Tok.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| TOK EVENT AGENCY | N/A | https://top100awards.ru/tok-event-agency | social | https://www.instagram.com/tok_event_agency |
-| TT Events | N/A | https://ttevents.ru | email | email |
-| TT Events | N/A | https://ttevents.ru | email | mail@ttevents.ru |
-| TT Events | N/A | https://ttevents.ru | phone | +7 (916) 408-60-90 |
-| TT Events | N/A | https://ttevents.ru | phone | +7 (916) 906-44-90 |
-| TT Events | N/A | https://ttevents.ru | phone | phone |
-| TT Events | N/A | https://ttevents.ru | phone | phone |
-| TT Events | N/A | https://ttevents.ru | social | https://t.me/+79164086090 |
-| TT Events | N/A | https://ttevents.ru | social | https://t.me/+79169064490 |
-| TT Events | N/A | https://ttevents.ru | social | social |
+| TOK EVENT AGENCY | event-агентство | https://top100awards.ru/tok-event-agency | phone | +7 (905) 707-19-92 |
+| TOK EVENT AGENCY | event-агентство | https://top100awards.ru/tok-event-agency | social | https://t.me/TOK_Tatyana_Bugrova?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Tok.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| TOK EVENT AGENCY | event-агентство | https://top100awards.ru/tok-event-agency | social | https://www.instagram.com/tok_event_agency |
+| TT Events | event-агентство | https://ttevents.ru | email | email |
+| TT Events | event-агентство | https://ttevents.ru | email | mail@ttevents.ru |
+| TT Events | event-агентство | https://ttevents.ru | phone | +7 (916) 408-60-90 |
+| TT Events | event-агентство | https://ttevents.ru | phone | +7 (916) 906-44-90 |
+| TT Events | event-агентство | https://ttevents.ru | phone | phone |
+| TT Events | event-агентство | https://ttevents.ru | phone | phone |
+| TT Events | event-агентство | https://ttevents.ru | social | https://t.me/+79164086090 |
+| TT Events | event-агентство | https://ttevents.ru | social | https://t.me/+79169064490 |
+| TT Events | event-агентство | https://ttevents.ru | social | social |
 | TV3 Russia | телеканал | https://tv3.ru | email | info@tv3.ru |
 | TV3 Russia | телеканал | https://tv3.ru | phone | +7 (495) 937-40-39 |
 | TV3 Russia | телеканал | https://tv3.ru | social | https://dzen.ru/telekanaltv3 |
@@ -6199,22 +6199,22 @@
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | phone | +7 (989) 599-94-44 |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | phone | +749579512692 |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | social | https://t.me/trekhgorkaru |
-| TrendFox | N/A | https://trendfox.ru | email | ask@trendfox.ru |
-| TrendFox | N/A | https://trendfox.ru | email | email |
-| TrendFox | N/A | https://trendfox.ru | email | email |
-| TrendFox | N/A | https://trendfox.ru | email | tender@trendfox.ru |
-| TrendFox | N/A | https://trendfox.ru | phone | +7 (495) 136-60-19 |
-| TrendFox | N/A | https://trendfox.ru | phone | +7 495 136-60-19 |
-| TrendFox | N/A | https://trendfox.ru | phone | phone |
-| TrendFox | N/A | https://trendfox.ru | social | https://rutube.ru/channel/45173707 |
-| TrendFox | N/A | https://trendfox.ru | social | https://t.me/Trendfox_bot |
-| TrendFox | N/A | https://trendfox.ru | social | https://t.me/pr_trendfox |
-| TrendFox | N/A | https://trendfox.ru | social | https://vk.com/trendfox_pr |
-| TrendFox | N/A | https://trendfox.ru | social | https://www.youtube.com/channel/UCjFH2YNCd3_HpiuE8QmxrdQ |
-| TrendFox | N/A | https://trendfox.ru | social | social |
-| TrendFox | N/A | https://trendfox.ru | social | social |
-| TrendFox | N/A | https://trendfox.ru | social | social |
-| TrendFox | N/A | https://trendfox.ru | social | social |
+| TrendFox | marketing / event agency | https://trendfox.ru | email | ask@trendfox.ru |
+| TrendFox | marketing / event agency | https://trendfox.ru | email | email |
+| TrendFox | marketing / event agency | https://trendfox.ru | email | email |
+| TrendFox | marketing / event agency | https://trendfox.ru | email | tender@trendfox.ru |
+| TrendFox | marketing / event agency | https://trendfox.ru | phone | +7 (495) 136-60-19 |
+| TrendFox | marketing / event agency | https://trendfox.ru | phone | +7 495 136-60-19 |
+| TrendFox | marketing / event agency | https://trendfox.ru | phone | phone |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | https://rutube.ru/channel/45173707 |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | https://t.me/Trendfox_bot |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | https://t.me/pr_trendfox |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | https://vk.com/trendfox_pr |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | https://www.youtube.com/channel/UCjFH2YNCd3_HpiuE8QmxrdQ |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | social |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | social |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | social |
+| TrendFox | marketing / event agency | https://trendfox.ru | social | social |
 | Trite Studio | киностудия | https://trite.ru | email | info@trite.ru |
 | Turandot | ресторан | https://turandot-palace.ru | email | welcome@turandot-palace.ru |
 | Turandot | ресторан | https://turandot-palace.ru | phone | +7 (495) 739-00-11 |
@@ -6227,25 +6227,25 @@
 | Twins Garden | ресторан | https://twinsgarden.ru | phone | +7 (499) 112-33-00 |
 | Twins Garden | ресторан | https://twinsgarden.ru | phone | +7 (499) 112-33-11 |
 | Twins Garden | ресторан | https://twinsgarden.ru | social | https://t.me/twinsgardenmoscow |
-| UNIQULTURA | N/A | http://uniqultura.ru | social | https://www.instagram.com/uniqultura |
-| UNIQULTURA | N/A | http://uniqultura.ru | social | social |
-| UNIQULTURA | N/A | http://uniqultura.ru | phone | +7 (920) 628-88-55 |
-| UNIQULTURA | N/A | http://uniqultura.ru | social | https://t.me/uniqultura?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20UNIQULTURA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| UNIQULTURA | N/A | http://uniqultura.ru | social | https://www.instagram.com/uniqultura |
-| UNIVERSUM | N/A | https://universumcom.ru | phone | +7 495 772-12-90 |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | phone | +7 (966) 144-45-55 |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | phone | phone |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | https://t.me/daria_ustimova1 |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | https://t.me/masha_miheeva |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | https://t.me/ustimova_wedding1 |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | https://wa.me/79661444555 |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | https://www.instagram.com/ustimova_wedding/?igshid=YmMyMTA2M2Y%3D |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | social |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | social |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | social |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | phone | +7 (966) 144-45-55 |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | https://t.me/ustimova_wedding1?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Ustimova.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| USTIMOVA WEDDING | N/A | http://ustimova-wedding.ru | social | https://www.instagram.com/ustimova_wedding |
+| UNIQULTURA | культурный / event project | http://uniqultura.ru | social | https://www.instagram.com/uniqultura |
+| UNIQULTURA | культурный / event project | http://uniqultura.ru | social | social |
+| UNIQULTURA | культурный / event project | http://uniqultura.ru | phone | +7 (920) 628-88-55 |
+| UNIQULTURA | культурный / event project | http://uniqultura.ru | social | https://t.me/uniqultura?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20UNIQULTURA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| UNIQULTURA | культурный / event project | http://uniqultura.ru | social | https://www.instagram.com/uniqultura |
+| UNIVERSUM | event / multimedia production | https://universumcom.ru | phone | +7 495 772-12-90 |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | phone | +7 (966) 144-45-55 |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | phone | phone |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://t.me/daria_ustimova1 |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://t.me/masha_miheeva |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://t.me/ustimova_wedding1 |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://wa.me/79661444555 |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://www.instagram.com/ustimova_wedding/?igshid=YmMyMTA2M2Y%3D |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | social |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | social |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | social |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | phone | +7 (966) 144-45-55 |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://t.me/ustimova_wedding1?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Ustimova.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://www.instagram.com/ustimova_wedding |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | deal@cmtt.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | moderation@vc.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | platform@cmtt.ru |
@@ -6260,23 +6260,23 @@
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | u003esecret@vc.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | u003esupport@cmtt.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | u003esupport@vc.ru |
-| VESNA WEDDING | N/A | http://vesna.wedding | email | email |
-| VESNA WEDDING | N/A | http://vesna.wedding | email | info@vesna.wedding |
-| VESNA WEDDING | N/A | http://vesna.wedding | phone | +7 (977) 425-80-96 |
-| VESNA WEDDING | N/A | http://vesna.wedding | phone | phone |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | https://instagram.com/vesna__wedding |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | https://t.me/+79774258096 |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | https://vk.com/vesna_wedding |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | https://wa.me/79774258096 |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | https://www.youtube.com/@vesna.wedding |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | social |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | social |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | social |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | social |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | social |
-| VESNA WEDDING | N/A | http://vesna.wedding | phone | +7 (916) 145-14-67 |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | https://t.me/vesnaagency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vesna.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| VESNA WEDDING | N/A | http://vesna.wedding | social | https://www.instagram.com/vesna__wedding |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | email | email |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | email | info@vesna.wedding |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | phone | +7 (977) 425-80-96 |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | phone | phone |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://instagram.com/vesna__wedding |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://t.me/+79774258096 |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://vk.com/vesna_wedding |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://wa.me/79774258096 |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://www.youtube.com/@vesna.wedding |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | social |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | social |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | social |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | social |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | social |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | phone | +7 (916) 145-14-67 |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://t.me/vesnaagency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vesna.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://www.instagram.com/vesna__wedding |
 | VK (ВКонтакте) | организация | https://vk.company | email | events@vk.company |
 | VK (ВКонтакте) | организация | https://vk.company | email | ir@vk.company |
 | VK (ВКонтакте) | организация | https://vk.company | email | legal_dep@vk.company |
@@ -6288,117 +6288,117 @@
 | VK (ВКонтакте) | организация | https://vk.company | social | https://ok.ru/insidevk |
 | VK (ВКонтакте) | организация | https://vk.company | social | https://t.me/inside_vk |
 | VK (ВКонтакте) | организация | https://vk.company | social | https://vk.com/insidevk |
-| VK Events Team | N/A | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
-| VK Events Team | N/A | https://vk.com | email | email |
-| VK Events Team | N/A | https://vk.com | social | https://api.vk.com |
-| VK Events Team | N/A | https://vk.com | social | https://login.vk.com |
-| VK Events Team | N/A | https://vk.com | social | https://m.vk.com |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/base.8c3900ec.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/common.837ea214.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/fonts_cnt_async.4881739c.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/fonts_utf.7fa94ada.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/index.b4934277.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/join.9ad6d7d0.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/login.0f91e6b7.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/search.fc12f225.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/ui_common.1b3a2852.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display.3e51f1a2.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/al/vkui.c6e91f1c.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/css/ui_controls.fc2bb468.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/dist/web/common_web.917adb2f.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/dist/web/index.caa2558e.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
-| VK Events Team | N/A | https://vk.com | social | https://st.vk.com/dist/web/site_layout.28b60b54.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/common.837ea214.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/index.b4934277.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/join.9ad6d7d0.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/login.0f91e6b7.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/css/ui_controls.fc2bb468.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.2376c4a8.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/index.caa2558e.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
-| VK Events Team | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
-| VK Events Team | N/A | https://vk.com | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
-| VK Events Team | N/A | https://vk.com | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
-| VK Events Team | N/A | https://vk.com | social | social |
-| VK Events Team | N/A | https://vk.com | social | social |
-| VK Events Team | N/A | https://vk.com | social | social |
-| VK Events Team | N/A | https://vk.com | social | social |
-| VK Events Team | N/A | https://vk.com | social | social |
-| VK Events Team | N/A | https://vk.com | social | social |
+| VK Events Team | корпоративная event-команда | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
+| VK Events Team | корпоративная event-команда | https://vk.com | email | email |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://api.vk.com |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://login.vk.com |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://m.vk.com |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/base.8c3900ec.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/common.837ea214.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/fonts_cnt_async.4881739c.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/fonts_utf.7fa94ada.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/index.b4934277.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/join.9ad6d7d0.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/login.0f91e6b7.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/search.fc12f225.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/ui_common.1b3a2852.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display.3e51f1a2.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/al/vkui.c6e91f1c.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/css/ui_controls.fc2bb468.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/dist/web/common_web.917adb2f.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/dist/web/index.caa2558e.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st.vk.com/dist/web/site_layout.28b60b54.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/common.837ea214.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/index.b4934277.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/join.9ad6d7d0.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/login.0f91e6b7.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/css/ui_controls.fc2bb468.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.2376c4a8.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/dist/web/index.caa2558e.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | social |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | social |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | social |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | social |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | social |
+| VK Events Team | корпоративная event-команда | https://vk.com | social | social |
 | VK Fest Moscow | музыкальный фестиваль | https://vkfest.ru | social | https://vk.ru/wall-86529522_659996 |
-| VK Fest Organization | N/A | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
-| VK Fest Organization | N/A | https://vk.com | email | email |
-| VK Fest Organization | N/A | https://vk.com | social | https://api.vk.com |
-| VK Fest Organization | N/A | https://vk.com | social | https://login.vk.com |
-| VK Fest Organization | N/A | https://vk.com | social | https://m.vk.com |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/base.8c3900ec.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/common.837ea214.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/fonts_cnt_async.4881739c.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/fonts_utf.7fa94ada.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/index.b4934277.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/join.9ad6d7d0.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/login.0f91e6b7.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/search.fc12f225.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/ui_common.1b3a2852.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display.3e51f1a2.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/al/vkui.c6e91f1c.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/css/ui_controls.fc2bb468.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/dist/web/common_web.917adb2f.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/dist/web/index.caa2558e.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st.vk.com/dist/web/site_layout.28b60b54.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/common.837ea214.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/index.b4934277.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/join.9ad6d7d0.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/login.0f91e6b7.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/css/ui_controls.fc2bb468.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.2376c4a8.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/index.caa2558e.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
-| VK Fest Organization | N/A | https://vk.com | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
-| VK Fest Organization | N/A | https://vk.com | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
-| VK Fest Organization | N/A | https://vk.com | social | social |
-| VK Fest Organization | N/A | https://vk.com | social | social |
-| VK Fest Organization | N/A | https://vk.com | social | social |
-| VK Fest Organization | N/A | https://vk.com | social | social |
-| VK Fest Organization | N/A | https://vk.com | social | social |
-| VK Fest Organization | N/A | https://vk.com | social | social |
+| VK Fest Organization | фестивальный организатор | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
+| VK Fest Organization | фестивальный организатор | https://vk.com | email | email |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://api.vk.com |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://login.vk.com |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://m.vk.com |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/base.8c3900ec.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/common.837ea214.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/fonts_cnt_async.4881739c.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/fonts_utf.7fa94ada.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/index.b4934277.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/join.9ad6d7d0.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/login.0f91e6b7.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/search.fc12f225.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/ui_common.1b3a2852.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display.3e51f1a2.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/al/vkui.c6e91f1c.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/css/ui_controls.fc2bb468.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/dist/web/common_web.917adb2f.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/dist/web/index.caa2558e.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st.vk.com/dist/web/site_layout.28b60b54.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/common.837ea214.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/index.b4934277.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/join.9ad6d7d0.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/login.0f91e6b7.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/css/ui_controls.fc2bb468.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.2376c4a8.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/dist/web/index.caa2558e.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | social |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | social |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | social |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | social |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | social |
+| VK Fest Organization | фестивальный организатор | https://vk.com | social | social |
 | VK Media | медиаподразделение | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
 | VK Media | медиаподразделение | https://vk.com | social | https://api.vk.com |
 | VK Media | медиаподразделение | https://vk.com | social | https://login.vk.com |
@@ -6426,61 +6426,61 @@
 | VK Media | медиаподразделение | https://vk.com | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
 | VK Media | медиаподразделение | https://vk.com | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
 | VK Media | медиаподразделение | https://vk.com | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
-| VK Music Live | N/A | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
-| VK Music Live | N/A | https://vk.com | email | email |
-| VK Music Live | N/A | https://vk.com | social | https://api.vk.com |
-| VK Music Live | N/A | https://vk.com | social | https://login.vk.com |
-| VK Music Live | N/A | https://vk.com | social | https://m.vk.com |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/base.8c3900ec.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/common.837ea214.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/fonts_cnt_async.4881739c.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/fonts_utf.7fa94ada.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/index.b4934277.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/join.9ad6d7d0.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/login.0f91e6b7.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/search.fc12f225.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/ui_common.1b3a2852.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display.3e51f1a2.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/al/vkui.c6e91f1c.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/css/ui_controls.fc2bb468.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/dist/web/common_web.917adb2f.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/dist/web/index.caa2558e.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
-| VK Music Live | N/A | https://vk.com | social | https://st.vk.com/dist/web/site_layout.28b60b54.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/common.837ea214.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/index.b4934277.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/join.9ad6d7d0.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/login.0f91e6b7.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/css/ui_controls.fc2bb468.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.2376c4a8.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/index.caa2558e.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
-| VK Music Live | N/A | https://vk.com | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
-| VK Music Live | N/A | https://vk.com | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
-| VK Music Live | N/A | https://vk.com | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
-| VK Music Live | N/A | https://vk.com | social | social |
-| VK Music Live | N/A | https://vk.com | social | social |
-| VK Music Live | N/A | https://vk.com | social | social |
-| VK Music Live | N/A | https://vk.com | social | social |
-| VK Music Live | N/A | https://vk.com | social | social |
-| VK Music Live | N/A | https://vk.com | social | social |
+| VK Music Live | музыкальный event project | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
+| VK Music Live | музыкальный event project | https://vk.com | email | email |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://api.vk.com |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://login.vk.com |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://m.vk.com |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/base.8c3900ec.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/common.837ea214.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/fonts_cnt_async.4881739c.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/fonts_utf.7fa94ada.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/index.b4934277.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/join.9ad6d7d0.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/login.0f91e6b7.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/search.fc12f225.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/ui_common.1b3a2852.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display.3e51f1a2.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/al/vkui.c6e91f1c.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/css/ui_controls.fc2bb468.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/dist/web/common_web.917adb2f.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/dist/web/index.caa2558e.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st.vk.com/dist/web/site_layout.28b60b54.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/common.837ea214.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/index.b4934277.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/join.9ad6d7d0.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/login.0f91e6b7.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/css/ui_controls.fc2bb468.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.2376c4a8.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/dist/web/index.caa2558e.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
+| VK Music Live | музыкальный event project | https://vk.com | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
+| VK Music Live | музыкальный event project | https://vk.com | social | social |
+| VK Music Live | музыкальный event project | https://vk.com | social | social |
+| VK Music Live | музыкальный event project | https://vk.com | social | social |
+| VK Music Live | музыкальный event project | https://vk.com | social | social |
+| VK Music Live | музыкальный event project | https://vk.com | social | social |
+| VK Music Live | музыкальный event project | https://vk.com | social | social |
 | VK Music | музыкальный сервис | https://vk.com/music | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
 | VK Music | музыкальный сервис | https://vk.com/music | social | https://api.vk.com |
 | VK Music | музыкальный сервис | https://vk.com/music | social | https://login.vk.com |
@@ -6557,17 +6557,17 @@
 | VK | IT / social network company | https://vk.company | social | https://ok.ru/insidevk |
 | VK | IT / social network company | https://vk.company | social | https://t.me/inside_vk |
 | VK | IT / social network company | https://vk.company | social | https://vk.com/insidevk |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | email | email |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | email | vozdukh.weddings@yandex.ru |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | phone | +7 (495) 132-43-22 |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | phone | phone |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | social | https://t.me/Vozdukh_weddings_bot?startapp=174729063536b292 |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | social | https://t.me/Vozdukhwed |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | social | https://t.me/vozdukhwed |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | social | social |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | phone | +7 (903) 977-61-95 |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | social | https://t.me/vozdukhweddings?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vozdukh%20weddings.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| VOZDUKH WEDDINGS | N/A | http://vozdukh-weddings.ru | social | https://www.instagram.com/vozdukh_weddings |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | email | email |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | email | vozdukh.weddings@yandex.ru |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | phone | +7 (495) 132-43-22 |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | phone | phone |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://t.me/Vozdukh_weddings_bot?startapp=174729063536b292 |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://t.me/Vozdukhwed |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://t.me/vozdukhwed |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | social |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | phone | +7 (903) 977-61-95 |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://t.me/vozdukhweddings?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vozdukh%20weddings.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://www.instagram.com/vozdukh_weddings |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-20 |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-22 |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-26 |
@@ -6590,20 +6590,20 @@
 | VTB Arena Events | event operator | https://vtb-arena.com | social | social |
 | VTB Arena Events | event operator | https://vtb-arena.com | social | social |
 | VTB Arena Events | event operator | https://vtb-arena.com | social | social |
-| Velvet Music Events | N/A | https://velvetmusic.ru | email | email |
-| Velvet Music Events | N/A | https://velvetmusic.ru | email | email |
-| Velvet Music Events | N/A | https://velvetmusic.ru | email | pr.orlov@gmail.com |
-| Velvet Music Events | N/A | https://velvetmusic.ru | email | valya_velvet@mail.ru |
-| Velvet Music Events | N/A | https://velvetmusic.ru | email | velvetmusic@mail.ru |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | https://ok.ru/velvetmusic |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | https://t.me/velvetmusicnews |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | https://vk.com/away.php?to=http%3A%2F%2Fband.link%2FFVxFM&utf=1 |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | https://www.vk.com/velvetmusic |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | https://www.youtube.com/user/VelvetMusicRu |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | social |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | social |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | social |
-| Velvet Music Events | N/A | https://velvetmusic.ru | social | social |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | email |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | email |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | pr.orlov@gmail.com |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | valya_velvet@mail.ru |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | velvetmusic@mail.ru |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | https://ok.ru/velvetmusic |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | https://t.me/velvetmusicnews |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | https://vk.com/away.php?to=http%3A%2F%2Fband.link%2FFVxFM&utf=1 |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | https://www.vk.com/velvetmusic |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | https://www.youtube.com/user/VelvetMusicRu |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
+| Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
 | Vkusno i Tochka | сеть ресторанов быстрого питания | https://vkusnoitochka.ru | email | info@qsrsystem.ru |
 | Vkusno i Tochka | сеть ресторанов быстрого питания | https://vkusnoitochka.ru | phone | +7 (495) 755-66-00 |
 | Vkusno i Tochka | сеть ресторанов быстрого питания | https://vkusnoitochka.ru | phone | +7 (495) 755-66-22 |
@@ -6630,18 +6630,18 @@
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | social | https://ok.ru/vokrugsvetaru |
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | social | https://t.me/vokrugsveta1861 |
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | social | https://vk.com/vokrugsveta_vk |
-| Volga-Volga | N/A | https://volga-volga.com | email | career@volga-volga.com |
-| Volga-Volga | N/A | https://volga-volga.com | email | info@volga-volga.com |
-| Volga-Volga | N/A | https://volga-volga.com | phone | +7 (800) 707-76-61 |
-| Volga-Volga | N/A | https://volga-volga.com | phone | +7 (812) 679-68-77 |
-| Volga-Volga | N/A | https://volga-volga.com | social | https://t.me/vvbiagency |
-| Volga-Volga | N/A | https://volga-volga.com | social | https://vk.com/vvbiagency |
+| Volga-Volga | ресторан / event venue | https://volga-volga.com | email | career@volga-volga.com |
+| Volga-Volga | ресторан / event venue | https://volga-volga.com | email | info@volga-volga.com |
+| Volga-Volga | ресторан / event venue | https://volga-volga.com | phone | +7 (800) 707-76-61 |
+| Volga-Volga | ресторан / event venue | https://volga-volga.com | phone | +7 (812) 679-68-77 |
+| Volga-Volga | ресторан / event venue | https://volga-volga.com | social | https://t.me/vvbiagency |
+| Volga-Volga | ресторан / event venue | https://volga-volga.com | social | https://vk.com/vvbiagency |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | email | wa-garden@wrf.su |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | phone | +7 (903) 108-88-78 |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | social | https://t.me/wa_garden |
-| WEDDING PIE | N/A | https://top100awards.ru/wedding-pie | phone | +7 (916) 532-91-33 |
-| WEDDING PIE | N/A | https://top100awards.ru/wedding-pie | social | https://t.me/wed_pie?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Wedding%20pie.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| WEDDING PIE | N/A | https://top100awards.ru/wedding-pie | social | https://www.instagram.com/wedding_pie |
+| WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | phone | +7 (916) 532-91-33 |
+| WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | social | https://t.me/wed_pie?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Wedding%20pie.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | social | https://www.instagram.com/wedding_pie |
 | White Rabbit Chef’s Table | ресторан | https://whiterabbitfamily.ru | email | adv@wrf.su |
 | White Rabbit Chef’s Table | ресторан | https://whiterabbitfamily.ru | email | cateringall@wrf.su |
 | White Rabbit Chef’s Table | ресторан | https://whiterabbitfamily.ru | email | info@wrf.su |
@@ -7021,17 +7021,17 @@
 | X5 Group | retail holding | https://www.x5.ru | phone | +7 (495) 789-95-95 |
 | X5 Group | retail holding | https://www.x5.ru | social | https://t.me/x5_telega |
 | X5 Group | retail holding | https://www.x5.ru | social | https://vk.com/x5group |
-| YES&MESS | N/A | http://yesandmess.com | email | email |
-| YES&MESS | N/A | http://yesandmess.com | email | weddvalerie@gmail.com |
-| YES&MESS | N/A | http://yesandmess.com | social | http://t.me/+79096607972 |
-| YES&MESS | N/A | http://yesandmess.com | social | https://www.instagram.com/dart.wedding |
-| YES&MESS | N/A | http://yesandmess.com | social | https://www.instagram.com/yesandmess.event |
-| YES&MESS | N/A | http://yesandmess.com | social | https://www.instagram.com/yesandmess.event?igsh=MTF5bXhwd2lqa3ZkNw== |
-| YES&MESS | N/A | http://yesandmess.com | social | social |
-| YES&MESS | N/A | http://yesandmess.com | social | social |
-| YES&MESS | N/A | http://yesandmess.com | phone | +7 (909) 660-79-72 |
-| YES&MESS | N/A | http://yesandmess.com | social | https://t.me/YESANDMESS?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20YES%26MESS.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| YES&MESS | N/A | http://yesandmess.com | social | https://www.instagram.com/yesandmess.event |
+| YES&MESS | creative / event agency | http://yesandmess.com | email | email |
+| YES&MESS | creative / event agency | http://yesandmess.com | email | weddvalerie@gmail.com |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | http://t.me/+79096607972 |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | https://www.instagram.com/dart.wedding |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | https://www.instagram.com/yesandmess.event |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | https://www.instagram.com/yesandmess.event?igsh=MTF5bXhwd2lqa3ZkNw== |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | social |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | social |
+| YES&MESS | creative / event agency | http://yesandmess.com | phone | +7 (909) 660-79-72 |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | https://t.me/YESANDMESS?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20YES%26MESS.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| YES&MESS | creative / event agency | http://yesandmess.com | social | https://www.instagram.com/yesandmess.event |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | email | banket@yar-restoran.ru |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | email | order@yar-restoran.ru |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | phone | +7 (495) 960-20-04 |
@@ -7041,19 +7041,19 @@
 | Yota | телеком-компания | https://www.yota.ru | social | https://t.me/yota_official_bot |
 | Yota | телеком-компания | https://www.yota.ru | social | https://t.me/yotarussia |
 | Yota | телеком-компания | https://www.yota.ru | social | https://vk.com/yota |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | email | email |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | email | zyikovaevent@gmail.com |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | phone | +7 (917) 033-57-45 |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | phone | phone |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | https://t.me/zyikova_event |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | https://wa.me/79170335745 |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | https://www.instagram.com/zyikova_event?igsh=eDBmcXg4Y3JocW91 |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | social |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | social |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | social |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | phone | +7 (917) 033-57-45 |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | https://t.me/zyikova_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Zyikova%20event.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| ZYIKOVA EVENT | N/A | http://zyikova-event.ru | social | https://www.instagram.com/zyikova_event |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | email | email |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | email | zyikovaevent@gmail.com |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | phone | +7 (917) 033-57-45 |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | phone | phone |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | https://t.me/zyikova_event |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | https://wa.me/79170335745 |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | https://www.instagram.com/zyikova_event?igsh=eDBmcXg4Y3JocW91 |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | social |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | social |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | social |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | phone | +7 (917) 033-57-45 |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | https://t.me/zyikova_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Zyikova%20event.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| ZYIKOVA EVENT | event-агентство | http://zyikova-event.ru | social | https://www.instagram.com/zyikova_event |
 | Zavidovo | resort / golf club | https://zavidovo.com | email | booking@zavidovo-golf.ru |
 | Zavidovo | resort / golf club | https://zavidovo.com | email | info@zavidovo.com |
 | Zavidovo | resort / golf club | https://zavidovo.com | email | info@zavidovospavillage.com |
@@ -8829,29 +8829,29 @@
 | АО «Птс» | организация | https://xn----8sbgim8bcqi.xn--p1ai | phone | +998998171773 |
 | АО «Птс» | организация | https://xn----8sbgim8bcqi.xn--p1ai | social | https://t.me/deepwaterdive |
 | АО «Птс» | организация | https://xn----8sbgim8bcqi.xn--p1ai | social | https://vk.com/public72168086 |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
 | АО «Рдтех Разумные Деловые Технологии» | организация | https://rdtex.ru | email | die@mail.ru |
 | АО «Рдтех Разумные Деловые Технологии» | организация | https://rdtex.ru | email | marketing@rdtex.ru |
 | АО «Рдтех Разумные Деловые Технологии» | организация | https://rdtex.ru | phone | +7 (495) 995-09-99 |
 | АО «Рдтех Разумные Деловые Технологии» | организация | https://rdtex.ru | social | https://t.me/rdtex_ru |
 | АО «Рдтех Разумные Деловые Технологии» | организация | https://rdtex.ru | social | https://vk.com/rdtex |
 | АО «Рдтех Разумные Деловые Технологии» | организация | https://rdtex.ru | social | https://vk.com/video/@rdtex |
-| АО «Регионы-Энтертейнмент» | организация | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | email | companycardsfeedback@rbc.ru |
-| АО «Регионы-Энтертейнмент» | организация | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://ok.ru/group/51670727852273 |
-| АО «Регионы-Энтертейнмент» | организация | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://t.me/rbc_news |
-| АО «Регионы-Энтертейнмент» | организация | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://vk.com/rbc |
-| АО «Регионы-Энтертейнмент» | организация | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://www.youtube.com/user/tvrbcnews |
-| АО «Регионы-Энтертейнмент» | организация | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://x.com/ru_rbc |
+| АО «Регионы-Энтертейнмент» | entertainment company / девелопмент развлечений | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | email | companycardsfeedback@rbc.ru |
+| АО «Регионы-Энтертейнмент» | entertainment company / девелопмент развлечений | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://ok.ru/group/51670727852273 |
+| АО «Регионы-Энтертейнмент» | entertainment company / девелопмент развлечений | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://t.me/rbc_news |
+| АО «Регионы-Энтертейнмент» | entertainment company / девелопмент развлечений | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://vk.com/rbc |
+| АО «Регионы-Энтертейнмент» | entertainment company / девелопмент развлечений | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://www.youtube.com/user/tvrbcnews |
+| АО «Регионы-Энтертейнмент» | entertainment company / девелопмент развлечений | https://companies.rbc.ru/id/1137746139640-ao-regionyi-entertejnment | social | https://x.com/ru_rbc |
 | АО «Резинекс Рус» | организация | https://www.rusprofile.ru/id/315502 | email | card_1@2x.png |
 | АО «Резинекс Рус» | организация | https://www.rusprofile.ru/id/315502 | email | card_1@3x.png |
 | АО «Резинекс Рус» | организация | https://www.rusprofile.ru/id/315502 | email | card_1@4x.png |
@@ -10697,9 +10697,9 @@
 | ГК ФСК | организация | https://fsk.ru | social | https://t.me/gk_fsk |
 | ГК ФСК | организация | https://fsk.ru | social | https://vk.com/gk_fsk |
 | ГК ФСК | организация | https://fsk.ru | social | https://www.youtube.com/@GK_FSK |
-| ГЛУБИНА | N/A | http://glubinawedding.ru | phone | +7 (925) 779-23-77 |
-| ГЛУБИНА | N/A | http://glubinawedding.ru | social | https://t.me/glubinawedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%93%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| ГЛУБИНА | N/A | http://glubinawedding.ru | social | https://www.instagram.com/glubinawedding |
+| ГЛУБИНА | creative studio / cultural project | http://glubinawedding.ru | phone | +7 (925) 779-23-77 |
+| ГЛУБИНА | creative studio / cultural project | http://glubinawedding.ru | social | https://t.me/glubinawedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%93%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| ГЛУБИНА | creative studio / cultural project | http://glubinawedding.ru | social | https://www.instagram.com/glubinawedding |
 | ГУП Города Москвы «Московский Ордена Ленина и Ордена Трудового Красного Знамени Метрополитен Имени В.И.Ленина» | организация | https://mosmetro.ru | phone | +7 (495) 539-54-54 |
 | ГУП Города Москвы «Московский Ордена Ленина и Ордена Трудового Красного Знамени Метрополитен Имени В.И.Ленина» | организация | https://mosmetro.ru | phone | +7 (495) 622-73-41 |
 | ГУП Города Москвы «Московский Ордена Ленина и Ордена Трудового Красного Знамени Метрополитен Имени В.И.Ленина» | организация | https://mosmetro.ru | phone | +7 (800) 250-73-41 |
@@ -10925,62 +10925,62 @@
 | Группа Эталон (Москва офис) | организация | https://www.etalongroup.com | email | mariya.bevzyuk@etalongroup.com |
 | Группа Эталон (Москва офис) | организация | https://www.etalongroup.com | email | pressa@etalongroup.com |
 | Группа Эталон (Москва офис) | организация | https://www.etalongroup.com | phone | +7 (812) 439-80-00 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://top100awards.ru/darya-galeckaya | phone | +7 (985) 301-41-03 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://top100awards.ru/darya-galeckaya | social | https://t.me/galetskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%94%D0%B0%D1%80%D1%8C%D1%8F.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://top100awards.ru/darya-galeckaya | social | https://www.instagram.com/galetskaya_wedding |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | email | email |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://api.vk.com |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://login.vk.com |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://m.vk.com/dar_galitskaia |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/common.837ea214.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/45624723.32095841.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/architecture-mobx.2b21da11.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.38ad580f.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/common.75cc559f.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/common.evergreen.c16c88ae.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/react.bd51212f.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/state-management.1dae6acc.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit-icons.5d2fea59.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.e2403677.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkui.71bc38bc.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/common_web.3abcf68b.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/likes.e210f0f2.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/search_top_anonymous.efaa28ae.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/site_layout.cd647bae.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/ui_common.32c60018.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/unauthorized.6e968318.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/css_types.0625cfd6.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/grip.1712db11.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/language.6ae628e1.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/page_layout.6616d0e7.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/performance_observers.2e287f24.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/vk_sans_observer.aba03b20.js |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://vk.com/feed |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://vk.com/js/lib/px.js?ch=1 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | https://vk.com/js/lib/px.js?ch=2 |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | social |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | social |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | social |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | social |
-| ДАРЬЯ ГАЛЕЦКАЯ | N/A | https://vk.com/dar_galitskaia | social | social |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://top100awards.ru/darya-galeckaya | phone | +7 (985) 301-41-03 |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://top100awards.ru/darya-galeckaya | social | https://t.me/galetskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%94%D0%B0%D1%80%D1%8C%D1%8F.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://top100awards.ru/darya-galeckaya | social | https://www.instagram.com/galetskaya_wedding |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | email | email |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://api.vk.com |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://login.vk.com |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://m.vk.com/dar_galitskaia |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/base.8c3900ec.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/common.837ea214.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/fonts_cnt_async.4881739c.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/fonts_utf.7fa94ada.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/search.fc12f225.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/ui_common.1b3a2852.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/vk_sans_display.3e51f1a2.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/vk_sans_display_faux.7d208ecb.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/al/vkui.c6e91f1c.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2 |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/core_spa/core_spa_vk.b70a170d.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/45624723.32095841.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/architecture-mobx.2b21da11.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.38ad580f.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/audioplayer-lib.9c995a5e.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/common.75cc559f.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/common.evergreen.c16c88ae.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/react.bd51212f.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/state-management.1dae6acc.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit-icons.5d2fea59.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.a55e000d.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkcom-kit.e2403677.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/chunks/vkui.71bc38bc.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/common_web.3abcf68b.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/common_web.917adb2f.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/likes.e210f0f2.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/search_top_anonymous.e79d35b6.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/search_top_anonymous.efaa28ae.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/site_layout.28b60b54.css |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/site_layout.cd647bae.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/ui_common.32c60018.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/web/unauthorized.6e968318.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/css_types.0625cfd6.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/grip.1712db11.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/language.6ae628e1.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/page_layout.6616d0e7.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/performance_observers.2e287f24.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://st1-91.vk.com/dist/webl/vk_sans_observer.aba03b20.js |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://vk.com/feed |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://vk.com/images/icons/favicons/fav_logo.ico?8 |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://vk.com/images/icons/pwa/apple/default.png?15 |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://vk.com/js/lib/px.js?ch=1 |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | https://vk.com/js/lib/px.js?ch=2 |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | social |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | social |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | social |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | social |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://vk.com/dar_galitskaia | social | social |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | email | info@darwinmuseum.ru |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | email | museumdarvin@culture.mos.ru |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | social | http://www.youtube.com/user/darwinmuseumofficial |
@@ -10992,25 +10992,25 @@
 | Департамент культуры Москвы | государственная организация | https://culture.mos.ru | social | https://t.me/CulturMoscow |
 | Департамент культуры Москвы | государственная организация | https://culture.mos.ru | social | https://t.me/moscow_culture |
 | Департамент культуры Москвы | государственная организация | https://culture.mos.ru | social | social |
-| Депо | N/A | https://depomoscow.ru | email | about__hero-bg-img--0-sm@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | about__hero-bg-img--0-xs@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | about__info-item-bg-img--1-sm@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | about__info-item-bg-img--1-xs@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | about__info-item-bg-img--2-sm@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | about__info-item-bg-img--2-xs@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | about__info-item-photo-img--1-sm@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | about__info-item-photo-img--2-sm@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | arenda@depo.moscow |
-| Депо | N/A | https://depomoscow.ru | email | contacts__feedback--sm@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | contacts__feedback--xs@2x.jpg |
-| Депо | N/A | https://depomoscow.ru | email | info@depomoscow.ru |
-| Депо | N/A | https://depomoscow.ru | email | info@fdepo.ru |
-| Депо | N/A | https://depomoscow.ru | email | marketing@depomoscow.ru |
-| Депо | N/A | https://depomoscow.ru | email | pr@depomoscow.ru |
-| Депо | N/A | https://depomoscow.ru | phone | +7 (495) 788-88-10 |
-| Депо | N/A | https://depomoscow.ru | phone | +7 (495) 788-88-33 |
-| Депо | N/A | https://depomoscow.ru | social | https://t.me/depomos |
-| Депо | N/A | https://depomoscow.ru | social | https://vk.com/depo__moscow |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__hero-bg-img--0-sm@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__hero-bg-img--0-xs@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__info-item-bg-img--1-sm@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__info-item-bg-img--1-xs@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__info-item-bg-img--2-sm@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__info-item-bg-img--2-xs@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__info-item-photo-img--1-sm@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | about__info-item-photo-img--2-sm@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | arenda@depo.moscow |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | contacts__feedback--sm@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | contacts__feedback--xs@2x.jpg |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | info@depomoscow.ru |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | info@fdepo.ru |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | marketing@depomoscow.ru |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | email | pr@depomoscow.ru |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | phone | +7 (495) 788-88-10 |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | phone | +7 (495) 788-88-33 |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | social | https://t.me/depomos |
+| Депо | гастрономическое пространство / food mall | https://depomoscow.ru | social | https://vk.com/depo__moscow |
 | Детский мир | retail сеть | https://detmir.ru | email | corp@detmir.ru |
 | Детский мир | retail сеть | https://detmir.ru | email | u003ecorp@detmir.ru |
 | Детский мир | retail сеть | https://detmir.ru | social | https://t.me/detmir_shop |
@@ -11427,9 +11427,9 @@
 | КАМАЗ (офис МСК) | организация | https://kamaz.ru | social | https://t.me/pao_kamaz |
 | КАМАЗ (офис МСК) | организация | https://kamaz.ru | social | https://www.tiktok.com/@kamaz_official |
 | КАМАЗ (офис МСК) | организация | https://kamaz.ru | social | https://www.youtube.com/c/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D0%9A%D0%90%D0%9C%D0%90%D0%971969 |
-| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО "МОЖНО ВСЁ""" | N/A | https://top100awards.ru/kreativnoe-svadebnoe-agentsvo-mojno-vse | phone | +7 (995) 119-64-23 |
-| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО "МОЖНО ВСЁ""" | N/A | https://top100awards.ru/kreativnoe-svadebnoe-agentsvo-mojno-vse | social | https://t.me/savelyeva_rita?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО "МОЖНО ВСЁ""" | N/A | https://top100awards.ru/kreativnoe-svadebnoe-agentsvo-mojno-vse | social | https://www.instagram.com/mozhnovse.wed |
+| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО "МОЖНО ВСЁ""" | свадебное агентство | https://top100awards.ru/kreativnoe-svadebnoe-agentsvo-mojno-vse | phone | +7 (995) 119-64-23 |
+| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО "МОЖНО ВСЁ""" | свадебное агентство | https://top100awards.ru/kreativnoe-svadebnoe-agentsvo-mojno-vse | social | https://t.me/savelyeva_rita?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО "МОЖНО ВСЁ""" | свадебное агентство | https://top100awards.ru/kreativnoe-svadebnoe-agentsvo-mojno-vse | social | https://www.instagram.com/mozhnovse.wed |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | email | club@kommersant.ru |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | email | conference@kommersant.ru |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | email | info@kommersant.fm |
@@ -11495,9 +11495,9 @@
 | Кошелев-Банк | организация | https://koshelev-bank.ru | phone | +7 (495) 232-37-23 |
 | Кошелев-Банк | организация | https://koshelev-bank.ru | phone | +7 (846) 251-00-00 |
 | Кошелев-Банк | организация | https://koshelev-bank.ru | social | https://vk.com/kvbank |
-| Красный Октябрь | N/A | https://redoctober.moscow | phone | +7 (495) 172-68-63 |
-| Красный Октябрь | N/A | https://redoctober.moscow | phone | +7 (495) 280-00-28 |
-| Красный Октябрь | N/A | https://redoctober.moscow | social | https://t.me/redoctober_moscow |
+| Красный Октябрь | арт-кластер / event space | https://redoctober.moscow | phone | +7 (495) 172-68-63 |
+| Красный Октябрь | арт-кластер / event space | https://redoctober.moscow | phone | +7 (495) 280-00-28 |
+| Красный Октябрь | арт-кластер / event space | https://redoctober.moscow | social | https://t.me/redoctober_moscow |
 | Кредит Европа Банк | организация | https://crediteurope.ru | email | atm.unit@crediteurope.ru |
 | Кредит Европа Банк | организация | https://crediteurope.ru | email | avtocredit@crediteurope.ru |
 | Кредит Европа Банк | организация | https://crediteurope.ru | email | corporatebanking.applications@crediteurope.ru |
@@ -11732,19 +11732,19 @@
 | Мираторг | организация | https://www.miratorg.ru | social | https://t.me/miratorg_official |
 | Мираторг | организация | https://www.miratorg.ru | social | https://vk.com/miratorgru |
 | Мираторг | организация | https://www.miratorg.ru | social | https://www.youtube.com/c/MiratorgChannel |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | email | email |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | email | email |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | email | hello@m-p.ru |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | email | moscow@m-p.ru |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | email | pinchuk@m-p.ru |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | phone | +7 (495) 956-39-72 |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | phone | +7 495 933-03-33 |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | phone | phone |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | social | https://t.me/govoritmip |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | social | https://t.me/vchukov |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | social | https://vk.com/mipagency |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | social | social |
-| Михайлов и Партнёры | N/A | https://www.m-p.ru | social | social |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | email |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | email |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | hello@m-p.ru |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | moscow@m-p.ru |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | pinchuk@m-p.ru |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | phone | +7 (495) 956-39-72 |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | phone | +7 495 933-03-33 |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | phone | phone |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | social | https://t.me/govoritmip |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | social | https://t.me/vchukov |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | social | https://vk.com/mipagency |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | social | social |
+| Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | social | social |
 | Москвариум | океанариум | https://moskvarium.ru | email | hr@moskvarium.ru |
 | Москвариум | океанариум | https://moskvarium.ru | email | info@moskvarium.ru |
 | Москвариум | океанариум | https://moskvarium.ru | email | marketing@moskvarium.ru |
@@ -11776,17 +11776,17 @@
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://t.me/mosenergo_news |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://vk.com/mosenergo_official |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://www.youtube.com/c/Mosenergo_official |
-| Му-Му | N/A | https://cafemumu.ru | email | corp@cafemumu.ru |
-| Му-Му | N/A | https://cafemumu.ru | email | dostavka@cafemumu.ru |
-| Му-Му | N/A | https://cafemumu.ru | email | fastland@cafemumu.ru |
-| Му-Му | N/A | https://cafemumu.ru | email | group@cafemumu.ru |
-| Му-Му | N/A | https://cafemumu.ru | email | rabota@cafemumu.ru |
-| Му-Му | N/A | https://cafemumu.ru | phone | +7 (495) 781-87-81 |
-| Му-Му | N/A | https://cafemumu.ru | phone | +7 (499) 678-21-62 |
-| Му-Му | N/A | https://cafemumu.ru | phone | +7 (499) 678-34-44 |
-| Му-Му | N/A | https://cafemumu.ru | phone | +7 (916) 882-87-95 |
-| Му-Му | N/A | https://cafemumu.ru | social | https://ok.ru/cafemumu |
-| Му-Му | N/A | https://cafemumu.ru | social | https://vk.com/cafemumu |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | email | corp@cafemumu.ru |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | email | dostavka@cafemumu.ru |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | email | fastland@cafemumu.ru |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | email | group@cafemumu.ru |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | email | rabota@cafemumu.ru |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | phone | +7 (495) 781-87-81 |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | phone | +7 (499) 678-21-62 |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | phone | +7 (499) 678-34-44 |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | phone | +7 (916) 882-87-95 |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | social | https://ok.ru/cafemumu |
+| Му-Му | ресторанная сеть | https://cafemumu.ru | social | https://vk.com/cafemumu |
 | Музеи Московского Кремля | музейный комплекс | https://www.kreml.ru | email | blagov@kremlin.museum.ru |
 | Музеи Московского Кремля | музейный комплекс | https://www.kreml.ru | email | buro15@kremlin.museum.ru |
 | Музеи Московского Кремля | музейный комплекс | https://www.kreml.ru | email | buro16@kremlin.museum.ru |
@@ -12039,24 +12039,24 @@
 | НАО «ТК «Сибкабель» | организация | https://sibkabel.ru | phone | +7 (909) 700-66-30 |
 | НАО «ТК «Сибкабель» | организация | https://sibkabel.ru | social | https://vk.com/holdcable |
 | НАО «ТК «Сибкабель» | организация | https://sibkabel.ru | social | https://www.youtube.com/channel/UCFZI-61-AWtiztCtds_qXRg |
-| НАЯВУ | N/A | http://ivory-story.ru | email | email |
-| НАЯВУ | N/A | http://ivory-story.ru | email | email |
-| НАЯВУ | N/A | http://ivory-story.ru | email | iv.st.agency@gmail.com |
-| НАЯВУ | N/A | http://ivory-story.ru | email | iv.st.agency@gmail.com, |
-| НАЯВУ | N/A | http://ivory-story.ru | phone | +7 (999) 994-92-40 |
-| НАЯВУ | N/A | http://ivory-story.ru | phone | phone |
-| НАЯВУ | N/A | http://ivory-story.ru | social | https://vk.com/ivory_story |
-| НАЯВУ | N/A | http://ivory-story.ru | social | https://wa.me/79999949240 |
-| НАЯВУ | N/A | http://ivory-story.ru | social | https://wa.me/79999949240?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83%20%D0%BC%D0%B5%D1%87%D1%82%D1%8B |
-| НАЯВУ | N/A | http://ivory-story.ru | social | https://www.facebook.com/IvoryStoryWeddingAgency |
-| НАЯВУ | N/A | http://ivory-story.ru | social | https://www.instagram.com/ivory_story |
-| НАЯВУ | N/A | http://ivory-story.ru | social | social |
-| НАЯВУ | N/A | http://ivory-story.ru | social | social |
-| НАЯВУ | N/A | http://ivory-story.ru | social | social |
-| НАЯВУ | N/A | http://ivory-story.ru | social | social |
-| НАЯВУ | N/A | http://ivory-story.ru | phone | +7 (999) 994-92-40 |
-| НАЯВУ | N/A | http://ivory-story.ru | social | https://t.me/yana_nayavu?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9D%D0%B0%D1%8F%D0%B2%D1%83.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| НАЯВУ | N/A | http://ivory-story.ru | social | https://www.instagram.com/nayavu_wed |
+| НАЯВУ | creative / event production | http://ivory-story.ru | email | email |
+| НАЯВУ | creative / event production | http://ivory-story.ru | email | email |
+| НАЯВУ | creative / event production | http://ivory-story.ru | email | iv.st.agency@gmail.com |
+| НАЯВУ | creative / event production | http://ivory-story.ru | email | iv.st.agency@gmail.com, |
+| НАЯВУ | creative / event production | http://ivory-story.ru | phone | +7 (999) 994-92-40 |
+| НАЯВУ | creative / event production | http://ivory-story.ru | phone | phone |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | https://vk.com/ivory_story |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | https://wa.me/79999949240 |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | https://wa.me/79999949240?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83%20%D0%BC%D0%B5%D1%87%D1%82%D1%8B |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | https://www.facebook.com/IvoryStoryWeddingAgency |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | https://www.instagram.com/ivory_story |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | social |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | social |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | social |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | social |
+| НАЯВУ | creative / event production | http://ivory-story.ru | phone | +7 (999) 994-92-40 |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | https://t.me/yana_nayavu?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9D%D0%B0%D1%8F%D0%B2%D1%83.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| НАЯВУ | creative / event production | http://ivory-story.ru | social | https://www.instagram.com/nayavu_wed |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | andreev_dn@nlmk.com |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | bulashov_io@nlmk.com |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | chechenev_de@nlmk.com |
@@ -12627,17 +12627,17 @@
 | ООО «АКРОН ПЛЮС» | организация | https://onlineecology.com/org/ooo-akron-plyus | social | https://rutube.ru/channel/24824251 |
 | ООО «АКРОН ПЛЮС» | организация | https://onlineecology.com/org/ooo-akron-plyus | social | https://t.me/onlineecology |
 | ООО «АКРОН ПЛЮС» | организация | https://onlineecology.com/org/ooo-akron-plyus | social | https://vk.com/onlineecology |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| ООО «АЛИОТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «АЛИОТ» | компания / business services | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
 | ООО «АЛКАЛОИД-РУС» | организация | https://alkaloid.ru | social | https://www.youtube.com/channel/UCiARzEqWTgYMqKt02GO-kGQ?guided_help_flow=3 |
 | ООО «АЛЛТЕК» | организация | https://www.alltech.ru | email | alltech@alltech.ru |
 | ООО «АМКапитал» | организация | https://part.avtomir.ru/contacts | email | opt-cspz@avtomir.ru |
@@ -13564,7 +13564,7 @@
 | ООО «Алеф Трейд Мск» | организация | https://alephtrade.com | social | https://vk.com/alephtrade_msk |
 | ООО «Алеф Трейд Мск» | организация | https://alephtrade.com | social | https://www.facebook.com/alephtrade.msk |
 | ООО «Алеф Трейд Мск» | организация | https://alephtrade.com | social | https://www.instagram.com/alephtrade_msk |
-| ООО «Алиот» | организация | https://alth.ru | phone | +0074956454460 |
+| ООО «Алиот» | компания / business services | https://alth.ru | phone | +0074956454460 |
 | ООО «Алитком» | организация | https://zachestnyibiznes.ru/company/ul/1227800030402_7811772681 | social | https://t.me/zachestnyibiznes_official |
 | ООО «Алитком» | организация | https://zachestnyibiznes.ru/company/ul/1227800030402_7811772681 | social | https://vk.com/zachestnyibiznes |
 | ООО «Алкогольная Производственная Компания» | организация | https://kosher.ru/partners/ooo-alkogolnaya-proizvodstvennaya-kompaniya | email | kosher@kosher.ru |
@@ -17527,17 +17527,17 @@
 | ООО «КОМОС ГРУПП» | организация | https://www.komos.ru | social | https://t.me/komosgrupp |
 | ООО «КОМОС ГРУПП» | организация | https://www.komos.ru | social | https://vk.com/komosgroup |
 | ООО «КОМОС ГРУПП» | организация | https://www.komos.ru | social | https://www.youtube.com/channel/UCCVYrkX3bRl9ikx69k2pcJg |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| ООО «КОННЕКТ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «КОННЕКТ» | event / communications agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
 | ООО «КОНТРОЛ лизинг» | организация | https://ctrl.lc | email | info@ctrl.lc |
 | ООО «КОНТРОЛ лизинг» | организация | https://ctrl.lc | phone | +7 (800) 770-10-10 |
 | ООО «КОНТРОЛ лизинг» | организация | https://ctrl.lc | social | https://vk.com/ctrllc |
@@ -18493,9 +18493,9 @@
 | ООО «Коника Минолта Бизнес Сольюшнз Раша» | организация | https://www.konicaminolta.ru/ru-ru/contacts | social | https://vk.com/konica.minolta.russia |
 | ООО «Коника Минолта Бизнес Сольюшнз Раша» | организация | https://www.konicaminolta.ru/ru-ru/contacts | social | https://www.linkedin.com/company/konica-minolta-business-solutions-russia |
 | ООО «Коника Минолта Бизнес Сольюшнз Раша» | организация | https://www.konicaminolta.ru/ru-ru/contacts | social | https://www.youtube.com/channel/UCj1wDsVHgYlh8to6jETWWPg |
-| ООО «Коннект» | организация | https://www.knetwork.ru/about | email | info@knetwork.ru |
-| ООО «Коннект» | организация | https://www.knetwork.ru/about | email | mail@mail.ru |
-| ООО «Коннект» | организация | https://www.knetwork.ru/about | phone | +7 (495) 565-39-40 |
+| ООО «Коннект» | event / communications agency | https://www.knetwork.ru/about | email | info@knetwork.ru |
+| ООО «Коннект» | event / communications agency | https://www.knetwork.ru/about | email | mail@mail.ru |
+| ООО «Коннект» | event / communications agency | https://www.knetwork.ru/about | phone | +7 (495) 565-39-40 |
 | ООО «Консонанс» | организация | https://oilconsonance.com | email | t.sargsyan@oilconsonance.com |
 | ООО «Консонанс» | организация | https://oilconsonance.com | email | zakaz@oilconsonance.com |
 | ООО «Константа Торг» | организация | https://constanta-t.ru | email | info@constanta-t.ru |
@@ -19717,17 +19717,17 @@
 | ООО «ТПК Мебельная компания» | организация | https://www.safe.ru/contacts/1816 | social | https://connect.ok.ru/offer?url=https://www.safe.ru/contacts/1816/?element=1816&title=ТПК Мебельная Фабрика |
 | ООО «ТПК Промаэротехника» | организация | https://tdpat.ru | email | info@tdpat.ru |
 | ООО «ТПК Промаэротехника» | организация | https://tdpat.ru | phone | +7 (495) 231-31-50 |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
-| ООО «ТРАЕКТОРИЯ» | N/A | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | arrow-ui-corner-out-up-right-64-regular@2x.png |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | doc-text-64-regular@2x.png |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | email | email |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | +7 (800) 500-16-44 |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | phone | phone |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://ok.ru/skbkontur |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://vk.com/skbkontur |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | https://www.youtube.com/@konturblog |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency | https://focus.kontur.ru/site/populyarnye-kompanii-v-focuse/moskva | social | social |
 | ООО «Телеканал ТВ3» | организация | https://tv3.ru | email | info@tv3.ru |
 | ООО «Телеканал ТВ3» | организация | https://tv3.ru | phone | +7 (495) 937-40-39 |
 | ООО «Телеканал ТВ3» | организация | https://tv3.ru | social | https://dzen.ru/telekanaltv3 |
@@ -20629,29 +20629,29 @@
 | ПАО «Фосагро» | химическая компания | https://www.phosagro.ru | email | pr@website.phosagro.ru |
 | ПАО «Фосагро» | химическая компания | https://www.phosagro.ru | email | region@phosagro.ru |
 | ПАО «Фосагро» | химическая компания | https://www.phosagro.ru | phone | +7 (800) 234-29-00 |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | email | email |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | email | hello@planevent.ru |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | phone | +7 (499) 957-85-37 |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | phone | phone |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | social | https://dzen.ru/planeventagency |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | social | https://t.me/+79036184392 |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | social | https://t.me/plan_agency |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | social | social |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | social | social |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | phone | +7 (903) 618-43-92 |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | social | https://t.me/plan_agency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9F%D0%9B%D0%90%D0%9D.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| ПЛАН ИВЕНТ-АГЕНТСТВО | N/A | http://planevent.ru | social | https://www.instagram.com/plan.eventagency |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | https://t.me/pushkina_polina |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | https://vk.com/pushkina.wedding |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | https://wa.me/79206146699?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%82%D0%B5%D0%BB%D0%BE%D1%81%D1%8C%20%D0%B1%D1%8B%20%D0%BE%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C%20%D1%81%20%D0%B2%D0%B0%D0%BC%D0%B8%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | https://wa.me/79206146699?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%BA%20%D0%B2%D0%B0%D0%BC%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8E |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | https://wa.me/79206146699?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%AF%20%D0%B1%D1%8B%20%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B0%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | social |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | social |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | social |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | phone | +7 (920) 614-66-99 |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | https://t.me/pushkina_polina?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| ПУШКИНА ПОЛИНА | N/A | http://pushkina-wedding.ru | social | https://www.instagram.com/pushkina.wedding |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | email | email |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | email | hello@planevent.ru |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | phone | +7 (499) 957-85-37 |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | phone | phone |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | https://dzen.ru/planeventagency |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | https://t.me/+79036184392 |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | https://t.me/plan_agency |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | social |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | social |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | phone | +7 (903) 618-43-92 |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | https://t.me/plan_agency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9F%D0%9B%D0%90%D0%9D.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | https://www.instagram.com/plan.eventagency |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://t.me/pushkina_polina |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://vk.com/pushkina.wedding |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://wa.me/79206146699?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%82%D0%B5%D0%BB%D0%BE%D1%81%D1%8C%20%D0%B1%D1%8B%20%D0%BE%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C%20%D1%81%20%D0%B2%D0%B0%D0%BC%D0%B8%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://wa.me/79206146699?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%BA%20%D0%B2%D0%B0%D0%BC%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8E |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://wa.me/79206146699?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%AF%20%D0%B1%D1%8B%20%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B0%20%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%20%D0%BE%D0%B1%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | social |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | social |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | social |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | phone | +7 (920) 614-66-99 |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://t.me/pushkina_polina?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://www.instagram.com/pushkina.wedding |
 | Парк Горького | парк / культурное пространство | https://park-gorkogo.ru | email | email |
 | Парк Горького | парк / культурное пространство | https://park-gorkogo.ru | email | parkgorkogo@culture.mos.ru |
 | Парк Горького | парк / культурное пространство | https://park-gorkogo.ru | social | https://maps.vk.com |
@@ -20667,13 +20667,13 @@
 | Первый канал Продакшн | организация | https://1tv.ru | social | https://ok.ru/1tv |
 | Первый канал Продакшн | организация | https://1tv.ru | social | https://t.me/ChannelOne_official |
 | Первый канал Продакшн | организация | https://1tv.ru | social | https://vk.ru/1tv |
-| Пикник Афиши | N/A | https://picnic.afisha.ru | email | foodcourt@afisha.ru |
-| Пикник Афиши | N/A | https://picnic.afisha.ru | email | market.picnic@afisha.ru |
-| Пикник Афиши | N/A | https://picnic.afisha.ru | email | partnership.picnic@afisha.ru |
-| Пикник Афиши | N/A | https://picnic.afisha.ru | email | picnic@afisha.ru |
-| Пикник Афиши | N/A | https://picnic.afisha.ru | email | pr@afisha.ru |
-| Пикник Афиши | N/A | https://picnic.afisha.ru | social | https://t.me/picnic_afishy |
-| Пикник Афиши | N/A | https://picnic.afisha.ru | social | https://vk.com/afishapicnic |
+| Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | foodcourt@afisha.ru |
+| Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | market.picnic@afisha.ru |
+| Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | partnership.picnic@afisha.ru |
+| Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | picnic@afisha.ru |
+| Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | pr@afisha.ru |
+| Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | social | https://t.me/picnic_afishy |
+| Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | social | https://vk.com/afishapicnic |
 | Политехнический музей | музей | https://polymus.ru | email | chz@polytech.one |
 | Политехнический музей | музей | https://polymus.ru | email | info@polytech.one |
 | Политехнический музей | музей | https://polymus.ru | email | partnership@polytech.one |
@@ -20724,15 +20724,15 @@
 | Промсвязьбанк | банк | https://psbank.ru | social | https://rutube.ru/channel/24734074 |
 | Промсвязьбанк | банк | https://psbank.ru | social | https://t.me/psbbank |
 | Промсвязьбанк | банк | https://psbank.ru | social | https://vk.com/psbank_ru |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | email | media@ginzaproject.com |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | email | service@ginzaproject.com |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | email | spb@ginzaproject.com |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | phone | +7 (812) 640-16-16 |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | social | http://instagram.com/ginzaprojectspb |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | social | http://www.youtube.com/channel/UC1TivAQgIRoGAtPFvLsOkTg |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | social | https://t.me/GinzaDS_Bot |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | social | https://t.me/spbginzaproject |
-| Пряности & Радости | N/A | https://ginza.ru/pryanosti | social | https://vk.com/ginzaproject |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | email | media@ginzaproject.com |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | email | service@ginzaproject.com |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | email | spb@ginzaproject.com |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | phone | +7 (812) 640-16-16 |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | http://instagram.com/ginzaprojectspb |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | http://www.youtube.com/channel/UC1TivAQgIRoGAtPFvLsOkTg |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | https://t.me/GinzaDS_Bot |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | https://t.me/spbginzaproject |
+| Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | https://vk.com/ginzaproject |
 | РИА Новости | информационное агентство | https://ria.ru | email | internet-group@ria.ru |
 | РИА Новости | информационное агентство | https://ria.ru | email | internet-group@rian.ru |
 | РИА Новости | информационное агентство | https://ria.ru | email | moderator@ria.ru |
@@ -20868,27 +20868,27 @@
 | Русский Стандарт | банк | https://rsb.ru | social | http://www.ok.ru/rsb |
 | Русский Стандарт | банк | https://rsb.ru | social | https://rutube.ru/channel/30683510 |
 | Русский Стандарт | банк | https://rsb.ru | social | https://t.me/russianstandard_bank |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | phone | +7 (915) 214-59-52 |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | phone | phone |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | social | https://t.me/Kate_i_Leo |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | social | https://t.me/kate_ileo |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | social | social |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | phone | +7 (916) 394-37-85 |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | social | https://t.me/leo_organisation?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%A1%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | N/A | http://kate-i-leo.ru | social | https://www.instagram.com/kate.i.leo |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | email | email |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | email | light.wed@yandex.ru |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | phone | +7 (926) 654-34-39 |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | phone | phone |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | https://t.me/Svetlana_LightWed |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | https://vk.com/light__wed |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | https://wa.me/79266543439 |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | social |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | social |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | social |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | phone | +7 (926) 654-34-39 |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | https://t.me/lightwed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%A1%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | N/A | http://light-wed.ru | social | https://www.instagram.com/light__wed |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | +7 (915) 214-59-52 |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | phone |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://t.me/Kate_i_Leo |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://t.me/kate_ileo |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | social |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | +7 (916) 394-37-85 |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://t.me/leo_organisation?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%A1%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://www.instagram.com/kate.i.leo |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | email | email |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | email | light.wed@yandex.ru |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | phone | +7 (926) 654-34-39 |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | phone | phone |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://t.me/Svetlana_LightWed |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://vk.com/light__wed |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://wa.me/79266543439 |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | social |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | social |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | social |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | phone | +7 (926) 654-34-39 |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://t.me/lightwed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%A1%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://www.instagram.com/light__wed |
 | СИБУР Холдинг | нефтехимическая компания | https://www.sibur.ru | email | for_info@sibur.ru |
 | СИБУР Холдинг | нефтехимическая компания | https://www.sibur.ru | email | info@sibur.ru |
 | СИБУР Холдинг | нефтехимическая компания | https://www.sibur.ru | email | nvi@sibur.ru |
@@ -21245,23 +21245,23 @@
 | Шоколадница | сеть кофеен | https://shoko.ru | email | otzyv@shoko.ru |
 | Шоколадница | сеть кофеен | https://shoko.ru | social | https://t.me/shokomoscow |
 | Шоколадница | сеть кофеен | https://shoko.ru | social | https://vk.com/shokoru |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | email | aramvoskanyan@yandex.ru |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | email | email |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | phone | +7 (915) 224-08-93 |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | phone | phone |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | https://dzen.ru/id/669e8dfa2c624d5f667789ce |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | https://t.me/endofominlife |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | https://vk.com/endofomin |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | https://wa.me/79152240893 |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | https://www.instagram.com/endofomin.ru?igsh=MWtpbWlwaG9udmcwMA== |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | social |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | social |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | social |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | social |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | social |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | phone | +7 (915) 224-08-93 |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | https://t.me/kmtvva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%AD%D0%9D%D0%94%D0%9E%D0%A4%D0%9E%D0%9C%D0%98%D0%9D.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
-| ЭНДОФОМИН | N/A | http://endofomin.ru | social | https://www.instagram.com/endofomin.ru |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | email | aramvoskanyan@yandex.ru |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | email | email |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | phone | +7 (915) 224-08-93 |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | phone | phone |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://dzen.ru/id/669e8dfa2c624d5f667789ce |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://t.me/endofominlife |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://vk.com/endofomin |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://wa.me/79152240893 |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://www.instagram.com/endofomin.ru?igsh=MWtpbWlwaG9udmcwMA== |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | social |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | social |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | social |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | social |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | social |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | phone | +7 (915) 224-08-93 |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://t.me/kmtvva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%AD%D0%9D%D0%94%D0%9E%D0%A4%D0%9E%D0%9C%D0%98%D0%9D.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
+| ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://www.instagram.com/endofomin.ru |
 | ЭФКО | организация | https://efko.ru | email | a.chamara@efko.ru |
 | ЭФКО | организация | https://efko.ru | email | a.chernikov@efko.ru |
 | ЭФКО | организация | https://efko.ru | email | a.hvan@efko.ru |

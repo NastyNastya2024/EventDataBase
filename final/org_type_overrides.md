@@ -524,4 +524,73 @@
 | Энерготрансбанк | банк |
 | ЮТВ Холдинг | медиахолдинг |
 | Якитория | ресторанная сеть |
+| (АВТОРЫ) | event / creative production |
+| KAMILLA BAHUS | свадебное агентство / wedding planner |
+| KARAVAY_EVENT | event-агентство |
+| KASITSKAYA WEDDING | свадебное агентство |
+| KRAVTSOVA EVENT | event-агентство |
+| KULWEDDING | свадебное агентство |
+| LUBWED | свадебное агентство |
+| MIRONOVA WEDDING | свадебное агентство |
+| MOLLY EVENT 2.0 | event-агентство |
+| Maximice | event / experiential marketing agency |
+| Moscow City Hall Cultural Office | государственная культурная организация |
+| N1 Event | event-агентство |
+| NOVA EVENTS AGENCY | event-агентство |
+| Nebo Records | музыкальный лейбл / entertainment |
+| OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство |
+| Oblako 53 | event space / площадка |
+| Olivier Agency | event / PR agency |
+| Omega Rooftop | rooftop venue / event venue |
+| PAR AMOUR | свадебное агентство |
+| PEACH EVENT | event-агентство |
+| POLOTNO | creative agency / production |
+| PRO.LYUBOV | свадебное агентство |
+| Picnic Afisha Team | фестивальная / media events команда |
+| R.S.V.P. PR | PR-агентство |
+| RIM Group | event production / застройка / multimedia |
+| Radio Record Events | музыкальный event organizer |
+| Redday | event-агентство |
+| Rock Bar | бар / концертная площадка |
+| SAKHAROK | creative / event agency |
+| SALT.WEDDING | свадебное агентство |
+| SAVINA WEDDING | свадебное агентство |
+| Severyane | ресторан |
+| TIU_WED КСЕНИЯ ТЮТИНА | свадебное агентство |
+| TOK EVENT AGENCY | event-агентство |
+| TT Events | event-агентство |
+| TrendFox | marketing / event agency |
+| UNIQULTURA | культурный / event project |
+| UNIVERSUM | event / multimedia production |
+| USTIMOVA WEDDING | свадебное агентство |
+| VESNA WEDDING | свадебное агентство |
+| VK Events Team | корпоративная event-команда |
+| VK Fest Organization | фестивальный организатор |
+| VK Music Live | музыкальный event project |
+| VOZDUKH WEDDINGS | свадебное агентство |
+| Velvet Music Events | музыкальный продакшн / events |
+| Volga-Volga | ресторан / event venue |
+| WEDDING PIE | свадебное агентство |
+| YES&MESS | creative / event agency |
+| ZYIKOVA EVENT | event-агентство |
+| АО «РЕГИОНЫ-ЭНТЕРТЕЙНМЕНТ» | entertainment company / девелопмент развлечений |
+| ГЛУБИНА | creative studio / cultural project |
+| ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer |
+| Депо | гастрономическое пространство / food mall |
+| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО «МОЖНО ВСЁ» | свадебное агентство |
+| КРЕАТИВНОЕ СВАДЕБНОЕ АГЕНТСТВО "МОЖНО ВСЁ""" | свадебное агентство |
+| Красный Октябрь | арт-кластер / event space |
+| Михайлов и Партнёры | PR-агентство |
+| Му-Му | ресторанная сеть |
+| НАЯВУ | creative / event production |
+| ООО «АЛИОТ» | компания / business services |
+| ООО «КОННЕКТ» | event / communications agency |
+| ООО «ТРАЕКТОРИЯ» | event / marketing agency |
+| ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство |
+| ПУШКИНА ПОЛИНА | wedding planner / event producer |
+| Пикник Афиши | музыкальный фестиваль |
+| Пряности & Радости | ресторан |
+| СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство |
+| СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство |
+| ЭНДОФОМИН | creative / multimedia production |
 

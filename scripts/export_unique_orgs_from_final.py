@@ -71,7 +71,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description="Export unique org names from final contacts table.")
     ap.add_argument(
         "--input",
-        default=str(Path("final") / "final_contacts_with_type.md"),
+        default=str(Path("final") / "final.md"),
         help="Path to final markdown file",
     )
     ap.add_argument(
