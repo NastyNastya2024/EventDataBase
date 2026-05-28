@@ -45,12 +45,22 @@
             </select>
           </label>
 
-          <label class="field">
-            <span>Тип организации</span>
-            <select id="orgType">
-              <option value="all">Все</option>
-            </select>
-          </label>
+          <div class="field orgTypeField">
+            <span>Тип организации <span class="hint">можно несколько</span></span>
+            <div class="orgTypeMulti" id="orgTypeMulti">
+              <button type="button" id="orgTypeToggle" class="orgTypeToggle" aria-haspopup="listbox" aria-expanded="false">
+                Все типы
+              </button>
+              <div id="orgTypePanel" class="orgTypePanel" hidden>
+                <input id="orgTypeSearch" type="search" class="orgTypeSearch" placeholder="Найти тип…" autocomplete="off" />
+                <div class="orgTypeActions">
+                  <button type="button" id="orgTypeSelectAll" class="btn btn-sm">Выбрать все</button>
+                  <button type="button" id="orgTypeClear" class="btn btn-sm">Сбросить</button>
+                </div>
+                <div id="orgTypeOptions" class="orgTypeOptions" role="listbox" aria-multiselectable="true"></div>
+              </div>
+            </div>
+          </div>
 
           <!-- соцсеть теперь часть фильтра "Тип контакта" -->
         </div>

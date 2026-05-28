@@ -13,6 +13,11 @@ FINAL_PATH = ROOT / "final" / "final.md"
 
 _SEP_RE = re.compile(r"^\|[\s:|-]+\|\s*$")
 ORG_TYPE = "лофт"
+_EXCLUDE_ORG_NAMES = frozenset(
+    {
+        '"Истина где-то рядом" - лофт Секретные Материалы',
+    }
+)
 
 
 def _split_cells(line: str) -> list[str]:
@@ -73,6 +78,8 @@ def read_loft_rows(path: Path) -> list[tuple[str, str, str, str, str]]:
     with path.open(encoding="utf-8", newline="") as f:
         for r in csv.DictReader(f, delimiter=";"):
             name = (r.get("название") or "").strip()
+            if name in _EXCLUDE_ORG_NAMES:
+                continue
             phone = (r.get("телефон") or "").strip()
             site = _resolve_site(r.get("сайт") or "", r.get("ссылка") or "")
             if not name or not site or not phone:

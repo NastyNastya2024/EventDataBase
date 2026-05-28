@@ -14,10 +14,18 @@ const nextPageBtn = $("nextPage");
 const pageNumsEl = $("pageNums");
 const qEl = $("q");
 const contactFilterEl = $("contactFilter");
-const orgTypeEl = $("orgType");
+const orgTypeToggleEl = $("orgTypeToggle");
+const orgTypePanelEl = $("orgTypePanel");
+const orgTypeSearchEl = $("orgTypeSearch");
+const orgTypeOptionsEl = $("orgTypeOptions");
+const orgTypeSelectAllEl = $("orgTypeSelectAll");
+const orgTypeClearEl = $("orgTypeClear");
+const orgTypeMultiEl = $("orgTypeMulti");
 
-let orgType = "all";
+/** @type {Set<string>} пустой = все типы */
+let selectedOrgTypes = new Set();
 let contactFilter = "all";
+let allOrgTypes = [];
 
 let pageIndex = 0;
 let pagesShown = 1; // "Показать больше" increments this
@@ -57,7 +65,10 @@ function applyFilters({ resetLimit = true } = {}) {
       }
       return true;
     })
-    .filter((r) => (orgType === "all" ? true : (r.orgType || "N/A") === orgType))
+    .filter((r) => {
+      if (selectedOrgTypes.size === 0) return true;
+      return selectedOrgTypes.has(r.orgType || "N/A");
+    })
     .filter((r) => isMatch(r, q));
 
   if (resetLimit) {
@@ -151,19 +162,64 @@ async function main() {
     socialPlatform: r.socialPlatform || "",
   }));
 
-  // build dropdown options
-  const types = Array.from(new Set(all.map((r) => r.orgType || "N/A"))).sort((a, b) =>
+  allOrgTypes = Array.from(new Set(all.map((r) => r.orgType || "N/A"))).sort((a, b) =>
     a.localeCompare(b, "ru", { sensitivity: "base" })
   );
-  for (const t of types) {
-    const opt = document.createElement("option");
-    opt.value = t;
-    opt.textContent = t;
-    orgTypeEl.appendChild(opt);
-  }
+  buildOrgTypeOptions(allOrgTypes);
 
   filtered = all;
   applyFilters();
+}
+
+function updateOrgTypeToggleLabel() {
+  const n = selectedOrgTypes.size;
+  if (n === 0) {
+    orgTypeToggleEl.textContent = "Все типы";
+    return;
+  }
+  if (n === 1) {
+    orgTypeToggleEl.textContent = [...selectedOrgTypes][0];
+    return;
+  }
+  orgTypeToggleEl.textContent = `Выбрано типов: ${n}`;
+}
+
+function buildOrgTypeOptions(types) {
+  const q = (orgTypeSearchEl.value || "").trim().toLowerCase();
+  orgTypeOptionsEl.innerHTML = "";
+  const visible = q ? types.filter((t) => t.toLowerCase().includes(q)) : types;
+
+  if (!visible.length) {
+    const empty = document.createElement("div");
+    empty.className = "orgTypeEmpty";
+    empty.textContent = "Ничего не найдено";
+    orgTypeOptionsEl.appendChild(empty);
+    return;
+  }
+
+  for (const t of visible) {
+    const label = document.createElement("label");
+    label.className = "orgTypeOption";
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.value = t;
+    cb.checked = selectedOrgTypes.has(t);
+    cb.addEventListener("change", () => {
+      if (cb.checked) selectedOrgTypes.add(t);
+      else selectedOrgTypes.delete(t);
+      updateOrgTypeToggleLabel();
+      applyFilters({ resetLimit: true });
+    });
+    label.appendChild(cb);
+    label.append(" ", t);
+    orgTypeOptionsEl.appendChild(label);
+  }
+}
+
+function setOrgTypePanelOpen(open) {
+  orgTypePanelEl.hidden = !open;
+  orgTypeToggleEl.setAttribute("aria-expanded", open ? "true" : "false");
+  if (open) orgTypeSearchEl.focus();
 }
 
 qEl.addEventListener("input", () => applyFilters({ resetLimit: true }));
@@ -171,9 +227,41 @@ contactFilterEl.addEventListener("change", () => {
   contactFilter = contactFilterEl.value;
   applyFilters({ resetLimit: true });
 });
-orgTypeEl.addEventListener("change", () => {
-  orgType = orgTypeEl.value;
+orgTypeToggleEl.addEventListener("click", () => {
+  setOrgTypePanelOpen(orgTypePanelEl.hidden);
+});
+
+orgTypeSearchEl.addEventListener("input", () => {
+  buildOrgTypeOptions(allOrgTypes);
+});
+
+orgTypeSelectAllEl.addEventListener("click", () => {
+  const q = (orgTypeSearchEl.value || "").trim().toLowerCase();
+  const visible = q
+    ? allOrgTypes.filter((t) => t.toLowerCase().includes(q))
+    : allOrgTypes;
+  for (const t of visible) selectedOrgTypes.add(t);
+  buildOrgTypeOptions(allOrgTypes);
+  updateOrgTypeToggleLabel();
   applyFilters({ resetLimit: true });
+});
+
+orgTypeClearEl.addEventListener("click", () => {
+  selectedOrgTypes.clear();
+  buildOrgTypeOptions(allOrgTypes);
+  updateOrgTypeToggleLabel();
+  applyFilters({ resetLimit: true });
+});
+
+document.addEventListener("click", (e) => {
+  if (!orgTypeMultiEl.contains(e.target)) setOrgTypePanelOpen(false);
+});
+
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && !orgTypePanelEl.hidden) {
+    setOrgTypePanelOpen(false);
+    orgTypeToggleEl.focus();
+  }
 });
 loadMoreBtn.addEventListener("click", () => {
   pagesShown += 1;

@@ -86,6 +86,106 @@ select:focus {
   box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.12);
 }
 
+.field .hint {
+  font-weight: 400;
+  opacity: 0.85;
+}
+
+.orgTypeField {
+  position: relative;
+}
+
+.orgTypeMulti {
+  position: relative;
+}
+
+.orgTypeToggle {
+  width: 100%;
+  padding: 12px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: rgba(15, 23, 42, 0.02);
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+}
+
+.orgTypeToggle:focus {
+  border-color: rgba(37, 99, 235, 0.55);
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.12);
+  outline: none;
+}
+
+.orgTypePanel {
+  position: absolute;
+  z-index: 20;
+  left: 0;
+  right: 0;
+  margin-top: 6px;
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+
+.orgTypeSearch {
+  width: 100%;
+  padding: 10px 10px;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: rgba(15, 23, 42, 0.02);
+  color: var(--text);
+  outline: none;
+  margin-bottom: 8px;
+}
+
+.orgTypeActions {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.btn-sm {
+  padding: 6px 10px;
+  font-size: 12px;
+}
+
+.orgTypeOptions {
+  max-height: min(280px, 40vh);
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.orgTypeOption {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.orgTypeOption:hover {
+  background: rgba(37, 99, 235, 0.06);
+}
+
+.orgTypeOption input {
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.orgTypeEmpty {
+  padding: 10px 8px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 @media (min-width: 860px) {
   .controls {
     grid-template-columns: 2fr 1.2fr 1fr 1fr;

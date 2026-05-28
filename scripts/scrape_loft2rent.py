@@ -27,6 +27,18 @@ UA = (
 
 COLUMNS = ["название", "тип_лофт", "телефон", "сайт", "ссылка"]
 
+# Исключения (не попадают в выгрузку)
+_EXCLUDE_LOFT_URLS = frozenset(
+    {
+        "https://www.loft2rent.ru/loft/115047/141622/",
+    }
+)
+_EXCLUDE_LOFT_NAMES = frozenset(
+    {
+        '"Истина где-то рядом" - лофт Секретные Материалы',
+    }
+)
+
 _AZ_LETTERS = (
     list("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ")
     + ["."]
@@ -237,7 +249,19 @@ def save_cache(data: dict[str, dict[str, str]]) -> None:
     )
 
 
+def _is_excluded(row: dict[str, str]) -> bool:
+    link = (row.get("ссылка") or "").strip()
+    if link:
+        if not link.endswith("/"):
+            link += "/"
+        if link in _EXCLUDE_LOFT_URLS:
+            return True
+    name = (row.get("название") or "").strip()
+    return name in _EXCLUDE_LOFT_NAMES
+
+
 def write_outputs(rows: list[dict[str, str]]) -> None:
+    rows = [r for r in rows if not _is_excluded(r)]
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     csv_path = OUT_DIR / "loft2rent_moscow.csv"
     md_path = OUT_DIR / "loft2rent_moscow.md"
