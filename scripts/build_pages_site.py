@@ -9,12 +9,11 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def main() -> int:
     src = ROOT / "final" / "site"
-    dst = ROOT / "docs"
+    # GitHub Pages (branch main, folder /) — статика в корне репозитория
+    dst = ROOT
 
     if not (src / "index.html").exists():
         raise SystemExit(f"Missing site sources: {src}")
-
-    dst.mkdir(parents=True, exist_ok=True)
 
     # copy static assets (html/css/js)
     for name in ("index.html", "styles.css", "app.js"):
@@ -23,7 +22,7 @@ def main() -> int:
     # prevent Jekyll processing
     (dst / ".nojekyll").write_text("", encoding="utf-8")
 
-    # build JSON directly into docs/
+    # build JSON into project root (рядом с index.html)
     from build_contacts_site_json import main as build_json_main  # local import
 
     # emulate CLI args via direct call is awkward; call module as a script instead
