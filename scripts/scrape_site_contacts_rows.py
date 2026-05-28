@@ -123,6 +123,19 @@ def _norm_url(url: str) -> str:
         url = "https://" + url
     return url.rstrip("/")
 
+def _is_valid_site_url(url: str) -> bool:
+    try:
+        u = urllib.parse.urlparse(url)
+    except Exception:
+        return False
+    if u.scheme not in {"http", "https"}:
+        return False
+    host = (u.netloc or "").strip().casefold()
+    # basic sanity: require a dot in host or punycode
+    if not host or "." not in host:
+        return False
+    return True
+
 
 def _same_site(base: str, link: str) -> bool:
     try:
@@ -321,39 +334,64 @@ def save_cache(path: Path, data: dict) -> None:
 
 
 def parse_input_sites(md_text: str) -> list[tuple[str, str]]:
+    """
+    Extract (name, site) pairs from ALL markdown tables in the file
+    that contain a name-like and site-like column.
+    """
     lines = md_text.splitlines()
-    for i, line in enumerate(lines):
+    pairs: list[tuple[str, str]] = []
+    seen: set[tuple[str, str]] = set()
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
         if not _TABLE_ROW_RE.match(line):
+            i += 1
             continue
         headers = _split_cells(line)
         name_col = _find_col(headers, ("название", "организация", "компания", "name"))
-        site_col = _find_col(headers, ("сайт", "site", "website"))
+        site_col = _find_col(headers, ("сайт", "official", "официальный", "site", "website"))
         if name_col < 0 or site_col < 0:
+            i += 1
             continue
         if i + 1 >= len(lines) or not re.match(r"^\|[\s:|-]+\|\s*$", lines[i + 1]):
+            i += 1
             continue
-        pairs: list[tuple[str, str]] = []
-        for row in lines[i + 2 :]:
-            if not row.startswith("|"):
+
+        # iterate table body until non-table line
+        j = i + 2
+        while j < len(lines) and lines[j].startswith("|"):
+            row = lines[j]
+            if row.lstrip().startswith("|---"):
+                j += 1
                 continue
             cells = _split_cells(row)
             if len(cells) <= max(name_col, site_col):
+                j += 1
                 continue
-            if not (cells[0].strip().isdigit()):
-                continue
+            # allow tables without numeric index column (like "Организация | Официальный сайт")
             name = cells[name_col].strip()
             site = _norm_url(cells[site_col].strip())
-            if name and site:
-                pairs.append((name, site))
-        return pairs
-    return []
+            if name and site and _is_valid_site_url(site):
+                key = (name, site)
+                if key not in seen:
+                    seen.add(key)
+                    pairs.append(key)
+            j += 1
+
+        i = j
+
+    return pairs
 
 
-def write_contacts_md(rows: list[tuple[str, str, ContactRow]], out_path: Path) -> None:
+def write_contacts_md(rows: list[tuple[str, str, ContactRow]], out_path: Path, *, source_md: str = "") -> None:
     out: list[str] = []
     out.append("## Контакты — телефоны / email / соцсети")
     out.append("")
-    out.append("Источник: сайты из `all/all_no_focus.md` (или другого входного файла).")
+    if source_md:
+        out.append(f"Источник: сайты из `{source_md}`.")
+    else:
+        out.append("Источник: сайты из `all/all_no_focus.md` (или другого входного файла).")
     out.append("")
     out.append(f"Всего строк: **{len(rows)}**.")
     out.append("")
@@ -367,9 +405,9 @@ def write_contacts_md(rows: list[tuple[str, str, ContactRow]], out_path: Path) -
     out_path.write_text("\n".join(out), encoding="utf-8")
 
 
-def _flush(out_path: Path, rows: list[tuple[str, str, ContactRow]]) -> None:
+def _flush(out_path: Path, rows: list[tuple[str, str, ContactRow]], *, source_md: str = "") -> None:
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    write_contacts_md(rows, out_path)
+    write_contacts_md(rows, out_path, source_md=source_md)
 
 def _snapshot_if_exists(path: Path) -> None:
     if not path.exists():
@@ -467,6 +505,11 @@ def main() -> int:
         help="Пропускать сайты, которые уже есть в кэше (удобно для продолжения)",
     )
     p.add_argument(
+        "--retry-empty",
+        action="store_true",
+        help="Повторно обрабатывать сайты, у которых в кэше пустой список контактов",
+    )
+    p.add_argument(
         "--snapshot-output",
         action="store_true",
         help="Перед записью результата сохранять предыдущую версию output в all/contacts_delta_history/",
@@ -492,6 +535,10 @@ def main() -> int:
     if args.snapshot_output:
         _snapshot_if_exists(out_path)
 
+    # Создаём/обновляем файл сразу, чтобы было видно прогресс
+    # даже до первого flush-every.
+    write_contacts_md([], out_path, source_md=args.input)
+
     pairs = parse_input_sites(in_path.read_text(encoding="utf-8"))
     if not pairs:
         print("Не нашёл входную таблицу с колонкой «Сайт».", file=sys.stderr)
@@ -513,7 +560,10 @@ def main() -> int:
 
         ck = site.casefold()
         if ck in cache:
-            if args.skip_cached:
+            if args.retry_empty and not (cache.get(ck) or []):
+                # treat as uncached
+                pass
+            elif args.skip_cached:
                 continue
             items = [
                 ContactRow(x.get("kind", ""), x.get("value", ""), x.get("desc", "N/A"))
@@ -529,10 +579,6 @@ def main() -> int:
             new_sites += 1
             if args.sleep > 0:
                 time.sleep(args.sleep)
-            if args.flush_every > 0 and new_sites % args.flush_every == 0:
-                _flush(out_path, all_rows)
-                if not args.no_cache:
-                    save_cache(cache_path, cache)
 
         # порядок: телефоны -> email -> соцсети
         phones = [i for i in items if i.kind == "phone"]
@@ -541,7 +587,13 @@ def main() -> int:
         for i in phones + emails + socials:
             all_rows.append((org, site, i))
 
-    write_contacts_md(all_rows, out_path)
+        # flush AFTER adding rows for the site (so progress is visible)
+        if args.flush_every > 0 and new_sites > 0 and new_sites % args.flush_every == 0:
+            _flush(out_path, all_rows, source_md=args.input)
+            if not args.no_cache:
+                save_cache(cache_path, cache)
+
+    write_contacts_md(all_rows, out_path, source_md=args.input)
     if not args.no_cache:
         save_cache(cache_path, cache)
 

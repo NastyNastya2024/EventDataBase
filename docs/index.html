@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Контакты</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="wrap">
+        <div class="brand">Контакты</div>
+        <div class="sub">по базе `final_contacts_with_type.md`</div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="panel">
+        <div class="controls">
+          <label class="field">
+            <span>Поиск по названию</span>
+            <input id="q" type="search" placeholder="Например: Novikov, ВДНХ, музей..." autocomplete="off" />
+          </label>
+
+          <label class="field">
+            <span>Тип контакта</span>
+            <select id="contactFilter">
+              <option value="all">Все</option>
+              <option value="phone">Телефон</option>
+              <option value="email">Email</option>
+              <option value="social">Social (все)</option>
+              <option value="social:telegram">Social: Telegram</option>
+              <option value="social:vk">Social: VK</option>
+              <option value="social:instagram">Social: Instagram</option>
+              <option value="social:whatsapp">Social: WhatsApp</option>
+              <option value="social:youtube">Social: YouTube</option>
+              <option value="social:tiktok">Social: TikTok</option>
+              <option value="social:dzen">Social: Dzen</option>
+              <option value="social:rutube">Social: Rutube</option>
+              <option value="social:ok">Social: OK</option>
+              <option value="social:facebook">Social: Facebook</option>
+              <option value="social:linkedin">Social: LinkedIn</option>
+              <option value="social:x">Social: X</option>
+              <option value="social:other">Social: Other</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>Тип организации</span>
+            <select id="orgType">
+              <option value="all">Все</option>
+            </select>
+          </label>
+
+          <!-- соцсеть теперь часть фильтра "Тип контакта" -->
+        </div>
+
+        <div class="meta">
+          <div id="status">Загрузка…</div>
+        </div>
+      </section>
+
+      <section class="tableWrap" aria-live="polite">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Организация</th>
+              <th>Тип</th>
+              <th class="hide-sm">Сайт</th>
+              <th>Вид</th>
+              <th>Контакт</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </section>
+
+      <section class="pager" aria-label="Пагинация">
+        <div class="pagerRow">
+          <div class="pagerLeft">
+            <div id="pageStatus" class="pagerText"></div>
+          </div>
+          <div class="pagerRight">
+            <button id="prevPage" class="btn" type="button">Назад</button>
+            <div id="pageNums" class="pageNums" aria-label="Номера страниц"></div>
+            <button id="nextPage" class="btn" type="button">Вперёд</button>
+            <button id="loadMore" class="btn" type="button" hidden>Показать больше</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
+
