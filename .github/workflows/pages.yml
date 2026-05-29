@@ -3,17 +3,6 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [main]
-    paths:
-      - "final/final.md"
-      - "final/site/**"
-      - "scripts/build_pages_site.py"
-      - "scripts/build_contacts_site_json.py"
-      - "contacts.json"
-      - "index.html"
-      - "app.js"
-      - "styles.css"
-      - "docs/**"
-      - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:
