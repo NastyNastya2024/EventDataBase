@@ -405,6 +405,22 @@ input[type="search"]:focus {
   line-height: 1.35;
 }
 
+.table-catalog .col-site {
+  min-width: 1200px;
+  max-width: 1200px;
+  width: 1200px;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+.table-catalog .col-kind {
+  max-width: 52px;
+  width: 52px;
+  white-space: nowrap;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
 .table {
   width: 100%;
   border-collapse: separate;
