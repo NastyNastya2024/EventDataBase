@@ -89,7 +89,7 @@ function render() {
         <td>${esc(r.org)}</td>
         <td>${esc(r.orgType || "N/A")}</td>
         <td class="col-site hide-sm">${siteCell}</td>
-        <td><span class="mono">${esc(kindLabel(r.kind))}</span></td>
+        <td class="col-kind"><span class="mono">${esc(kindLabel(r.kind))}</span></td>
         <td>${valueCell}</td>
       </tr>`;
     })
