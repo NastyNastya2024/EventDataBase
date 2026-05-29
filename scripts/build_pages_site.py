@@ -7,7 +7,16 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE_FILES = ("index.html", "styles.css", "app.js", "contacts.json", ".nojekyll")
+SITE_FILES = (
+    "index.html",
+    "agencies.html",
+    "styles.css",
+    "app.js",
+    "app-agencies.js",
+    "shared.js",
+    "contacts.json",
+    ".nojekyll",
+)
 
 
 def main() -> int:
@@ -15,7 +24,7 @@ def main() -> int:
     if not (src / "index.html").exists():
         raise SystemExit(f"Missing site sources: {src}")
 
-    for name in ("index.html", "styles.css", "app.js"):
+    for name in ("index.html", "agencies.html", "styles.css", "app.js", "app-agencies.js", "shared.js"):
         shutil.copyfile(src / name, ROOT / name)
 
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")

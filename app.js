@@ -1,7 +1,22 @@
+import {
+  PAGE_SIZE,
+  esc,
+  linkify,
+  fetchContacts,
+  isMatch,
+  filterByContactKind,
+  contactKey,
+  loadWorkSet,
+  renderWorkCheckbox,
+  bindWorkCheckboxes,
+  kindLabel,
+  formatContactValue,
+} from "./shared.js";
+
 let all = [];
 let filtered = [];
+let workSet = loadWorkSet();
 
-const PAGE_SIZE = 200;
 let renderLimit = PAGE_SIZE;
 
 const $ = (id) => document.getElementById(id);
@@ -28,43 +43,11 @@ let contactFilter = "all";
 let allOrgTypes = [];
 
 let pageIndex = 0;
-let pagesShown = 1; // "Показать больше" increments this
-
-function esc(s) {
-  return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;",
-    "<": "&lt;",
-    ">": "&gt;",
-    '"': "&quot;",
-    "'": "&#39;",
-  }[c]));
-}
-
-function isMatch(row, q) {
-  if (!q) return true;
-  const t = q.toLowerCase();
-  return (
-    row.org.toLowerCase().includes(t) ||
-    (row.orgType || "").toLowerCase().includes(t) ||
-    (row.site || "").toLowerCase().includes(t) ||
-    (row.value || "").toLowerCase().includes(t)
-  );
-}
+let pagesShown = 1;
 
 function applyFilters({ resetLimit = true } = {}) {
   const q = (qEl.value || "").trim();
-  filtered = all
-    .filter((r) => {
-      if (contactFilter === "all") return true;
-      if (contactFilter === "phone") return r.kind === "phone";
-      if (contactFilter === "email") return r.kind === "email";
-      if (contactFilter === "social") return r.kind === "social";
-      if (contactFilter.startsWith("social:")) {
-        const p = contactFilter.slice("social:".length);
-        return r.kind === "social" && r.socialPlatform === p;
-      }
-      return true;
-    })
+  filtered = filterByContactKind(all, contactFilter)
     .filter((r) => {
       if (selectedOrgTypes.size === 0) return true;
       return selectedOrgTypes.has(r.orgType || "N/A");
@@ -77,16 +60,6 @@ function applyFilters({ resetLimit = true } = {}) {
     pagesShown = 1;
   }
   render();
-}
-
-function linkify(url) {
-  if (!url) return "";
-  const u = String(url);
-  const safe = esc(u);
-  if (u.startsWith("http://") || u.startsWith("https://")) {
-    return `<a href="${safe}" target="_blank" rel="noopener noreferrer">${safe}</a>`;
-  }
-  return safe;
 }
 
 function render() {
@@ -107,19 +80,22 @@ function render() {
   const slice = filtered.slice(start, shown);
   const html = slice
     .map((r) => {
-      const kindLabel = r.kind === "phone" ? "phone" : r.kind === "email" ? "email" : "social";
-      const valueCell = r.kind === "social" ? linkify(r.value) : esc(r.value);
+      const key = contactKey(r);
+      const inWork = workSet.has(key);
+      const valueCell = formatContactValue(r);
       const siteCell = linkify(r.site);
-      return `<tr>
+      return `<tr${inWork ? ' class="in-work"' : ""}>
+        <td class="col-work">${renderWorkCheckbox(key, workSet)}</td>
         <td>${esc(r.org)}</td>
         <td>${esc(r.orgType || "N/A")}</td>
         <td class="hide-sm">${siteCell}</td>
-        <td><span class="mono">${esc(kindLabel)}</span></td>
+        <td><span class="mono">${esc(kindLabel(r.kind))}</span></td>
         <td>${valueCell}</td>
       </tr>`;
     })
     .join("");
   rowsEl.innerHTML = html;
+  bindWorkCheckboxes(rowsEl, workSet);
 
   renderPageNums(totalPages, curPage);
 }
@@ -149,18 +125,9 @@ function renderPageNums(totalPages, curPage) {
 
 async function main() {
   statusEl.textContent = "Загрузка…";
-  const res = await fetch(`./contacts.json?_=${Date.now()}`, { cache: "no-store" });
-  all = await res.json();
-
-  // normalize fields to avoid runtime checks
-  all = all.map((r) => ({
-    org: r.org || "",
-    orgType: r.orgType || "N/A",
-    site: r.site || "",
-    kind: r.kind || "",
-    value: r.value || "",
-    socialPlatform: r.socialPlatform || "",
-  }));
+  const data = await fetchContacts();
+  all = data.filter((r) => !r.isEventAgency);
+  workSet = loadWorkSet();
 
   allOrgTypes = Array.from(new Set(all.map((r) => r.orgType || "N/A"))).sort((a, b) =>
     a.localeCompare(b, "ru", { sensitivity: "base" })
@@ -237,9 +204,7 @@ orgTypeSearchEl.addEventListener("input", () => {
 
 orgTypeSelectAllEl.addEventListener("click", () => {
   const q = (orgTypeSearchEl.value || "").trim().toLowerCase();
-  const visible = q
-    ? allOrgTypes.filter((t) => t.toLowerCase().includes(q))
-    : allOrgTypes;
+  const visible = q ? allOrgTypes.filter((t) => t.toLowerCase().includes(q)) : allOrgTypes;
   for (const t of visible) selectedOrgTypes.add(t);
   buildOrgTypeOptions(allOrgTypes);
   updateOrgTypeToggleLabel();
@@ -263,6 +228,7 @@ document.addEventListener("keydown", (e) => {
     orgTypeToggleEl.focus();
   }
 });
+
 loadMoreBtn.addEventListener("click", () => {
   pagesShown += 1;
   render();
@@ -282,9 +248,6 @@ nextPageBtn.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
-// chips removed; keep table controls minimal
-
 main().catch((e) => {
   statusEl.textContent = `Ошибка загрузки данных: ${e?.message || e}`;
 });
-

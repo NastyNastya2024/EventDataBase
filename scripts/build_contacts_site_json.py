@@ -99,6 +99,8 @@ def main() -> int:
     site_i = col(headers, "Сайт")
     kind_i = col(headers, "Вид контакта")
     val_i = col(headers, "Контакт")
+    from org_type_groups import is_event_agency
+
     items: list[dict] = []
     for ln in lines[start:]:
         if not ln.startswith("|"):
@@ -108,14 +110,16 @@ def main() -> int:
         cells = _split_cells(ln)
         if len(cells) <= max(org_i, typ_i, site_i, kind_i, val_i):
             continue
+        org_type = cells[typ_i]
         items.append(
             {
                 "org": cells[org_i],
-                "orgType": cells[typ_i],
+                "orgType": org_type,
                 "site": cells[site_i],
                 "kind": cells[kind_i],  # phone|email|social
                 "value": cells[val_i],
                 "socialPlatform": _social_platform(cells[val_i]) if cells[kind_i] == "social" else "",
+                "isEventAgency": is_event_agency(org_type),
             }
         )
 

@@ -10,7 +10,11 @@
     <header class="topbar">
       <div class="wrap">
         <div class="brand">Контакты</div>
-        <div class="sub">по базе `final/final.md`</div>
+        <div class="sub">все организации кроме ивент-агентств · база `final/final.md`</div>
+        <nav class="nav-tabs" aria-label="Разделы каталога">
+          <a href="./index.html" class="nav-tab is-active" aria-current="page">Все остальные</a>
+          <a href="./agencies.html" class="nav-tab">Ивент-агентства</a>
+        </nav>
       </div>
     </header>
 
@@ -61,12 +65,11 @@
               </div>
             </div>
           </div>
-
-          <!-- соцсеть теперь часть фильтра "Тип контакта" -->
         </div>
 
         <div class="meta">
           <div id="status">Загрузка…</div>
+          <div class="work-hint">☑ «Взяли в работу»</div>
         </div>
       </section>
 
@@ -74,6 +77,7 @@
         <table class="table">
           <thead>
             <tr>
+              <th class="col-work" title="Взяли в работу">☑</th>
               <th>Организация</th>
               <th>Тип</th>
               <th class="hide-sm">Сайт</th>
@@ -100,7 +104,6 @@
       </section>
     </main>
 
-    <script src="./app.js"></script>
+    <script type="module" src="./app.js"></script>
   </body>
 </html>
-

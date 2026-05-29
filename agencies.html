@@ -3,27 +3,27 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Контакты</title>
+    <title>Ивент-агентства и продакшн</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <header class="topbar">
       <div class="wrap">
-        <div class="brand">Контакты</div>
-        <div class="sub">все организации кроме ивент-агентств · база `final/final.md`</div>
+        <div class="brand">Ивент-агентства и продакшн</div>
+        <div class="sub">группировка по организации · база `final/final.md`</div>
         <nav class="nav-tabs" aria-label="Разделы каталога">
-          <a href="./index.html" class="nav-tab is-active" aria-current="page">Все остальные</a>
-          <a href="./agencies.html" class="nav-tab">Ивент-агентства</a>
+          <a href="./index.html" class="nav-tab">Все остальные</a>
+          <a href="./agencies.html" class="nav-tab is-active" aria-current="page">Ивент-агентства</a>
         </nav>
       </div>
     </header>
 
     <main class="wrap">
       <section class="panel">
-        <div class="controls">
+        <div class="controls controls-agencies">
           <label class="field">
-            <span>Поиск по названию</span>
-            <input id="q" type="search" placeholder="Например: Novikov, ВДНХ, музей..." autocomplete="off" />
+            <span>Поиск</span>
+            <input id="q" type="search" placeholder="Название, тип, контакт…" autocomplete="off" />
           </label>
 
           <label class="field">
@@ -48,41 +48,22 @@
               <option value="social:other">Social: Other</option>
             </select>
           </label>
-
-          <div class="field orgTypeField">
-            <span>Тип организации <span class="hint">можно несколько</span></span>
-            <div class="orgTypeMulti" id="orgTypeMulti">
-              <button type="button" id="orgTypeToggle" class="orgTypeToggle" aria-haspopup="listbox" aria-expanded="false">
-                Все типы
-              </button>
-              <div id="orgTypePanel" class="orgTypePanel" hidden>
-                <input id="orgTypeSearch" type="search" class="orgTypeSearch" placeholder="Найти тип…" autocomplete="off" />
-                <div class="orgTypeActions">
-                  <button type="button" id="orgTypeSelectAll" class="btn btn-sm">Выбрать все</button>
-                  <button type="button" id="orgTypeClear" class="btn btn-sm">Сбросить</button>
-                </div>
-                <div id="orgTypeOptions" class="orgTypeOptions" role="listbox" aria-multiselectable="true"></div>
-              </div>
-            </div>
-          </div>
         </div>
 
         <div class="meta">
           <div id="status">Загрузка…</div>
-          <div class="work-hint">☑ «Взяли в работу»</div>
+          <div class="work-hint">☑ «Взяли в работу» — у каждого контакта</div>
         </div>
       </section>
 
       <section class="tableWrap" aria-live="polite">
-        <table class="table">
+        <table class="table table-agencies">
           <thead>
             <tr>
-              <th class="col-work" title="Взяли в работу">☑</th>
               <th>Организация</th>
               <th>Тип</th>
               <th class="hide-sm">Сайт</th>
-              <th>Вид</th>
-              <th>Контакт</th>
+              <th>Контакты</th>
             </tr>
           </thead>
           <tbody id="rows"></tbody>
@@ -104,6 +85,6 @@
       </section>
     </main>
 
-    <script type="module" src="./app.js"></script>
+    <script type="module" src="./app-agencies.js"></script>
   </body>
 </html>
