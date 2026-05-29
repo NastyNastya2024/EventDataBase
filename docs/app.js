@@ -5,7 +5,7 @@ import {
   fetchContacts,
   isMatch,
   filterByContactKind,
-  contactKey,
+  orgKey,
   loadWorkSet,
   renderWorkCheckbox,
   bindWorkCheckboxes,
@@ -80,7 +80,7 @@ function render() {
   const slice = filtered.slice(start, shown);
   const html = slice
     .map((r) => {
-      const key = contactKey(r);
+      const key = orgKey(r.org);
       const inWork = workSet.has(key);
       const valueCell = formatContactValue(r);
       const siteCell = linkify(r.site);
@@ -88,7 +88,7 @@ function render() {
         <td class="col-work">${renderWorkCheckbox(key, workSet)}</td>
         <td>${esc(r.org)}</td>
         <td>${esc(r.orgType || "N/A")}</td>
-        <td class="hide-sm">${siteCell}</td>
+        <td class="col-site hide-sm">${siteCell}</td>
         <td><span class="mono">${esc(kindLabel(r.kind))}</span></td>
         <td>${valueCell}</td>
       </tr>`;

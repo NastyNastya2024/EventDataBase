@@ -5,7 +5,7 @@ import {
   fetchContacts,
   filterByContactKind,
   groupByOrg,
-  contactKey,
+  orgKey,
   loadWorkSet,
   renderWorkCheckbox,
   bindWorkCheckboxes,
@@ -58,14 +58,9 @@ function applyFilters({ resetLimit = true } = {}) {
 function renderContactsStack(contacts) {
   return contacts
     .map((c) => {
-      const key = contactKey(c);
-      const inWork = workSet.has(key) ? " in-work" : "";
-      return `<div class="contact-line${inWork}">
-        <label class="contact-row">
-          ${renderWorkCheckbox(key, workSet)}
-          <span class="mono contact-kind">${esc(kindLabel(c.kind))}</span>
-          <span class="contact-value">${formatContactValue(c)}</span>
-        </label>
+      return `<div class="contact-line">
+        <span class="mono contact-kind">${esc(kindLabel(c.kind))}</span>
+        <span class="contact-value">${formatContactValue(c)}</span>
       </div>`;
     })
     .join("");
@@ -90,11 +85,14 @@ function render() {
   const slice = filtered.slice(start, shown);
   const html = slice
     .map((g) => {
+      const key = orgKey(g.org);
+      const inWork = workSet.has(key);
       const siteCell = linkify(g.site);
-      return `<tr>
+      return `<tr${inWork ? ' class="in-work"' : ""}>
+        <td class="col-work">${renderWorkCheckbox(key, workSet)}</td>
         <td>${esc(g.org)}</td>
         <td>${esc(g.orgType || "N/A")}</td>
-        <td class="hide-sm">${siteCell}</td>
+        <td class="col-site hide-sm">${siteCell}</td>
         <td class="contacts-cell"><div class="contacts-stack">${renderContactsStack(g.contacts)}</div></td>
       </tr>`;
     })

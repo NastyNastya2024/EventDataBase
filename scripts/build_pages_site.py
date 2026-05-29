@@ -29,6 +29,8 @@ def main() -> int:
 
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
 
+    site_json = src / "contacts.json"
+
     from build_contacts_site_json import main as build_json_main
 
     old_argv = sys.argv[:]
@@ -38,13 +40,14 @@ def main() -> int:
             "--input",
             str(ROOT / "final" / "final.md"),
             "--output",
-            str(ROOT / "contacts.json"),
+            str(site_json),
         ]
         build_json_main()
     finally:
         sys.argv = old_argv
 
-    row_count = len(json.loads((ROOT / "contacts.json").read_text(encoding="utf-8")))
+    shutil.copyfile(site_json, ROOT / "contacts.json")
+    row_count = len(json.loads(site_json.read_text(encoding="utf-8")))
 
     # Корень репо (legacy branch deploy) + docs/ (fallback) + _site/ (GitHub Actions)
     for target in (ROOT / "docs", ROOT / "_site"):
@@ -53,7 +56,7 @@ def main() -> int:
             shutil.copyfile(ROOT / name, target / name)
 
     print(f"Wrote contacts.json rows={row_count}")
-    print(f"Site files: {ROOT}, {ROOT / 'docs'}, {ROOT / '_site'}")
+    print(f"Site files: {src}, {ROOT}, {ROOT / 'docs'}, {ROOT / '_site'}")
     return 0
 
 

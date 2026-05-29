@@ -1,6 +1,6 @@
 /** @typedef {{ org: string, orgType: string, site: string, kind: string, value: string, socialPlatform: string, isEventAgency?: boolean }} ContactRow */
 
-const WORK_STORAGE_KEY = "eventDatabaseContactsInWork";
+const WORK_STORAGE_KEY = "eventDatabaseOrgsInWork";
 
 export const PAGE_SIZE = 200;
 export const AGENCIES_PAGE_SIZE = 80;
@@ -25,8 +25,13 @@ export function linkify(url) {
   return safe;
 }
 
+export function orgKey(org) {
+  return org || "";
+}
+
+/** @deprecated use orgKey */
 export function contactKey(row) {
-  return `${row.org}\x00${row.kind}\x00${row.value}`;
+  return orgKey(row.org);
 }
 
 export function loadWorkSet() {
@@ -129,13 +134,13 @@ export function bindWorkCheckboxes(container, workSet, onChange) {
       const key = el.getAttribute("data-key");
       if (!key) return;
       toggleWork(key, el.checked);
-      if (el.checked) {
-        el.closest("tr")?.classList.add("in-work");
-        el.closest(".contact-line")?.classList.add("in-work");
-      } else {
-        el.closest("tr")?.classList.remove("in-work");
-        el.closest(".contact-line")?.classList.remove("in-work");
-      }
+      container.querySelectorAll(".work-check").forEach((cb) => {
+        if (cb.getAttribute("data-key") === key) cb.checked = el.checked;
+      });
+      container.querySelectorAll("tr").forEach((tr) => {
+        const cb = tr.querySelector(".work-check");
+        if (cb?.getAttribute("data-key") === key) tr.classList.toggle("in-work", el.checked);
+      });
       onChange?.();
     });
   });

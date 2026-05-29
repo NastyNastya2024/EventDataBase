@@ -93,6 +93,25 @@ tr.in-work:hover td {
   background: rgba(34, 197, 94, 0.18) !important;
 }
 
+.checks-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.check-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 0;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  min-height: 34px;
+}
+.check-line.in-work {
+  background: rgba(34, 197, 94, 0.12);
+  border-color: rgba(34, 197, 94, 0.25);
+}
+
 .contacts-cell {
   min-width: 280px;
 }
@@ -102,20 +121,17 @@ tr.in-work:hover td {
   gap: 6px;
 }
 .contact-line {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
   padding: 6px 8px;
   border-radius: 8px;
   border: 1px solid transparent;
+  min-height: 34px;
 }
 .contact-line.in-work {
   background: rgba(34, 197, 94, 0.12);
   border-color: rgba(34, 197, 94, 0.25);
-}
-.contact-row {
-  display: flex;
-  align-items: flex-start;
-  gap: 8px;
-  cursor: pointer;
-  margin: 0;
 }
 .contact-kind {
   flex-shrink: 0;
@@ -377,6 +393,16 @@ input[type="search"]:focus {
   border-radius: var(--radius);
   border: 1px solid var(--line);
   background: rgba(15, 23, 42, 0.015);
+}
+
+.col-site {
+  max-width: 120px;
+  width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  font-size: 12px;
+  line-height: 1.35;
 }
 
 .table {
