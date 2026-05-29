@@ -149,7 +149,7 @@ function renderPageNums(totalPages, curPage) {
 
 async function main() {
   statusEl.textContent = "Загрузка…";
-  const res = await fetch("./contacts.json", { cache: "no-store" });
+  const res = await fetch(`./contacts.json?_=${Date.now()}`, { cache: "no-store" });
   all = await res.json();
 
   // normalize fields to avoid runtime checks
