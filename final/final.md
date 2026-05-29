@@ -1,9 +1,10 @@
 ## FINAL — контакты + тип организации
 
-Источник: `all/all_contacts.md` + `all/all_no_focus_has_site.md` (тип по совпадению организации+сайта) + `final/org_type_overrides.md` (ручные оверрайды по названию) + `data/лофтв/loft2rent_moscow.csv` (лофты loft2rent.ru, тип «лофт») + `data/лофтв/reveltime_moscow_vecherinka.csv` (reveltime.ru) + `data/hotels/ostrovok_moscow_4_5_stars.csv` (ostrovok.ru, 4–5★) + `data/restaurants/greatlist_moscow_restaurants.csv` (greatlist.ru).
+Источник: `all/all_contacts.md` + `all/all_no_focus_has_site.md` (тип по совпадению организации+сайта) + `final/org_type_overrides.md` (ручные оверрайды по названию) + `data/лофтв/loft2rent_moscow.csv` (лофты loft2rent.ru, тип «лофт») + `data/лофтв/reveltime_moscow_vecherinka.csv` (reveltime.ru) + `data/hotels/ostrovok_moscow_4_5_stars.csv` (ostrovok.ru, 4–5★) + `data/restaurants/greatlist_moscow_restaurants.csv` (greatlist.ru) + `data/agencies/eventcatalog_event_agencies.csv` (eventcatalog.ru).
 
 | Организация | Тип | Сайт | Вид контакта | Контакт |
 |---|---|---|---|---|
+| !SHOWtime | ивент агентство | https://eventcatalog.ru/agency/showtime | phone | +7(495)380-02-95 / +7(925)301-35-13 |
 | "Комната". Бильярд, Музыка, Еда. | лофт | https://www.loft2rent.ru/loft/162190/162193 | phone | +7 981 291-72-02 |
 | "Культурный зал" | лофт | https://www.loft2rent.ru/loft/110170 | phone | +79213544851 |
 | "ЛОФТ-БАР" с караоке | лофт | https://www.loft2rent.ru/loft/80548 | phone | +7 962 699-21-44 |
@@ -30,6 +31,21 @@
 | 1 Арт Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid9764903/1_art_hotel | address | Староалексеевская улица, д.20, Москва |
 | 1 зал Караоке Лофт-студии | лофт | https://www.loft2rent.ru/loft/12511 | phone | +7 (968) 992 44 84 |
 | 1 Зал Шайн 45 м2 | лофт | https://www.loft2rent.ru/loft/125716 | phone | 89612267251 |
+| 10 Сказок | ивент агентство | https://eventcatalog.ru/agency/10_skazok | phone | +7(965) 428-92-73 |
+| 100 артистов | ивент агентство | https://eventcatalog.ru/agency/100_artistov | phone | +7(495) 920-36-97 |
+| 100 друзей | ивент агентство | https://eventcatalog.ru/agency/100_druzey | phone | +7(495) 762-89-32 |
+| 100 Праздников | ивент агентство | https://eventcatalog.ru/agency/100_prazdnikov | phone | +7(812) 635-73-99 / +7(812) 938-12-30 |
+| 100 Чудес | ивент агентство | https://eventcatalog.ru/agency/100_chudes | phone | +7(921)947-11-56 / +7(921)905-62-37 |
+| 1001 Праздник | ивент агентство | https://eventcatalog.ru/agency/1001_prazdnik | phone | +7(495) 542-40-69 |
+| 1001Party | ивент агентство | https://eventcatalog.ru/agency/1001party | phone | +7(499)398-26-40 |
+| 100лицА | ивент агентство | https://eventcatalog.ru/agency/100lica | phone | +7(38067) 377-52-10 |
+| 1147 event | ивент агентство | https://eventcatalog.ru/agency/1147_event | phone | +7(916)152-01-00 |
+| 116 праздников | ивент агентство | https://eventcatalog.ru/agency/116_prazdnikov | phone | +7(843) 250-11-16 / +7(917) 220-00-33 |
+| 12 Месяцев | ивент агентство | https://eventcatalog.ru/agency/12_mesyacev | phone | +78(964) 107-49-99 |
+| 123 Event | ивент агентство | https://eventcatalog.ru/agency/123_event | phone | +7(903)511-55-57 / +7(903)511-33-32 |
+| 123event | ивент агентство | https://eventcatalog.ru/agency/123event | phone | +7(909)909-18-88 / +7(903)511-33-32 |
+| 13 | ивент агентство | https://eventcatalog.ru/agency/13 | phone | +7(903) 275-07-22 |
+| 14 06 event&wedding | ивент агентство | https://eventcatalog.ru/agency/14_06_eventandwedding | phone | +7(916)591-30-77 |
 | 16 Тонн Арбат | лофт | https://www.loft2rent.ru/loft/197584/201762 | phone | 89264331399 |
 | 1839Винтажный зал в центре Москвы, зал Винтаж | лофт | https://www.loft2rent.ru/loft/210279/210337 | phone | +7 (929) 908 11 01 |
 | 1930 Moscow | концертная площадка / клуб | https://1930.moscow | email | hello@1930.moscow |
@@ -37,10 +53,15 @@
 | 1930 Moscow | концертная площадка / клуб | https://1930.moscow | social | https://t.me/moscow1930 |
 | 1930 Moscow | концертная площадка / клуб | https://1930.moscow | social | https://vk.com/moscow1930 |
 | 1930 Moscow | лофт | https://www.loft2rent.ru/loft/81295/81299 | phone | +7 925 747 1930 |
+| 1Маркетинг | ивент агентство | https://eventcatalog.ru/agency/1marketing | phone | +7(495)967-19-89 |
+| 2 Ежа | ивент агентство | https://eventcatalog.ru/agency/2_ezha | phone | +7(812)904-05-34 |
 | 2 Зал Караоке Лофт-студии | лофт | https://www.loft2rent.ru/loft/12511 | phone | +7 (968) 992 44 84 |
 | 2-х уровневое пространство с террасой | лофт | https://www.loft2rent.ru/loft/49928 | phone | 89031888081 |
+| 2048 events | ивент агентство | https://eventcatalog.ru/agency/2048_events | phone | +7(495)131-20-48 |
 | 207 | лофт | https://www.loft2rent.ru/loft/2518 | phone | +79689739030 |
 | 21.KultСтаринные залы в особняке 18 века "21.KULT" | лофт | https://www.loft2rent.ru/loft/82207/82209 | phone | 7 989 595 2121 |
+| 23 Тимбилдинга | ивент агентство | https://eventcatalog.ru/agency/23_timbildinga | phone | +7(918)152-87-87 |
+| 2S Production | ивент агентство | https://eventcatalog.ru/agency/2s_production | phone | +7(343)361-33-01 / +7(963)048-46-87 |
 | 2x2 Production | продакшн-студия | https://2x2tv.ru | email | abuse@2x2tv.ru |
 | 2x2 Production | продакшн-студия | https://2x2tv.ru | email | batman@2x2tv.ru |
 | 2x2 Production | продакшн-студия | https://2x2tv.ru | email | flags@2x.png |
@@ -71,11 +92,15 @@
 | 2x2 TV | телеканал | https://2x2tv.ru | social | https://t.me/telekanal2x2 |
 | 2x2 TV | телеканал | https://2x2tv.ru | social | https://vk.com |
 | 2x2 TV | телеканал | https://2x2tv.ru | social | https://vk.com/2x2tv |
+| 2Б Event | ивент агентство | https://eventcatalog.ru/agency/2b_event | phone | +7(925) 185-80-95 |
 | 3 Зал Бруклин 100 м2 | лофт | https://www.loft2rent.ru/loft/125716 | phone | 89612267251 |
 | 3 зал Караоке Лофт-студии | лофт | https://www.loft2rent.ru/loft/12511 | phone | +7 (968) 992 44 84 |
 | 3-е место - лофт на Тульской | лофт | https://www.loft2rent.ru/loft/75181 | phone | +79166683000 |
 | 300м²Апартамент в башне Москва - Сити Око на 70 этаже за МИЛЛИАРД | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | 314 LoftЛофт на Кленовом бульваре \ | Коломенской | лофт | https://www.loft2rent.ru/loft/74753/74755 | phone |
+| 33 удовольствия | ивент агентство | https://eventcatalog.ru/agency/33_udovoljstviya | phone | +7(495)740-96-37 / +7(926)353-33-04 |
+| 360 | ивент агентство | https://eventcatalog.ru/agency/360 | phone | +7(495)018-83-60 |
+| 38 попугаев | ивент агентство | https://eventcatalog.ru/agency/38_popugaev | phone | +7(863) 226-20-20 / +7(863) 291-77-20 |
 | 3DNews | медиа / IT-издание | https://3dnews.ru | email | admin@3dnews.ru |
 | 3DNews | медиа / IT-издание | https://3dnews.ru | email | akuzin@3dnews.ru |
 | 3DNews | медиа / IT-издание | https://3dnews.ru | email | alexa@3dnews.ru |
@@ -100,30 +125,55 @@
 | 3DNews | медиа / IT-издание | https://3dnews.ru | social | https://vk.com/ru_3dnews |
 | 3DNews | медиа / IT-издание | https://3dnews.ru | social | https://www.youtube.com/user/3DNewsRU |
 | 4 зал Караоке Лофт-студии | лофт | https://www.loft2rent.ru/loft/12511 | phone | +7 (968) 992 44 84 |
+| 404 Тут ничего нет | ивент агентство | https://eventcatalog.ru/agency/karambolj | social | https://eventcatalog.ru/agency/karambolj |
 | 44 Sky Daimond Aparment | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | 45 floor Big Apartments Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
 | 46 Black Apartments Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
+| 4best.ru | ивент агентство | https://eventcatalog.ru/agency/4best_ru | phone | +7(495) 507-69-39 |
 | 4Brewers pub | лофт | https://www.loft2rent.ru/loft/196740/197421 | phone | 89364444815 |
+| 4rooms | ивент агентство | https://eventcatalog.ru/agency/4rooms | phone | +7(495)797-95-67 |
 | 5 Зал Лондон 90 м2 | лофт | https://www.loft2rent.ru/loft/125716 | phone | 89612267251 |
 | 5 ЗВЁЗД | event-агентство | https://5zvezd.ru | social | https://t.me/kinoteatr5zvezd |
 | 5 ЗВЁЗД | event-агентство | https://5zvezd.ru | social | https://vk.com/5zvezd |
 | 5 ЗВЁЗД | event-агентство | https://5zvezd.ru | social | social |
 | 5 ЗВЁЗД | event-агентство | https://5zvezd.ru | social | social |
+| 5 элемент | ивент агентство | https://eventcatalog.ru/agency/5_element | phone | +7(911)778-50-52 |
+| 5-sector | ивент агентство | https://eventcatalog.ru/agency/5-sector | phone | +7(495) 518-44-35 / +7(926) 377-37-96 |
 | 54 floor Rise Global Угловой большой апартамент с заворажевающим видом на башни и Столицу! | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
 | 55 floor Atlanta Apartments Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
+| 5Stars | ивент агентство | https://eventcatalog.ru/agency/5stars | phone | +7(804)333-06-13 |
+| 5th Avenue | ивент агентство | https://eventcatalog.ru/agency/5th_avenue | phone | +7(495) 507-69-12 / +7(495) 772-46-90 |
 | 6 Зал Мани 55 м2 | лофт | https://www.loft2rent.ru/loft/125716 | phone | 89612267251 |
 | 61 floor Sky Апартмент в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | 66 floor Magic Апартаменты в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | 66 floor Rise Apartments EXСLUSIVE Угловой апартамент с замораживающим видом и ванной у окна! | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
+| 7 Dreams | ивент агентство | https://eventcatalog.ru/agency/7_dreams | phone | +7(800)222-50-66 |
+| 7 Events Communicatons | ивент агентство | https://eventcatalog.ru/agency/7_events_communicatons | phone | +7(495)565-34-81 |
+| 7 Sky | ивент агентство | https://eventcatalog.ru/agency/7_sky | phone | +7(371) 702-05-75 |
 | 71,2 м² Апартамент на 65 этаже Москва Сити с видом на комплекс башен Neva Towers (Moscow city Neva Towers) | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| 757 Event Agency | ивент агентство | https://757event.wixsite.com/event | phone | +7(985)118-93-33 |
 | 76 floor Rise Apartments Шикарный апартамент с видом на Москву! | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
+| 8 день | ивент агентство | https://eventcatalog.ru/agency/8_denj | phone | +7(050) 880-81-03 |
+| 8 человек | ивент агентство | https://eventcatalog.ru/agency/8_chelovek | phone | +7(909)060-69-16 |
 | 80 этаж! Самый высокий апартамент! Вид на МГУ, Лужники, Парк Победы, башни и город! | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
 | 800 Contemporary | ресторан | https://800degreesmoscow.ru/ | phone | +74997693333 |
+| 88 Project | ивент агентство | https://eventcatalog.ru/agency/88_project | phone | +7(916) 083-26-73 / +7(916) 193-77-48 |
+| 9 идей | ивент агентство | https://eventcatalog.ru/agency/9_idey | phone | +7(495) 998-69-42 |
 | 90FloorMYTH \ | 90Floor | лофт | https://www.loft2rent.ru/loft/63709/68443 | phone |
 | 90FloorSKY \ | 90Floor | лофт | https://www.loft2rent.ru/loft/63709/63741 | phone |
 | 90FloorПанорамный ресторан китайской кухни MUME | лофт | https://www.loft2rent.ru/loft/63709/123926 | phone | +7 495 489 90 90 |
+| [2-Smart] | ивент агентство | https://eventcatalog.ru/agency/2-smart | phone | +7(495) 984-32-52 |
 | [KU:] Рамен Изакая | ресторан / бар | https://kuramen.ru/ | phone | +74996090069 |
+| A one publicity | ивент агентство | https://eventcatalog.ru/agency/a_one_publicity | phone | +7(343) 382-53-22 |
+| A PROduction | ивент агентство | https://eventcatalog.ru/agency/a_production | phone | +7(903)235-55-12 |
+| A-LIGA Ukraine | ивент агентство | https://eventcatalog.ru/agency/a-liga_ukraine | phone | +7(044)232-85-67 / +7(050)410-69-64 |
 | A-More Loft / А'Море | лофт | https://www.loft2rent.ru/loft/104772 | phone | +79772959526 |
+| A-story | ивент агентство | https://eventcatalog.ru/agency/agentstvo_a-story_event | phone | +7(922)124-19-28 |
+| A.S.A.P. | ивент агентство | https://eventcatalog.ru/agency/a_s_a_p | phone | +7(495) 933-95-79 / +7(917) 511-35-68 |
+| A1 Agency, Пермь | ивент агентство | https://eventcatalog.ru/agency/a1_agency_permj | phone | +7(342)259-23-89 |
+| A1 Luxury Events | ивент агентство | https://eventcatalog.ru/agency/a1_luxury_events | phone | +380(44)501-01-15 |
+| A1 Mice Group | ивент агентство | https://eventcatalog.ru/agency/a1_mice_group | phone | +7(383)311-05-91 / +7(913)946-68-00 |
+| A1 Team | ивент агентство | https://eventcatalog.ru/agency/a1_team | phone | +7(495)799-49-59 |
 | A101 Development | девелопер | https://a101.ru | phone | +7 (499) 110-18-73 |
 | A101 Development | девелопер | https://a101.ru | social | https://dzen.ru/a101 |
 | A101 Development | девелопер | https://a101.ru | social | https://ok.ru/group/70000045379794 |
@@ -134,12 +184,28 @@
 | AB InBev Efes | производитель напитков | https://abinbevefes.ru | email | info@napitkivmeste.ru |
 | AB InBev Efes | производитель напитков | https://abinbevefes.ru | social | https://vk.com/napitki_vmeste?from=groups |
 | AB InBev Efes | производитель напитков | https://abinbevefes.ru | social | https://vk.com/prokachaemtusu |
+| AB Studio | ивент агентство | https://eventcatalog.ru/agency/ab_studio | phone | +7(983)131-59-15 / +7(913)983-49-74 |
+| ABC Modus | ивент агентство | https://eventcatalog.ru/agency/abc_modus | phone | +7(812)940-60-68 |
+| abd: Entertainment | ивент агентство | http://abd-ent.ru | phone | +7(495)107-05-24 / +7(905)704-20-20 |
+| ABIStrade | ивент агентство | https://eventcatalog.ru/agency/abistrade | phone | +7(391) 202-62-64 / +7(913) 538-77-32 |
+| ABS-training | ивент агентство | https://eventcatalog.ru/agency/abs-training | phone | +7(495)644-54-67 / +7(910)419-39-68 |
+| Absolutpro | ивент агентство | https://eventcatalog.ru/agency/absolutpro | phone | +7(495) 739-79-49 |
+| AC Events | ивент агентство | https://eventcatalog.ru/agency/ac_events | phone | +7(727) 279-72-32 / +7(777) 270-04-22 |
 | Academia Antikino / Академия АнтикиноБор | лофт | https://www.loft2rent.ru/loft/124262/124576 | phone | 7 919 725-17-16 |
 | Academia Antikino / Академия АнтикиноКлассический лофт Академии | лофт | https://www.loft2rent.ru/loft/124262/124649 | phone | 7 919 725-17-16 |
 | Academia Antikino / Академия АнтикиноСаванна | лофт | https://www.loft2rent.ru/loft/124262/124578 | phone | 7 919 725-17-16 |
 | Academia Antikino / Академия АнтикиноТропики | лофт | https://www.loft2rent.ru/loft/124262/124567 | phone | 7 919 725-17-16 |
+| Academy | ивент агентство | https://eventcatalog.ru/agency/academy | phone | +7(861)290-99-55 / +7(861)290-00-60 |
 | Accademia del GustoКулинарная студия Accademia del Gusto | лофт | https://www.loft2rent.ru/loft/34892/35122 | phone | +74993254167 |
 | Accademia del GustoКулинарная студия Accademia del Gusto (зал 2) | лофт | https://www.loft2rent.ru/loft/34892/42748 | phone | +74993254167 |
+| Ace Company | ивент агентство | https://eventcatalog.ru/agency/ace_company | phone | +7(812) 448-53-26 / +7(904) 638-06-90 |
+| Ace Events | ивент агентство | https://eventcatalog.ru/agency/ace_events | phone | +7(499)755-55-65 |
+| ACG | ивент агентство | https://eventcatalog.ru/agency/acg | phone | +7(495) 234-99-78 / +7(495) 258-80-11 |
+| ACK | ивент агентство | https://eventcatalog.ru/agency/ack | phone | +7(916) 937-83-49 / +7(903) 722-66-98 |
+| Action | ивент агентство | https://eventcatalog.ru/agency/action | phone | +7(495) 988-40-20 / +7(906) 044-85-85 |
+| Active Party | ивент агентство | https://eventcatalog.ru/agency/active_party | phone | +7(495) 782-69-94 / +7(495) 782-69-95 |
+| Activity group | ивент агентство | https://eventcatalog.ru/agency/activity_group | phone | +7(495)669-74-11 |
+| Adagio | ивент агентство | https://eventcatalog.ru/agency/adagio | phone | +7(351) 750-70-00 / +7(351) 217-97-47 |
 | Adagio Kievskaya | апарт-отель | https://adagiokievskaya.ru | email | h8225-re@accor.ru |
 | Adagio Kievskaya | апарт-отель | https://adagiokievskaya.ru | email | h8225@accor.com |
 | Adagio Kievskaya | апарт-отель | https://adagiokievskaya.ru | email | zakupki@accorkievskaya.ru |
@@ -153,6 +219,8 @@
 | Adagio Moscow Sheremetyevo | апарт-отель | https://accor.ru/moscow/adagio-moscow-paveletskaya | social | https://t.me/accor_ru |
 | Adagio Moscow Sheremetyevo | апарт-отель | https://accor.ru/moscow/adagio-moscow-paveletskaya | social | https://vk.com/accor.russia |
 | Adagio Moscow Sheremetyevo | апарт-отель | https://accor.ru/moscow/adagio-moscow-paveletskaya | social | https://vk.com/im/channels/-237010294 |
+| Add-Art | ивент агентство | https://eventcatalog.ru/agency/add-art | phone | +7(916)313-60-59 |
+| Addmo | ивент агентство | https://eventcatalog.ru/agency/addmo | phone | +7(937)005-87-03 / +7(499)390-13-46 |
 | AdIndex | медиа / маркетинговое издание | https://adindex.ru | email | help@adindex.ru |
 | AdIndex | медиа / маркетинговое издание | https://adindex.ru | email | info@adindex.ru |
 | AdIndex | медиа / маркетинговое издание | https://adindex.ru | email | rating@mail.ru |
@@ -168,7 +236,19 @@
 | AdMe | digital-медиа | https://adme.media | social | https://t.me/adme_ru_official |
 | AdMe | digital-медиа | https://adme.media | social | https://www.odnoklassniki.ru/group/53042196709492 |
 | AdMe | digital-медиа | https://adme.media | social | https://www.youtube.com/channel/UCuVpbMt4yu4I9eAey3khnGg |
+| AdMIX | ивент агентство | https://eventcatalog.ru/agency/admix | phone | +7(495) 276-20-10 |
+| Adora Новокузнецк | ивент агентство | https://eventcatalog.ru/agency/adora_novokuzneck | phone | +7(800)500-95-65 |
 | Adornos Center | лофт | https://www.loft2rent.ru/loft/207664/207805 | phone | +79850787134 |
+| Adpromo | ивент агентство | https://eventcatalog.ru/agency/adpromo | phone | +7(909) 626-60-74 |
+| Advanced Work System | ивент агентство | https://eventcatalog.ru/agency/advanced_work_system | phone | +7(495)231-42-72 |
+| Advanza Event Management | ивент агентство | https://eventcatalog.ru/agency/advanza_event_management | phone | +7(495)150-04-78 |
+| Adventure Bus | ивент агентство | https://eventcatalog.ru/agency/adventure_bus | phone | +7(909)791-87-00 |
+| Adventure Races | ивент агентство | https://eventcatalog.ru/agency/adventure_races | phone | +7(812) 930-47-40 / +7(921) 328-46-88 |
+| Advert expert | ивент агентство | https://eventcatalog.ru/agency/advert_expert | phone | +7(4212)45-01-39 / +7(924)105-50-37 |
+| Advert Media Group | ивент агентство | https://eventcatalog.ru/agency/advert_media_group | phone | +7(495) 972-27-87 |
+| Advertmediagroup | ивент агентство | https://eventcatalog.ru/agency/advertmediagroup | phone | +7(495) 972-27-87 / +7(926) 203-22-52 |
+| Aelita Show | ивент агентство | https://eventcatalog.ru/agency/aelita_show | phone | +7(495) 974-11-44 |
+| Aero | ивент агентство | https://eventcatalog.ru/agency/aero | phone | +992-90-290-9900 |
 | Aerostar | отель | https://aerogrupp.ru | email | baltaerostar@yandex.ru |
 | Aerostar | отель | https://aerogrupp.ru | email | ekb@aerostarmsk.ru |
 | Aerostar | отель | https://aerogrupp.ru | email | info@bromocompany.ru |
@@ -700,10 +780,14 @@
 | Afisha Media | медиахолдинг | https://www.afisha.ru | social | https://ok.ru/afisha |
 | Afisha Media | медиахолдинг | https://www.afisha.ru | social | https://t.me/afisha |
 | Afisha Media | медиахолдинг | https://www.afisha.ru | social | https://vk.com/public1672730 |
+| AG | ивент агентство | https://eventcatalog.ru/agency/ag | phone | +7(812)576-78-08 |
 | AG LOFTCHALET / ШАЛЕ | лофт | https://www.loft2rent.ru/loft/1926/44130 | phone | +7 (495) 032-36-35 |
+| Agency for you | ивент агентство | https://eventcatalog.ru/agency/agency_for_you | phone | +7(962) 920-71-11 / +7(495) 972-81-04 |
 | Agnostic Loft. Лофт с верандой | лофт | https://www.reveltime.ru/venue/2407981?eventtype=vecherinka | phone | +79263579391 |
 | AGNOSTIC Лофт ( 130 м.кв) с Тёплой Верандой(45 кв.м) , Грилем и лучшим звуком ( с середины июня будет выход на крышу 350 м.кв) | лофт | https://www.loft2rent.ru/loft/13771 | phone | +79263579391 |
+| Agnum event | ивент агентство | https://eventcatalog.ru/agency/agnum_event | phone | +31-62-689-1251 |
 | AGT Communications | коммуникационное / PR-агентство | https://agtcomm.com | phone | +7 495 933-18-66 |
+| AI Project | ивент агентство | https://eventcatalog.ru/agency/ai_project | phone | +7(917) 556-10-12 / +7(926) 230-99-66 |
 | AirExpress Hotel | отель | https://www.putevka.com/hotels/russia/khimki/vozdushnyi_ekspress_terminal_e | email | 939@putevka.com |
 | AirExpress Hotel | отель | https://www.putevka.com/hotels/russia/khimki/vozdushnyi_ekspress_terminal_e | email | bron@v-exp.ru |
 | AirExpress Hotel | отель | https://www.putevka.com/hotels/russia/khimki/vozdushnyi_ekspress_terminal_e | phone | +7 (499) 703-01-20 |
@@ -712,12 +796,22 @@
 | AirExpress Hotel | отель | https://www.putevka.com/hotels/russia/khimki/vozdushnyi_ekspress_terminal_e | social | https://t.me/PutevkaComRu |
 | AirExpress Hotel | отель | https://www.putevka.com/hotels/russia/khimki/vozdushnyi_ekspress_terminal_e | social | https://vk.com/putevkacom |
 | AirExpress Hotel | отель | https://www.putevka.com/hotels/russia/khimki/vozdushnyi_ekspress_terminal_e | social | https://www.youtube.com/channel/UC0lyTcC63gfSJSpSJTQjHGw |
+| AirSound Studio | ивент агентство | https://eventcatalog.ru/agency/airsound_studio | phone | +7(812) 958-35-36 |
 | Aitarget One | adtech / martech компания | https://aitarget.com | email | support@evido.me |
 | Aitarget One | adtech / martech компания | https://aitarget.com | phone | +19406251628 |
 | Aitarget One | adtech / martech компания | https://aitarget.com | social | https://www.facebook.com/share/18iG4bsuMF/?mibextid=wwXIfr |
 | Aitarget One | adtech / martech компания | https://aitarget.com | social | https://www.instagram.com/evido.global?igsh=MXgxcWQ5Z3J2czBycQ== |
 | Aitarget One | adtech / martech компания | https://aitarget.com | social | https://www.linkedin.com/company/evido-global |
 | AJNA LOFT-BOUTIQUE | лофт | https://www.loft2rent.ru/loft/112573 | phone | +79817600001 |
+| AK event | ивент агентство | https://eventcatalog.ru/agency/ak_event | phone | +7(926) 787-38-48 |
+| Albion | ивент агентство | https://eventcatalog.ru/agency/albion | phone | +7(927)745-65-55 |
+| Alef | ивент агентство | https://eventcatalog.ru/agency/alef | phone | +7(495)937-01-95 / +7(495)227-50-77 |
+| Alex | ивент агентство | https://eventcatalog.ru/agency/alex | phone | +7(918) 142-07-02 |
+| Alex Acid promo-studio | ивент агентство | https://eventcatalog.ru/agency/alex_acid_promo-studio | phone | +7(38096) 237-93-00 / +7(38092) 786-04-90 |
+| Alex-Show Events | ивент агентство | https://eventcatalog.ru/agency/alex-show_events | phone | +7(916)806-45-94 |
+| Alexagency | ивент агентство | https://eventcatalog.ru/agency/alexagency | phone | +7(926)336-72-59 / +7(916)577-64-70 |
+| Alexgroup | ивент агентство | https://alexgrim.ru/timbilding-v-moskve | phone | +7(495)721-54-22 / +7(903)792-04-86 |
+| Alfa | ивент агентство | https://eventcatalog.ru/agency/alfa | phone | +7(951) 905-10-88 |
 | Alfa Capital | инвестиционная компания / УК | https://www.alfacapital.ru | email | claim@alfacapital.ru |
 | Alfa Capital | инвестиционная компания / УК | https://www.alfacapital.ru | email | info@alfacapital.ru |
 | Alfa Capital | инвестиционная компания / УК | https://www.alfacapital.ru | email | marketing@alfacapital.ru |
@@ -730,7 +824,9 @@
 | Alfa Capital | инвестиционная компания / УК | https://www.alfacapital.ru | social | https://rutube.ru/channel/26050275 |
 | Alfa Capital | инвестиционная компания / УК | https://www.alfacapital.ru | social | https://t.me/+7PrqAZ_cAtM5MzIy |
 | Alfa Capital | инвестиционная компания / УК | https://www.alfacapital.ru | social | https://vk.com/alfacapital |
+| Alfa-Music | ивент агентство | https://eventcatalog.ru/agency/alfa-music | phone | +7(903)549-36-30 |
 | Alibi LoftALIBI loft | лофт | https://www.loft2rent.ru/loft/39664/39667 | phone | +7 915 052 80 83 |
+| All Motion Group | ивент агентство | https://eventcatalog.ru/agency/all_motion_group | phone | +380(44)501-14-39 |
 | ALL WEDDINGS | свадебное агентство | http://allweddings.ru | email | email |
 | ALL WEDDINGS | свадебное агентство | http://allweddings.ru | email | info@allweddings.ru |
 | ALL WEDDINGS | свадебное агентство | http://allweddings.ru | phone | +7 (962) 922-02-25 |
@@ -744,11 +840,26 @@
 | ALL WEDDINGS | свадебное агентство | http://allweddings.ru | phone | +7 (962) 922-02-25 |
 | ALL WEDDINGS | свадебное агентство | http://allweddings.ru | social | https://t.me/anna_lankovich?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20All%20weddings.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ALL WEDDINGS | свадебное агентство | http://allweddings.ru | social | https://www.instagram.com/all___weddings |
+| Alldreams | ивент агентство | https://eventcatalog.ru/agency/alldreams | phone | +7(985) 761-01-50 |
 | Alle Hall уютное пространство для ваших мероприятий | лофт | https://www.loft2rent.ru/loft/121787 | phone | +74998881829 |
+| Alliance production | ивент агентство | https://eventcatalog.ru/agency/alliance_production | phone | +7(918) 502-07-78 / +7(908) 175-77-85 |
+| Allnighters Marketing Communications | ивент агентство | https://eventcatalog.ru/agency/allnighters_marketing_communications | phone | +7(926) 636-85-31 / +7(925) 545-16-57 |
+| Allo Director | ивент агентство | https://eventcatalog.ru/agency/allo_director | phone | +7(495)777-22-36 |
 | AllShapes Loft | лофт | https://www.loft2rent.ru/loft/106044/127341 | phone | +79154653461 |
 | AllShapes LoftМосковский Императорский Яхт клуб | лофт | https://www.loft2rent.ru/loft/106044/113862 | phone | +79154653461 |
+| Alma Vista | ивент агентство | https://eventcatalog.ru/agency/alma_vista | phone | +7(495) 545-29-29 |
 | Aloha loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Alter Ego | ивент агентство | https://eventcatalog.ru/agency/alter_ego | phone | +7(495) 973-76-30 |
+| Always in Trend | ивент агентство | https://eventcatalog.ru/agency/always_in_trend | phone | +7(495)799-01-78 |
+| Amar production | ивент агентство | https://eventcatalog.ru/agency/amar_production | phone | +7(495)211-01-46 / +7(903)972-38-56 |
+| Amazing Holiday | ивент агентство | https://eventcatalog.ru/agency/amazing_holiday | phone | +7(499) 409-83-20 / +7(910) 444-28-38 |
+| AMC | ивент агентство | https://eventcatalog.ru/agency/amc | phone | +7(495)280-01-50 |
 | American Chamber of Commerce Russia | бизнес-ассоциация | https://amcham.ru | email | amcham@amcham.ru |
+| Amigoz | ивент агентство | https://eventcatalog.ru/agency/amigoz | phone | +7(499)755-55-79 / +7(916)033-69-61 |
+| Amorevento | ивент агентство | https://eventcatalog.ru/agency/amorevento | phone | +34(617)818-337 / +7(896)889-41-25 |
+| AMT | ивент агентство | https://eventcatalog.ru/agency/amt | phone | +7(495) 632-26-14 / +7(495) 632-26-15 |
+| Anastasia Shirokova | ивент агентство | https://eventcatalog.ru/agency/anastasia_shirokova | phone | +7(967)135-55-19 |
+| AnastasiaPR | ивент агентство | https://eventcatalog.ru/agency/anastasiapr | phone | +7(495) 721-39-84 |
 | Anchovy's Club | ресторан / клуб | https://anchovys.club/?utm_source=greatlist.com&utm_medium=partner | email | folk@folkteam.ru |
 | Anchovy's Club | ресторан / клуб | https://anchovys.club/?utm_source=greatlist.com&utm_medium=partner | phone | +7 (936) 888-45-55 |
 | Anchovy's Club | ресторан / клуб | https://anchovys.club/?utm_source=greatlist.com&utm_medium=partner | social | https://t.me/anchovys_club |
@@ -767,17 +878,32 @@
 | ANDRONOVA WEDDING | свадебное агентство | http://www.andronova-wedding.ru | phone | +7 (926) 177-10-62 |
 | ANDRONOVA WEDDING | свадебное агентство | http://www.andronova-wedding.ru | social | https://t.me/andronovawed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20ANDRONOVA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ANDRONOVA WEDDING | свадебное агентство | http://www.andronova-wedding.ru | social | https://www.instagram.com/andronova.wedding |
+| Andy Fiord Fashion Advertising | ивент агентство | https://eventcatalog.ru/agency/andy_fiord_fashion_advertising | phone | +7(812)960-06-33 / +7(921)944-10-10 |
 | ANDY HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
+| Angel`s Factory | ивент агентство | https://eventcatalog.ru/agency/angel_s_factory | phone | +7(495) 721-77-83 / +7(915) 170-76-57 |
 | ANGELBLESS | лофт | https://www.loft2rent.ru/loft/182805/182807 | phone | +79620358888 |
+| Angie Carso | ивент агентство | https://eventcatalog.ru/agency/angie_carso | phone | +7(913)008-56-98 / +7(923)193-09-83 |
 | Angle 30 floor Apartments Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
+| Anima Promo | ивент агентство | https://eventcatalog.ru/agency/anima_promo | phone | +7(343)361-42-30 / +7(922)612-59-68 |
+| Anjoy | ивент агентство | https://eventcatalog.ru/agency/anjoy | phone | +7(967)288-8050 |
+| Anna Legenda | ивент агентство | https://eventcatalog.ru/agency/anna_legenda | phone | +7(918)028-72-10 |
+| Ansilum | ивент агентство | https://eventcatalog.ru/agency/ansilum | phone | +7(495)661-77-71 |
 | Antares Event | event-агентство | https://antares-event.ru | email | email |
 | Antares Event | event-агентство | https://antares-event.ru | email | info@antares-event.ru |
+| Antego | ивент агентство | http://antego.ru | phone | +7(495)796-03-36 |
+| Anterra group | ивент агентство | https://eventcatalog.ru/agency/anterra_group | phone | +7(915) 575-07-41 |
 | Anvil Club | премиальный фитнес / private club | https://anvilclub.ru | email | anvilfit@anvilclub.ru |
 | Anvil Club | премиальный фитнес / private club | https://anvilclub.ru | email | info@anvilclub.ru |
 | Anvil Club | премиальный фитнес / private club | https://anvilclub.ru | phone | +7 (499) 551-51-11 |
 | Anvil Club | премиальный фитнес / private club | https://anvilclub.ru | social | https://t.me/anvilclub_f |
+| Any Party | ивент агентство | https://eventcatalog.ru/agency/any_party | phone | +7(495)720-83-03 |
+| Aofmoka | ивент агентство | https://eventcatalog.ru/agency/aofmoka | phone | +7(910)527-13-21 / +7(967)225-41-65 |
+| Apelcin Entertainment Company | ивент агентство | https://eventcatalog.ru/agency/apelcin_entertainment_company | phone | +7(812) 921-56-60 / +7(911) 921-56-60 |
+| Apple Love | ивент агентство | https://eventcatalog.ru/agency/apple_love | phone | +420(608)348-513 |
 | Apple Russia | технологическая компания | https://www.apple.com | phone | +18006927753 |
 | Apriori Photo Коричневый лофт с верандой | лофт | https://www.reveltime.ru/venue/455631?eventtype=vecherinka | phone | +74950034525 |
+| Apriorico | ивент агентство | https://eventcatalog.ru/agency/apriorico | phone | +7(812)363-37-38 / +7(812)961-62-45 |
+| Apriory Day | ивент агентство | https://eventcatalog.ru/agency/apriory_day | phone | +7(473) 295-35-95 / +7(473) 228-50-08 |
 | Aquamarine | отель | https://ostrovok.ru/hotel/russia/moscow/mid9291722/crowne_plaza_moscow_tretyakovskaya | address | Озерковская наб., д. 26, Москва |
 | Aquarel Hall | лофт | https://www.loft2rent.ru/loft/74440 | phone | 88124674730 |
 | Ararat Park Hyatt | luxury-отель | https://araratparkhotel.ru | email | moscow.park@araratph.ru |
@@ -837,6 +963,10 @@
 | Arendalofta_nnMisterio (Мистерио) | лофт | https://www.loft2rent.ru/loft/76195/178884 | phone | 8 (929) 055-18-05 |
 | Arendalofta_nnЛофт "Стеклянный Дом" | лофт | https://www.loft2rent.ru/loft/76195/161570 | phone | 8 929 055 18 05 |
 | Arendalofta_nnПогружение Loft | лофт | https://www.loft2rent.ru/loft/76195/76220 | phone | +79290551805 |
+| ARG-студия Yeti | ивент агентство | https://eventcatalog.ru/agency/arg-studiya_yeti | phone | +7(922) 625-93-04 / +7(922) 625-53-04 |
+| ArGon Promo | ивент агентство | https://eventcatalog.ru/agency/argon_promo | phone | +7(925)288-69-59 / +7(925)288-72-74 |
+| Ark Connect | ивент агентство | https://eventcatalog.ru/agency/ark_connect | phone | +7(495) 748-48-35 / +7(926) 745-02-93 |
+| Arl-group | ивент агентство | https://arl-group.ru | phone | +7(495)956-29-68 / +7(926)879-70-84 |
 | ARMA / Mutabor ecosystem | музыкальный / event ecosystem | https://mutabor.club | social | https://t.me/armaseventeen |
 | ARMA / Mutabor ecosystem | музыкальный / event ecosystem | https://mutabor.club | social | https://vk.com/armaseventeen |
 | ARMA / Mutabor ecosystem | музыкальный / event ecosystem | https://mutabor.club | social | https://www.instagram.com/armaseventeen |
@@ -854,7 +984,19 @@
 | Aroundbrand | брендинговое агентство | https://aroundbrand.ru | email | info@aroundbrand.ru |
 | Aroundbrand | брендинговое агентство | https://aroundbrand.ru | phone | +7 (495) 222-37-47 |
 | Aroundbrand | брендинговое агентство | https://aroundbrand.ru | phone | phone |
+| Aroundbrand | ивент агентство | http://aroundbrand.ru | phone | +7(495)222-37-47 |
+| Ars Production | ивент агентство | https://eventcatalog.ru/agency/ars_production | phone | +7(985)233-03-11 |
+| Art Event | ивент агентство | https://eventcatalog.ru/agency/art_event | phone | +7(495) 772-91-72 / +7(903) 150-29-54 |
+| Art Event Group | ивент агентство | https://eventcatalog.ru/agency/art_event_group | phone | +7(495) 544-75-33 / +7(495) 743-97-64 |
+| Art events | ивент агентство | https://eventcatalog.ru/agency/art_events | phone | +7(927)811-91-48 |
+| ART In Style | ивент агентство | https://eventcatalog.ru/agency/art_in_style | phone | +7 (495) 923-28-38 |
+| Art land | ивент агентство | https://eventcatalog.ru/agency/art_land | phone | +7(910)732-31-22 / +7(903)798-31-45 |
+| Art Liga s.r.o. | ивент агентство | https://eventcatalog.ru/agency/art_liga_s_r_o | phone | +7(420) 774-50-53 |
+| Art Line | ивент агентство | https://eventcatalog.ru/agency/art_line | phone | +7(050) 742-60-84 / +7(050) 374-11-31 |
 | Art Loft | лофт | https://www.loft2rent.ru/loft/89066/89068 | phone | 89854469081 |
+| Art mafia | ивент агентство | https://eventcatalog.ru/agency/art_mafia | phone | +7(095) 389-33-93 / +7(062) 208-33-03 |
+| Art Management Group | ивент агентство | https://eventcatalog.ru/agency/art_management_group | phone | +7(962) 922-22-53 |
+| Art Master | ивент агентство | https://eventcatalog.ru/agency/art_master | phone | +7(4942) 30-07-53 / +7(9903) 634-67-53 |
 | Art Moscow | арт-ярмарка / выставка | https://art-moscow.ru | email | managers@expopark.ru |
 | Art Moscow | арт-ярмарка / выставка | https://art-moscow.ru | phone | +7 (495) 369-47-00 |
 | Art Moscow | арт-ярмарка / выставка | https://art-moscow.ru | social | https://t.me/artmoscowfair |
@@ -869,7 +1011,28 @@
 | ART Moscow Voyage Hotel | отель | https://artmoscowhotel.ru | social | https://vk.com/artmoscowhotel |
 | ART Moscow Voyage Hotel | отель | https://artmoscowhotel.ru | social | https://www.facebook.com/artmoscowhotel |
 | ART Moscow Voyage Hotel | отель | https://artmoscowhotel.ru | social | https://www.instagram.com/artmoscowhotel |
+| Art Moskva | ивент агентство | https://eventcatalog.ru/agency/art_moskva | phone | +7(495) 774-99-19 / +7(903) 775-18-11 |
+| Art Music Service | ивент агентство | https://eventcatalog.ru/agency/art_music_service | phone | +380(99)931-39-55 |
+| Art Name | ивент агентство | https://eventcatalog.ru/agency/art_name | phone | +7(495) 542-40-98 |
+| Art of Choice | ивент агентство | https://eventcatalog.ru/agency/art_of_choice | phone | +7(495) 661-46-86 / +7(812) 438-77-24 |
+| Art Paradizz | ивент агентство | https://eventcatalog.ru/agency/art_paradizz | phone | +7(968)882-40-10 / +7(968)882-40-07 |
+| Art Party Club | ивент агентство | https://eventcatalog.ru/agency/art_party_club | phone | +7(962)993-79-93 |
+| Art Pozitiff | ивент агентство | https://eventcatalog.ru/agency/art_pozitiff | phone | +7(911)518-63-33 / +7(8202)61-63-33 |
+| Art room | ивент агентство | https://eventcatalog.ru/agency/art_room | phone | +7(495) 307-14-35 / +7(495) 543-76-14 |
+| Art S.H.T.A.B | ивент агентство | https://eventcatalog.ru/agency/art_s_h_t_a_b | phone | +7(495) 959-37-56 / +7(495) 959-37-58 |
+| Art Tech | ивент агентство | https://eventcatalog.ru/agency/art_tech | phone | +7(921) 876-65-55 / +7(921) 930-88-63 |
 | Art Union Двухуровневый арт-лофт | лофт | https://www.reveltime.ru/venue/4370594?eventtype=vecherinka | phone | +79959013745 |
+| Art Urban | ивент агентство | https://eventcatalog.ru/agency/art_urban | phone | +7(495)971-83-85 |
+| Art Vivat | ивент агентство | https://eventcatalog.ru/agency/art_vivat | phone | +7(926) 557-81-15 |
+| Art'Ok | ивент агентство | https://eventcatalog.ru/agency/artok | phone | +7(495) 641-11-61 / +7(926) 405-77-55 |
+| ART- Festival | ивент агентство | https://eventcatalog.ru/agency/art-_festival | phone | +7(812) 326-82-42 |
+| Art-agency | ивент агентство | https://eventcatalog.ru/agency/art-agency | phone | +7(495) 542-87-71 |
+| Art-Event | ивент агентство | https://eventcatalog.ru/agency/art-event | phone | +7(499)398-29-96 / +7(903)150-29-54 |
+| Art-Happyday | ивент агентство | https://eventcatalog.ru/agency/art-happyday | phone | +7(499) 391-86-06 |
+| Art-Peoples | ивент агентство | https://eventcatalog.ru/agency/art-peoples | phone | +7(915) 089-99-90 |
+| Art-Кабинет | ивент агентство | https://eventcatalog.ru/agency/art-kabinet | phone | +7(926) 840-01-20 / +7(926) 843-18-26 |
+| Art-Триумф | ивент агентство | https://eventcatalog.ru/agency/art-triumf | phone | +7(495)723-57-68 / +7(903)722-94-27 |
+| Art4promotion | ивент агентство | https://eventcatalog.ru/agency/art4promotion | phone | +420(773)474-204 / +420(387)311-125 |
 | Art9.2Blue sky | лофт | https://www.loft2rent.ru/loft/132452/132931 | phone | 89911772529 |
 | Art9.2Color | лофт | https://www.loft2rent.ru/loft/132452/132562 | phone | 89911772529 |
 | Art9.2scene | лофт | https://www.loft2rent.ru/loft/132452/132924 | phone | 89911772529 |
@@ -879,6 +1042,14 @@
 | Art9.2Зал 3  Neoni | лофт | https://www.loft2rent.ru/loft/132452/133745 | phone | +79911772529 |
 | Art9.2Зал 4 Black 75м | лофт | https://www.loft2rent.ru/loft/132452/133750 | phone | +79911772529 |
 | Art9.2Зал 5 Loft 80м | лофт | https://www.loft2rent.ru/loft/132452/133766 | phone | +79911772529 |
+| Art`elle | ивент агентство | https://eventcatalog.ru/agency/art_elle | phone | +7(495) 508-42-09 / +7(495) 507-84-50 |
+| Artbuzz | ивент агентство | https://eventcatalog.ru/agency/artbuzz | phone | +7(846)270-68-68 |
+| ARTcommunity | ивент агентство | https://eventcatalog.ru/agency/artcommunity | phone | +7(495)580-14-44 |
+| Artem Haka | ивент агентство | https://eventcatalog.ru/agency/artem_haka | phone | +7(8142)63-83-66 / +7(953)535-55-51 |
+| ArtEvent Group | ивент агентство | https://eventcatalog.ru/agency/artevent_group | phone | +7(921)934-70-84 / +7(921)943-09-23 |
+| Artfabrik | ивент агентство | https://eventcatalog.ru/agency/artfabrik | phone | +7(926) 779-93-08 / +7(495) 796-16-62 |
+| Artformula | ивент агентство | https://eventcatalog.ru/agency/artformula | phone | +7(495) 920-59-89 |
+| ArtHoliday | ивент агентство | https://eventcatalog.ru/agency/artholiday | phone | +7(925) 059-60-10 / +7(925) 849-99-91 |
 | Arthurs Village & SPA | spa-отель | https://arthurs-hotels.ru | email | hb922-fo1@accor.ru |
 | Arthurs Village & SPA | spa-отель | https://arthurs-hotels.ru | email | hb922@accor.ru |
 | Arthurs Village & SPA | spa-отель | https://arthurs-hotels.ru | phone | +7 (495) 150-41-21 |
@@ -895,6 +1066,8 @@
 | Artmona LoftArtmona Loft CASTLE | лофт | https://www.loft2rent.ru/loft/79154/79159 | phone | +79777174500 |
 | Artmona LoftArtmona Oriental | лофт | https://www.loft2rent.ru/loft/79154/88954 | phone | +79777174500 |
 | Artmona LoftArtmona Studio | лофт | https://www.loft2rent.ru/loft/79154/88945 | phone | +79777174500 |
+| Artnonstop | ивент агентство | https://eventcatalog.ru/agency/artnonstop | phone | +7(926) 397-23-80 / +7(926) 556-55-99 |
+| ArtOks | ивент агентство | https://eventcatalog.ru/agency/artoks | phone | +7(495) 641-11-60 / +7(495) 973-02-07 |
 | Artplay | креативный кластер | https://artplay.ru | email | arenda@artplay.ru |
 | Artplay | креативный кластер | https://artplay.ru | email | artplay@boconcept.ru |
 | Artplay | креативный кластер | https://artplay.ru | email | artplay@brooklynkitchen.ru |
@@ -981,15 +1154,28 @@
 | Artplay Design Center | дизайн-кластер | https://artplay.ru | social | https://t.me/Artplay_mos |
 | Artplay Design Center | дизайн-кластер | https://artplay.ru | social | https://t.me/ic_artplay |
 | Artplay Design Center | дизайн-кластер | https://artplay.ru | social | https://vk.com/public41851890 |
+| Artpulse | ивент агентство | https://eventcatalog.ru/agency/artpulse | phone | +7(960)256-24-29 |
+| Artsobranie | ивент агентство | https://eventcatalog.ru/agency/artsobranie | phone | +7(812) 369-17-76 |
+| ArtTusa | ивент агентство | https://eventcatalog.ru/agency/arttusa | phone | +7(926) 632-63-00 / +7(909) 663-55-55 |
+| Artvalio Karnaval President | ивент агентство | https://eventcatalog.ru/agency/artvalio_karnaval_president | phone | +7(985) 211-62-03 |
+| Artvostorg | ивент агентство | https://eventcatalog.ru/agency/artvostorg | phone | +7(910) 438-89-98 |
 | ARTАрт-пространство "ART" | лофт | https://www.loft2rent.ru/loft/172192/172195 | phone | +79869465206 |
+| Artель | ивент агентство | https://eventcatalog.ru/agency/artelj | phone | +7(918)095-08-08 |
 | Arus party LoftArus Kino Loft / Арус Кино Лофт | лофт | https://www.loft2rent.ru/loft/22657/115188 | phone | +7 9191042113 |
+| Asia Adventures | ивент агентство | https://eventcatalog.ru/agency/asia_adventures | phone | +7(397) 480-34-60 |
 | ASnova Hall | лофт | https://www.loft2rent.ru/loft/209971/210016 | phone | +7(963)6448104 |
+| AspАlliance | ивент агентство | https://eventcatalog.ru/agency/aspalliance | phone | +7(499)394-22-42 |
+| AST Group | ивент агентство | https://eventcatalog.ru/agency/ast_group | phone | +7(495) 504-30-97 |
+| Asti Event Group | ивент агентство | https://eventcatalog.ru/agency/asti_event_group | phone | +7232-83-84 |
 | Astik Loft | лофт | https://www.loft2rent.ru/loft/196388/196390 | phone | +79776409250 |
+| Astra Music | ивент агентство | https://eventcatalog.ru/agency/astra_music | phone | +7(499) 390-42-40 |
+| AT project | ивент агентство | https://eventcatalog.ru/agency/at_project | phone | +7(495) 723-09-05 / +7(916) 347-33-08 |
 | ATELIE | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
 | ATLAtlantic | лофт | https://www.loft2rent.ru/loft/95559/143599 | phone | 89939187561 |
 | ATMOS - Лофт с караоке, верандой и грилем | лофт | https://www.loft2rent.ru/loft/5546 | phone | +7 951 191-58-38 |
 | Atmos Loft (Атмос Лофт). Стильная площадка с яркими акцентами | лофт | https://www.reveltime.ru/venue/4922038?eventtype=vecherinka | phone | +79584610759 |
 | Atmosferno_studioЗал Minimal | лофт | https://www.loft2rent.ru/loft/99628/119378 | phone | +79771211238 |
+| AtoBin | ивент агентство | https://eventcatalog.ru/agency/atobin | phone | +7(922) 217-93-59 |
 | auratower апартаменты москва сити 33 floor oko tower | лофт | https://skyrent24.ru | phone | +79021444676 |
 | auratower апартаменты москва сити Premium sky apartments | лофт | https://www.loft2rent.ru/loft/19512 | phone | +7 (902) 144-46-76 |
 | auratower апартаменты москва сити Апартаменты Москва Сити 42 этаж Sky Apex | лофт | https://www.loft2rent.ru/loft/19512 | phone | +79021444676 |
@@ -1006,9 +1192,15 @@
 | Auto Radio (EMG) | радиостанция | https://avtoradio.ru | social | https://t.me/Avtoradioru |
 | Auto Radio (EMG) | радиостанция | https://avtoradio.ru | social | https://www.odnoklassniki.ru/group/51027731349594 |
 | Auto Radio (EMG) | радиостанция | https://avtoradio.ru | social | https://www.tiktok.com/@avtoradio |
+| Autograph Art | ивент агентство | https://eventcatalog.ru/agency/autograph_art | phone | +7(495) 979-92-31 |
 | Av lounge fmLounge fm | лофт | https://www.loft2rent.ru/loft/192825/192827 | phone | +79175744700 |
+| Avalanche Group | ивент агентство | https://eventcatalog.ru/agency/avalanche_group | phone | +7(904)512-38-16 / +7(966)067-36-61 |
+| Avantage Event Project | ивент агентство | https://eventcatalog.ru/agency/avantage_event_project | phone | +7(926)584-37-11 |
 | AVELA Media | медиакомпания | https://avela.ru | phone | +7 495 780-99-00 |
+| Aventaly | ивент агентство | https://eventcatalog.ru/agency/aventaly | phone | +7(967)202-02-20 |
+| Aventy | ивент агентство | https://eventcatalog.ru/agency/aventy | phone | +7(921)912-60-20 |
 | AVIATOR — Неоновый лофт с зоной барбекю, 5 минут от Бауманской | лофт | https://twitter.com/AviatorLoft | phone | +7 958 578 23 62 |
+| AZ | ивент агентство | https://eventcatalog.ru/agency/az | phone | +7(495) 799-44-60 / +7(495) 917-18-53 |
 | AZIMUT Hotel Olympic Moscow | отель | https://azimuthotels.com/ru/moscow/azimut-hotel-olympic | email | iwaf@icewood.net |
 | AZIMUT Hotel Olympic Moscow | отель | https://azimuthotels.com/ru/moscow/azimut-hotel-olympic | social | https://t.me/iwafsupport |
 | AZIMUT Hotel Smolenskaya | отель | https://azimuthotels.com/ru/moscow/azimut-hotel-smolenskaya | email | iwaf@icewood.net |
@@ -1026,9 +1218,11 @@
 | AZIMUT Сити Отель Тульская Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7768573/azimut_moscow_tulskaya_hotel | address | Варшавское шоссе, 9, Москва |
 | Azur Loft / Азур Лофт | лофт | https://www.loft2rent.ru/loft/182119 | phone | +7 (993) 958-73-96 |
 | AРМА КОВОРКИНГБольшая переговорная в ARMA COWORKING | лофт | https://www.loft2rent.ru/loft/191350/191352 | phone | +7 (495) 755-42-24 |
+| B2B Promotion | ивент агентство | https://eventcatalog.ru/agency/b2b_promotion | phone | +7(401)298-66-62 |
 | BackgroundЗАЛ КОНФЕРЕНЦ | лофт | https://www.loft2rent.ru/loft/42217/42376 | phone | +7 (499) 455-45-04 |
 | BackgroundЗал Кухня | лофт | https://www.loft2rent.ru/loft/42217/205466 | phone | +7 (499) 455-45-04 |
 | BackgroundЧерный съемочный павильон | лофт | https://www.loft2rent.ru/loft/42217/205473 | phone | +7 (499) 455-45-04 |
+| Backstage Team | ивент агентство | https://eventcatalog.ru/agency/backstage_team | phone | +7(495) 669-91-34 / +7(495) 987-12-55 |
 | BackstageBackstage  / Бэкстейдж | лофт | https://www.loft2rent.ru/loft/210956/210961 | phone | 89253980686 |
 | BACKYARD | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
 | Bad Girl (пилон-loft) на Бауманской с караоке и PS 4 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-53-72 |
@@ -1066,9 +1260,16 @@
 | Baltschug Kempinski | luxury-отель | https://baltschughotel.ru | phone | +7 (495) 287-20-08 |
 | Baltschug Kempinski | luxury-отель | https://baltschughotel.ru | social | https://t.me/BaltschugKempinskiMoscow |
 | Baltschug Kempinski | luxury-отель | https://baltschughotel.ru | social | https://vk.com/hotelbaltschug |
+| Banana Sun | ивент агентство | https://eventcatalog.ru/agency/banana_sun | phone | +7(999)226-55-26 |
+| BananOlivka | ивент агентство | https://eventcatalog.ru/agency/bananolivka | phone | +7(968)641-07-36 / +7(968)664-08-50 |
+| Banket Best | ивент агентство | https://eventcatalog.ru/agency/banket_best | phone | +7(495) 940-66-33 |
+| Banket life | ивент агентство | https://eventcatalog.ru/agency/banket_life | phone | +7(495)532-78-28 / +7(926)410-20-48 |
 | BANKSY HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | Bar Fly | лофт | https://www.loft2rent.ru/loft/101001 | phone | +7 916 440 01 30 |
+| Baralist | ивент агентство | https://eventcatalog.ru/agency/baralist | phone | +7(495)729-38-53 / +7(901)511-61-16 |
+| Baratoff | ивент агентство | https://eventcatalog.ru/agency/baratoff | phone | +7(495) 589-83-75 |
 | BARCELONA INKBARCELONA | лофт | https://www.loft2rent.ru/loft/199928/199932 | phone | 89999875886 |
+| Bardach’OK Events Group | ивент агентство | https://eventcatalog.ru/agency/bardach_ok_events_group | phone | +7(812) 995-85-66 / +7(921) 649-42-33 |
 | Barin Residence Centre | апарт-отель | https://www.barinresidence.com | email | 77barinresidence@gmail.com |
 | Barin Residence Centre | апарт-отель | https://www.barinresidence.com | phone | +7 (495) 492-79-71 |
 | Barin Residence Centre | апарт-отель | https://www.barinresidence.com | phone | +7 (939) 113-78-51 |
@@ -1105,6 +1306,7 @@
 | Barvikha Luxury Village | luxury retail / event space | https://barvikhaconcerthall.ru | phone | +7 (968) 911-33-99 |
 | Barvikha Luxury Village | luxury retail / event space | https://barvikhaconcerthall.ru | social | https://t.me/barvikhaconcerthall |
 | Barvikha Luxury Village | luxury retail / event space | https://barvikhaconcerthall.ru | social | https://wa.me/79689113399 |
+| Bastrigin Brothers | ивент агентство | https://eventcatalog.ru/agency/bastrigin_brothers | phone | +7(499) 136-60-67 / +7(916) 677-75-34 |
 | BAUHAUS | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
 | Bauman Space (Бауман Спейс).  Лофт Санрайз | лофт | https://www.reveltime.ru/venue/7736441?eventtype=vecherinka | phone | +79585782362 |
 | Bauman Space (Бауман Спейс). Лофт Blackberry (Блэкберри) | лофт | https://www.reveltime.ru/venue/989651?eventtype=vecherinka | phone | +79585782362 |
@@ -1129,20 +1331,35 @@
 | BAUMAN SPACEHideOUT — просторный лофт с личной верандой и грилем / Хайдаут | лофт | https://www.loft2rent.ru/loft/89228/89237 | phone | +7 958 578 23 62 |
 | BAUMAN SPACEPHOENIX — Стильный лофт на Арбате, 3 минуты от метро  / Феникс | лофт | https://www.loft2rent.ru/loft/95559/74332 | phone | +7 958 578 23 62 |
 | BAUMAN SPACERockWood - кирпичный лофт, веранда, гриль, в ЦАО, 5 минут от метро  / Роквуд | лофт | https://twitter.com/AviatorLoft | phone | +7 958 578 23 62 |
+| Bayanello | ивент агентство | https://eventcatalog.ru/agency/bayanello | phone | +7(985) 263-36-50 |
 | Bazaar foodhall&market | лофт | https://www.loft2rent.ru/loft/182619/182621 | phone | +7 (495) 101-57-57 |
 | BAZE LOFTLOFT BAZE | лофт | https://www.loft2rent.ru/loft/168356/168359 | phone | +79777112828 |
 | BB LoftsLoftLounge - стильный лофт с караоке и PS5 в 5 минутах от метро | лофт | https://www.loft2rent.ru/loft/58868/206927 | phone | 89301703019 |
+| BBM | ивент агентство | https://eventcatalog.ru/agency/bbm | phone | +7(495) 648-00-78 |
+| BBMG group | ивент агентство | https://eventcatalog.ru/agency/bbmg_group | phone | +7(985) 774-11-84 |
+| BBOSW | ивент агентство | https://eventcatalog.ru/agency/bbosw | phone | +7(749)595-68-33 / +7(909)683-01-46 |
+| BC Communications | ивент агентство | https://eventcatalog.ru/agency/bc_communications | phone | +7(495) 334-40-33 |
+| BCA marketing | ивент агентство | https://eventcatalog.ru/agency/bca_marketing | phone | +7(812) 332-92-15 / +7(812) 332-92-14 |
+| Be Abo | ивент агентство | https://eventcatalog.ru/agency/be_abo | phone | +7 (812) 449-7788 / +7 (812) 984-8488 |
+| Be Brand | ивент агентство | https://eventcatalog.ru/agency/be_brand | phone | +7(343)287-49-77 |
+| Be Brand Event | ивент агентство | https://eventcatalog.ru/agency/be_brand_event | phone | +7(343)287-49-77 |
+| Be Bright Event | ивент агентство | https://eventcatalog.ru/agency/be_bright_event | phone | +7(843)251-99-99 / +7(917)902-70-27 |
+| Be Happy | ивент агентство | https://eventcatalog.ru/agency/be_happy | phone | +7(908) 174-39-64 |
+| Be In Event | ивент агентство | https://eventcatalog.ru/agency/be_in_event | phone | +7(499)408-89-98 |
+| Beach Volley Event | ивент агентство | https://eventcatalog.ru/agency/beach_volley_event | phone | +7(967)536-55-22 / +7(812)900-89-93 |
 | Beat Film Festival | кинофестиваль | https://beatfilmfestival.ru | email | chugrinova@beatfilms.ru |
 | Beat Film Festival | кинофестиваль | https://beatfilmfestival.ru | social | https://t.me/acmephilosophy |
 | Beat Film Festival | кинофестиваль | https://beatfilmfestival.ru | social | https://t.me/beatfest |
 | Beat Film Festival | кинофестиваль | https://beatfilmfestival.ru | social | https://t.me/napervom |
 | Beat Film Festival | кинофестиваль | https://beatfilmfestival.ru | social | https://t.me/omanko |
 | Beat Film Festival | кинофестиваль | https://beatfilmfestival.ru | social | https://vk.com/beatfest |
+| Beegarden | ивент агентство | https://eventcatalog.ru/agency/beegarden | phone | +7(38044) 494-07-13 |
 | Beeline (Veon) | телеком-компания | https://beeline.ru | email | otvet@beeline.ru |
 | Beeline (Veon) | телеком-компания | https://beeline.ru | social | https://ok.ru/beeline |
 | Beeline (Veon) | телеком-компания | https://beeline.ru | social | https://t.me/beeline |
 | Beeline (Veon) | телеком-компания | https://beeline.ru | social | https://vk.com/beeline |
 | Beeline (Veon) | телеком-компания | https://beeline.ru | social | https://www.youtube.com/user/beelineru |
+| BeforeMarriage | ивент агентство | https://eventcatalog.ru/agency/beforemarriage | phone | +7(963)754-63-63 / +7(916)053-63-63 |
 | BEGUNOVA WEDDING | свадебное агентство | http://weddingmoscow.com | email | email |
 | BEGUNOVA WEDDING | свадебное агентство | http://weddingmoscow.com | email | example@yandex.ru |
 | BEGUNOVA WEDDING | свадебное агентство | http://weddingmoscow.com | email | kulikovaaaaaaa@mail.ru |
@@ -1158,11 +1375,22 @@
 | BEGUNOVA WEDDING | свадебное агентство | http://weddingmoscow.com | phone | +7 (916) 400-99-80 |
 | BEGUNOVA WEDDING | свадебное агентство | http://weddingmoscow.com | social | https://t.me/anastasiyabeg?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Begunova%20wedding.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | BEGUNOVA WEDDING | свадебное агентство | http://weddingmoscow.com | social | https://www.instagram.com/begunova_wedding |
+| Bel Canto | ивент агентство | https://eventcatalog.ru/agency/bel_canto | phone | +7(910)647-59-42 |
+| Belka | ивент агентство | https://eventcatalog.ru/agency/belka | phone | +7(964)554-84-65 / +7(916)297-42-22 |
+| Belov Entertainment Group | ивент агентство | https://eventcatalog.ru/agency/belov_entertainment_group | phone | +7(812)313-21-08 |
 | BenbouBenbou cafe | лофт | https://www.loft2rent.ru/loft/88942/88963 | phone | +79687337114 |
+| Beorg | ивент агентство | https://eventcatalog.ru/agency/beorg | phone | +7(495) 739-92-37 |
+| Bereza Studio Group | ивент агентство | https://eventcatalog.ru/agency/bereza_studio_group | phone | +7(812) 454-28-80 / +7(905) 207-28-47 |
 | BergaMot | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
 | Berlin - лофт с караоке и верандой в центре | лофт | https://www.loft2rent.ru/loft/58868 | phone | +79301703019 |
+| Bespoke Artists Agency | ивент агентство | https://eventcatalog.ru/agency/bespoke_artists_agency | phone | +7(965) 264-11-72 |
+| Best Bounty | ивент агентство | https://eventcatalog.ru/agency/best_bounty | phone | +7(903)264-85-60 |
+| Best Music | ивент агентство | https://eventcatalog.ru/agency/best_music | phone | +7(495)749-36-30 |
+| Best-Show Center | ивент агентство | https://eventcatalog.ru/agency/best-show_center | phone | +7(495) 500-64-96 |
 | BETON - стилизованный лофт с караоке в 7 минутах от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
+| Bezooomie | ивент агентство | https://eventcatalog.ru/agency/bezooomie | phone | +7(434)578-32-09 |
 | BIBLIOTEKA | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
+| Big Bang | ивент агентство | https://eventcatalog.ru/agency/big_bang | phone | +7(495)196-67-96 / +7(958)562-97-42 |
 | Big Event | event-агентство | https://bigevent.ru | email | email |
 | Big Event | event-агентство | https://bigevent.ru | email | email |
 | Big Event | event-агентство | https://bigevent.ru | email | info@bigevent.ru |
@@ -1194,27 +1422,43 @@
 | Big Jack | ресторан / бар | https://bigjack24.ru | social | social |
 | Big Jack | ресторан / бар | https://bigjack24.ru | social | social |
 | Big LoftBig Loft лофт на Соколе | лофт | https://www.loft2rent.ru/loft/153471/153474 | phone | 89060684888 |
+| Big Sound City | ивент агентство | https://eventcatalog.ru/agency/big_sound_city | phone | +7(926)131-11-74 / +7(915)099-30-45 |
 | Big Wine Freaks | бар | https://bigwinefreaks.ru/msk/ | phone | +74959683060 |
+| Bilet Club | ивент агентство | https://eventcatalog.ru/agency/bilet_club | phone | +7(495)661-61-89 |
 | Biwon | ресторан | https://foliogroup.ru/restaurants/biwon | phone | +74955001060 |
+| Biznesevent | ивент агентство | https://eventcatalog.ru/agency/biznesevent | phone | +7(495)006-47-65 |
 | Bizone Hookah Лофт c VIP залом на ВДНХ | лофт | https://www.reveltime.ru/venue/3292235?eventtype=vecherinka | phone | +79688444922 |
 | Bizone Lounge Лофт-кальянная на Войковской | лофт | https://www.reveltime.ru/venue/3292221?eventtype=vecherinka | phone | +79777137848 |
 | Björn | ресторан | https://bjorn.rest | phone | +7 (495) 953-90-59 |
 | Björn | ресторан | https://bjorn.rest | social | https://t.me/BjornRestaurant |
 | Björn | ресторан | http://bjorn.rest/ | phone | +74959539059 |
+| BK-Holiday | ивент агентство | https://eventcatalog.ru/agency/bk-holiday | phone | +7(495) 943-92-55 |
 | BLACK | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
 | Black and White Loft | лофт | https://www.loft2rent.ru/loft/22069/26746 | phone | +7 988 388-80-50 |
 | Black and White LoftWhite Loft | лофт | https://www.loft2rent.ru/loft/22069/34046 | phone | +7 988 388-80-50 |
+| Black Milk | ивент агентство | https://eventcatalog.ru/agency/black_milk | phone | +7(911) 922-55-95 / +7(911) 833-52-21 |
+| Black Mint Event | ивент агентство | https://eventcatalog.ru/agency/black_mint_event | phone | +7(916)070-75-45 |
 | BLACK NEON LOFT | лофт | https://www.loft2rent.ru/loft/85459/85463 | phone | +79959885656 |
 | BLACK OUT | лофт | https://www.loft2rent.ru/loft/132167 | phone | 89251539733 |
 | BLACK OUT (Блэк аут). Стильный черный лофт | лофт | https://www.reveltime.ru/venue/8458180?eventtype=vecherinka | phone | +79346608162 |
 | Black Room | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Blackberry Agency | ивент агентство | https://eventcatalog.ru/agency/blackberry_agency | phone | +7(495) 922-58-61 |
 | BlackBerry — просторный лофт с банкетной зоной рядом с метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
+| Blacktie | ивент агентство | https://eventcatalog.ru/agency/blacktie | phone | +7(925)506-66-55 |
 | BLADE | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
 | Blanc | лофт | https://www.loft2rent.ru/loft/spaceandplace | phone | 8 (499) 116 34 31 |
 | blanche.place | лофт | https://www.loft2rent.ru/loft/120937 | phone | +79995374173 |
 | Blank (Бланк). Светлый лофт с верандой | лофт | https://www.reveltime.ru/venue/8931873?eventtype=vecherinka | phone | +79676932714 |
+| Blink studio | ивент агентство | https://eventcatalog.ru/agency/blink_studio | phone | +7(495) 665-68-03 |
 | Blisski | лофт | https://www.loft2rent.ru/loft/126555/149070 | phone | +79804321043 |
+| Blory | ивент агентство | https://eventcatalog.ru/agency/blory | phone | +7(495)278-08-84 |
+| Blossom | ивент агентство | https://eventcatalog.ru/agency/blossom | phone | +91(7458)474-566 |
+| BLT | ивент агентство | https://eventcatalog.ru/agency/blt | phone | +7(495)984-08-48 |
+| BLT Group | ивент агентство | https://eventcatalog.ru/agency/blt_group | phone | +7(495) 660-83-23 |
 | Bluefin Event Hall Жуковка | лофт | https://www.loft2rent.ru/loft/204424/204426 | phone | 8 (925) 101-50-36 |
+| BM Weddings & Events | ивент агентство | https://eventcatalog.ru/agency/bm_weddings_and_events | phone | +7(495)220-88-66 / +7(964)648-88-41 |
+| BMC promo | ивент агентство | https://eventcatalog.ru/agency/bmc_promo | phone | +7(38050) 311-22-43 / +7(38044) 412-15-82 |
+| BMKey | ивент агентство | https://eventcatalog.ru/agency/bmkey | phone | +7(495) 648-52-66 |
 | BMWEDDING | свадебное агентство | http://www.bmwedding.ru | email | email |
 | BMWEDDING | свадебное агентство | http://www.bmwedding.ru | email | svadba@bmwedding.ru |
 | BMWEDDING | свадебное агентство | http://www.bmwedding.ru | phone | +7 (964) 648-88-41 |
@@ -1234,6 +1478,10 @@
 | BMWEDDING | свадебное агентство | http://www.bmwedding.ru | social | https://t.me/varvara_peregudova?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20BMWEDDING.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | BMWEDDING | свадебное агентство | http://www.bmwedding.ru | social | https://www.instagram.com/bm_weddings_events |
 | BOAR studio | лофт | https://www.loft2rent.ru/loft/176377/176379 | phone | +7 (916) 231-1010 |
+| Bocharoff-Isakoff | ивент агентство | https://eventcatalog.ru/agency/bocharoff-isakoff | phone | +7(916) 572-44-55 |
+| Bochkov event group | ивент агентство | https://eventcatalog.ru/agency/bochkov_event_group | phone | +7(863)240-25-23 / +7(909)401-77-79 |
+| Bodas En Cuba Fiestas | ивент агентство | https://eventcatalog.ru/agency/bodas_en_cuba_fiestas | phone | +53(5)333-22-43 |
+| Boeff&Gagarin | ивент агентство | https://eventcatalog.ru/agency/boeffandgagarin | phone | +7(926) 426-50-02 |
 | Bogasthetic | лофт | https://www.loft2rent.ru/loft/144391/144531 | phone | 8 (953) 378-67-63 |
 | Bogema (Богема). Зал Баланс | лофт | https://www.reveltime.ru/venue/9011819?eventtype=vecherinka | phone | +79584974208 |
 | BOGEMA (БОГЕМА). Какао. ЭЙФОРИЯ | лофт | https://www.reveltime.ru/venue/3393175?eventtype=vecherinka | phone | +79893636021 |
@@ -1247,9 +1495,16 @@
 | Bolshevik Loft (Black Loft) | loft / event space | https://blackloft.bolshevikloft.ru | social | https://api.whatsapp.com/send/?phone=79773353435&text&app_absent=0 |
 | Bolshevik Loft (Black Loft) | loft / event space | https://blackloft.bolshevikloft.ru | social | https://api.whatsapp.com/send/?phone=79895775235&text&app_absent=0 |
 | Bolshevik Loft (Black Loft) | loft / event space | https://blackloft.bolshevikloft.ru | social | https://t.me/bolshevikloft |
+| Bonanza | ивент агентство | https://eventcatalog.ru/agency/bonanza | phone | +7(495)142-02-15 / +7(977)749-40-15 |
+| BonapArt | ивент агентство | https://eventcatalog.ru/agency/bonapart | phone | +7(044) 235-49-86 / +7(044) 235-49-89 |
+| BonEvent | ивент агентство | https://eventcatalog.ru/agency/bonevent | phone | +7(903) 779-40-06 |
 | Book&GameИнтеллектуальное пространство | лофт | https://www.loft2rent.ru/loft/107767/107769 | phone | +7 (903) 305-61-48 |
+| Booking Stars | ивент агентство | https://eventcatalog.ru/agency/booking_stars | phone | +7(969)257-27-77 |
+| Booking Stars Ltd | ивент агентство | https://eventcatalog.ru/agency/booking_stars_ltd | phone | +7(495)761-79-31 |
 | Boom Box лофт клубЛофт Boom Box (big hall) | лофт | https://www.loft2rent.ru/loft/171910/171938 | phone | +79293034884 |
 | Boom Box лофт клубЛофт Boom Box (small hall) | лофт | https://www.loft2rent.ru/loft/171910/172209 | phone | +79137084884 |
+| BoomShow.ru | ивент агентство | https://eventcatalog.ru/agency/boomshow_ru | phone | +7(906) 053-28-51 / +7(906) 068-03-28 |
+| Boost Team | ивент агентство | https://eventcatalog.ru/agency/boost_team | phone | +7(499)753-49-40 / +7(499)753-49-42 |
 | Borodino Hotel | отель | https://pegast.ru/hotel/russia/moscow/moscow/alliance-borodino-hotel-795949843 | email | retail@pegast.ru |
 | Borodino Hotel | отель | https://pegast.ru/hotel/russia/moscow/moscow/alliance-borodino-hotel-795949843 | social | https://dzen.ru/pegas_touristik |
 | Borodino Hotel | отель | https://pegast.ru/hotel/russia/moscow/moscow/alliance-borodino-hotel-795949843 | social | https://ok.ru/pegastur |
@@ -1310,6 +1565,16 @@
 | Boutique Hotel Помещение с большими окнами | лофт | https://www.reveltime.ru/venue/3655970?eventtype=vecherinka | phone | +79945064895 |
 | Boxberry | логистическая компания | https://boxberry.ru | email | corpndd@dostavka.yandex.ru |
 | Boxberry | логистическая компания | https://boxberry.ru | email | help@dostavka.yandex.ru |
+| BQ event | ивент агентство | https://eventcatalog.ru/agency/bq_event | phone | +7(831) 414-19-96 / +7(831) 414-19-97 |
+| Braining Group | ивент агентство | https://eventcatalog.ru/agency/braining_group | phone | +7(495)916-92-24 |
+| Brand Baker Ltd | ивент агентство | https://eventcatalog.ru/agency/brand_baker_ltd | phone | +994-12-492-17-90 / +994-50-993-59-20 |
+| Brand BTL | ивент агентство | https://eventcatalog.ru/agency/brand_btl | phone | +7(343) 3-565-264 |
+| Brand I | ивент агентство | https://eventcatalog.ru/agency/brand_i | phone | +7(495)660-05-04 |
+| Brand New Group | ивент агентство | https://eventcatalog.ru/agency/brand_new_group | phone | +7(921) 421-38-39 |
+| BrandEmotion | ивент агентство | https://eventcatalog.ru/agency/brandemotion | phone | +7(495)790-39-83 / +7(903)790-39-83 |
+| Brandmatica | ивент агентство | https://eventcatalog.ru/agency/brandmatica | phone | +7(911)958-38-71 |
+| Bravo | ивент агентство | https://eventcatalog.ru/agency/bravo | phone | +7(911)921-55-59 |
+| Bravo Sochi | ивент агентство | https://eventcatalog.ru/agency/bravo_sochi | phone | +7(938)494-04-71 / +7(862)295-89-85 |
 | BRIDAL HOME EVENTS | свадебное / event-агентство | http://bridalhome.ru | email | bridalhome@mail.ru |
 | BRIDAL HOME EVENTS | свадебное / event-агентство | http://bridalhome.ru | email | email |
 | BRIDAL HOME EVENTS | свадебное / event-агентство | http://bridalhome.ru | phone | +7 (968) 951-25-17 |
@@ -1317,6 +1582,7 @@
 | BRIDAL HOME EVENTS | свадебное / event-агентство | http://bridalhome.ru | phone | +7 (968) 951-25-17 |
 | BRIDAL HOME EVENTS | свадебное / event-агентство | http://bridalhome.ru | social | https://t.me/bridal_home_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Bridal%20home%20events.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | BRIDAL HOME EVENTS | свадебное / event-агентство | http://bridalhome.ru | social | https://www.instagram.com/bridal_home_events |
+| Bright people | ивент агентство | https://eventcatalog.ru/agency/bright_people | phone | +7(495)640-91-21 |
 | British American Tobacco | табачная компания | https://www.bat.com | social | https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bat.com%2Finvestors-and-reporting%2Fdebt-investors%2Fcontacts |
 | British American Tobacco | табачная компания | https://www.bat.com | social | https://www.linkedin.com/company/british-american-tobacco |
 | British American Tobacco | табачная компания | https://www.bat.com | social | https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bat.com%2Finvestors-and-reporting%2Fdebt-investors%2Fcontacts |
@@ -1324,6 +1590,7 @@
 | British American Tobacco | табачная компания | https://www.bat.com | social | https://x.com/batplc |
 | British American Tobacco | табачная компания | https://www.bat.com | social | https://x.com/intent/post?url=https%3A%2F%2Fwww.bat.com%2Finvestors-and-reporting%2Fdebt-investors%2Fcontacts&text=British%20American%20Tobacco%20-%20Contacts |
 | Brix | ресторан / винный бар | https://brixbar.ru | phone | +7 (999) 911-13-70 |
+| Broadway | ивент агентство | https://eventcatalog.ru/agency/broadway | phone | +7(495) 518-29-17 |
 | BRODNIKI LOFT | лофт | https://www.loft2rent.ru/loft/115308 | phone | 8-996-716-19-94 |
 | Brodniki Loft (Бродники Лофт. )Лофт из белого кирпича | лофт | https://www.reveltime.ru/venue/6587746?eventtype=vecherinka | phone | +79676928564 |
 | Brodo Bar & Kitchen | ресторан | https://brodo.moscow | email | brodobarmoscow@gmail.com |
@@ -1333,17 +1600,33 @@
 | Brodo Bar & Kitchen | ресторан | https://brodo.moscow | social | https://t.me/brodobarmoscow |
 | Brodo Bar & Kitchen | ресторан | https://brodo.moscow | social | https://wa.me/79264100180?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21 |
 | Bronze | лофт | https://www.loft2rent.ru/loft/115047 | phone | +73433630042 |
+| Brooke Communications | ивент агентство | https://eventcatalog.ru/agency/brooke_communications | phone | +7(495)761-15-03 |
+| Brooklyn | ивент агентство | https://eventcatalog.ru/agency/brooklyn | phone | +7(495)374-61-77 |
 | Brooklyn Hookah | лофт | https://www.loft2rent.ru/loft/159066/159280 | phone | +79647117635 |
 | Brosko Loft | лофт | https://www.loft2rent.ru/loft/126318 | phone | 89500219153 |
 | BRULLOV HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
+| Brum Adventure | ивент агентство | https://eventcatalog.ru/agency/brum_adventure | phone | +7(495)255-09-92 / +7(926)006-19-05 |
 | Bruno | ресторан | https://bruno.lucky-group.rest/ru/ | phone | +74958189888 |
 | BRUTAL - лофт со своим выходом во двор, 8 минут от метро Бауманская | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
+| BS-Agency | ивент агентство | https://eventcatalog.ru/agency/bs-agency | phone | +7(495) 974-34-11 |
+| BTE Group | ивент агентство | https://eventcatalog.ru/agency/bte_group | phone | +7(495) 967-90-65 |
+| BtG Event Solutions | ивент агентство | https://eventcatalog.ru/agency/btg_event_solutions | phone | +7(921) 659-14-23 |
+| BTL Centre | ивент агентство | https://eventcatalog.ru/agency/btl_centre | phone | +7(495) 940-54-21 |
+| BTL Orchestra | ивент агентство | https://eventcatalog.ru/agency/btl_orchestra | phone | +7(495)642-78-56 |
+| BTL Promotion | ивент агентство | https://eventcatalog.ru/agency/btl_promotion | phone | +7(918)650-00-91 |
+| BTL-агентство Trend | ивент агентство | https://eventcatalog.ru/agency/btl-agentstvo_trend | phone | +7(989)271-75-28 |
+| BTL-агентство Мастер Групп | ивент агентство | https://eventcatalog.ru/agency/btl-agentstvo_master_grupp | phone | +7(904) 103-77-55 |
+| BTLWorld | ивент агентство | https://eventcatalog.ru/agency/btlworld | phone | +7(968)767-90-22 |
+| BTRpro | ивент агентство | https://eventcatalog.ru/agency/btrpro | phone | +7(916)825-57-75 / +7(926)375-31-31 |
+| BTS | ивент агентство | https://eventcatalog.ru/agency/bts | phone | +7(495) 973-41-21 |
+| Bubin events | ивент агентство | https://eventcatalog.ru/agency/bubin_events | phone | +7(812)409-94-40 |
 | BUDAEVA EVENT | event-агентство | http://budaeva-events.ru | social | https://www.instagram.com/yubudaevva |
 | BUDAEVA EVENT | event-агентство | http://budaeva-events.ru | social | social |
 | BUDAEVA EVENT | event-агентство | http://budaeva-events.ru | phone | +7 (900) 360-39-51 |
 | BUDAEVA EVENT | event-агентство | http://budaeva-events.ru | social | https://t.me/yubudaevva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20BUDAEVA%20EVENT.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | BUDAEVA EVENT | event-агентство | http://budaeva-events.ru | social | https://www.instagram.com/yubudaevva |
 | Budda loft с уютной верандой и грилем | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Bulgakova | ивент агентство | https://eventcatalog.ru/agency/bulgakova | phone | +7(495)649-82-06 |
 | Bull Loft | лофт | https://www.loft2rent.ru/loft/130572 | phone | +7 (996) 566-77-88 |
 | Bunker 42 | музей / event space | https://bunker42.com | email | zakaz@bunker42.com |
 | Bunker 42 | музей / event space | https://bunker42.com | phone | +7 (499) 703-44-55 |
@@ -1374,9 +1657,13 @@
 | Burda Media Russia | медиахолдинг | https://burda.ru | social | https://www.facebook.com/BurdastyleRussia |
 | Burda Media Russia | медиахолдинг | https://burda.ru | social | https://www.instagram.com/burdastylerussia |
 | Burda Media Russia | медиахолдинг | https://burda.ru | social | https://www.youtube.com/user/BurdaStyleRu |
+| Burger | ивент агентство | https://eventcatalog.ru/agency/burger | phone | +7(499) 125-19-42 / +7(916) 623-90-03 |
 | Burnova | лофт | https://www.loft2rent.ru/loft/117455/117462 | phone | +7 (981) 216-17-17 |
 | Buro TSUM | ресторан | http://www.burotsum.com/ | phone | +74952767678 |
+| Busines Events Centr | ивент агентство | https://eventcatalog.ru/agency/busines_events_centr | phone | +7(982) 522-02-61 |
+| Business Events | ивент агентство | https://eventcatalog.ru/agency/business_events | phone | +7(383)331-00-23 |
 | Business FM | радиостанция | https://bfm.ru | social | https://t.me/BFMnews |
+| Business Life | ивент агентство | https://eventcatalog.ru/agency/business_life | phone | +7(920) 956-09-99 / +7(953) 745-01-99 |
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | email | busness.hotel@bk.ru |
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | phone | +7 (495) 222-37-75 |
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | phone | +7 (965) 193-85-70 |
@@ -1384,10 +1671,14 @@
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | social | https://wa.me/79651938570 |
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://business-lounge-hotel.ru | social | https://www.instagram.com/business_lounge_hotel |
 | Business lounge hotel (Бизнес Лаундж Отель) | отель | https://ostrovok.ru/hotel/russia/moscow/mid9988118/business_lounge_hotel | address | ул. Мантулинская, д. 10 (подъезд 3, этаж 2), Москва |
+| Business Media Events | ивент агентство | https://eventcatalog.ru/agency/business_media_events | phone | +7(812) 315-92-86 |
+| Business Travel Leisure | ивент агентство | https://eventcatalog.ru/agency/business_travel_leisure | phone | +7(044) 503-08-24 |
+| BusinessForum | ивент агентство | https://eventcatalog.ru/agency/businessforum | phone | +7(905) 203-36-38 |
 | Butler | ресторан | https://butler.rest | phone | +7 (495) 150-45-86 |
 | Butler | ресторан | https://butler.rest | social | https://t.me/butler_restaurant |
 | Butler | ресторан | https://butler.rest | social | https://vk.com/butler_restaurant |
 | Butler | ресторан | https://butler.rest/ | phone | +74951493574 |
+| Buyshow | ивент агентство | https://eventcatalog.ru/agency/buyshow | phone | +7(495) 648-66-83 / +7(926) 218-43-28 |
 | BUZENKOVA WEDDING & EVENT | свадебное / event-агентство | https://top100awards.ru/buzenkova-wedding-event | phone | +7 (925) 222-77-68 |
 | BUZENKOVA WEDDING & EVENT | свадебное / event-агентство | https://top100awards.ru/buzenkova-wedding-event | social | https://t.me/buzenkova_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Buzenkova.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | BUZENKOVA WEDDING & EVENT | свадебное / event-агентство | https://top100awards.ru/buzenkova-wedding-event | social | https://www.instagram.com/buzenkova_wedding_event |
@@ -1395,6 +1686,7 @@
 | Bvlgari Hotel Moscow | luxury-отель | https://stelladimoscahotel.com | phone | +7 (495) 252-55-55 |
 | Bvlgari Hotel Moscow | luxury-отель | https://stelladimoscahotel.com | social | https://t.me/stelladimoscahotel |
 | Bvlgari Hotel Moscow | luxury-отель | https://stelladimoscahotel.com | social | https://wa.me/message/A6HDIJ5VF2XSA1 |
+| C.A.T. | ивент агентство | https://eventcatalog.ru/agency/c_a_t | phone | +7(495) 786-27-27 |
 | Cactus loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Cafe Pushkin | ресторан | https://cafe-pushkin.ru | phone | +7 (495) 739-00-33 |
 | Cafe Pushkin | ресторан | https://cafe-pushkin.ru | social | https://dzen.ru/video/watch/64e33ad8c036e9440419f490 |
@@ -1402,12 +1694,18 @@
 | Cafe Pushkin | ресторан | https://cafe-pushkin.ru | social | https://t.me/cafepushkin_official |
 | Cafe Pushkin | ресторан | https://cafe-pushkin.ru | social | https://vk.com/cafepushkin |
 | Calma SpaceCalma Space \ | Пространство спокойствия | лофт | https://www.loft2rent.ru/loft/145533/153077 | phone |
+| Calypso Travel & Event | ивент агентство | https://eventcatalog.ru/agency/calypso_travel_and_event | phone | +995(322)910-308 |
+| Campion | ивент агентство | https://eventcatalog.ru/agency/campion | phone | +7(495) 437-26-69 |
 | Campus | лофт | https://www.loft2rent.ru/loft/59771/59786 | phone | +7 926 100 3263 |
 | Campus loft (Кампус лофт). Просторный лофт | лофт | https://www.reveltime.ru/venue/3877537?eventtype=vecherinka | phone | +79261003263 |
 | Campus loft (Кампус лофт). Просторный лофт | лофт | https://www.reveltime.ru/venue/1769333?eventtype=vecherinka | phone | +79261003263 |
+| Can!BTL | ивент агентство | https://eventcatalog.ru/agency/can_btl | phone | +7(4212) 41-70-87 |
+| Candy Cat | ивент агентство | https://eventcatalog.ru/agency/candy_cat | phone | +380(48)799-65-77 / +380(68)824-65-16 |
+| Candy Day | ивент агентство | https://eventcatalog.ru/agency/candy_day | phone | +7(777)473-00-40 |
 | Candy Loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Cantinetta Antinori | ресторан | http://cantinettaantinori.ru/ | phone | +74992413325 |
 | CAPELLA | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
+| Capital City Event Production | ивент агентство | https://eventcatalog.ru/agency/capital_city_event_production | phone | +7(495) 773-40-34 / +7(495) 648-85-34 |
 | Capital Group | девелопер | https://capitalgroup.ru | email | info@capitalgroup.ru |
 | Capital Group | девелопер | https://capitalgroup.ru | email | pr@capitalgroup.ru |
 | Capital Group | девелопер | https://capitalgroup.ru | email | tender@capitalgroup.ru |
@@ -1416,6 +1714,7 @@
 | Capital Group | девелопер | https://capitalgroup.ru | social | https://rutube.ru/channel/44047610 |
 | Capital Group | девелопер | https://capitalgroup.ru | social | https://t.me/CapitalGroupru |
 | Capital Group | девелопер | https://capitalgroup.ru | social | https://www.youtube.com/@CapitalGroupMoscow |
+| Carambola Events | ивент агентство | https://eventcatalog.ru/agency/carambola_events | phone | +7(903) 279-38-35 / +7(926) 129-69-68 |
 | Carat Loft | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
 | Carnicería vino | ресторан / бар | https://carniceriavino.ru/ | phone | +74951331451 |
 | Casa Picassa. Лофт Климт (Каса Пикасса) | лофт | https://www.reveltime.ru/venue/2764553?eventtype=vecherinka | phone | +79586097164 |
@@ -1423,10 +1722,22 @@
 | Cassia Loft | лофт | https://www.loft2rent.ru/loft/74440 | phone | +78122407727 |
 | CASTLE CONCERT HALL | лофт | https://www.loft2rent.ru/loft/209661/209663 | phone | 89152576238 |
 | CASTLE CONCERT HALL- Ночной Клуб | лофт | https://www.loft2rent.ru/loft/172081 | phone | +79255165332 |
+| Castle Event Bureau | ивент агентство | https://eventcatalog.ru/agency/castle_event_bureau | phone | +7(495)278-08-82 / +372-643-3333 |
 | Cat Factory | лофт | https://www.loft2rent.ru/loft/178861/178863 | phone | 89263890166 |
 | Cat Factory (Фабрика кэт). Лофт-пространство с дизайнерскими окнами | лофт | https://www.reveltime.ru/venue/7777267?eventtype=vecherinka | phone | +79584974150 |
+| Catalyst Studio | ивент агентство | https://eventcatalog.ru/agency/catalyst_studio | phone | +7(915)145-76-50 |
+| Catalyst Teambuilding Russia | ивент агентство | https://eventcatalog.ru/agency/catalyst_teambuilding_russia | phone | +7(495)212-18-96 / +7(925)177-77-73 |
 | Cats PubАниме | лофт | https://www.loft2rent.ru/loft/173987/173991 | phone | 89134628525 |
+| Caucasus Event | ивент агентство | https://eventcatalog.ru/agency/caucasus_event | phone | +7(995) 291-03-38 |
+| CB Group RUS | ивент агентство | https://eventcatalog.ru/agency/cb_group_rus | phone | +7(495)664-90-57 / +7(926)096-35-17 |
+| Celebrate It | ивент агентство | https://eventcatalog.ru/agency/celebrate_it | phone | +7(906)743-01-33 / +7(909)974-80-82 |
+| Celebration Life | ивент агентство | https://eventcatalog.ru/agency/celebration_life | phone | +7(928)289-56-52 / +7(928)199-76-18 |
+| Celebration-Studio | ивент агентство | https://eventcatalog.ru/agency/celebration-studio | phone | +7(495) 928-29-75 / +7(495) 928-29-66 |
+| Celebrity Event & Communications | ивент агентство | https://eventcatalog.ru/agency/celebrity_event_and_communications | phone | +7(499)704-40-79 |
+| Centermax | ивент агентство | https://eventcatalog.ru/agency/centermax | phone | +7(495) 797-11-13 |
 | Centrale Bistro by Evgeny Vikentev | ресторан / бар | https://alfa.me/db1OAY | phone | +79252159521 |
+| Cezarov | ивент агентство | https://eventcatalog.ru/agency/cezarov | phone | +7(925)772-57-59 / +7(926)165-41-62 |
+| CGM-Event | ивент агентство | https://eventcatalog.ru/agency/cgm-event | phone | +7(495)790-28-91 |
 | Chainaya. Tea & Cocktails | бар | https://www.instagram.com/chainayateandcocktails/ | phone | +74959673052 |
 | CHALET + ROOF | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
 | Chalet StudioГончарная мастерская Chalet Китай-город | лофт | https://www.loft2rent.ru/loft/187831/190134 | phone | +7 499 995 12 80 |
@@ -1469,7 +1780,10 @@
 | Channel One Russia | телеканал | https://www.1tv.ru | social | https://ok.ru/1tv |
 | Channel One Russia | телеканал | https://www.1tv.ru | social | https://t.me/ChannelOne_official |
 | Channel One Russia | телеканал | https://www.1tv.ru | social | https://vk.ru/1tv |
+| Chantal | ивент агентство | https://eventcatalog.ru/agency/chantal | phone | +7(929)928-93-85 / +7(985)647-09-50 |
+| Chefs Eatertainment | ивент агентство | https://eventcatalog.ru/agency/chefs_eatertainment | phone | +7(981)957-98-86 / +7(812)504-89-96 |
 | Chef’s Table | ресторан | https://www.chefs-table.ru/ | phone | +79067569599 |
+| CheGroup | ивент агентство | https://eventcatalog.ru/agency/chegroup | phone | +7(918)234-94-69 / +7(918)194-36-13 |
 | Chekhoff Hotel Moscow | отель | https://chekhoffhotel.com | email | reservations@chekhoffhotel.com |
 | Chekhoff Hotel Moscow | отель | https://chekhoffhotel.com | phone | +7 (495) 980-70-00 |
 | Chekhoff Hotel Moscow | отель | https://chekhoffhotel.com | social | https://t.me/chekhoffhotelmoscow |
@@ -1492,6 +1806,7 @@
 | Cherkizovo Group | агропромышленный холдинг | https://cherkizovo.com | social | https://ok.ru/cherkizovogroup?ysclid=ll21xmtkiv296770026 |
 | Cherkizovo Group | агропромышленный холдинг | https://cherkizovo.com | social | https://t.me/Cherkizovo_official |
 | Cherkizovo Group | агропромышленный холдинг | https://cherkizovo.com | social | https://vk.com/cherkizovo_official?ysclid=ll21y8ncax23882637 |
+| Chernov Creation | ивент агентство | https://eventcatalog.ru/agency/chernov_creation | phone | +7(916)547-84-35 |
 | Chess & Jazz | музыкальный фестиваль | https://chessandjazz.com | email | info@chessandjazz.com |
 | Chess & Jazz | музыкальный фестиваль | https://chessandjazz.com | social | https://dzen.ru/chessandjazz |
 | Chess & Jazz | музыкальный фестиваль | https://chessandjazz.com | social | https://t.me/chessandjazz |
@@ -1520,15 +1835,22 @@
 | CHILLING Moscow | event / lifestyle community | https://chillingmoscow.com | social | https://wa.me/79250823222 |
 | CHILLING Moscow | event / lifestyle community | https://chillingmoscow.com | social | https://www.facebook.com/chillingmoscow |
 | CHILLING Moscow | event / lifestyle community | https://chillingmoscow.com | social | https://www.instagram.com/chilling.moscow |
+| Chilup | ивент агентство | https://eventcatalog.ru/agency/chilup | phone | +7(913)669-50-78 |
 | CHINA-LOFT | лофт | https://www.loft2rent.ru/loft/120074/120180 | phone | 89689206172 |
+| Chistova Moscow Events | ивент агентство | https://eventcatalog.ru/agency/chistova_moscow_events | phone | +7(926) 266-06-92 |
+| Chocolate Creative Studio | ивент агентство | https://eventcatalog.ru/agency/chocolate_creative_studio | phone | +7(812)930-14-14 / ak@choco-studio.ru |
+| ChoiceWedding Agency | ивент агентство | https://eventcatalog.ru/agency/choicewedding_agency | phone | +7(495)760-37-56 |
 | Chorse Lounge 1905 / Чорс | лофт | https://www.loft2rent.ru/loft/72107 | phone | 89680494444 |
 | Chorse Lounge Лихаборы | лофт | https://www.loft2rent.ru/loft/72107 | phone | +79266764076 |
+| ChrisMary | ивент агентство | https://eventcatalog.ru/agency/chrismary | phone | +7(915) 180-87-02 / +7(917) 599-24-30 |
 | Christian | ресторан | https://christianforfriends.ru | email | christian4friends@gmail.com |
 | Christian | ресторан | https://christianforfriends.ru | phone | +7 (985) 999-25-69 |
 | Christian | ресторан | https://christianforfriends.ru | social | https://t.me/christianrestaurant |
 | Christian | ресторан | https://christianforfriends.ru | social | https://vk.com/christianforfriends |
 | Christian | ресторан | https://christianforfriends.ru | social | https://wa.me/79859992569 |
 | Christian | ресторан | http://christianforfriends.ru/ | phone | +74992432569 |
+| ChudoChu | ивент агентство | https://eventcatalog.ru/agency/chudochu | phone | +7(792) 687-22-96 |
+| Chudospb.ru | ивент агентство | https://eventcatalog.ru/agency/chudospb_ru | phone | +7(812) 715-83-23 / +7(812) 993-21-59 |
 | CINDY | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | CineLab Production | продакшн-студия | https://cinelab.ru | email | natalia.tolstova@cinelab.ru |
 | CineLab Production | продакшн-студия | https://cinelab.ru | email | request@cinelab.ru |
@@ -1536,12 +1858,15 @@
 | CineLab Production | продакшн-студия | https://cinelab.ru | phone | +7 (495) 626-11-77 |
 | CineLab Production | продакшн-студия | https://cinelab.ru | phone | +7 (495) 626-14-41 |
 | CinemarentCinemarenx | лофт | https://www.loft2rent.ru/loft/198355/198364 | phone | 8 (499) 490-23-25 |
+| Circle Group | ивент агентство | https://eventcatalog.ru/agency/circle_group | phone | +7(495)649-91-13 |
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | phone | +7 (495) 780-20-02 |
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | social | https://ok.ru/citilink.ru |
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | social | https://t.me/citilink_official |
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | social | https://vk.com/citilink_ru |
 | Citilink | e-commerce / ритейл | https://www.citilink.ru | social | https://www.youtube.com/user/CitilinkTV |
+| Citrus | ивент агентство | https://eventcatalog.ru/agency/citrus | phone | +7(495)710-71-52 |
 | Citrus Hall (Цитрус Зал). Бергамот | лофт | https://www.reveltime.ru/venue/5738655?eventtype=vecherinka | phone | +79910172413 |
+| City Event | ивент агентство | https://eventcatalog.ru/agency/city_event | phone | +7(38044) 221-17-78 / +7(38067) 240-20-80 |
 | City Festival Series | event-серия | https://mos.ru | email | press-service@mos.ru |
 | City Festival Series | event-серия | https://mos.ru | phone | +7 (495) 620-27-17 |
 | City Festivals Directorate Moscow | государственная event-организация | https://www.mos.ru | email | email |
@@ -1567,8 +1892,12 @@
 | CityRentSummit - Двухкомнатный апартамент в Москва сити | лофт | https://www.loft2rent.ru/loft/204785/204827 | phone | +79206100062 |
 | CityRentVertex - уют в Москва сити | лофт | https://www.loft2rent.ru/loft/204785/204831 | phone | +79206100062 |
 | CityRentVertigo - Апартаменты с 5-ти метровыми потолками | лофт | https://www.loft2rent.ru/loft/204785/204821 | phone | +79206100062 |
+| Claus Event | ивент агентство | https://eventcatalog.ru/agency/claus_event | phone | +7(925) 376-87-45 |
+| Clever Event | ивент агентство | https://eventcatalog.ru/agency/clever_event | phone | +7(921)924-66-28 |
 | Clever Loft (Клевер лофт). Лофт в эко-стиле с большими окнами и выходом на веранду | лофт | https://www.reveltime.ru/venue/6258683?eventtype=vecherinka | phone | +79584055346 |
 | Clever Loft (Клевер лофт). Светлый лофт с большими окнами и выходом на веранду | лофт | https://www.reveltime.ru/venue/6258696?eventtype=vecherinka | phone | +79584610759 |
+| Clever marketing | ивент агентство | https://eventcatalog.ru/agency/clever_marketing | phone | +7(812)993-85-45 |
+| Clever-Events | ивент агентство | https://eventcatalog.ru/agency/clever-events | phone | +7(921)924-66-28 |
 | CleverLoft - Веранда в лофт-квартале на Тульской | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (495) 278-02-30 |
 | CleverLoft CLASSIC - Светлый лофт с верандой на Тульской | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (495) 278-02-30 |
 | CleverLoft ECO - Уютный лофт с верандой на Тульской | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (495) 278-02-30 |
@@ -1583,14 +1912,19 @@
 | Club First | бизнес-клуб | https://clubfirst.ru | social | https://t.me/+OcWjoltHjndjN2Zi |
 | Club First | бизнес-клуб | https://clubfirst.ru | social | https://t.me/clubfirst_community?text=Здравствуйте!%20Интересуют%20условия%20вступления%20в%20Клуб%20Первых. |
 | Club First | бизнес-клуб | https://clubfirst.ru | social | https://www.youtube.com/@clubfirst_business_community |
+| Club Loyalty | ивент агентство | https://eventcatalog.ru/agency/club_loyalty | phone | +7(4012)52-75-28 |
+| Clubtrade | ивент агентство | https://eventcatalog.ru/agency/clubtrade | phone | +7(495)662-58-78 / +7(925)589-67-11 |
 | CNews | IT-медиа | https://www.cnews.ru | email | law-it@cnews.ru |
 | CNews | IT-медиа | https://www.cnews.ru | email | news@cnews.ru |
 | CNews | IT-медиа | https://www.cnews.ru | email | review@cnews.ru |
 | CNews | IT-медиа | https://www.cnews.ru | phone | +7 (495) 500-00-36 |
+| Cocoevent | ивент агентство | https://eventcatalog.ru/agency/cocoevent | phone | +7(495) 517-45-80 |
 | Cocoon | лофт | https://www.loft2rent.ru/loft/191812/191814 | phone | +79262286999 |
 | CODE08 - Двухуровневый лофт с панорамными окнами, высокими потолками и мангальной зоной | лофт | https://www.loft2rent.ru/loft/184817 | phone | +79253166501 |
 | COiN EVENT HALL | лофт | https://www.loft2rent.ru/loft/28562/28566 | phone | +79265297099 |
+| Colibri | ивент агентство | https://eventcatalog.ru/agency/colibri | phone | +7(911)126-76-76 |
 | COM.NATA на Петроградской | лофт | https://www.loft2rent.ru/loft/144088 | phone | +78122408585 |
+| Communicator Creative Events | ивент агентство | https://eventcatalog.ru/agency/communicator_creative_events | phone | +7(495) 627-79-49 |
 | Community | бар | https://communitymoscow.ru/ | phone | +74998110811 |
 | Community (library club format) | ресторан / community club | https://communitymoscow.ru | email | communitymoscow@gmail.com |
 | Community (library club format) | ресторан / community club | https://communitymoscow.ru | phone | +7 (499) 811-08-11 |
@@ -1608,6 +1942,7 @@
 | Community Yauza | community space | https://yauza-place.ru | social | https://t.me/yauza_restoran_bot |
 | Community Yauza | community space | https://yauza-place.ru | social | https://vk.com/yauza_vk |
 | Community Yauza | community space | https://yauza-place.ru | social | https://www.instagram.com/yauza_place |
+| ComPie | ивент агентство | https://eventcatalog.ru/agency/compie | phone | +7(499)922-47-34 / +7(926)325-79-77 |
 | Compressor / КомпрессорКомпрессор лофт | лофт | https://www.loft2rent.ru/loft/10172/102526 | phone | +7 926-285-19-41 |
 | Compressor Loft (Компрессор Лофт) | лофт | https://www.reveltime.ru/venue/2240764?eventtype=vecherinka | phone | +79584974167 |
 | Comunica | коммуникационное агентство | https://comunica.ru | email | email |
@@ -1617,6 +1952,7 @@
 | Comunica | коммуникационное агентство | https://comunica.ru | phone | +7 495 956-39-00 |
 | Comunica | коммуникационное агентство | https://comunica.ru | social | https://www.facebook.com/ComunicaRU |
 | Comunica | коммуникационное агентство | https://comunica.ru | social | social |
+| Concept | ивент агентство | https://eventcatalog.ru/agency/concept | phone | +7(831)281-84-99 |
 | Condé Nast Russia (legacy) | организация | https://condenast.com | email | accountsreceivable@condenast.com |
 | Condé Nast Russia (legacy) | организация | https://condenast.com | email | advertising@condenast.com.mx |
 | Condé Nast Russia (legacy) | организация | https://condenast.com | email | advertising@condenast.com.tw |
@@ -1681,12 +2017,22 @@
 | Condé Nast Russia (legacy) | организация | https://condenast.com | email | vj-adv@condenast.jp |
 | Condé Nast Russia (legacy) | организация | https://condenast.com | email | wired-ad@condenast.jp |
 | Connect | лофт | https://www.loft2rent.ru/loft/193410/193412 | phone | 74991113733 |
+| Constellation | ивент агентство | https://eventcatalog.ru/agency/constellation | phone | +7(495) 745-84-13 |
+| Contacto | ивент агентство | https://eventcatalog.ru/agency/contacto | phone | +7(812) 702-18-02 |
+| Content 46 | ивент агентство | https://eventcatalog.ru/agency/content_46 | phone | +7(963)750-73-78 |
 | CONTRABANDA | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
+| Convention Bureau | ивент агентство | https://eventcatalog.ru/agency/convention_bureau | phone | +7(921)091-42-80 |
+| ConventPharma | ивент агентство | https://eventcatalog.ru/agency/conventpharma | phone | +7(495) 690-92-55 |
 | Cool'n'Art | лофт | https://www.loft2rent.ru/loft/174472 | phone | +7 921 778-00-46 |
 | Cooper Residence | лофт | https://www.loft2rent.ru/loft/113410 | phone | 89856981800 |
 | Cooper Space MINI | лофт | https://www.loft2rent.ru/loft/113410 | phone | 89856981800 |
 | Cooрer space 17 | лофт | https://www.loft2rent.ru/loft/111136/111142 | phone | 89853489939 |
 | Copen 57 | ресторан / бар | https://copen57.ru/ | phone | +79997155757 |
+| Corp-rest | ивент агентство | https://eventcatalog.ru/agency/corp-rest | phone | +7(495) 649-64-53 |
+| Corporate Party | ивент агентство | https://eventcatalog.ru/agency/corporate_party | phone | +7(495) 641-61-97 |
+| Corporate Travel Agency | ивент агентство | https://eventcatalog.ru/agency/corporate_travel_agency | phone | +420(606)073-182 / +420(608)890-908 |
+| Corpus | ивент агентство | https://eventcatalog.ru/agency/corpus | phone | +7(4012)92-29-52 / +7(4012)50-95-75 |
+| Corvel | ивент агентство | http://corvel.ru | phone | +7(932)200-33-24 |
 | Cosa Nostra GroupВип-комната на ст.м Нарвская | лофт | https://www.loft2rent.ru/loft/98210/98278 | phone | 89119266010 |
 | Cosa Nostra GroupЛофт на ст.м Кировский завод | лофт | https://www.loft2rent.ru/loft/98210/98212 | phone | 89119266010 |
 | Cosa Nostra GroupЛофт на ст.м Нарвская | лофт | https://www.loft2rent.ru/loft/98210/122037 | phone | 89119266010 |
@@ -1743,6 +2089,7 @@
 | Cosmos Hotel Moscow | отель | https://www.hotelcosmos.ru | social | https://ok.ru/group/61614064074818 |
 | Cosmos Hotel Moscow | отель | https://www.hotelcosmos.ru | social | https://t.me/cosmosvdnh |
 | Cosmos Hotel Moscow | отель | https://www.hotelcosmos.ru | social | https://vk.com/cosmosvdnh |
+| Cosmos Media Agency | ивент агентство | https://eventcatalog.ru/agency/cosmos_media_agency | phone | +7(495) 916-93-92 / +7(985) 997-44-03 |
 | Cosmos Studio | продакшн-студия | https://cosmos.studio | email | hello@cosmos.studio |
 | Cosmos Studio | продакшн-студия | https://cosmos.studio | social | https://linkedin.com/company/cosmosstudio |
 | Cosmos Studio | продакшн-студия | https://cosmos.studio | social | https://www.facebook.com/cosmosstudioua |
@@ -1780,6 +2127,7 @@
 | Cosmoscow | арт-ярмарка | https://cosmoscow.com | social | https://telegram.me/cosmoscowfair |
 | Cosmoscow | арт-ярмарка | https://cosmoscow.com | social | https://vk.com/cosmoscowfair |
 | Cosmoscow | арт-ярмарка | https://cosmoscow.com | social | https://www.youtube.com/channel/UCFKq0DWGwXylp6G_X3I_pLQ/videos?view_as=subscriber |
+| Cotton | ивент агентство | https://eventcatalog.ru/agency/cotton | phone | +7(38067) 508-79-78 / +7(38044) 285-36-72 |
 | Couchsurfing Moscow community | community / travel community | https://couchsurfing.com | email | support@couchsurfing.com |
 | Couchsurfing Moscow community | community / travel community | https://couchsurfing.com | social | https://facebook.com/couchsurfing |
 | Couchsurfing Moscow community | community / travel community | https://couchsurfing.com | social | https://instagram.com/couchsurfing |
@@ -1820,8 +2168,22 @@
 | Coworking Moscow BigWigМексика | лофт | https://www.loft2rent.ru/loft/61416/61511 | phone | +7(977) 518-72-66 |
 | Coworking Moscow BigWigПеру | лофт | https://www.loft2rent.ru/loft/61416/61515 | phone | +7(977) 518-72-66 |
 | Coworking Moscow BigWigШотландия | лофт | https://www.loft2rent.ru/loft/61416/61519 | phone | +7(977) 518-72-66 |
+| CPI Group | ивент агентство | https://eventcatalog.ru/agency/cpi_group | phone | +7(905) 751-20-99 |
+| Craft event group | ивент агентство | https://eventcatalog.ru/agency/craft_event_group | phone | +7(978)080-51-40 |
 | Crazy Loft | лофт | https://www.loft2rent.ru/loft/177908 | phone | +79164400130 |
+| CrazyFrogAgency | ивент агентство | https://eventcatalog.ru/agency/crazyfrogagency | phone | +7(812)926-62-68 |
+| CrazyWedding | ивент агентство | https://eventcatalog.ru/agency/crazywedding | phone | +7(495)782-62-09 |
+| Crazzzy-Fun | ивент агентство | https://eventcatalog.ru/agency/crazzzy-fun | phone | +7(495) 971-63-41 |
+| CreamModels | ивент агентство | https://eventcatalog.ru/agency/creammodels | phone | +7(921)356-85-51 / +7(904)603-34-34 |
+| creArt | ивент агентство | https://eventcatalog.ru/agency/creart | phone | +7(905) 514-46-86 |
+| CreatEve | ивент агентство | https://eventcatalog.ru/agency/createve | phone | +7(812)980-36-68 / +7(911)941-12-31 |
+| Creatiff | ивент агентство | https://eventcatalog.ru/agency/creatiff | phone | +7(495) 979-95-79 / +7(495) 978-52-64 |
+| Creativ | ивент агентство | https://eventcatalog.ru/agency/creativ | phone | +7(343) 382-44-30 |
 | Creative Art Space | лофт | https://www.loft2rent.ru/loft/163499/163501 | phone | 9857897745 |
+| Creative Capital | ивент агентство | https://eventcatalog.ru/agency/creative_capital | phone | +7(925) 001-50-06 |
+| Creative Force | ивент агентство | https://eventcatalog.ru/agency/creative_force | phone | +7(495) 699-69-17 / +7(916) 432-82-88 |
+| Creative Group | ивент агентство | https://eventcatalog.ru/agency/creative_group | phone | +7(8552)35-06-13 / +7(917)888-38-38 |
+| Creative Group UNO | ивент агентство | https://eventcatalog.ru/agency/creative_group_uno | phone | +7(831) 291-50-65 / +7(952) 456-50-60 |
 | Creative Market | creative community / marketplace | https://creativemarket.ru | email | email |
 | Creative Market | creative community / marketplace | https://creativemarket.ru | email | info@creativemarket.ru |
 | Creative Market | creative community / marketplace | https://creativemarket.ru | phone | +7 (495) 787-34-36 |
@@ -1830,6 +2192,17 @@
 | Creative Market | creative community / marketplace | https://creativemarket.ru | social | https://vk.com/creativemarketru |
 | Creative Market | creative community / marketplace | https://creativemarket.ru | social | social |
 | Creative Market | creative community / marketplace | https://creativemarket.ru | social | social |
+| Creative Market | ивент агентство | https://eventcatalog.ru/agency/creative_market | phone | +7(495)787-34-36 / +7(495)508-25-66 |
+| Creative Production | ивент агентство | https://eventcatalog.ru/agency/creative_production | phone | +7(067) 560-37-90 |
+| Creative Republic | ивент агентство | https://eventcatalog.ru/agency/creative_republic | phone | +7(915) 487-11-47 / +7(985) 413-30-73 |
+| Creative Show | ивент агентство | https://eventcatalog.ru/agency/creative_show | phone | +7(37322) 20-70-73 |
+| Creative studio celebrity | ивент агентство | https://eventcatalog.ru/agency/creative_studio_celebrity | phone | +7(495)647-81-64 / +7(967)054-77-51 |
+| Creative Technologies Studio | ивент агентство | https://eventcatalog.ru/agency/creative_technologies_studio | phone | +7(067) 466-75-13 |
+| Creatr | ивент агентство | https://eventcatalog.ru/agency/creatr | phone | +7(495) 643-98-89 |
+| Creme Studio | ивент агентство | https://eventcatalog.ru/agency/creme_studio | phone | +7(495) 788-77-58 |
+| Creon | ивент агентство | https://eventcatalog.ru/agency/creon | phone | +7(495)151-20-46 |
+| Crimea Events | ивент агентство | https://eventcatalog.ru/agency/crimea_events | phone | +7(978)812-85-07 / +7(978)139-11-26 |
+| Crit.erium | ивент агентство | https://eventcatalog.ru/agency/crit_erium | phone | +7(916)137-60-15 / +7(963)964-85-22 |
 | Crocus Fitness | фитнес-сеть | https://crocusfitness.com | email | info@crocusfitness.com |
 | Crocus Fitness | фитнес-сеть | https://crocusfitness.com | social | https://dzen.ru/video/watch/63ad5e6ba9ffc3494b71f231?utm_referer=crocusfitness.com |
 | Crocus Fitness | фитнес-сеть | https://crocusfitness.com | social | https://rutube.ru/channel/44350511 |
@@ -1861,6 +2234,7 @@
 | Crocus Group Events | event-оператор | https://crocusgroup.ru | social | https://vk.com/crocusgroupofficial |
 | Crocus Group Events | event-оператор | https://crocusgroup.ru | social | social |
 | Crocus Group Events | event-оператор | https://crocusgroup.ru | social | social |
+| Crocus production | ивент агентство | https://eventcatalog.ru/agency/crocus_production | phone | +7(495)236-12-61 |
 | Crowne Plaza Moscow Tretyakovskaya | отель | https://plazagarden.ru | email | plazareservations@plazagarden.ru |
 | Crowne Plaza Moscow Tretyakovskaya | отель | https://plazagarden.ru | email | sales@wtcfitness.ru |
 | Crowne Plaza Moscow Tretyakovskaya | отель | https://plazagarden.ru | email | tamara.muchinskaya@plazagarden.ru |
@@ -1871,6 +2245,7 @@
 | CTB Film Company | кинокомпания | https://ctb.ru | social | https://t.me/ctbfilm |
 | CTB Film Company | кинокомпания | https://ctb.ru | social | https://vk.com/kinoctb |
 | CTB Film Company | кинокомпания | https://ctb.ru | social | https://www.youtube.com/user/ctbfilm |
+| Cube Label | ивент агентство | https://eventcatalog.ru/agency/cube_label | phone | +7(38044) 361-11- 25 / +7(38050) 652-71-48 |
 | Cube.Moscow | арт-пространство | https://cube.moscow | email | coordinator@cube.moscow |
 | Cube.Moscow | арт-пространство | https://cube.moscow | email | info@cube.moscow |
 | Cube.Moscow | арт-пространство | https://cube.moscow | email | pr@cube.moscow |
@@ -1881,6 +2256,7 @@
 | Cube.Moscow | арт-пространство | https://cube.moscow | social | https://www.youtube.com/channel/UCIidVK_ErOz9O2yJxyNo4Yw |
 | Cucinarium | лофт | https://www.loft2rent.ru/loft/180775/180777 | phone | 89629480842 |
 | Culinary style лофт | лофт | https://www.reveltime.ru/venue/1372200?eventtype=vecherinka | phone | +79163797300 |
+| Cult.Project | ивент агентство | https://eventcatalog.ru/agency/cult_project | phone | +7(495) 500-70-92 |
 | Culture Projects Moscow Office | культурная организация | https://culture.mos.ru | social | https://t.me/CulturMoscow |
 | Culture Projects Moscow Office | культурная организация | https://culture.mos.ru | social | https://t.me/moscow_culture |
 | Culture Projects Moscow Office | культурная организация | https://culture.mos.ru | social | social |
@@ -1892,15 +2268,29 @@
 | Cycling Moscow | спортивное community | https://cyclingrace.ru | social | https://t.me/cyclingraceru |
 | Cycling Moscow | спортивное community | https://cyclingrace.ru | social | https://vk.com/cyclingraceru |
 | CтарБарПлощадка с караоке и кальяном | лофт | https://www.loft2rent.ru/loft/185887/186031 | phone | +7 (980) 463-70-54 |
+| D-time | ивент агентство | https://eventcatalog.ru/agency/d-time | phone | +7(963)345-00-00 |
+| D.E.&G McGor Production | ивент агентство | https://eventcatalog.ru/agency/d_e_andg_mcgor_production | phone | +7(495) 941-87-70 |
+| D.F. | ивент агентство | https://eventcatalog.ru/agency/d_f | phone | +7(796) 503-30-17 / +7(781) 233-29-79 |
+| D.Zemtsov | ивент агентство | https://eventcatalog.ru/agency/d_zemtsov | phone | +7(914)540-52-21 |
 | D13 Boutique & Restaurant | лофт | https://www.loft2rent.ru/loft/195075/195109 | phone | +79771789349 |
+| D2 Marketing Solutions | ивент агентство | http://www.d2ms.ru | phone | +7(495)995-54-55 |
 | Dacha restaurant | лофт | https://www.loft2rent.ru/loft/188924/189002 | phone | 8 (495) 191-28-88 |
+| Dainova Event | ивент агентство | https://eventcatalog.ru/agency/dainova_event | phone | +7(4912) 911-511 / +7(4912) 90-15-59 |
 | Dakota Loft | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
+| Daksa-BTL | ивент агентство | https://eventcatalog.ru/agency/daksa-btl | phone | +7(913)029-09-59 |
+| Dance Marketing Group | ивент агентство | https://eventcatalog.ru/agency/dance_marketing_group | phone | +7(812)309-58-98 / +7(904)609-52-92 |
 | DAO Agency | digital / creative agency | https://daoagency.ru | phone | +7 495 215-14-00 |
 | Dark | лофт | https://www.loft2rent.ru/loft/153561 | phone | +74951084290 |
+| das Buro | ивент агентство | https://eventcatalog.ru/agency/das_buro | phone | +7(495)975-95-90 |
+| Daviance | ивент агентство | https://eventcatalog.ru/agency/daviance | phone | +7(917)111-85-55 / +7(917)169-29-89 |
 | Davidoff Club Moscow | private club | https://bronnaya.club | phone | +7 (495) 626-44-44 |
+| De'MonAngel agency | ивент агентство | https://eventcatalog.ru/agency/demonangel_agency | phone | +7(916)425-37-60 |
 | Deep - Клуб для праздников и мероприятий | лофт | https://www.loft2rent.ru/loft/172081 | phone | 89255165332 |
 | Deep Loft - лофт с подвалом для взрослых и верандой | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Del-Arte | ивент агентство | https://eventcatalog.ru/agency/del-arte | phone | +7(812) 958-73-28 / +7(921) 444-51-31 |
 | Delicatessen | бар | http://delicatessen.bar/ | phone | +74956993952 |
+| Dellos Events | ивент агентство | https://eventcatalog.ru/agency/dellos_events | phone | +7(495) 967-78-70 / +7(916) 002-44-43 |
+| Delmon DMC Spain | ивент агентство | https://eventcatalog.ru/agency/delmon_dmc_spain | phone | +7(093) 420-91-76 |
 | Delovaya Rossiya | бизнес-ассоциация | https://deloros.ru | email | info@deloros.ru |
 | Delovaya Rossiya | бизнес-ассоциация | https://deloros.ru | phone | +7 (495) 649-18-26 |
 | Delovaya Rossiya | бизнес-ассоциация | https://deloros.ru | phone | +7 (495) 649-18-27 |
@@ -1912,6 +2302,7 @@
 | Dentsu (legacy Russia) | рекламный холдинг | https://www.dentsu.com | social | https://www.instagram.com/dentsu |
 | Dentsu (legacy Russia) | рекламный холдинг | https://www.dentsu.com | social | https://www.linkedin.com/company/dentsu |
 | Dentsu (legacy Russia) | рекламный холдинг | https://www.dentsu.com | social | https://www.youtube.com/channel/UCn503X8N2DVg2kizWHLkuoQ |
+| Departament | ивент агентство | https://eventcatalog.ru/agency/departament | phone | +7(495)532-32-36 |
 | Depo-Loft | лофт | https://www.loft2rent.ru/loft/88534 | phone | +79667566254 |
 | Depot branding | брендинговое агентство | https://depotwpf.ru | email | hello@depotwpf.ru |
 | Depot branding | брендинговое агентство | https://depotwpf.ru | phone | +7 (495) 363-22-88 |
@@ -1921,21 +2312,29 @@
 | Depot branding | брендинговое агентство | https://depotwpf.ru | social | https://t.me/depot_branding |
 | Depot branding | брендинговое агентство | https://depotwpf.ru | social | https://t.me/depot_chat_bot |
 | Depot branding | брендинговое агентство | https://depotwpf.ru | social | https://vk.com/depotwpf |
+| DeRuss | ивент агентство | https://eventcatalog.ru/agency/deruss | phone | +7(030) 889-22-53 |
 | Derzay Event & Loft | лофт | https://www.loft2rent.ru/loft/184079/184081 | phone | +79112236646 |
+| Design Boutique | ивент агентство | https://eventcatalog.ru/agency/design_boutique | phone | +7(991)011-08-85 |
 | Design Hotel RING City | дизайн-отель | https://hotel-ring.ru/about | email | hotelring@yandex.ru |
 | Design Hotel RING City | дизайн-отель | https://hotel-ring.ru/about | phone | +7 (844) 292-32-32 |
+| Development Group | ивент агентство | https://eventcatalog.ru/agency/development_group | phone | +7(495) 987 19 68 |
+| Devicta Expo | ивент агентство | https://eventcatalog.ru/agency/devicta_expo | phone | +7(495) 727-07-69 |
 | DFM | радиостанция | https://dfm.ru | social | https://dzen.ru/dfm |
 | DFM | радиостанция | https://dfm.ru | social | https://ok.ru/dfm |
 | DFM | радиостанция | https://dfm.ru | social | https://t.me/dancedfm |
 | DFM | радиостанция | https://dfm.ru | social | https://vk.ru/js/api/videoplayer.js |
 | DFM | радиостанция | https://dfm.ru | social | https://vk.ru/public89493 |
+| DGV | ивент агентство | https://eventcatalog.ru/agency/dgv | phone | +7(962) 946-76-85 / +7(919) 765-48-46 |
 | Di Nulla | ресторан / бар | https://dinulla.ru | phone | +79261961212 |
+| Diamond Communication | ивент агентство | https://eventcatalog.ru/agency/diamond_communication | phone | +7(800)300-06-89 |
 | Diamond Loft - лофт с большими окнами и потрясающим дизайном | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Dianoff | ивент агентство | https://eventcatalog.ru/agency/dianoff | phone | +7(495)662-02-60 / +7(964)644-44-84 |
 | Digital Cinema Moscow | кино / digital production | https://moscowfilmfestival.ru | email | info@moscowfilmfestival.ru |
 | Digital Cinema Moscow | кино / digital production | https://moscowfilmfestival.ru | phone | +7 (495) 725-26-22 |
 | Digital Cinema Moscow | кино / digital production | https://moscowfilmfestival.ru | social | https://rutube.ru/channel/77501090 |
 | Digital Cinema Moscow | кино / digital production | https://moscowfilmfestival.ru | social | https://t.me/moscowfilmfestival |
 | Digital Cinema Moscow | кино / digital production | https://moscowfilmfestival.ru | social | https://vk.com/mmkf |
+| Digital Event Group | ивент агентство | https://eventcatalog.ru/agency/digital_event_group | phone | +7(495)998-26-08 / +7(965)244-80-99 |
 | Digital Leaders community | IT community | https://digitalleaders.ru | email | info@digitalleaders.ru |
 | Digital Leaders community | IT community | https://digitalleaders.ru | email | rating@mail.ru |
 | Digital Leaders community | IT community | https://digitalleaders.ru | phone | +7 (495) 726-41-66 |
@@ -1966,14 +2365,29 @@
 | Digital TV Russia | медиакомпания | https://digitalrussia.tv | phone | +7 (499) 550-66-70 |
 | Digital TV Russia | медиакомпания | https://digitalrussia.tv | phone | +84993501080115 |
 | Digital TV Russia | медиакомпания | https://digitalrussia.tv | phone | +84993501080116 |
+| Dimirano | ивент агентство | https://eventcatalog.ru/agency/dimirano | phone | +7(913)917-05-93 / +7(383)299-05-93 |
+| Director’s Cut | ивент агентство | https://eventcatalog.ru/agency/director_s_cut | phone | +7(495)937-17-97 |
 | Disco | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
+| DiscoShow.ru | ивент агентство | https://eventcatalog.ru/agency/discoshow_ru | phone | +7(903) 194-87-25 |
 | DIY cafe | лофт | https://www.loft2rent.ru/loft/55515/55517 | phone | +7 903 510 5445 |
 | DIYcafe (Ди-Ай-Уай Кафе). Лофт | лофт | https://www.reveltime.ru/venue/4299884?eventtype=vecherinka | phone | +79346644195 |
 | Dizzy loft (Диззи лофт). Яркий лофт | лофт | https://www.reveltime.ru/venue/6712256?eventtype=vecherinka | phone | +79019317663 |
 | Dizzy Loft в центре | лофт | https://www.loft2rent.ru/loft/136868 | phone | +79933450544 |
 | Dj cafeParadise лофт с терассой и караоке | лофт | https://www.loft2rent.ru/loft/132298/163408 | phone | 89213531717 |
+| DJan-media | ивент агентство | https://eventcatalog.ru/agency/djan-media | phone | +7(495) 923-79-94 |
+| DL management | ивент агентство | https://eventcatalog.ru/agency/dl_management | phone | +7(495) 650-56-88 |
+| DL-Event | ивент агентство | https://eventcatalog.ru/agency/dl-event | phone | +7(905) 351-50-07 / +7(347) 266-47-80 |
+| Dlevel | ивент агентство | https://eventcatalog.ru/agency/dlevel | phone | +7(916)182-04-04 |
+| DMC | ивент агентство | https://eventcatalog.ru/agency/dmc | phone | +7(499)281-57-75 |
+| DMC Kavkaz | ивент агентство | https://eventcatalog.ru/agency/dmc_kavkaz | phone | +7(800)302-04-40 |
+| Do simple event | ивент агентство | https://eventcatalog.ru/agency/do_simple_event | phone | +7(999)594-58-44 |
 | Do.Bro coffee (До.Бро кофе). Уютный лофт-зал при кофейне | лофт | https://www.reveltime.ru/venue/6852686?eventtype=vecherinka | phone | +79584974160 |
 | Doc Moscow Fest | документальный кинофестиваль | https://mdfest.ru | social | https://vk.com/konkursmolodiyederzkiye |
+| Doctor Team | ивент агентство | https://eventcatalog.ru/agency/doctor_team | phone | +7(929)592-66-62 / +7(499)340-82-32 |
+| Doka Event | ивент агентство | https://eventcatalog.ru/agency/doka_event | phone | +7(926) 904-15-74 |
+| Dolce Vento | ивент агентство | https://eventcatalog.ru/agency/dolce_vento | phone | +7(962)969-66-23 |
+| Dolce Vita | ивент агентство | https://eventcatalog.ru/agency/dolce_vita | phone | +7(918) 442-59-32 / +7(918) 394-32-03 |
+| Dolce Wedding | ивент агентство | https://eventcatalog.ru/agency/svadebnoe_agentstvo_dolce_wedding | phone | +7(903)282-04-24 / +7(903)269-05-75 |
 | Dom | лофт | https://www.loft2rent.ru/loft/170544/170548 | phone | 89254224470 |
 | DOM AVDEEVA | лофт | https://www.loft2rent.ru/loft/129251/129259 | phone | +7 926 699 29 56 |
 | Dom Siyai | лофт | https://www.loft2rent.ru/loft/143676/143698 | phone | 89150022842 |
@@ -2028,12 +2442,23 @@
 | Doubletree by Hilton Moscow - Marina | отель | https://ostrovok.ru/hotel/russia/moscow/mid8313259/doubletree_by_hilton_hotel_moscow__marina | address | Ленинградское шоссе, 39 строение 1, Москва |
 | DoubleTree by Hilton Moscow — Vnukovo Airport | отель | https://ostrovok.ru/hotel/russia/moscow/mid8848335/doubletree_by_hilton_moscow_vnukovo_airport | address | улица 2-я Рейсовая, дом 2, Москва |
 | DoubleTree by Hilton Skolkovo | отель | https://www.hilton.com/ru/locations/russian-federation/doubletree-by-hilton | phone | +18004466677 |
+| DozoR | ивент агентство | https://eventcatalog.ru/agency/dozor | phone | +7(967)248-58-48 / +7(495)188-12-49 |
+| DozoR lite | ивент агентство | https://eventcatalog.ru/agency/dozor_lite | phone | +7(391) 208-27-82 |
+| Dozor Краснодар | ивент агентство | https://eventcatalog.ru/agency/dozor_krasnodar | phone | +7(903)450-11-44 |
+| Dpg | ивент агентство | https://eventcatalog.ru/agency/dpg | phone | +7(915)359-61-41 |
 | Dr. Zhivago | ресторан | https://drzhivago.ru | phone | +7 (495) 363-89-77 |
 | Dr. Zhivago | ресторан | https://drzhivago.ru | social | http://instagram.com/grandcafezhivago |
 | Dr. Zhivago | ресторан | https://drzhivago.ru | social | https://t.me/DrZhivago_bot |
 | Dr. Zhivago | ресторан | https://drzhivago.ru | social | https://t.me/grandcafezhivago |
 | Dr. Zhivago | ресторан | https://drzhivago.ru | social | https://www.facebook.com/GrandCafeZhivago |
 | Dr. Живаго | ресторан | https://drzhivago.ru/ | phone | +74999220100 |
+| Dream agency | ивент агентство | https://eventcatalog.ru/agency/dream_agency | phone | +7(812) 777-20-20 / +7(812) 312-31-30 |
+| Dream Events | ивент агентство | https://eventcatalog.ru/agency/dream_events | phone | +7(495) 644-98-96 / +7(495) 144-64-14 |
+| Dream Team AGCY | ивент агентство | https://eventcatalog.ru/agency/dream_team_agcy | phone | +7(911)927-40-06 |
+| Dream Weddings | ивент агентство | https://eventcatalog.ru/agency/dream_weddings | phone | +7(8482)62-39-02 |
+| DreamLife Vision | ивент агентство | https://eventcatalog.ru/agency/dreamlife_vision | phone | +7(926)598-05-75 |
+| Dreammedia | ивент агентство | https://eventcatalog.ru/agency/dreammedia | phone | +7(8202) 57-27-19 |
+| Drim Group | ивент агентство | https://eventcatalog.ru/agency/drim_group | phone | +7(4922) 33-21-20 / +7(910) 777-24-84 |
 | DRUNK PUNK BAR | лофт | https://www.loft2rent.ru/loft/176808/176811 | phone | 8 (916) 637-46-59 |
 | DTF | digital-медиа | https://dtf.ru | email | editors@dtf.ru |
 | DTF | digital-медиа | https://dtf.ru | email | moderation@dtf.ru |
@@ -2055,11 +2480,40 @@
 | DUAL EVENT BURO | event-агентство | http://dualeventburo.ru | social | https://t.me/+79099748082?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Dual.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | DUAL EVENT BURO | event-агентство | http://dualeventburo.ru | social | https://www.instagram.com/dual_event_buro |
 | Due Forni | ресторан | https://dueforni.ru/ | phone | +74954143104 |
+| Durban Group | ивент агентство | https://eventcatalog.ru/agency/durban_group | phone | +7(925)718-59-68 |
+| Dusha Event | ивент агентство | https://eventcatalog.ru/agency/dusha_event | phone | +7(999)599-39-69 / +7(985)444-28-83 |
 | Duty Free loft | лофт | https://www.loft2rent.ru/loft/144719 | phone | +7 (958) 521-27-15 |
+| DVL group | ивент агентство | https://eventcatalog.ru/agency/dvl_group | phone | +7(820) 254-07-17 |
+| e2-e5 | ивент агентство | https://eventcatalog.ru/agency/e2-e5 | phone | +7(495) 970-96-25 |
 | East Loft / Ист Лофт | лофт | https://www.loft2rent.ru/loft/88115/88418 | phone | +7 981 778 9824 |
+| Easy Party | ивент агентство | https://eventcatalog.ru/agency/easy_party | phone | +7(916)874-96-90 / +7(916)844-25-30 |
 | Echo LoftТропики | лофт | https://www.loft2rent.ru/loft/153404/155866 | phone | +7 (901) 7487578 |
 | Eclipse | лофт | https://www.loft2rent.ru/loft/208007 | phone | +79250608713 |
+| Eclipse Events | ивент агентство | https://eventcatalog.ru/agency/eclipse_events | phone | +971-55-350-5358 / +971-52-862-2443 |
 | EcoLoft | лофт | https://www.loft2rent.ru/loft/54080/54085 | phone | +7 (495) 776 37 01 |
+| Eddison | ивент агентство | https://eventcatalog.ru/agency/eddison | phone | +7(423) 222-42-88 |
+| EdEvent | ивент агентство | https://eventcatalog.ru/agency/edevent | phone | +7(928)769-61-96 |
+| Efem | ивент агентство | https://eventcatalog.ru/agency/efem | phone | +7(044) 453-57-96 |
+| EgtEvent | ивент агентство | https://eventcatalog.ru/agency/egtevent | phone | +90(535)248-1779 |
+| Ekstravaganza | ивент агентство | https://eventcatalog.ru/agency/ekstravaganza | phone | +7(499)391-18-67 |
+| El Palacio | ивент агентство | https://eventcatalog.ru/agency/el_palacio | phone | +7(906) 729-08-29 |
+| Elegant Event | ивент агентство | https://eventcatalog.ru/agency/elegant_event | phone | +7(495) 602-55-20 / +7(916) 277-87-77 |
+| Elevate | ивент агентство | https://eventcatalog.ru/agency/elevate | phone | +7(977)549-79-02 / +7(499)553-05-45 |
+| Elevent | ивент агентство | https://eventcatalog.ru/agency/elevent | phone | +7(499)130-47-27 |
+| Elion Studio | ивент агентство | https://eventcatalog.ru/agency/elion_studio | phone | +7(495) 942-96-26 |
+| Elis Records | ивент агентство | https://eventcatalog.ru/agency/elis_records | phone | +7(495) 359-00-76 / +7(926) 243-02-33 |
+| Elki-project | ивент агентство | https://eventcatalog.ru/agency/elki-project | phone | +7(967)273-15-16 |
+| Ellanta Events | ивент агентство | http://www.ellanta.net | phone | +7(499)341-01-71 |
+| EmAgency | ивент агентство | https://eventcatalog.ru/agency/emagency | phone | +7(495) 637-66-07 |
+| Emerald advertising | ивент агентство | https://eventcatalog.ru/agency/emerald_advertising | phone | +7(812) 313-23-81 / +7(905) 229-51-97 |
+| EMF event | ивент агентство | https://eventcatalog.ru/agency/emf_event | phone | +7(495) 761-04-41 |
+| Emocean | ивент агентство | https://eventcatalog.ru/agency/emocean | phone | +230-483-6339 |
+| Emotion | ивент агентство | https://eventcatalog.ru/agency/emotion | phone | +7(38067) 517-60-11 / +7(38067) 494-14-94 |
+| Emotion _ | ивент агентство | https://eventcatalog.ru/agency/emotion-1 | phone | +7(495) 771-0238 / +7(495) 422-7072 |
+| Emotion Production | ивент агентство | https://eventcatalog.ru/agency/emotion_production | phone | +7(351)223-17-75 / +7(351)223-17-76 |
+| EmotionPRo | ивент агентство | https://eventcatalog.ru/agency/emotionpro | phone | +7(495) 740-63-76 |
+| Emotions | ивент агентство | https://eventcatalog.ru/agency/emotions | phone | +7(093) 858-12-20 / +7(044) 456-20-49 |
+| Ems Events | ивент агентство | https://eventcatalog.ru/agency/ems_events | phone | +0(207)820-9000 |
 | En+ Group | промышленный холдинг | https://www.enplusgroup.com | email | 726_546_1_development-img@2x.jpg |
 | En+ Group | промышленный холдинг | https://www.enplusgroup.com | email | compliance@enplus.ru |
 | En+ Group | промышленный холдинг | https://www.enplusgroup.com | email | cs@enplus.ru |
@@ -2154,9 +2608,16 @@
 | Encore City (Oko Tower) | fitness / wellness club | https://www.encorefitness.ru | social | https://instagram.com/encorerus?igshid=MzRlODBiNWFlZA== |
 | Encore City (Oko Tower) | fitness / wellness club | https://www.encorefitness.ru | social | https://t.me/encorerus |
 | Encore City (Oko Tower) | fitness / wellness club | https://www.encorefitness.ru | social | https://vk.com/encorefitness |
+| Energy Life | ивент агентство | https://eventcatalog.ru/agency/energy_life | phone | +7(495) 363-76-42 / +7(910) 422-26-28 |
+| Energy Nation | ивент агентство | https://eventcatalog.ru/agency/energy_nation | phone | +7(701)788-86-08 / +7(727)237-87-56 |
+| Engadin Incoming Management | ивент агентство | https://eventcatalog.ru/agency/engadin_incoming_management | phone | +7(417) 928-25-10 |
+| Engineering Design Event | ивент агентство | https://eventcatalog.ru/agency/engineering_design_event | phone | +7(495)646-61-66 |
+| Enjoy Riga | ивент агентство | https://eventcatalog.ru/agency/enjoy_riga | phone | +7(371) 255-22-10 / +7(371) 296-81-84 |
 | EnjoyMe_studio (Арт пространство, мастерская) | лофт | https://www.loft2rent.ru/loft/142043 | phone | +79124518733 |
 | EnjoyMe_studio (Лофт рояль, бильярд) | лофт | https://www.loft2rent.ru/loft/142043 | phone | +79124518733 |
+| Entertainment msk | ивент агентство | https://eventcatalog.ru/agency/entertainment_msk | phone | +7(499)755-66-65 / +7(925)755-66-65 |
 | ENZO Hotel Moscow by ZONT Hotel Group | отель | https://ostrovok.ru/hotel/russia/moscow/mid13725634/enzo_hotel_moscow_by_zont_hotel_group | address | Поклонная улица, 9, Москва |
+| Erua | ивент агентство | https://eventcatalog.ru/agency/erua | phone | +7(499)192-05-49 / +7(916)992-99-42 |
 | Espada. Brosco (Эспада. Броско). Дизайнерский неоновый лофт | лофт | https://www.reveltime.ru/venue/5445072?eventtype=vecherinka | phone | +79813347290 |
 | EsterumEsterum | лофт | https://www.loft2rent.ru/loft/187739/187741 | phone | +7 (969) 130-13-12 |
 | ESTETIKA - уютный лофт с окнами. Включено - караоке, светомузыка, мебель.  Подарок при бронировании | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
@@ -2231,6 +2692,43 @@
 | Europa Plus | радиостанция | https://europaplus.ru | social | https://www.youtube.com/@EuropaPlus/shorts |
 | Europa Plus | радиостанция | https://europaplus.ru | social | https://www.youtube.com/user/EuropaPlusMsk |
 | Eva | ресторан | http://www.eva.lucky-group.ru/ | phone | +74951911888 |
+| EvaDia | ивент агентство | https://eventcatalog.ru/agency/evadia | phone | +7(495) 411-90-68 / +7(495) 979-87-31 |
+| Evenement | ивент агентство | https://eventcatalog.ru/agency/evenement | phone | +7(982)663-97-28 / +7(902)272-27-72 |
+| Event 03 | ивент агентство | https://eventcatalog.ru/agency/event_03 | phone | +7(924)650-82-66 / +7(902)166-70-64 |
+| Event Agency D.G.V. | ивент агентство | https://eventcatalog.ru/agency/event_agency_d_g_v | phone | +7(962) 946-76-85 |
+| Event Agency Iris | ивент агентство | https://eventcatalog.ru/agency/event_agency_iris | phone | +7(096) 159-44-55 / +7(044) 361-65-21 |
+| Event Agents | ивент агентство | https://eventcatalog.ru/agency/event_agents | phone | +7(903)756-14-71 / +7(926)680-46-96 |
+| Event Art | ивент агентство | https://eventcatalog.ru/agency/event_art | phone | +7(951)307-36-32 |
+| Event Atelier | ивент агентство | https://eventcatalog.ru/agency/event_atelier | phone | +7(903) 000-81-28 |
+| Event Avenue | ивент агентство | https://eventcatalog.ru/agency/event_avenue | phone | +7(495) 973-22-05 |
+| Event Boutique | ивент агентство | https://eventcatalog.ru/agency/event_boutique | phone | +7(812) 400-90-92 / +7(921) 961-10-10 |
+| Event Box | ивент агентство | https://eventcatalog.ru/agency/event_box | phone | +7(495)151-21-02 / +7(916)565-53-21 |
+| Event Club | ивент агентство | https://eventcatalog.ru/agency/event_club | phone | +7(812)988-40-09 / +7(911)955-49-08 |
+| Event Company Иркутск | ивент агентство | https://eventcatalog.ru/agency/event_company_irkutsk | phone | +7(3952) 404-799 / +7(3952) 622-115 |
+| Event Days | ивент агентство | https://eventcatalog.ru/agency/event_days | phone | +7(499) 390-08-93 / +7(926) 819-99-24 |
+| Event Envoy | ивент агентство | https://eventcatalog.ru/agency/event_envoy | phone | +380(44)221-26-35 |
+| Event fantasy | ивент агентство | https://eventcatalog.ru/agency/event_fantasy | phone | +7(499)502-25-50 |
+| Event First | ивент агентство | https://eventcatalog.ru/agency/event_first | phone | +7(812)766-06-50 / +7(921)099-66-33 |
+| Event for Brand | ивент агентство | https://eventcatalog.ru/agency/event_for_brand | phone | +7(495) 742-44-88 |
+| Event garden | ивент агентство | https://eventcatalog.ru/agency/event_garden | phone | +7(495) 641-77-73 / +7info@eventgarden.r |
+| Event Gem | ивент агентство | https://eventcatalog.ru/agency/event_gem | phone | +7(499)136-75-14 |
+| Event Guide | ивент агентство | https://eventcatalog.ru/agency/event_guide | phone | +7(903) 812-10-09 |
+| Event Guru | ивент агентство | https://eventcatalog.ru/agency/event_guru | phone | +7(495) 924-34-23 / +7(926)-556-26-37 |
+| Event Haute Couture | ивент агентство | https://eventcatalog.ru/agency/event_haute_couture | phone | +7(495) 728-28-60 |
+| Event Holidays | ивент агентство | https://eventcatalog.ru/agency/event_holidays | phone | +7(495)545-93-30 |
+| Event Hooligans | ивент агентство | https://eventcatalog.ru/agency/event_hooligans | phone | +7(963)773-54-81 |
+| Event in Hungary Budapest | ивент агентство | https://eventcatalog.ru/agency/event_in_hungary_budapest | phone | +36(705)077-554 |
+| Event in style | ивент агентство | https://eventcatalog.ru/agency/event_in_style | phone | +7(499)390-15-71 |
+| Event Kitchen | ивент агентство | https://eventcatalog.ru/agency/event_kitchen | phone | +7(968)562-42-26 / +7(916)087-30-46 |
+| Event Lab | ивент агентство | https://eventcatalog.ru/agency/event_lab | phone | +7(910) 470-84-68 / +7(495) 772-43-83 |
+| Event Laboratory | ивент агентство | https://eventcatalog.ru/agency/event_laboratory | phone | +7(495) 648-45-81 |
+| Event Life | ивент агентство | https://eventcatalog.ru/agency/event_life | phone | +7(925) 839-43-99 |
+| Event machine | ивент агентство | https://eventcatalog.ru/agency/event_machine | phone | +7(977)104-26-41 / +7(926)555-94-52 |
+| Event major | ивент агентство | https://eventcatalog.ru/agency/event_major | phone | +7(985) 271-35-03 / +7(916) 057-72-74 |
+| Event Makers | ивент агентство | https://eventcatalog.ru/agency/event_makers | phone | +7(921)399-81-22 |
+| Event Management | ивент агентство | https://eventcatalog.ru/agency/event_management | phone | +7(495) 508-75-43 |
+| Event Management _ | ивент агентство | https://eventcatalog.ru/agency/event_management-2 | phone | +7(495) 510-90-24 |
+| Event Managment Bureau Russia | ивент агентство | https://eventcatalog.ru/agency/event_managment_bureau_russia | phone | +7(495) 232-17-75 |
 | Event Marketing Group (EMG) | event / media group | https://emg.ru | email | email |
 | Event Marketing Group (EMG) | event / media group | https://emg.ru | email | email |
 | Event Marketing Group (EMG) | event / media group | https://emg.ru | email | hr@emg.ru |
@@ -2239,9 +2737,49 @@
 | Event Marketing Group (EMG) | event / media group | https://emg.ru | social | https://vk.com/emgagency |
 | Event Marketing Group (EMG) | event / media group | https://emg.ru | social | social |
 | Event Marketing Group (EMG) | event / media group | https://emg.ru | social | social |
+| Event Peterhof | ивент агентство | https://eventcatalog.ru/agency/event_peterhof | phone | +7(800)302-09-13 / +7(812)408-45-31 |
+| Event Planet | ивент агентство | https://eventcatalog.ru/agency/event_planet | phone | +7(044) 221-86-11 / +7(093) 858-12-20 |
+| Event Planner | ивент агентство | https://eventcatalog.ru/agency/event_planner | phone | +7(812) 951-66-52 |
+| Event Police | ивент агентство | https://eventcatalog.ru/agency/event_police | phone | +7(499) 502-21-44 |
+| Event Practice | ивент агентство | https://eventcatalog.ru/agency/event_practice | phone | +7(925)537-14-00 |
+| Event Pro | ивент агентство | https://eventcatalog.ru/agency/event_pro | phone | +7(495) 626-12-79 / +7(495) 459-70-77 |
+| Event PRO Уфа | ивент агентство | https://eventcatalog.ru/agency/event_pro_ufa | phone | +7(962) 540-70-45 |
+| Event Production | ивент агентство | https://eventcatalog.ru/agency/event_production | phone | +7(495)941-63-03 / +7(495)625-49-17 |
+| Event Project | ивент агентство | https://eventcatalog.ru/agency/event_project | phone | +7(926) 349-70-69 |
+| Event Service Agency | ивент агентство | https://eventcatalog.ru/agency/event_service_agency | phone | +7(701)800-17-02 |
+| Event Services | ивент агентство | https://eventcatalog.ru/agency/event_services | phone | +7(495) 971-37-23 |
+| Event Show Corporation | ивент агентство | https://eventcatalog.ru/agency/event_show_corporation | phone | +7(916)473-30-73 / +7(916)810-68-63 |
+| Event Sky Club | ивент агентство | https://eventcatalog.ru/agency/event_sky_club | phone | +7(495)215-52-30 |
+| Event Solution | ивент агентство | https://eventcatalog.ru/agency/event_solution | phone | +7(495) 641-09-59 |
+| Event Sound Service | ивент агентство | https://eventcatalog.ru/agency/event_sound_service | phone | +7(727) 352-87-56 / +7(707) 848-07-13 |
 | Event Space | лофт | https://www.loft2rent.ru/loft/148024/148275 | phone | 89274190718 |
+| Event Story | ивент агентство | https://eventcatalog.ru/agency/event_story | phone | +7(495)507-69-98 / +7(963)777-51-93 |
+| Event Studio | ивент агентство | https://eventcatalog.ru/agency/event_studio | phone | +7(495)762-03-95 / +7(926)226-12-00 |
+| Event Studio Free Voice | ивент агентство | https://eventcatalog.ru/agency/event_studio_free_voice | phone | +7(38056) 716-65-32 / +7(38066) 284-31-57 |
 | Event Team | event-агентство | https://eventteam.ru | phone | +7 495 223-33-44 |
+| Event Technologies | ивент агентство | https://eventcatalog.ru/agency/event_technologies | phone | +7(495) 788-58-11 |
+| Event to you | ивент агентство | https://eventcatalog.ru/agency/event_to_you | phone | +7(950)716-14-12 |
+| Event VIP | ивент агентство | https://eventcatalog.ru/agency/event_vip | phone | +7(495)517-20-05 |
+| Event Завод | ивент агентство | https://eventcatalog.ru/agency/event_zavod | phone | +7(345) 253-31-83 / +7(345) 246-16-94 |
+| Event Корпорация | ивент агентство | https://eventcatalog.ru/agency/event_korporaciya | phone | +7(495) 912-16-62 |
+| Event Столица | ивент агентство | https://eventcatalog.ru/agency/event_stolica | phone | +7(495) 670-50-93 / +7(495) 543-52-86 |
+| Event Столица | ивент агентство | https://eventcatalog.ru/agency/event_stolica-1 | phone | +7(495) 543-52-86 / +7(495) 670-50-93 |
+| Event&More | ивент агентство | https://eventcatalog.ru/agency/eventandmore | phone | +7(495)795-18-89 / +7(968)818-28-93 |
+| Event'l | ивент агентство | https://eventcatalog.ru/agency/eventl | phone | +7(926) 777-12-37 / +7(905) 502-33-77 |
+| Event'n'Production IDEALSECRETS | ивент агентство | https://eventcatalog.ru/agency/eventnproduction_idealsecrets | phone | +7(044) 360-15-45 |
+| Event-a-way.com | ивент агентство | https://eventcatalog.ru/agency/event-a-way_com | phone | +7(495) 210-14-47 |
+| Event-creative | ивент агентство | https://eventcatalog.ru/agency/event-creative | phone | +7(495) 507-33-18 |
+| Event-ER | ивент агентство | https://eventcatalog.ru/agency/event-er | phone | +7(812)385-55-01 |
+| Event-Kitchen | ивент агентство | https://eventcatalog.ru/agency/event-kitchen | phone | +7(423)291-55-13 |
 | Event-port Южный | лофт | https://www.loft2rent.ru/loft/169356/169479 | phone | 8 977 325 78 50 |
+| Event-pro | ивент агентство | https://eventcatalog.ru/agency/event-pro | phone | +7(926)162-46-17 / +7(915)299-14-74 |
+| Event-Production Атмосфера | ивент агентство | https://eventcatalog.ru/agency/event-production_atmosfera | phone | +7(905)039-67-69 |
+| Event-Rise | ивент агентство | https://eventcatalog.ru/agency/event-rise | phone | +7(499) 347-45-98 / +7(926) 212-56-74 |
+| Event-Style | ивент агентство | https://eventcatalog.ru/agency/event-style | phone | +7(495) 726-92-45 |
+| Event-Times | ивент агентство | https://eventcatalog.ru/agency/event-times | phone | +7(499) 409-88-21 |
+| Event-Volna | ивент агентство | https://eventcatalog.ru/agency/event-volna | phone | +7(925)888-02-88 |
+| Event-агентство Елены Родионовой | ивент агентство | https://eventcatalog.ru/agency/event-agentstvo_eleny_rodionovoy | phone | +7(8142) 78-55-13 / +7(911) 413-09-92 |
+| Event-завод №1 | ивент агентство | https://eventcatalog.ru/agency/event-zavod_1 | phone | +7(964) 635-39-84 / +7(495) 966-28-56 |
 | Event-парк «Берег Желаний»Камерный зал с панорамными окнами на берегу Истры | лофт | https://www.loft2rent.ru/loft/192952/192954 | phone | +7 (499) 653-82-33 |
 | Event-парк «Берег Желаний»Летний зал с открытой кухней и баром | лофт | https://www.loft2rent.ru/loft/192952/192999 | phone | +7 (499) 653-82-33 |
 | Event-парк «Берег Желаний»Летняя веранда на воде | лофт | https://www.loft2rent.ru/loft/192952/192966 | phone | +7 (499) 653-82-33 |
@@ -2254,6 +2792,10 @@
 | Event-пространство "Пандора"Небесный | лофт | https://www.loft2rent.ru/loft/134722/134734 | phone | +7 (812) 602-51-81 |
 | Event-пространство "Пандора"Сказка | лофт | https://www.loft2rent.ru/loft/134722/134736 | phone | +7 (812) 602-51-81 |
 | Event-пространство "Пандора"Этно | лофт | https://www.loft2rent.ru/loft/134722/134729 | phone | +7 (812) 602-51-81 |
+| Eventa Management | ивент агентство | https://eventcatalog.ru/agency/eventa_management | phone | +7(99871) 236-00-26 / +7(99893) 390-33-22 |
+| Eventage | ивент агентство | https://eventcatalog.ru/agency/eventage | phone | +7(495) 722-90-96 |
+| Eventail | ивент агентство | https://eventcatalog.ru/agency/eventail | phone | +7(495) 585-65-75 |
+| EventAmira | ивент агентство | https://eventcatalog.ru/agency/eventamira | phone | +7(989)852-60-00 / +7(918)352-12-10 |
 | Eventation | event-агентство | https://eventation.ru | email | director@truemerch.ru |
 | Eventation | event-агентство | https://eventation.ru | email | email |
 | Eventation | event-агентство | https://eventation.ru | email | email |
@@ -2270,6 +2812,19 @@
 | Eventation | event-агентство | https://eventation.ru | social | https://www.youtube.com/channel/UCmRQw67pvd6emsIVO6lfQkg |
 | Eventation | event-агентство | https://eventation.ru | social | social |
 | Eventation | event-агентство | https://eventation.ru | social | social |
+| EventBerry | ивент агентство | https://eventcatalog.ru/agency/eventberry | phone | +7(495) 971-08-57 |
+| EventButiq | ивент агентство | https://eventcatalog.ru/agency/eventbutiq | phone | +7(925)916-96-55 / +7(495)721-75-89 |
+| EventCity | ивент агентство | https://eventcatalog.ru/agency/eventcity | phone | +7(495)120-20-07 |
+| Eventcomp | ивент агентство | https://eventcatalog.ru/agency/eventcomp | phone | +7(812)923-12-25 |
+| Eventdom | ивент агентство | https://eventcatalog.ru/agency/eventdom | phone | +49(8912)223-3777 / +49(8912)223-3700 |
+| EventForYou | ивент агентство | https://eventcatalog.ru/agency/eventforyou | phone | +7(495)727-85-52 |
+| EventFriends | ивент агентство | https://eventcatalog.ru/agency/eventfriends | phone | +7(862)291-29-19 |
+| Eventful Agency | ивент агентство | https://eventcatalog.ru/agency/eventful_agency | phone | +7(495) 698-54-04 / +7(495) 698-54-14 |
+| EventGroup39 | ивент агентство | https://eventcatalog.ru/agency/eventgroup39 | phone | +7(906)230-90-30 |
+| Eventino | ивент агентство | https://eventcatalog.ru/agency/eventino | phone | +7(351)776-93-95 / +7(904)307-41-41 |
+| EventLaVita | ивент агентство | https://eventcatalog.ru/agency/eventlavita | phone | +7(499) 367-64-45 / +7(916) 302-48-76 |
+| EventMania | ивент агентство | http://eventmania.moscow | phone | +7(926)063-73-40 |
+| EVENTMATE | ивент агентство | https://eventcatalog.ru/agency/eventmate | phone | +7(925)505-07-47 / +7(916)292-92-32 |
 | Eventner"Сад" Горки-10 | лофт | https://www.loft2rent.ru/loft/169837/170436 | phone | 4993023693 |
 | EventnerLoft | лофт | https://www.loft2rent.ru/loft/169837/172882 | phone | +74991101369 |
 | EventnerPlay Room | лофт | https://www.loft2rent.ru/loft/169837/172850 | phone | +74991101369 |
@@ -2290,6 +2845,19 @@
 | EventnerФорум | лофт | https://www.loft2rent.ru/loft/169837/172836 | phone | +74991101369 |
 | EventnerШатёр "Картмазовские пруды" | лофт | https://www.loft2rent.ru/loft/169837/169984 | phone | 84993023693 |
 | EventnerЭлеон | лофт | https://www.loft2rent.ru/loft/169837/170461 | phone | 84993023693 |
+| Eventnew | ивент агентство | https://eventcatalog.ru/agency/eventnew | phone | +7(849) 569-90-85 |
+| Evento-group | ивент агентство | https://eventcatalog.ru/agency/evento-group | phone | +7(861)247-77-50 / +7(861)247-77-60 |
+| Eventors | ивент агентство | https://eventcatalog.ru/agency/eventors | phone | +7(495)722-52-29 |
+| Eventovo | ивент агентство | https://eventcatalog.ru/agency/eventovo | phone | +7(967)767-98-88 / +7(499)322-44-69 |
+| EventPark | ивент агентство | https://eventcatalog.ru/agency/eventpark | phone | +375(29)105-31-00 / +375(29)527-52-20 |
+| Eventpartners | ивент агентство | https://eventcatalog.ru/agency/eventpartners | phone | +7(499)713-08-31 |
+| Eventprazdnik | ивент агентство | https://eventcatalog.ru/agency/eventprazdnik | phone | +7(925)600-82-88 / +7(906)773-10-96 |
+| EventRevolution | ивент агентство | https://eventcatalog.ru/agency/eventrevolution | phone | +7(495) 504-46-83 / +7(495) 631-63-82 |
+| Events Shop | ивент агентство | https://eventcatalog.ru/agency/events_shop | phone | +7(925)176-31-78 |
+| Events. События и коммуникации | ивент агентство | https://eventcatalog.ru/agency/events_sobytiya_i_kommunikacii | phone | +7(495) 775-44-31 / +7(495) 628-27-80 |
+| EventShow | ивент агентство | https://eventcatalog.ru/agency/eventshow | phone | +7(495) 729-00-05 |
+| Eventsshow | ивент агентство | https://eventsshow.ru | phone | +7(937)853-21-74 |
+| Eventual | ивент агентство | https://eventcatalog.ru/agency/eventual | phone | +7(495)266-06-26 |
 | Eventum Premo | event-агентство | https://eventum-premo.ru | email | email |
 | Eventum Premo | event-агентство | https://eventum-premo.ru | email | go@eventum-premo.ru |
 | Eventum Premo | event-агентство | https://eventum-premo.ru | email | natalia.t@eventum-premo.ru |
@@ -2302,6 +2870,12 @@
 | Eventum Premo | event-агентство | https://eventum-premo.ru | social | social |
 | Eventum Premo | event-агентство | https://eventum-premo.ru | social | social |
 | Eventum Premo | event-агентство | https://eventum-premo.ru | social | social |
+| Eventum Premo | ивент агентство | http://www.eventum-premo.ru | phone | +7(495)785-84-46 / +7(495)785-84-47 |
+| Eventum Premo | ивент агентство | http://www.eventum-premo.ru | social | https://www.instagram.com/inside_eventumpremo |
+| Eventum Premo | ивент агентство | http://www.eventum-premo.ru | social | https://vk.com/eventumpremo |
+| Eventus | ивент агентство | https://eventcatalog.ru/agency/eventus | phone | +7(3462) 22-84-24 |
+| Eventus. Новосибирск | ивент агентство | https://eventcatalog.ru/agency/eventus_novosibirsk | phone | +7(383) 351-25-83 / +7(913) 451-99-11 |
+| Eventy Brothers | ивент агентство | https://eventcatalog.ru/agency/eventy_brothers | phone | +7(911)085-86-50 |
 | EventyOn | event-агентство | https://eventyon.ru | email | email |
 | EventyOn | event-агентство | https://eventyon.ru | email | email |
 | EventyOn | event-агентство | https://eventyon.ru | email | marketing@eventyon.ru |
@@ -2318,9 +2892,13 @@
 | EventyOn | event-агентство | https://eventyon.ru | social | social |
 | EventyOn / Лофт в сердце столицыЛофт / 1 этаж | лофт | https://www.loft2rent.ru/loft/87017/87038 | phone | +7 (495) 215-20-52 |
 | EventyOn / Лофт в сердце столицыЛофт / 2 этаж | лофт | https://www.loft2rent.ru/loft/87017/87039 | phone | +7 (495) 215-20-52 |
+| EventВсегда | ивент агентство | https://eventcatalog.ru/agency/eventvsegda | phone | +7(495)517-77-02 |
+| Everest | ивент агентство | https://eventcatalog.ru/agency/everest | phone | +7(495) 641-82-51 |
 | Everest Siberia | лофт | https://www.loft2rent.ru/loft/208085 | phone | 89032143774 |
+| Everybody | ивент агентство | https://eventcatalog.ru/agency/everybody | phone | +7(960) 166-66-00 |
 | EveryBody FitnessEveryBody Малый зал | лофт | https://www.loft2rent.ru/loft/28916/28945 | phone | 89661742445 |
 | EveryBody FitnessEveybody Большой зал | лофт | https://www.loft2rent.ru/loft/28916/28952 | phone | 89661742445 |
+| Everyday Holiday Production | ивент агентство | https://eventcatalog.ru/agency/everyday_holiday_production | phone | +7(4822)60-03-32 / +7(925)755-82-53 |
 | EVGPark Baku | лофт | https://www.loft2rent.ru/loft/32734/69327 | phone | 89657474123 |
 | EVOLUTION EVENT AGENCY | event-агентство | http://ee-agency.ru | email | email |
 | EVOLUTION EVENT AGENCY | event-агентство | http://ee-agency.ru | email | evolution@ee-agency.ru |
@@ -2335,11 +2913,22 @@
 | EVOLUTION EVENT AGENCY | event-агентство | http://ee-agency.ru | phone | +7 (980) 184-04-04 |
 | EVOLUTION EVENT AGENCY | event-агентство | http://ee-agency.ru | social | https://t.me/eventevolution?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Evolution.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | EVOLUTION EVENT AGENCY | event-агентство | http://ee-agency.ru | social | https://www.instagram.com/evolution_event_agency |
+| EvoTeam | ивент агентство | https://eventcatalog.ru/agency/evoteam | phone | +7(495)772-16-05 |
+| Exclusive | ивент агентство | https://eventcatalog.ru/agency/exclusive | phone | +7(918)554-21-14 / +7(863)275-02-75 |
+| Exclusive Media | ивент агентство | https://eventcatalog.ru/agency/exclusive_media | phone | +7(495) 741-63-90 / +7(906) 077-19-86 |
 | Exit Loft - лофт в центре Москвы с верандой на крыше | лофт | https://www.loft2rent.ru/loft/1821 | phone | +74998881829 |
+| Express Group | ивент агентство | https://eventcatalog.ru/agency/express_group | phone | +7(961)478-18-00 / +7(906)493-48-00 |
 | Extatic loftТематический дизайнерский двухуровневый бар лофт в стиле Стимпанк! | лофт | https://www.loft2rent.ru/loft/114826/114828 | phone | 89099422325 |
 | Eyes ( Айз) лофт | лофт | https://www.loft2rent.ru/loft/57063 | phone | +79296448663 |
+| EZ | ивент агентство | https://eventcatalog.ru/agency/ez | phone | +7(915)695-20-19 / +7(903)845-77-33 |
+| Fabula Event | ивент агентство | https://eventcatalog.ru/agency/fabula_event | phone | +7(499)755-60-66 / +7(926)632-64-97 |
+| Face Gallery Agency | ивент агентство | https://eventcatalog.ru/agency/face_gallery_agency | phone | +7(495) 223-68-24 |
+| Face2Face | ивент агентство | https://eventcatalog.ru/agency/face2face | phone | +7(495) 621-82-44 |
 | Faces&Laces | street culture фестиваль | https://faceslaces.com | email | agency@faceslaces.com |
 | Faces&Laces | street culture фестиваль | https://faceslaces.com | social | http://instagram.com/facesandlaces |
+| FacesFor | ивент агентство | https://eventcatalog.ru/agency/facesfor | phone | +7(495)997-95-94 |
+| Fairytale | ивент агентство | https://eventcatalog.ru/agency/fairytale | phone | +7(911)169-00-21 |
+| Fame communication group | ивент агентство | https://eventcatalog.ru/agency/fame_communication_group | phone | +7(495) 589-31-43 |
 | Family Garden | ресторанный холдинг | https://familygarden.su | email | ak@familygarden.su |
 | Family Garden | ресторанный холдинг | https://familygarden.su | email | am@familygarden.su |
 | Family Garden | ресторанный холдинг | https://familygarden.su | email | anastasiapravoslavskaya@yandex.ru |
@@ -2389,10 +2978,18 @@
 | Family LOFT | лофт | https://babyspace.loft | phone | +79013551562 |
 | Family Loft (Семейный лофт). Семейный лофт в стиле БОХО | лофт | https://www.reveltime.ru/venue/8262356?eventtype=vecherinka | phone | +79910172113 |
 | Family LoftКубовая,86/1 | лофт | https://www.loft2rent.ru/loft/83369/83375 | phone | +7 (913) 756-96-72 |
+| Family: events&promotions | ивент агентство | https://eventcatalog.ru/agency/family_eventsandpromotions | phone | +7(926)160-04-87 |
+| FamilyGroup | ивент агентство | https://eventcatalog.ru/agency/familygroup | phone | +7(961)477-66-66 / +7(918)745-55-47 |
+| Fantasy Bride | ивент агентство | https://eventcatalog.ru/agency/fantasy_bride | phone | +7(063) 439-42-23 |
+| Fantasy Way | ивент агентство | https://eventcatalog.ru/agency/fantasy_way | phone | +7(495) 628-16-14 / +7(495) 506-99-80 |
 | Fara Loft | лофт | https://www.loft2rent.ru/loft/4607/26826 | phone | +79684200044 |
 | Fara Place | лофт | https://www.loft2rent.ru/loft/4607 | phone | +79684200044 |
 | FaraLoft (ФараЛофт). Лофт-апартаменты | лофт | https://www.reveltime.ru/venue/1019464?eventtype=vecherinka | phone | +79676928564 |
 | FaraLoft (ФараЛофт). Стильный лофт | лофт | https://www.reveltime.ru/venue/3160824?eventtype=vecherinka | phone | +79813347290 |
+| Fashion Animals | ивент агентство | https://eventcatalog.ru/agency/fashion_animals | phone | +7(814) 228-13-73 |
+| Fashion Empire | ивент агентство | https://eventcatalog.ru/agency/fashion_empire | phone | +7(913)000-68-48 / +7(383)222-07-50 |
+| Favorite Show | ивент агентство | https://eventcatalog.ru/agency/favorite_show | phone | +7(495) 631-04-11 |
+| FBR | ивент агентство | https://eventcatalog.ru/agency/fbr | phone | +7(863) 280-66-55 / +7(863) 280-56-65 |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | email | email |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | email | email |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | email | mail@culture.gov.ru |
@@ -2405,9 +3002,14 @@
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | social | social |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | social | social |
 | Federal Cultural Projects Office Russia | государственная культурная организация | https://culture.gov.ru | social | social |
+| Feel You | ивент агентство | https://feelyouevent.ru | phone | +7(926)050-12-62 / +7(929)632-22-25 |
+| Feerique Event & Emotions | ивент агентство | https://eventcatalog.ru/agency/feerique_event_and_emotions | phone | +7(999)983-03-85 |
+| Felicita | ивент агентство | https://eventcatalog.ru/agency/felicita | phone | +7(843) 245-46-65 |
 | Felicitatime Комната с мягкими диванами | лофт | https://www.reveltime.ru/venue/3090616?eventtype=vecherinka | phone | +79771972070 |
 | Felicitatime. Пространство для праздников | лофт | https://www.reveltime.ru/venue/2049939?eventtype=vecherinka | phone | +79771972070 |
+| Felix - Event | ивент агентство | https://eventcatalog.ru/agency/felix_-_event | phone | +7(903) 449-21-13 / +7(861) 253-94-38 |
 | femine space, Алексеевская | лофт | https://www.loft2rent.ru/loft/185659 | phone | 89267321372 |
+| Fenix event | ивент агентство | https://eventcatalog.ru/agency/fenix_event | phone | +7(495)724-63-04 / +7(906)701-11-04 |
 | FerdinandGroupBasement Hall | лофт | https://www.loft2rent.ru/loft/87910/87915 | phone | +79117508085 |
 | FerdinandGroupFerdinand Prime | лофт | https://www.loft2rent.ru/loft/87910/88227 | phone | +79117508085 |
 | Fermento | лофт | https://www.loft2rent.ru/loft/189156/189158 | phone | 89152814808 |
@@ -2419,18 +3021,30 @@
 | Ferra Media | tech-медиа | https://www.ferra.ru | social | https://dzen.ru/ferra?favid=1670 |
 | Ferra Media | tech-медиа | https://www.ferra.ru | social | https://t.me/ferraru |
 | Ferra Media | tech-медиа | https://www.ferra.ru | social | https://vk.com/ferraru |
+| Festa | ивент агентство | https://eventcatalog.ru/agency/festa | phone | +7(495)961-00-95 |
+| Festa Studio | ивент агентство | https://eventcatalog.ru/agency/festa_studio | phone | +7(495) 508-37-03 |
+| Festivals master | ивент агентство | https://eventcatalog.ru/agency/festivals_master | phone | +7(812) 714-38-91 / +7(921) 321-69-73 |
+| Fetiskin.ru | ивент агентство | https://eventcatalog.ru/agency/fetiskin_ru | phone | +7(926) 693-33-36 |
+| Fiesta de Ninel | ивент агентство | https://eventcatalog.ru/agency/fiesta_de_ninel | phone | +7(903) 401-90-36 |
+| Fiesta Zp | ивент агентство | https://eventcatalog.ru/agency/fiesta_zp | phone | +380(97)620-44-24 / +380(67)157-27-44 |
 | Finch Coffee. Лофт-кафе под закрытие | лофт | https://www.reveltime.ru/venue/3294506?eventtype=vecherinka | phone | +79945035025 |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | email | info@fintechru.org |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | email | pr@fintechru.org |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | phone | +7 (495) 785-64-01 |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | social | https://t.me/fintechassociation |
 | FinTech Association Russia | fintech-ассоциация | https://fintechru.org | social | https://vk.com/fintechassociation |
+| Fiore d'Amore | ивент агентство | https://eventcatalog.ru/agency/fiore_damore | phone | +39(380)7961-779 |
 | First & Only Club | private / business club | https://firstandonly.ru | email | avoloshenko@firstandonly.ru |
 | First & Only Club | private / business club | https://firstandonly.ru | email | personal@firstandonly.ru |
 | First & Only Club | private / business club | https://firstandonly.ru | email | service@firstandonly.ru |
 | First & Only Club | private / business club | https://firstandonly.ru | phone | +7 (495) 234-00-00 |
 | First & Only Club | private / business club | https://firstandonly.ru | phone | +7 (495) 234-00-13 |
 | First & Only Club | private / business club | https://firstandonly.ru | social | https://t.me/firstandonly |
+| First Class | ивент агентство | https://eventcatalog.ru/agency/first_class | phone | +7(925) 771-05-82 / +7(926) 867-48-84 |
+| First Dance Agency | ивент агентство | https://eventcatalog.ru/agency/first_dance_agency | phone | +7(050) 410-45-36 |
+| First Event | ивент агентство | https://eventcatalog.ru/agency/first_event | phone | +7(499)110-71-14 / +7(963)999-90-00 |
+| First Event Agency | ивент агентство | https://eventcatalog.ru/agency/first_event_agency | phone | +7(495) 543-64-06 / +7(495) 504-20-16 |
+| Firstar | ивент агентство | https://eventcatalog.ru/agency/firstar | phone | +7(495)374-73-07 |
 | Flacon | креативный кластер | https://flacon.ru | email | email |
 | Flacon | креативный кластер | https://flacon.ru | email | info@flacon.ru |
 | Flacon | креативный кластер | https://flacon.ru | social | https://t.me/flacontg |
@@ -2454,6 +3068,7 @@
 | Flame&GoFamous | лофт | https://www.loft2rent.ru/loft/89494/89515 | phone | +79699008135 |
 | Flame&GoFoto-Music | лофт | https://www.loft2rent.ru/loft/89494/89524 | phone | +79699008135 |
 | Flame&GoFriends | лофт | https://www.loft2rent.ru/loft/89494/89520 | phone | +79699008135 |
+| Flash Music | ивент агентство | https://eventcatalog.ru/agency/flash_music | phone | +7(926) 203-97-74 / +7(926) 139-80-60 |
 | Flava Event Dom | лофт | https://www.loft2rent.ru/loft/85397/85399 | phone | + 7 (495) 255-70-60 |
 | Flava Event Sochi | лофт | https://www.loft2rent.ru/loft/184145/184259 | phone | +74952557050 |
 | FleishmanHillard Vanguard | PR-агентство | https://fleishmanhillard.com | email | email |
@@ -2469,9 +3084,11 @@
 | FleishmanHillard Vanguard | PR-агентство | https://fleishmanhillard.com | social | social |
 | FleishmanHillard Vanguard | PR-агентство | https://fleishmanhillard.com | social | social |
 | FleishmanHillard Vanguard | PR-агентство | https://fleishmanhillard.com | social | social |
+| Floriel | ивент агентство | https://eventcatalog.ru/agency/floriel | phone | +7(067) 988-99-99 / +7(044) 209-86-86 |
 | FLOW — светлый лофт с фотозоной в ЦАО, 8 минут от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
 | Flower_art_bar | лофт | https://www.loft2rent.ru/loft/68829/68832 | phone | +79037264442 |
 | FLUFFY — мягкий лофт с караоке в ЦАО, 7 минут от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
+| FLY-MEDIA | ивент агентство | https://eventcatalog.ru/agency/fly-media | phone | +7(095) 845-41-87 / +7(097) 684-94-25 |
 | FLØR | ресторан / бар | https://florgroup.ru/flor | phone | +79152775344 |
 | FM Logistic Russia | логистическая компания | https://www.fmlogistic.ru | email | %20massmedia-ru@fmlogistic.com |
 | FM Logistic Russia | логистическая компания | https://www.fmlogistic.ru | email | 20massmedia-ru@fmlogistic.com |
@@ -2481,7 +3098,10 @@
 | FM Logistic Russia | логистическая компания | https://www.fmlogistic.ru | phone | +7 (495) 147-07-75 |
 | FM Logistic Russia | логистическая компания | https://www.fmlogistic.ru | social | https://t.me/fmlogistic_rus |
 | FM Logistic Russia | логистическая компания | https://www.fmlogistic.ru | social | https://www.youtube.com/channel/UCRnpsp41mEYod9m5riOY-mQ |
+| FN Studio | ивент агентство | https://eventcatalog.ru/agency/fn_studio | phone | +7(495) 649-07-04 |
 | Folk | ресторан | https://folk-rest.ru/ | phone | +74951898888 |
+| For Events | ивент агентство | https://eventcatalog.ru/agency/for_events | phone | +7(499)130-88-40 / +7(903)130-88-40 |
+| For people group | ивент агентство | https://eventforpeople.ru | phone | +7(985)222-05-57 / +7(925)122-11-43 |
 | Forbes Russia | бизнес-медиа | https://www.forbes.ru | email | press-release@forbes.ru |
 | Forbes Russia | бизнес-медиа | https://www.forbes.ru | phone | +7 (495) 565-32-06 |
 | Forbes Russia | бизнес-медиа | https://www.forbes.ru | social | https://telegram.me/forbesrussia |
@@ -2498,9 +3118,19 @@
 | Format Loft | loft / event space | https://f-loft.ru | phone | +7 (495) 999-39-79 |
 | Format Loft | loft / event space | https://f-loft.ru | social | https://t.me/+79859993979 |
 | Format loftФОРМАТ ЛОФТ | лофт | https://www.loft2rent.ru/loft/77263/77280 | phone | 89859993979 |
+| Forward | ивент агентство | https://eventcatalog.ru/agency/forward | phone | +7(812) 716-99-17 / +7(911) 092-22-26 |
+| ForwArt | ивент агентство | https://eventcatalog.ru/agency/forwart | phone | +7(495)755-14-24 / +7(985)829-42-63 |
 | FotoFaktura (ФотоФактура). Зал с большими окнами | лофт | https://www.reveltime.ru/venue/278940?eventtype=vecherinka | phone | +74952210170 |
+| Fotoparty.org | ивент агентство | https://eventcatalog.ru/agency/fotoparty_org | phone | +7(916)875-58-25 |
+| FOX Events | ивент агентство | https://eventcatalog.ru/agency/fox_events | phone | +7(727) 244-18-45 |
+| Fox Park | ивент агентство | https://eventcatalog.ru/agency/fox_park | phone | +7(495)640-24-70 |
 | Fox Rest | лофт | https://www.loft2rent.ru/loft/179457 | phone | +79268244318 |
+| Foxnote | ивент агентство | https://eventcatalog.ru/agency/foxnote | phone | +7(495)649-13-82 |
 | FRAME - стильная просторная площадка  со сценой  на Красном Октябре | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
+| Free Lance Event Group | ивент агентство | https://eventcatalog.ru/agency/free_lance_event_group | phone | +7(495) 726-41-49 / +7(926) 602-93-58 |
+| Freedom | ивент агентство | https://eventcatalog.ru/agency/freedom | phone | +375(29)626-86-99 / +375(29)773-04-69 |
+| FreeLines | ивент агентство | https://eventcatalog.ru/agency/freelines | phone | +7(343)371-61-15 |
+| Freeple | ивент агентство | https://eventcatalog.ru/agency/freeple | phone | +7(495) 625-35-10 / +7(495) 621-35-60 |
 | French Business Club Moscow | бизнес-клуб | https://ccifr.ru | email | hotline@ccifr.ru |
 | French Business Club Moscow | бизнес-клуб | https://ccifr.ru | email | info@ccifr.ru |
 | French Business Club Moscow | бизнес-клуб | https://ccifr.ru | social | http://vk.com/ccifrancerussie |
@@ -2510,6 +3140,8 @@
 | French Business Club Moscow | бизнес-клуб | https://ccifr.ru | social | https://t.me/ccifrancerussie |
 | French Business Club Moscow | бизнес-клуб | https://ccifr.ru | social | https://twitter.com/CCIFranceRussie |
 | French Business Club Moscow | бизнес-клуб | https://ccifr.ru | social | https://www.facebook.com/ccifr.ru |
+| Fresh Event Group | ивент агентство | https://eventcatalog.ru/agency/fresh_event_group | phone | +7(848) 262-13-06 / +7(927) 213-00-26 |
+| Fresh Solutions | ивент агентство | https://eventcatalog.ru/agency/fresh_solutions | phone | +7(926) 522-64-69 |
 | Friday! (Pyatnitsa) | телеканал | https://friday.ru | email | ddanilova@friday.ru |
 | Friday! (Pyatnitsa) | телеканал | https://friday.ru | email | info@friday.ru |
 | Friday! (Pyatnitsa) | телеканал | https://friday.ru | email | sales@gazprom-media.ru |
@@ -2543,6 +3175,8 @@
 | Friday! Production | продакшн-студия | https://friday.ru | social | https://www.tiktok.com/@fridaytv |
 | Friday! Production | продакшн-студия | https://friday.ru | social | https://www.youtube.com/channel/UCsk9ntn2afzIqInnx2jB8gw |
 | Friends | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Friends | ивент агентство | https://eventcatalog.ru/agency/friends | phone | +7(093) 070-70-00 |
+| Friends events | ивент агентство | https://eventcatalog.ru/agency/friends_events | phone | +7(499)178-85-26 |
 | Friends Hall "ХАРИЗМА" FHB №1 | лофт | https://www.loft2rent.ru/loft/42514 | phone | +7 (495) 291-05-43 |
 | Friends Hall "ХАРИЗМА" FHB №10 | лофт | https://www.loft2rent.ru/loft/42514 | phone | +7 (495) 291-05-43 |
 | Friends Hall "ХАРИЗМА" FHB №11 #по-братски | лофт | https://www.loft2rent.ru/loft/42514 | phone | +7 (495) 291-05-43 |
@@ -2611,10 +3245,36 @@
 | Frontend Moscow | IT community | https://frontendconf.ru | social | https://www.youtube.com/playlist?list=PLfbxrJr-t5mn1fAypCWIVKass-X7ru0iR |
 | Frontend Moscow | IT community | https://frontendconf.ru | social | https://www.youtube.com/playlist?list=PLfbxrJr-t5mnHbxL1fnAHF8GT-JWNemr_ |
 | Frontend Moscow | IT community | https://frontendconf.ru | social | https://www.youtube.com/playlist?list=PLfbxrJr-t5mnn8vnqs_6TWt9f5-liQRvN |
+| Frozzy | ивент агентство | https://eventcatalog.ru/agency/frozzy | phone | +7(905) 553-26-68 |
+| FST consulting | ивент агентство | https://eventcatalog.ru/agency/fst_consulting | phone | +7(910)931-83-04 / +7(952)061-60-30 |
 | Fumisawa | ресторан | https://novikovgroup.ru/restaurants/Fumisawa/ | phone | +74957751969 |
+| Fun Event | ивент агентство | https://eventcatalog.ru/agency/fun_event | phone | +7(495) 979-92-09 / +7(926) 961-42-00 |
+| Fun Events | ивент агентство | https://eventcatalog.ru/agency/fun_events | phone | +7(495) 729-21-30 |
+| Fun Face | ивент агентство | https://eventcatalog.ru/agency/fun_face | phone | +7(812) 642-49-36 |
 | Fun Loft | лофт | https://www.loft2rent.ru/loft/114875/114937 | phone | 89265109120 |
+| Fun To Learn | ивент агентство | https://eventcatalog.ru/agency/fun_to_learn | phone | +7(812)605-22-05 / +7(812)985-47-55 |
+| Fun-Service | ивент агентство | https://eventcatalog.ru/agency/fun-service | phone | +7(495) 694-34-06 / +7(495) 694-40-30 |
+| Funco | ивент агентство | https://eventcatalog.ru/agency/funco | phone | +7(495) 518-27-58 / +7(901) 535-10-15 |
+| Funk Media | ивент агентство | https://eventcatalog.ru/agency/funk_media | phone | +7(499)713-57-41 / +7(901)183-57-41 |
+| FunKey | ивент агентство | https://eventcatalog.ru/agency/funkey | phone | +7(905) 223-14-12 / +7(812) 982-93-30 |
+| Funkitchen | ивент агентство | https://eventcatalog.ru/agency/funkitchen | phone | +380(98)599-91-77 / +380(44)599-91-77 |
+| FunLife | ивент агентство | https://eventcatalog.ru/agency/funlife | phone | +7(38044) 520-09-75 |
+| Funny | ивент агентство | https://eventcatalog.ru/agency/funny | phone | +7(495) 972-84-18 / +7(495) 972-85-18 |
+| Funny - Не скучай | ивент агентство | https://eventcatalog.ru/agency/funny_-_ne_skuchay | phone | +7(495) 972-85-18 / +7(901) 513-70-77 |
+| Funprazdnik | ивент агентство | https://eventcatalog.ru/agency/funprazdnik | phone | +7(925)631-39-69 |
+| FunTime | ивент агентство | https://eventcatalog.ru/agency/funtime | phone | +7(495) 694-40-30 |
+| FUNtoB | ивент агентство | https://eventcatalog.ru/agency/funtob | phone | +7(495) 685-94-58 / +7(495) 685-94-59 |
+| Funtoyou | ивент агентство | https://eventcatalog.ru/agency/funtoyou | phone | +7(906)226-07-76 / +7(966)855-99-95 |
+| FunTun | ивент агентство | https://eventcatalog.ru/agency/funtun | phone | +7(495)928-29-66 / +7(495)928-29-75 |
+| FunСтудия | ивент агентство | https://eventcatalog.ru/agency/funstudiya | phone | +7(499) 343-15-65 / +7(964) 649-56-00 |
+| Future Corporate Image | ивент агентство | https://eventcatalog.ru/agency/future_corporate_image | phone | +7(495) 789-40-99 / +7(916) 227-59-77 |
 | G Gallery | лофт | https://www.loft2rent.ru/loft/107726/107728 | phone | +7 903 303-99-96 |
+| G&G | ивент агентство | https://eventcatalog.ru/agency/gandg | phone | +7(499)290-50-70 |
+| Gala | ивент агентство | https://eventcatalog.ru/agency/gala | phone | +7(985)043-62-33 / +7(916)129-59-99 |
+| Galactic Group | ивент агентство | https://eventcatalog.ru/agency/galactic_group | phone | +7(495)987-10-82 |
 | GALLERY LOFT: ДВУХЭТАЖНЫЙ ЛОФТ КАРАОКЕ И PS 4 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (495) 183-94-32 |
+| Gam&Mag | ивент агентство | https://eventcatalog.ru/agency/gamandmag | phone | +7(863)246-15-24 / +7(863)237-43-61 |
+| Games for event | ивент агентство | https://eventcatalog.ru/agency/games_for_event | phone | +7(926) 530-49-13 |
 | Gamma More | лофт | https://www.loft2rent.ru/loft/186077/186409 | phone | 89030127713 |
 | Garage loftGarage | лофт | https://www.loft2rent.ru/loft/129442/130392 | phone | +7 936 777 96 77 (WA) |
 | Garage Lounge (Гараж Зал). Стильный лофт | лофт | https://www.reveltime.ru/venue/7176216?eventtype=vecherinka | phone | +79019397046 |
@@ -2634,6 +3294,7 @@
 | Garage Museum event spaces | музей / event space | https://garagemca.org | social | https://www.youtube.com/watch?v=ZUOmoV0M3TI&list=PLRSwFqRcpg4FuzJM0XsynICCFL2XVOXlY |
 | Garden loft. Стильное лофт-пространство | лофт | https://www.reveltime.ru/venue/1659182?eventtype=vecherinka | phone | +74959882111 |
 | Gatsby Loft &amp; Photo. Стильное лофт-пространство | лофт | https://www.reveltime.ru/venue/335196?eventtype=vecherinka | phone | +74959793332 |
+| Gaudi Group | ивент агентство | https://eventcatalog.ru/agency/gaudi_group | phone | +7(499)755-53-08 |
 | Gazgolder | клуб / музыкальный лейбл | https://gazgolderclub.ru | social | https://t.me/Applique_records |
 | Gazgolder | клуб / музыкальный лейбл | https://gazgolderclub.ru | social | https://t.me/ChannelsProj/164 |
 | Gazgolder | клуб / музыкальный лейбл | https://gazgolderclub.ru | social | https://t.me/Gaztelegram |
@@ -2774,7 +3435,13 @@
 | Gazprombank Invest | инвестиционная компания | https://www.gazprombank.ru | social | https://ok.ru/gazprombank |
 | Gazprombank Invest | инвестиционная компания | https://www.gazprombank.ru | social | https://t.me/gazprombank |
 | Gazprombank Invest | инвестиционная компания | https://www.gazprombank.ru | social | https://vk.com/gazprombank |
+| GB Agency | ивент агентство | https://eventcatalog.ru/agency/gb_agency | phone | +380(66)107-29-29 / +380(67)107-29-29 |
+| Gefest Event | ивент агентство | https://eventcatalog.ru/agency/gefest_event | phone | +7(499)490-68-90 / +7(499)346-80-14 |
+| General Party | ивент агентство | https://eventcatalog.ru/agency/general_party | phone | +7(495) 724-13-33 / +7(495) 795-13-31 |
+| Genesis Promotions | ивент агентство | https://eventcatalog.ru/agency/genesis_promotions | phone | +7(909) 935-48-11 / +7(926) 149-14-37 |
+| Genius Event Machine | ивент агентство | https://eventcatalog.ru/agency/genius_event_machine | phone | +7(495)778-80-18 / +7(999)917-10-90 |
 | Geo loft (Гео Лофт). Кирпичный лофт с большими окнами | лофт | https://www.reveltime.ru/venue/735215?eventtype=vecherinka | phone | +79019317663 |
+| GeoMission | ивент агентство | https://eventcatalog.ru/agency/geomission | phone | +7(495)518-27-58 / +7(495)519-01-29 |
 | Geraldine | ресторан | https://geraldine.ru | phone | +7 (495) 695-12-02 |
 | Geraldine | ресторан | https://geraldine.ru | social | https://t.me/geraldinebistro |
 | GES-2 House of Culture | культурный центр | https://ges-2.org | email | access@ges-2.org |
@@ -2820,6 +3487,8 @@
 | GESTALT CLUB (Клуб Гештальт) | лофт | https://gestaltclubmoscow.ru/rent | phone | +79346695974 |
 | Get Loft (Гет Лофт). Золотой зал | лофт | https://www.reveltime.ru/venue/6839089?eventtype=vecherinka | phone | +79584055346 |
 | Get LoftКухня | лофт | https://www.loft2rent.ru/loft/44815/63581 | phone | +7-916-496-11-91 |
+| Get Together | ивент агентство | https://eventcatalog.ru/agency/get_together | phone | +7(495)642-30-22 |
+| Gett in Love | ивент агентство | http://www.gettinlove.ru | phone | +7(963)697-49-84 / +7(999)979-87-83 |
 | GG Loft | лофт | https://www.loft2rent.ru/loft/176572/176589 | phone | 89773124327 |
 | GG LoftGG loft | лофт | https://www.loft2rent.ru/loft/206364/206371 | phone | +7 (495) 677-93-54 |
 | Ginza Project | ресторанный холдинг | https://www.ginza.ru | email | media@ginzaproject.com |
@@ -2831,6 +3500,7 @@
 | Ginza Project | ресторанный холдинг | https://www.ginza.ru | social | https://t.me/GinzaDS_Bot |
 | Ginza Project | ресторанный холдинг | https://www.ginza.ru | social | https://t.me/spbginzaproject |
 | Ginza Project | ресторанный холдинг | https://www.ginza.ru | social | https://vk.com/ginzaproject |
+| Giraffe | ивент агентство | https://eventcatalog.ru/agency/giraffe | phone | +7(863) 264-42-22 / +7(903) 401-45-38 |
 | GIVprostranstvoGIVprostranstvo | лофт | https://www.loft2rent.ru/loft/178781/178783 | phone | 89039570630 |
 | Glastonberry | музыкальный клуб | https://glastonberry.ru | email | 1623891@mail.ru |
 | Glastonberry | музыкальный клуб | https://glastonberry.ru | email | glastonberry.club@gmail.com |
@@ -2839,6 +3509,15 @@
 | Glastonberry | музыкальный клуб | https://glastonberry.ru | social | http://vk.com/id37016559 |
 | Glastonberry | музыкальный клуб | https://glastonberry.ru | social | https://t.me/glastonberryclub |
 | Glastonberry | музыкальный клуб | https://glastonberry.ru | social | https://vk.com/glastonberryclub |
+| Glavnoe Sobytie | ивент агентство | https://eventcatalog.ru/agency/glavnoe_sobytie | phone | +7(495)323-99-90 |
+| GleeDay | ивент агентство | https://eventcatalog.ru/agency/gleeday | phone | +7(495) 725-90-98 / +7(926) 591-54-47 |
+| Global Business Events | ивент агентство | https://eventcatalog.ru/agency/global_business_events | phone | +7(495)645-18-64 |
+| Global event | ивент агентство | https://eventcatalog.ru/agency/global_event | phone | +7(495) 774-77-99 |
+| Global Festina | ивент агентство | https://eventcatalog.ru/agency/global_festina | phone | +7(964) 591-21-12 / +7(499) 343-15-75 |
+| Global Show | ивент агентство | https://eventcatalog.ru/agency/global_show | phone | +7(097) 945-44-85 / +7(093) 459-01-16 |
+| Global-e.b.a. | ивент агентство | https://eventcatalog.ru/agency/global-e_b_a | phone | +7(044) 228-07-66 / +7 (044) 507-16-96 |
+| GlobalShow | ивент агентство | https://eventcatalog.ru/agency/globalshow | phone | +7(495) 744-77-46 / +7(495) 971-47-23 |
+| Globusi Ltd | ивент агентство | https://eventcatalog.ru/agency/globusi_ltd | phone | +995(591)155-343 |
 | GloraX | девелопер | https://glorax.com | email | info@glorax.com |
 | GloraX | девелопер | https://glorax.com | email | service@glorax.com |
 | GloraX | девелопер | https://glorax.com | phone | +7 (800) 511-69-26 |
@@ -2847,27 +3526,49 @@
 | GloraX | девелопер | https://glorax.com | social | https://t.me/+W88mU0dqZGhkYjcy |
 | GloraX | девелопер | https://glorax.com | social | https://vk.com/glorax?ysclid=mf6svw3svm605177896 |
 | GloraX | девелопер | https://glorax.com | social | https://www.youtube.com/channel/UCtamd0fsfI3LNL7rc9EPUMg |
+| Gloria Group | ивент агентство | https://eventcatalog.ru/agency/gloria_group | phone | +7(916) 097-66-92 |
+| Glory event agency | ивент агентство | https://eventcatalog.ru/agency/glory_event_agency | phone | +7(495)514-49-08 |
+| Go | ивент агентство | https://eventcatalog.ru/agency/go | phone | +7(343) 287-03-03 / +7(902) 264-03-83 |
 | Go Golf | лофт | https://www.loft2rent.ru/loft/171553/171555 | phone | 8 911 000 3606 |
+| Go Group | ивент агентство | https://eventcatalog.ru/agency/go_group | phone | +7(915)396-75-89 / +7(964)719-46-17 |
+| Go Project | ивент агентство | https://eventcatalog.ru/agency/go_project | phone | +7(920)771-42-71 |
+| Go&Do | ивент агентство | https://eventcatalog.ru/agency/goanddo | phone | +7(495)118-39-66 / +7(977)187-32-41 |
+| Goglo Russia | ивент агентство | https://eventcatalog.ru/agency/goglo_russia | phone | +7(499)110-78-87 / +7(964)718-55-50 |
 | GOLD | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Gold | ивент агентство | https://eventcatalog.ru/agency/gold | phone | +7(865) 230-00-55 / +7(865) 226-55-54 |
+| Gold Cherry | ивент агентство | https://eventcatalog.ru/agency/gold_cherry | phone | +7(861) 226-18-63 / +7(918) 464-76-46 |
+| Gold Master | ивент агентство | https://eventcatalog.ru/agency/gold_master | phone | +7(495) 644-16-93 / +7(495) 228-88-82 |
+| Gold Stream | ивент агентство | https://eventcatalog.ru/agency/gold_stream | phone | +7(495) 646-28-24 |
 | Gold&HallGold&Hall BLACKOUT | лофт | https://www.loft2rent.ru/loft/111283/111293 | phone | +79255293977 |
 | Gold&HallGold&Hall KutuZovsky | лофт | https://www.loft2rent.ru/loft/111283/111285 | phone | +79255293977 |
 | Gold&HallGold&Hall VOGUE | лофт | https://www.loft2rent.ru/loft/111283/111303 | phone | +79255293977 |
 | Gold&HallPROMENADE HALL | лофт | https://www.loft2rent.ru/loft/111283/128514 | phone | 89255293977 |
+| Gold-Wedding | ивент агентство | https://eventcatalog.ru/agency/gold-wedding | phone | +7(495)761-17-62 / +7(985)761-17-62 |
+| Golden Art | ивент агентство | https://eventcatalog.ru/agency/golden_art | phone | +7(093) 454-98-98 / +7(0536)760-850 |
+| Golden Fish Company | ивент агентство | https://eventcatalog.ru/agency/golden_fish_company | phone | +7(495) 545-82-68 / +7(495) 545-82-69 |
 | Golden Garden | лофт | https://www.loft2rent.ru/loft/140612/190907 | phone | +79020481818 |
 | Golden GardenCalumbusrusotel | лофт | https://www.loft2rent.ru/loft/140612/140615 | phone | +79020481818 |
 | Golden GardenIstra garden | лофт | https://www.loft2rent.ru/loft/140612/200174 | phone | +79020481818 |
 | Golden GardenСветлый | лофт | https://www.loft2rent.ru/loft/140612/192117 | phone | +79020481818 |
+| Golden Lilium | ивент агентство | https://eventcatalog.ru/agency/golden_lilium | phone | +7(905) 708-52-70 |
 | Golden Mile Fitness | фитнес-клуб | https://goldenmileclub.ru | email | info@goldenmileclub.ru |
 | Golden Mile Fitness | фитнес-клуб | https://goldenmileclub.ru | phone | +7 (495) 969-29-30 |
 | Golden Mile Fitness | фитнес-клуб | https://goldenmileclub.ru | social | https://t.me/GoldenMileFitness |
 | Golden Mile Fitness | фитнес-клуб | https://goldenmileclub.ru | social | https://www.youtube.com/channel/UCjV2c0CwSU9evpa3cKGsUgg |
+| Golden Models Agency | ивент агентство | https://eventcatalog.ru/agency/golden_models_agency | phone | +7(905) 717-30-12 |
 | GOLDY Ролевой ЛофтАниме-пространство | лофт | https://www.loft2rent.ru/loft/140289/140344 | phone | +7 (913) 777-37-50 |
 | GOLDY Ролевой ЛофтБизнес-Джет | лофт | https://www.loft2rent.ru/loft/140289/140338 | phone | +7 (913) 777-37-50 |
 | GOLDY Ролевой ЛофтКинотеатр | лофт | https://www.loft2rent.ru/loft/140289/140342 | phone | +7 (913) 777-37-50 |
 | GOLDY Ролевой ЛофтПримерочная | лофт | https://www.loft2rent.ru/loft/140289/140346 | phone | +7 (913) 777-37-50 |
 | GOLDY Ролевой ЛофтСеновал | лофт | https://www.loft2rent.ru/loft/140289/140340 | phone | +7 (913) 777-37-50 |
 | Golfostrov | гольф-клуб | https://golfostrov.ru | phone | +7 (926) 736-45-24 |
+| Good Brand | ивент агентство | https://eventcatalog.ru/agency/good_brand | phone | +7(831) 410-73-14 / +7(831) 417-88-43 |
+| Good Fox | ивент агентство | https://eventcatalog.ru/agency/good_fox | phone | +7(903)311-11-65 |
 | Good girl : лофт с барной стойкой из розового меха, с караоке и PS 4 !! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-16-19 |
+| Good Times | ивент агентство | https://eventcatalog.ru/agency/good_times | phone | +7(495) 778-66-86 / +7(495) 951-56-06 |
+| Good-MICE | ивент агентство | https://eventcatalog.ru/agency/good-mice | phone | +7(495)518-79-14 / +7(495)233-2235 |
+| Goodquiz | ивент агентство | https://eventcatalog.ru/agency/goodquiz | phone | +7(977)304-69-25 |
+| Goodwill | ивент агентство | https://eventcatalog.ru/agency/goodwill | phone | +7(978)743-75-19 / +380(65)278-83-06 |
 | GOPARK Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid9250776/gopark_hotel | address | деревня Голиково, Шоссейная улица, стр. 4, Голиково |
 | GORDEEVA WEDDING EVENT SHOW | свадебное агентство | https://top100awards.ru/gordeeva-wedding-event-show | phone | +7 (915) 333-22-55 |
 | GORDEEVA WEDDING EVENT SHOW | свадебное агентство | https://top100awards.ru/gordeeva-wedding-event-show | social | https://t.me/olesyagordeeva1?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20GORDEEVA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
@@ -2889,11 +3590,13 @@
 | Gorky Park Events Unit | event department | https://park-gorkogo.ru | social | social |
 | Gorky Park Events Unit | event department | https://park-gorkogo.ru | social | social |
 | Gorky Park Events Unit | event department | https://park-gorkogo.ru | social | social |
+| Gorky wedding | ивент агентство | https://eventcatalog.ru/agency/gorky_wedding | phone | +7(890) 635-66-02 |
 | Gorynych | ресторан | https://gorynich.com | email | info@gorynich.com |
 | Gorynych | ресторан | https://gorynich.com | email | tatyana.magon@wrf.su |
 | Gorynych | ресторан | https://gorynich.com | phone | +7 (495) 937-38-11 |
 | Gorynych | ресторан | https://gorynich.com | social | https://t.me/gorynichmoscow |
 | Gorynych | ресторан | https://gorynich.com | social | https://t.me/gorynichrest |
+| Gourmet | ивент агентство | https://eventcatalog.ru/agency/gourmet | phone | +7(812)987-76-18 / +7(952)248-57-10 |
 | GPStudioБелый зал GPStudio на Бауманской / Белый зал. ГПСстудия на Бауманской | лофт | https://www.loft2rent.ru/loft/35190/35200 | phone | +7 (495) 7920004 |
 | GPStudioБольшой зал GPStudio на Бауманской / Большой зал. ГПСстудия на Бауманской | лофт | https://www.loft2rent.ru/loft/35190/35223 | phone | +7 (495) 7920004 |
 | GPStudioБордо зал GPStudio на Бауманской / Бордовый зал. ГПСстудия на Бауманской | лофт | https://www.loft2rent.ru/loft/35190/196574 | phone | +7 (495) 7920004 |
@@ -2907,6 +3610,9 @@
 | Graf-Studio. Зал Ренессанс (Граф-Студио) | лофт | https://www.reveltime.ru/venue/2415611?eventtype=vecherinka | phone | +79584610759 |
 | Graf-Studio. Зал Сцена (Граф-Студио) | лофт | https://www.reveltime.ru/venue/2410104?eventtype=vecherinka | phone | +79584055346 |
 | Graf-Studio. Зал Чердак (Граф-Студио) | лофт | https://www.reveltime.ru/venue/2674303?eventtype=vecherinka | phone | +79584630738 |
+| Graffin-event | ивент агентство | https://eventcatalog.ru/agency/graffin-event | phone | +7(343)266-32-67 |
+| Gran Volta | ивент агентство | https://eventcatalog.ru/agency/gran_volta | phone | +7(4912)51-79-94 / +7(952)122-99-22 |
+| Granat Show | ивент агентство | https://eventcatalog.ru/agency/granat_show | phone | +7(929)971-02-41 / +7(495)740-52-54 |
 | Grand Cru | ресторан | https://grandcru.ru | email | aryahovskiy@simplewine.ru |
 | Grand Cru | ресторан | https://grandcru.ru | email | bronnaya@grandcru.ru |
 | Grand Cru | ресторан | https://grandcru.ru | phone | +7 (925) 058-39-26 |
@@ -2914,10 +3620,18 @@
 | Grand Cru | ресторан | https://grandcru.ru | social | https://t.me/+w7_49GQC9rVjZDIy |
 | Grand Cru | ресторан | https://grandcru.ru | social | https://www.instagram.com/grandcru_restaurant |
 | Grand Cru | ресторан | http://www.grandcru.ru/ | phone | +74955106567 |
+| Grand Feast | ивент агентство | https://eventcatalog.ru/agency/grand_feast | phone | +7(960)441-78-78 / +7(928)894-19-90 |
+| Grand Fiesta | ивент агентство | https://eventcatalog.ru/agency/grand_fiesta | phone | +7(8652) 92-80-73 |
+| Grand Fiesta Company | ивент агентство | https://eventcatalog.ru/agency/grand_fiesta_company | phone | +375(29)670-81-11 |
 | GRAND HALL | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
+| Grand Holiday | ивент агентство | https://eventcatalog.ru/agency/grand_holiday | phone | +7(812) 913-17-98 / +7(813) 913-17-08 |
+| Grand mice agency | ивент агентство | https://eventcatalog.ru/agency/grand_mice_agency | phone | +7(965)369-11-00 / +7(925)064-13-66 |
 | Grand Sky 2Grand Sky 1 | лофт | https://www.loft2rent.ru/loft/175214/175226 | phone | 89258691580 |
 | Grand Sky 2High Point Residence 1 | лофт | https://www.loft2rent.ru/loft/175214/175228 | phone | 89258691580 |
 | Grand Sky 2The Eagle's Nest 1 | лофт | https://www.loft2rent.ru/loft/175214/175234 | phone | 89258691580 |
+| Grand Wedding | ивент агентство | https://eventcatalog.ru/agency/grand_wedding | phone | +7(985)121-21-12 |
+| Grandazur | ивент агентство | https://eventcatalog.ru/agency/grandazur | phone | +33(753)279-629 |
+| Granovskih Producion | ивент агентство | https://eventcatalog.ru/agency/granovskih_producion | phone | +7(095) 405-45-95 |
 | Grape | digital-агентство | https://grape.ru | email | hr@grape.ru |
 | Grape | digital-агентство | https://grape.ru | email | new@grape.ru |
 | Grape | digital-агентство | https://grape.ru | email | pr@grape.ru |
@@ -2926,6 +3640,9 @@
 | GRAPE LOFT | лофт | https://www.loft2rent.ru/loft/41186/41190 | phone | +79939054093 |
 | Graphite (Графит). Футуристический двухуровневый лофт | лофт | https://www.reveltime.ru/venue/5941268?eventtype=vecherinka | phone | +79939054093 |
 | Graphite \ | Графит Двухуровневый Лофт | лофт | https://www.loft2rent.ru/loft/41186 | phone |
+| Grayfer Group | ивент агентство | https://eventcatalog.ru/agency/grayfer_group | phone | +7(495) 740-56-45 |
+| Great People | ивент агентство | https://eventcatalog.ru/agency/great_people | phone | +7(982) 473-27-25 / +7(950) 467-06-24 |
+| GreatEvent | ивент агентство | https://eventcatalog.ru/agency/greatevent | phone | +7(499)341-86-69 / +7(926)444-33-53 |
 | Grechka Media | digital-медиа | https://grechkamedia.ru | phone | +7 495 665-62-00 |
 | Grechka Media | digital-медиа | https://grechkamedia.ru | social | https://dzen.ru/regru |
 | Grechka Media | digital-медиа | https://grechkamedia.ru | social | https://ok.ru/regru |
@@ -2938,17 +3655,24 @@
 | Green House | лофт | https://www.loft2rent.ru/loft/177908 | phone | +79164400130 |
 | Green Loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
 | Green Loft | лофт | https://www.loft2rent.ru/loft/85691/85704 | phone | +7 (969) 118 82 22 |
+| Green Production Group | ивент агентство | https://eventcatalog.ru/agency/green_production_group | phone | +7 909 992 25 07 |
 | Green&amp;White Loft (Зелёно-Белый Лофт) | лофт | https://www.reveltime.ru/venue/5308281?eventtype=vecherinka | phone | +79164400130 |
 | Green&White - Стильный лофт на Арбате с отдельной игровой комнатой | лофт | https://www.loft2rent.ru/loft/167313 | phone | 89031292578 |
 | Green&White Loft | лофт | https://www.loft2rent.ru/loft/121243 | phone | +79152876213 |
+| GreenApples | ивент агентство | https://eventcatalog.ru/agency/greenapples | phone | +7(499) 157-59-16 / +7(499) 157-55-39 |
 | GreenHouse площадка для свадьбы | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Greenlight | ивент агентство | https://eventcatalog.ru/agency/greenlight | phone | +7(495) 662-99-67 / +7(915) 141-36-77 |
 | Grey Green by Space &amp; Place (Грэй Грин бай Спейс&amp;Плэйс). Светлое пространство в современном стиле | лофт | https://www.reveltime.ru/venue/7465927?eventtype=vecherinka | phone | +79584974089 |
 | Grey Loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
 | GreyGreen Event Space | лофт | https://www.loft2rent.ru/loft/spaceandplace | phone | 8 (499) 116 34 31 |
 | Grill GradБанкетные домики | лофт | https://www.loft2rent.ru/loft/89500/89504 | phone | 89850088000 |
 | GrillvetStudio | лофт | https://www.loft2rent.ru/loft/209150/209166 | phone | +79264959922 |
 | GrotteGrotte | лофт | https://www.loft2rent.ru/loft/162534/163118 | phone | +79636224791 |
+| Grusha | ивент агентство | https://eventcatalog.ru/agency/grusha | phone | +7(495)101-75-97 |
+| Grymerka | ивент агентство | https://eventcatalog.ru/agency/grymerka | phone | +7(999)989-84-52 / +7(999)015-99-88 |
 | GS Racing | лофт | https://www.loft2rent.ru/loft/95467/95532 | phone | +79256566767 |
+| GST Production | ивент агентство | https://eventcatalog.ru/agency/gst_production | phone | +7(495)231-68-38 |
+| Guarantee of Success | ивент агентство | https://eventcatalog.ru/agency/guarantee_of_success | phone | +7(495) 211-11-72 |
 | H4U - Аренда залов и кабинетовЗал на Тверской / Пушкинской (П-602) | лофт | https://www.loft2rent.ru/loft/69466/117328 | phone | +79150624544 |
 | Habr Media | IT-медиа | https://habr.com | social | http://www.youtube.com/@Habr_com |
 | Habr Media | IT-медиа | https://habr.com | social | https://dzen.ru/habr |
@@ -2956,13 +3680,22 @@
 | Habr Media | IT-медиа | https://habr.com | social | https://t.me/readingstack |
 | Habr Media | IT-медиа | https://habr.com | social | https://telegram.me/habr_com |
 | Habr Media | IT-медиа | https://habr.com | social | https://vk.com/habr |
+| Hada Group | ивент агентство | https://eventcatalog.ru/agency/hada_group | phone | +7(909)959-93-63 |
 | Hall 14. Атмосферный лофт с верандой | лофт | https://www.reveltime.ru/venue/5499756?eventtype=vecherinka | phone | +79031888081 |
 | Hall of senses | лофт | https://www.loft2rent.ru/loft/154114/154116 | phone | +7(926) 993-21-00 |
+| Halo Show | ивент агентство | https://eventcatalog.ru/agency/halo_show | phone | +7(499) 183-73-31 / +7(926) 595-79-27 |
 | HANDБольшой зал | лофт | https://www.loft2rent.ru/loft/108735/108739 | phone | 79267777108 |
 | HANDВип зал | лофт | https://www.loft2rent.ru/loft/108735/168408 | phone | 79267777108 |
 | HANDВсе пространство | лофт | https://www.loft2rent.ru/loft/108735/168434 | phone | 79267777108 |
 | HANDКоворкинг | лофт | https://www.loft2rent.ru/loft/108735/168411 | phone | 79267777108 |
 | HANDСредний зал | лофт | https://www.loft2rent.ru/loft/108735/168406 | phone | 79267777108 |
+| Happy Line | ивент агентство | https://eventcatalog.ru/agency/happy_line | phone | +7(050) 428-57-13 / +7(050) 428-57-14 |
+| Happy Makers | ивент агентство | https://eventcatalog.ru/agency/happy_makers | phone | +7(985)448-08-78 |
+| Happy Pace | ивент агентство | https://eventcatalog.ru/agency/happy_pace | phone | +7(495)357-28-48 |
+| Happy People | ивент агентство | https://eventcatalog.ru/agency/happy_people | phone | +7(916)203-20-64 |
+| Happy Planner | ивент агентство | https://eventcatalog.ru/agency/happy_planner | phone | +7(966)851-74-81 / +7(911)900-00-94 |
+| Happy-maker | ивент агентство | https://eventcatalog.ru/agency/happy-maker | phone | +7(495) 528-48-65 / +7(495) 482-13-94 |
+| HappyMakers | ивент агентство | https://eventcatalog.ru/agency/happymakers | phone | +7(965)264-04-34 |
 | Harper’s Bazaar Russia | fashion-медиа | https://bazaar.ru | email | d.khalfina@imedia.ru |
 | Harper’s Bazaar Russia | fashion-медиа | https://bazaar.ru | email | e.gorbunova@imedia.ru |
 | Harper’s Bazaar Russia | fashion-медиа | https://bazaar.ru | email | j.nemtsova@imedia.ru |
@@ -2970,6 +3703,7 @@
 | Harper’s Bazaar Russia | fashion-медиа | https://bazaar.ru | email | s.evstigneeva@imedia.ru |
 | HARRISON HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
 | Hawaii House (Гавайи). Двухуровневый лофт в гавайском стиле | лофт | https://www.reveltime.ru/venue/4116659?eventtype=vecherinka | phone | +79584974084 |
+| Hb Art Production | ивент агентство | https://eventcatalog.ru/agency/hb_art_production | phone | +7(049) 185-66-38 |
 | HeadHunter | HR tech платформа | https://hh.ru | email | opp@zarplata.ru |
 | HeadHunter | HR tech платформа | https://hh.ru | social | https://dzen.ru/headhunter |
 | HeadHunter | HR tech платформа | https://hh.ru | social | https://t.me/hh_ru_official |
@@ -2996,6 +3730,8 @@
 | HEARTS EVENT | event-агентство | http://heartsevent.ru | social | https://t.me/+79913336961?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Hearts.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | HEARTS EVENT | event-агентство | http://heartsevent.ru | social | https://www.instagram.com/hearts.event |
 | HEARTSIDE HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
+| HEAT agency | ивент агентство | https://eventcatalog.ru/agency/heat_agency | phone | +7(916)443-02-69 / +7(906)709-65-36 |
+| Helens studio | ивент агентство | https://eventcatalog.ru/agency/helens_studio | phone | +7(499) 504-32-31 / +7(909) 910-90-09 |
 | Helios | лофт | https://www.loft2rent.ru/loft/174101/174130 | phone | +7 928 157-52-47 |
 | HeliosХелиус | лофт | https://www.loft2rent.ru/loft/174101/175561 | phone | +79281761202 |
 | Hide | лофт | https://www.loft2rent.ru/loft/105797/105801 | phone | +7 920 074-49-58 |
@@ -3008,6 +3744,10 @@
 | HistoriaHistoria Event | лофт | https://www.loft2rent.ru/loft/198444/198451 | phone | +7 901 389-88-98 |
 | Hit MeetHIT & MEET, event loft | лофт | https://www.loft2rent.ru/loft/143726/143736 | phone | +79130083858 |
 | hobbit's house / Хоббит хаус | лофт | https://www.loft2rent.ru/loft/39383 | phone | +79993492320 |
+| Hola! Events & Incentives | ивент агентство | https://eventcatalog.ru/agency/hola_events_and_incentives | phone | +7(349) 330-43-82 |
+| Holiday Art | ивент агентство | https://eventcatalog.ru/agency/holiday_art | phone | +7(495) 729-07-00 / +7(903) 777-17-13 |
+| Holiday Bazaar | ивент агентство | https://eventcatalog.ru/agency/holiday_bazaar | phone | +7(831)246-13-90 / +7(831)282-77-57 |
+| Holiday Events | ивент агентство | https://eventcatalog.ru/agency/holiday_events | phone | +7(991)007-01-02 / +7(929)111-85-67 |
 | HOLIDAY EVERYDAY | event-агентство | http://holidayeveryday.ru | email | email |
 | HOLIDAY EVERYDAY | event-агентство | http://holidayeveryday.ru | email | info@holidayeveryday.ru |
 | HOLIDAY EVERYDAY | event-агентство | http://holidayeveryday.ru | email | u-c6bebe4b26905d92727686a3707b2621@2x.png |
@@ -3025,6 +3765,9 @@
 | HOLIDAY EVERYDAY | event-агентство | http://holidayeveryday.ru | phone | +7 (926) 536-81-72 |
 | HOLIDAY EVERYDAY | event-агентство | http://holidayeveryday.ru | social | https://t.me/HolidayEveryday?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Holiday.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | HOLIDAY EVERYDAY | event-агентство | http://holidayeveryday.ru | social | https://www.instagram.com/holiday_everyday |
+| Holiday Бюро | ивент агентство | https://eventcatalog.ru/agency/holiday_byuro | phone | +7(495) 798-51-49 |
+| Holiday-lab | ивент агентство | https://eventcatalog.ru/agency/holiday-lab | phone | +7(4872) 20-40-41 / +7(905) 621-21-21 |
+| Holigroup.ru | ивент агентство | https://eventcatalog.ru/agency/holigroup_ru | phone | +7(495) 643-96-70 / +7(926) 369-55-67 |
 | Home Alone Loft Новосибирск Галущака 4 | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
 | Honey | лофт | https://www.loft2rent.ru/loft/97743 | phone | +79055733733 |
 | HOOKAH - камерный лофт на Арбате | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
@@ -3036,6 +3779,7 @@
 | Horror UniverseПриют | лофт | https://www.loft2rent.ru/loft/74654/195105 | phone | 84993222880 |
 | Horse HouseESTATE LOFT | лофт | https://www.loft2rent.ru/loft/123075/157694 | phone | +79299069090 |
 | Horse HouseЛофт пространство | лофт | https://www.loft2rent.ru/loft/123075/124286 | phone | +79299069090 |
+| HQ Agency | ивент агентство | https://eventcatalog.ru/agency/hq_agency | phone | +7(903)580-00-70 |
 | HSE (Higher School of Economics) | университет | https://hse.ru | email | abitur@hse.ru |
 | HSE (Higher School of Economics) | университет | https://hse.ru | email | hse@hse.ru |
 | HSE (Higher School of Economics) | университет | https://hse.ru | email | inter@hse.ru |
@@ -3085,6 +3829,10 @@
 | Hutton Development | девелопер | https://hutton.ru | phone | +7 (499) 551-51-39 |
 | Hutton Development | девелопер | https://hutton.ru | social | https://t.me/huttondevelopment |
 | I need you space. Уютный лофт | лофт | https://www.reveltime.ru/venue/3836995?eventtype=vecherinka | phone | +79099511234 |
+| I.C.M.G. Event Production | ивент агентство | https://eventcatalog.ru/agency/i_c_m_g_event_production | phone | +7(380) 444-25-59 |
+| I.Ra | ивент агентство | https://eventcatalog.ru/agency/i_ra | phone | +7(913)912-31-73 / +7(383)214-3173 |
+| I.S. | ивент агентство | https://eventcatalog.ru/agency/i_s | phone | +7(926)526-38-20 |
+| IBC Corporate Travel | ивент агентство | https://eventcatalog.ru/agency/ibc_corporate_travel | phone | +7(495) 959-81-20 / +7(495) 959-81-21 |
 | Ibis kitchen | лофт | https://www.loft2rent.ru/loft/200502 | phone | +7 (495) 660-53-53 |
 | IBS Group | IT-компания | https://ibs.ru | email | ibs@ibs.ru |
 | IBS Group | IT-компания | https://ibs.ru | email | pressa@ibs.ru |
@@ -3095,8 +3843,13 @@
 | IBS Group | IT-компания | https://ibs.ru | social | https://t.me/ibs_ru |
 | IBS Group | IT-компания | https://ibs.ru | social | https://t.me/ibscareer |
 | IBS Group | IT-компания | https://ibs.ru | social | https://vk.com/ru_ibs |
+| Icanfeel production | ивент агентство | https://eventcatalog.ru/agency/icanfeel_production | phone | +7(915)275-42-60 / +7(916)212-39-73 |
+| Ice Event | ивент агентство | https://eventcatalog.ru/agency/ice_event | phone | +7(926) 706-85-30 / +7(495) 691-62-03 |
 | ICE караоке & club | лофт | https://www.loft2rent.ru/loft/125492/125496 | phone | +74999646911 |
 | ICE караоке & clubКараоке Pesnya Арбат | лофт | https://www.loft2rent.ru/loft/125492/149100 | phone | +7 915 157 34 39 |
+| Ice-Q | ивент агентство | https://eventcatalog.ru/agency/ice-q | phone | +7(909)934-19-57 / +7(925)463-55-15 |
+| IceCream | ивент агентство | https://eventcatalog.ru/agency/icecream | phone | +7(910) 961-21-85 / +7(485) 233-21-85 |
+| Icon | ивент агентство | https://eventcatalog.ru/agency/icon | phone | +7(495)688-77-99 |
 | iConText Group | digital marketing group | https://icontextgroup.ru | email | hr@icontext.ru |
 | iConText Group | digital marketing group | https://icontextgroup.ru | email | pr@icontextgroup.ru |
 | iConText Group | digital marketing group | https://icontextgroup.ru | email | sales@icontextgroup.ru |
@@ -3105,9 +3858,22 @@
 | iConText Group | digital marketing group | https://icontextgroup.ru | social | https://t.me/DigitalDiving |
 | iConText Group | digital marketing group | https://icontextgroup.ru | social | https://t.me/icontextgroup |
 | iConText Group | digital marketing group | https://icontextgroup.ru | social | https://vk.com/icontext_group |
+| ID Group Event | ивент агентство | https://eventcatalog.ru/agency/id_group_event | phone | +7(812) 240-21-51 / +7(921) 425-81-78 |
+| IDE | ивент агентство | https://eventcatalog.ru/agency/ide | phone | +7(843)226-26-01 |
+| Idea | ивент агентство | https://eventcatalog.ru/agency/idea | phone | +7(499)391-97-17 |
+| Idea Executives | ивент агентство | https://eventcatalog.ru/agency/idea_executives | phone | +7(495) 982-51-25 / +7(495) 969-44-00 |
+| Idea Fix | ивент агентство | https://eventcatalog.ru/agency/idea_fix | phone | +7(38067) 557-58-83 |
+| Idea Fix24 | ивент агентство | https://eventcatalog.ru/agency/idea_fix24 | phone | +7(391)202-98-28 |
+| Idea Group | ивент агентство | https://eventcatalog.ru/agency/idea_group | phone | +7(495) 228-79-90 / +7(495) 228-79-91 |
+| Idea List | ивент агентство | https://eventcatalog.ru/agency/idea_list | phone | +7(395)273-40-23 / +7(950)114-27-18 |
+| Ideafix Group ceremony | ивент агентство | https://eventcatalog.ru/agency/ideafix_group_ceremony | phone | +7(351)772-81-98 / +7(351)723-04-65 |
+| Ideas | ивент агентство | https://eventcatalog.ru/agency/ideas | phone | +7(903)612-22-40 |
+| iDedMoroz | ивент агентство | https://eventcatalog.ru/agency/idedmoroz | phone | +7(916) 384-60-25 |
 | IDEINO | креативное агентство | https://top100awards.ru/ideino | phone | +7 (962) 941-08-59 |
 | IDEINO | креативное агентство | https://top100awards.ru/ideino | social | https://t.me/+79629410859?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20IDEINO.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | IDEINO | креативное агентство | https://top100awards.ru/ideino | social | https://www.instagram.com/ideino_wed |
+| Idevent | ивент агентство | https://eventcatalog.ru/agency/idevent | phone | +7(495) 901-79-56 |
+| IDeя | ивент агентство | https://eventcatalog.ru/agency/ideya | phone | +7(951) 592-79-05 / +7(913) 307-44-18 |
 | Igloo Bar LoftAIR FLEX | лофт | https://www.loft2rent.ru/loft/197322/198857 | phone | +79673771883 |
 | Igloo Bar LoftLETS GO | лофт | https://www.loft2rent.ru/loft/197322/198862 | phone | +79673771883 |
 | Igloo Bar LoftNEO | лофт | https://www.loft2rent.ru/loft/197322/206747 | phone | +79673771883 |
@@ -3119,6 +3885,8 @@
 | Igloobar VIP беседка | лофт | https://www.loft2rent.ru/loft/79750 | phone | +7 4996819127 |
 | Igloobar Бауманская | лофт | https://www.loft2rent.ru/loft/79750 | phone | +7 4996819127 |
 | Igloobar для компании | лофт | https://www.loft2rent.ru/loft/79750 | phone | +7 4996819127 |
+| Igrashow | ивент агентство | https://eventcatalog.ru/agency/igrashow | phone | +7(495)120-30-36 / +7(926)309-12-21 |
+| IGuana Events | ивент агентство | https://eventcatalog.ru/agency/iguana_events | phone | +7(926) 147-25-67 / +7(495) 657-35-95 |
 | IIDF (FRII) ecosystem | венчурный фонд / ecosystem | https://iidf.ru | email | accelerator@iidf.ru |
 | IIDF (FRII) ecosystem | венчурный фонд / ecosystem | https://iidf.ru | email | info@iidf.ru |
 | IIDF (FRII) ecosystem | венчурный фонд / ecosystem | https://iidf.ru | email | partners@iidf.ru |
@@ -3134,18 +3902,43 @@
 | IL Патио | ресторанная сеть | https://ilpatio.ru | phone | +7 (499) 666-04-00 |
 | IL Патио | ресторанная сеть | https://ilpatio.ru | social | https://vk.com/ilpatio_ru |
 | Illuminator | лофт | https://www.loft2rent.ru/loft/178355/178357 | phone | +7 9168125563 |
+| ILMA event group | ивент агентство | https://eventcatalog.ru/agency/ilma_event_group | phone | +7(499) 124-54-47 |
+| Ilona Studio | ивент агентство | https://eventcatalog.ru/agency/ilona_studio | phone | +7(905) 775-60-20 |
+| Ilona Studio Uzbekistan | ивент агентство | https://eventcatalog.ru/agency/ilona_studio_uzbekistan | phone | +7(99890) 189-00-55 |
 | IMA | ресторан | https://ima.rest/ | phone | +74994440903 |
+| Image | ивент агентство | https://eventcatalog.ru/agency/image | phone | +7(966)302-51-56 / +7(968)528-29-32 |
+| IMagency | ивент агентство | https://eventcatalog.ru/agency/imagency | phone | +7(909) 161-58-28 / +7(495) 616-00-65 |
+| Imagine | ивент агентство | https://eventcatalog.ru/agency/imagine | phone | +7(495) 625-00-18 |
+| Imago | ивент агентство | https://eventcatalog.ru/agency/imago | phone | +7(903) 170-41-49 |
+| Imarry Krd | ивент агентство | https://eventcatalog.ru/agency/imarry_krd | phone | +7(988)240-93-31 |
+| Imarry Ryazan | ивент агентство | https://eventcatalog.ru/agency/imarry_ryazan | phone | +7(4912)52-99-75 / +7(900)970-03-33 |
+| Imarry Оренбург | ивент агентство | https://eventcatalog.ru/agency/imarry_orenburg | phone | +7(3532)20-37-60 |
+| Imarussia | ивент агентство | https://eventcatalog.ru/agency/imarussia | phone | +7(812)336-60-05 / +7(499)653-60-05 |
+| IMC | ивент агентство | https://eventcatalog.ru/agency/imc | phone | +7(916)595-21-71 |
+| Imerek | ивент агентство | https://eventcatalog.ru/agency/imerek | phone | +7(926) 323-21-97 |
+| ImgEvent | ивент агентство | https://eventcatalog.ru/agency/imgevent | phone | +7(800)700-51-40 / +7(917)249-83-85 |
+| ImlightNN | ивент агентство | https://eventcatalog.ru/agency/imlightnn | phone | +7(915)952-50-20 / +7(910)388-17-58 |
+| Immedia event | ивент агентство | https://eventcatalog.ru/agency/immedia_event | phone | +7(495) 913-94-01 |
+| Imperator | ивент агентство | https://eventcatalog.ru/agency/imperator | phone | +7(812)612-26-76 / +7(911)959-82-86 |
 | Imperia Sky Loft | event space | https://imperiasky.ru | email | info@imperiasky.ru |
 | Imperia Sky Loft | event space | https://imperiasky.ru | phone | +7 (499) 938-55-01 |
 | Imperia Sky Loft | event space | https://imperiasky.ru | social | https://vk.com/imperiaskyloft?roistat_visit=2724508 |
 | Imperia Sky Loft | event space | https://imperiasky.ru | social | https://wa.me/79671328091 |
 | Imperia Sky Loft - Лофт с шикарным видом на Москву с 43 этажа | лофт | https://www.loft2rent.ru/loft/70621 | phone | +7 (499) 938-55-01 |
 | Imperial. Праздничный лофт-зал с большим столом | лофт | https://www.reveltime.ru/venue/4706073?eventtype=vecherinka | phone | +74994600028 |
+| Impression | ивент агентство | https://eventcatalog.ru/agency/impression | phone | +7(937)722-83-84 |
+| Improve | ивент агентство | https://eventcatalog.ru/agency/improve | social | https://eventcatalog.ru/agency/improve |
 | Impulse Space | лофт | https://www.loft2rent.ru/loft/132331/132545 | phone | +7264420150 |
+| In & Out Media Service | ивент агентство | https://eventcatalog.ru/agency/in_and_out_media_service | phone | +7(495) 730-75-87 |
+| In-Event | ивент агентство | https://eventcatalog.ru/agency/in-event | phone | +7(495) 979-42-66 |
 | Independent Media | медиахолдинг | https://imedia.ru | email | pr@imedia.ru |
 | Independent Media | медиахолдинг | https://imedia.ru | social | https://t.me/imsmedia |
 | Independent Media brands | медиагруппа | https://imedia.ru | email | pr@imedia.ru |
 | Independent Media brands | медиагруппа | https://imedia.ru | social | https://t.me/imsmedia |
+| Indigo | ивент агентство | https://eventcatalog.ru/agency/indigo | phone | +7(903) 525-09-00 / +7(915) 001-36-74 |
+| Indigo Intertainment | ивент агентство | https://eventcatalog.ru/agency/indigo_intertainment | phone | +7(772) 731-10-46 |
+| IndiGo project | ивент агентство | https://eventcatalog.ru/agency/indigo_project | phone | +7(926) 319-45-65 / +7(916) 565-39-52 |
+| Infinity | ивент агентство | https://eventcatalog.ru/agency/infinity | phone | +7(812) 952-50-69 / +7(812) 952-40-69 |
 | Inflow PlaceЛофт Inflow, площадка для мастер-классов | лофт | https://www.loft2rent.ru/loft/180904/180911 | phone | +79169866307 |
 | INFLOWАренда залов INFLOW | лофт | https://www.loft2rent.ru/loft/169935/169945 | phone | 8 (908) 208-08-45 |
 | INFOLOFTMSK (ИНФОЛОФТМСК). Лофт с уникальным дизайном | лофт | https://www.reveltime.ru/venue/6549792?eventtype=vecherinka | phone | +79019397046 |
@@ -3185,18 +3978,34 @@
 | Ingrad | девелопер | https://ingrad.ru | social | https://rutube.ru/channel/39916317 |
 | Ingrad | девелопер | https://ingrad.ru | social | https://t.me/Ingrad_official |
 | Ingrad | девелопер | https://ingrad.ru | social | https://vk.com/ingrad_development |
+| InMar Relations | ивент агентство | https://eventcatalog.ru/agency/inmar_relations | phone | +7(383) 203-48-44 |
 | InOut | лофт | https://www.loft2rent.ru/loft/208551/208560 | phone | +7 499 113-99-76 |
+| Insait | ивент агентство | https://eventcatalog.ru/agency/insait | phone | +7(846) 972-23-76 |
+| Inside | ивент агентство | https://eventcatalog.ru/agency/inside | phone | +7 (4842) 77-77-40 / +7 (495) 638-57-59 |
 | Insider Bar | бар | https://insiderbar.ru | phone | +74953637744 |
+| Inspiration | ивент агентство | https://eventcatalog.ru/agency/inspiration | phone | +7(913)059-57-99 / +7(913)038-87-04 |
+| Inspirestate | ивент агентство | https://eventcatalog.ru/agency/inspirestate | phone | +7(917)575-71-01 |
+| Instars | ивент агентство | https://eventcatalog.ru/agency/instars | phone | +7(909) 970-34-34 / +7(495) 796-24-78 |
+| InTeam Productions | ивент агентство | https://eventcatalog.ru/agency/inteam_productions | phone | +7(495)999-19-18 / +7(903)108-99-91 |
 | Interactive | лофт | https://www.loft2rent.ru/loft/102618/102639 | phone | +7 (351) 779-46-25 |
+| Interactive Solutions Group | ивент агентство | https://eventcatalog.ru/agency/interactive_solutions_group | phone | +7(495)545-41-95 / +7(985)210-04-89 |
+| Intercom Public Relations | ивент агентство | https://eventcatalog.ru/agency/intercom_public_relations | phone | +7(928) 137-33-11 |
 | InterMedia | медиа-агентство | https://www.intermedia.ru | social | https://t.me/intermedia_cinema |
 | InterMedia | медиа-агентство | https://www.intermedia.ru | social | https://t.me/intermediaall |
 | InterMedia | медиа-агентство | https://www.intermedia.ru | social | https://twitter.com/intermedia_ru |
 | InterMedia | медиа-агентство | https://www.intermedia.ru | social | https://vk.com/club10016524 |
 | InterMedia | медиа-агентство | https://www.intermedia.ru | social | https://www.facebook.com/InterMediaMainNews |
 | InterMedia | медиа-агентство | https://www.intermedia.ru | social | https://www.facebook.com/intermedianewsagency |
+| Inventor | ивент агентство | https://eventcatalog.ru/agency/inventor | phone | +7(38044) 521-21-00 |
+| Invite | ивент агентство | https://eventcatalog.ru/agency/invite | phone | +7(8332)47-77-57 / +7(919)525-06-53 |
+| IQ-DO | ивент агентство | https://eventcatalog.ru/agency/iq-do | phone | +7(495) 984-23-12 |
 | IQBABYCLUBДетский лофт IQBABYCLUB | лофт | https://www.loft2rent.ru/loft/130280/130287 | phone | 89258986594 |
+| Irina Show | ивент агентство | https://eventcatalog.ru/agency/irina_show | phone | +7(985) 767-63-31 / +7(916) 906-31-77 |
+| Iris Events | ивент агентство | https://eventcatalog.ru/agency/iris_events | phone | +7(499)638-85-32 / +7(963)608-30-22 |
 | IRRI-LOFTEvent-project | лофт | https://www.loft2rent.ru/loft/51150/51161 | phone | 89264037887 |
 | IRRI-LOFTБизнес-gallery | лофт | https://www.loft2rent.ru/loft/51150/51157 | phone | 89264037887 |
+| Irsenevents | ивент агентство | https://eventcatalog.ru/agency/irsenevents | phone | +7(903)220-68-94 / +7(968)915-61-51 |
+| Iskra holiday | ивент агентство | https://eventcatalog.ru/agency/iskra_holiday | phone | +7(499) 755-66-65 / +7(926) 622-22-25 |
 | Island Dance&AerialIsland Loft | лофт | https://www.loft2rent.ru/loft/87302/87439 | phone | +7 (495) 778-89-88 |
 | Island loft | лофт | https://www.loft2rent.ru/loft/74440 | phone | +78122497575 |
 | IT'S A MATCH! | event / matchmaking project | http://itsamatchagency.ru | email | email |
@@ -3212,6 +4021,7 @@
 | IT'S A MATCH! | event / matchmaking project | http://itsamatchagency.ru | phone | +7 (915) 123-02-12 |
 | IT'S A MATCH! | event / matchmaking project | http://itsamatchagency.ru | social | https://t.me/itsamatch_agency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20IT%27S.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | IT'S A MATCH! | event / matchmaking project | http://itsamatchagency.ru | social | https://www.instagram.com/itsamatch_agency |
+| ITForward | ивент агентство | https://eventcatalog.ru/agency/itforward | phone | +7(843) 272-80-02 / +7(843) 200-93-59 |
 | ITTEN HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | IVA Event Agency | event-агентство | https://www.iva.moscow | email | email |
 | IVA Event Agency | event-агентство | https://www.iva.moscow | email | hello@iva.moscow |
@@ -3219,6 +4029,9 @@
 | IVA Event Agency | event-агентство | https://www.iva.moscow | phone | phone |
 | IVA Event Agency | event-агентство | https://www.iva.moscow | social | https://t.me/IVA_MOSCOW |
 | IVA Event Agency | event-агентство | https://www.iva.moscow | social | social |
+| Iva Production | ивент агентство | https://eventcatalog.ru/agency/iva_production | phone | +7(953)218-12-99 / +7(981)196-69-79 |
+| IVANEVENT | ивент агентство | https://eventcatalog.ru/agency/ivanevent | phone | +7(097) 989-56-33 |
+| Iventa | ивент агентство | https://eventcatalog.ru/agency/iventa | phone | +7(495) 507-65-66 |
 | IVI | онлайн-кинотеатр | https://www.ivi.ru | email | ksfv@e3rji.ibt |
 | IVI | онлайн-кинотеатр | https://www.ivi.ru | email | libe2l00ni-n4t%fwcv@r.jyxanf |
 | IVI | онлайн-кинотеатр | https://www.ivi.ru | email | support@ivi.ru |
@@ -3235,6 +4048,7 @@
 | IVI Originals | online cinema production | https://ivi.ru | social | https://twitter.com/ivi_ru |
 | IVI Originals | online cinema production | https://ivi.ru | social | https://vk.com/iviru?crc=fa4448c13e06e69ba9e814e8743c7e2e |
 | IVI Originals | online cinema production | https://ivi.ru | social | https://www.linkedin.com/company/2543415 |
+| IVS Group | ивент агентство | https://eventcatalog.ru/agency/ivs_group | phone | +7(495)510-55-63 / +7(985)226-14-55 |
 | IZI PLAYКиберклуб для турниров с экраном 5м | лофт | https://www.loft2rent.ru/loft/181310/181312 | phone | +79653805500 |
 | Izmailov Loft (Измайлов Лофт). Дримзон | лофт | https://www.reveltime.ru/venue/6012001?eventtype=vecherinka | phone | +79346692796 |
 | Izmailov Loft (Измайлов Лофт). Лофт Венеция | лофт | https://www.reveltime.ru/venue/8004436?eventtype=vecherinka | phone | +79346657019 |
@@ -3242,6 +4056,8 @@
 | Izmailov Loft (Измайлов Лофт). Лофт Диско | лофт | https://www.reveltime.ru/venue/6017878?eventtype=vecherinka | phone | +79346692796 |
 | Izmailov Loft (Измайлов Лофт). Лофт Кинозвезда | лофт | https://www.reveltime.ru/venue/6011450?eventtype=vecherinka | phone | +79346692796 |
 | Izmailov Loft (Измайлов Лофт). Лофт-зал в классическом стиле | лофт | https://www.reveltime.ru/venue/6017789?eventtype=vecherinka | phone | +79346692796 |
+| Izym | ивент агентство | https://eventcatalog.ru/agency/izym | phone | +7(909) 404-15-26 / +7(904) 443-32-04 |
+| J Event | ивент агентство | https://eventcatalog.ru/agency/j_event | phone | +7(495)664-60-61 / +7(926)891-51-60 |
 | J Group Events | event-агентство | https://jgroup.ru | email | ankl@jgroup.ru |
 | J Group Events | event-агентство | https://jgroup.ru | email | dina@jgroup.ru |
 | J Group Events | event-агентство | https://jgroup.ru | email | email |
@@ -3256,28 +4072,46 @@
 | J Group Events | event-агентство | https://jgroup.ru | email | sale@jgroup.ru |
 | J Group Events | event-агентство | https://jgroup.ru | social | https://vk.com/zaryadyepark |
 | J Group Events | event-агентство | https://jgroup.ru | social | social |
+| J System Pro | ивент агентство | https://eventcatalog.ru/agency/j_system_pro | phone | +7(905) 775-38-74 |
+| J&M Show | ивент агентство | https://eventcatalog.ru/agency/jandm_show | phone | +7(812) 905-12-34 / +7(812) 908-97-97 |
+| J-Art Media | ивент агентство | https://eventcatalog.ru/agency/j-art_media | phone | +7(495)640-11-97 |
+| Jado | ивент агентство | https://eventcatalog.ru/agency/jado | phone | +7(777)279-73-94 / +7(707)312-39-38 |
+| Jam | ивент агентство | https://eventcatalog.ru/agency/jam | phone | +7(495) 232-33-48 / +7(925) 585-61-16 |
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | email | kaliningradcityjazz@mail.ru |
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | email | pr/сми: kaliningradcityjazz@mail.ru |
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | phone | +7 (401) 295-66-77 |
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | social | https://t.me/jazzfestivalru |
 | Jazz Summer Nights Moscow | музыкальный фестиваль | https://jazzfestival.ru | social | https://vk.com/jazzfestivalru |
+| JB Agency | ивент агентство | https://eventcatalog.ru/agency/jb_agency | phone | +7(813)419-27-55 |
 | Jenavi Club | лофт | https://www.loft2rent.ru/loft/151762/151764 | phone | +79939872530 |
 | JM LOFTАрт-Салон Теляковских (J&M LOFT) | лофт | https://www.loft2rent.ru/loft/101339/101342 | phone | 88123094060 |
 | JM LOFTЗал Звуки Музыки | лофт | https://www.loft2rent.ru/loft/101339/142705 | phone | 88123094060 |
 | JM LOFTЗал Мулен Руж | лофт | https://www.loft2rent.ru/loft/101339/142716 | phone | 88123094060 |
 | JM LOFTЗал Скрипач на крыше | лофт | https://www.loft2rent.ru/loft/101339/142711 | phone | 88123094060 |
 | JM LOFTЗал Чикаго | лофт | https://www.loft2rent.ru/loft/101339/141974 | phone | 88123094060 |
+| Joker | ивент агентство | https://eventcatalog.ru/agency/joker | phone | +7(929)992-11-92 |
+| JOLLY | ивент агентство | https://eventcatalog.ru/agency/jolly | phone | +7(926)222-97-85 / +7(499)755-53-66 |
 | Jordan lounge | лофт | https://www.loft2rent.ru/loft/176564/176566 | phone | 89969402201 |
+| Journey | ивент агентство | https://eventcatalog.ru/agency/journey | phone | +7(985)770 69 15 |
+| JOY Art | ивент агентство | https://eventcatalog.ru/agency/joy_art | phone | +7(499) 391-70-17 |
+| Joy Event | ивент агентство | https://eventcatalog.ru/agency/joy_event | phone | +7(925)890-29-16 |
+| Joy Event House | ивент агентство | https://eventcatalog.ru/agency/joy_event_house | phone | +7(916)397-65-55 |
+| Joyday | ивент агентство | https://eventcatalog.ru/agency/joyday | phone | +7(916) 714-10-64 |
+| July Event | ивент агентство | https://eventcatalog.ru/agency/july_event | phone | +7(926)591-69-02 |
+| Jump&Smile | ивент агентство | https://eventcatalog.ru/agency/jumpandsmile | phone | +7(499)390-71-25 |
 | Jun | ресторан | https://jun.lucky-group.rest/ | phone | +74951898988 |
 | JUNGLE — атмосферный зал с природным стилем и большой зоной для танцев | лофт | https://www.loft2rent.ru/loft/151727 | phone | +7 (903) 195-93-49 |
+| Just Event | ивент агентство | https://eventcatalog.ru/agency/just_event | phone | +7(495) 971 90 40 |
 | JUST MOOD WEDDING | свадебное агентство | https://top100awards.ru/just-mood-wedding | phone | +7 (916) 741-16-63 |
 | JUST MOOD WEDDING | свадебное агентство | https://top100awards.ru/just-mood-wedding | social | https://t.me/+79167411663?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Just.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | JUST MOOD WEDDING | свадебное агентство | https://top100awards.ru/just-mood-wedding | social | https://www.instagram.com/jmood_wedding |
 | JustLoft. Дизайнерское пространство | лофт | https://www.reveltime.ru/venue/469715?eventtype=vecherinka | phone | +79163797300 |
 | K - Club | лофт | https://www.loft2rent.ru/loft/167261/167266 | phone | 89060310683 |
+| K&P Event Leader | ивент агентство | https://eventcatalog.ru/agency/kandp_event_leader | phone | +7(495) 971-83-85 |
 | Kahovka loft | лофт | https://www.loft2rent.ru/loft/57063 | phone | +79296448663 |
 | Kahovka loft (Каховка Лофт). Неоновый лофт-зал | лофт | https://www.reveltime.ru/venue/6921455?eventtype=vecherinka | phone | +79019317663 |
 | Kaifuso | ресторан | https://kaifuso.rest/ | phone | +74957302277 |
+| Kalina | ивент агентство | https://eventcatalog.ru/agency/kalina | phone | +7(499)391-32-0_ |
 | Kalkutta Lounge BarКалькутта Лаундж Бар | лофт | https://www.loft2rent.ru/loft/186025/186027 | phone | 89030136009 |
 | Kamaz (МСК представительство) | организация | https://kamaz.ru | email | callcentre@kamaz.org |
 | Kamaz (МСК представительство) | организация | https://kamaz.ru | email | export@kamaz.ru |
@@ -3324,6 +4158,10 @@
 | KARAVAY_EVENT | event-агентство | http://karavayevent.ru | social | https://www.instagram.com/karavay_event |
 | Karma Loft - в стиле суперметалл | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | KARTEL LOFT на Бауманской с караоке и PS 4 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-16-19 |
+| Kartinka | ивент агентство | https://eventcatalog.ru/agency/kartinka | phone | +7(967)670-87-12 / +7(909)466-31-19 |
+| Karton | ивент агентство | https://eventcatalog.ru/agency/karton | phone | +7(495)589-62-96 / +7(915)133-93-33 |
+| KARUSEL MUSIC | ивент агентство | https://eventcatalog.ru/agency/karusel_music | phone | +7(918)508-80-08 |
+| Kasablanka | ивент агентство | https://eventcatalog.ru/agency/kasablanka | phone | +7(915) 418-42-36 / +7(926) 335-51-53 |
 | KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | email | email |
 | KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | email | kasitskaya_wedding@mail.ru |
 | KASITSKAYA WEDDING | свадебное агентство | http://kasitskayawedding.ru | phone | +7 (969) 010-74-57 |
@@ -3347,6 +4185,8 @@
 | Kaspersky Lab | cybersecurity компания | https://www.kaspersky.ru | social | https://www.youtube.com/@KasperskyRussia |
 | Kassir.ru | билетный сервис | https://www.kassir.ru | email | email |
 | Kassir.ru | билетный сервис | https://www.kassir.ru | email | partner@kassir.ru |
+| Kate&Leo | ивент агентство | https://eventcatalog.ru/agency/kateandleo | phone | +7(495)532-27-57 |
+| Kboom | ивент агентство | https://eventcatalog.ru/agency/kboom | phone | +7(495)540-49-16 / +7(916)642-62-61 |
 | KELIA Business Club | бизнес-клуб | https://kelia.me | email | club@kelia.me |
 | KELIA Business Club | бизнес-клуб | https://kelia.me | phone | +7 (495) 775-07-20 |
 | KELIA Business Club | бизнес-клуб | https://kelia.me | social | https://t.me/keliaclub |
@@ -3369,6 +4209,9 @@
 | Ketchum Moscow | PR-агентство | https://www.ketchum.com | social | social |
 | Khlebozavod 9 | креативный кластер | https://hlebozavod9.ru | social | https://youtu.be/huO8UGX-YWU?si=gYFmnMNJvOrnPXRk |
 | KiKi Event Dom | лофт | https://www.loft2rent.ru/loft/196138/196140 | phone | +7 495 255-70-80 |
+| Kings Group | ивент агентство | https://eventcatalog.ru/agency/kings_group | phone | +7(495) 688-91-91 / +7(495) 688-83-83 |
+| Kings Holidays | ивент агентство | https://eventcatalog.ru/agency/kings_holidays | phone | +7(902)511-74-27 / +7(3952)62-63-13 |
+| Kino-Party | ивент агентство | https://eventcatalog.ru/agency/kino-party | phone | +7(495)023-15-16 / +7(495)023-17-18 |
 | Kinoroom Loft | лофт | https://www.loft2rent.ru/loft/109019 | phone | +79651635011 |
 | KION | онлайн-кинотеатр | https://kion.ru | email | app@kion.ru |
 | KION | онлайн-кинотеатр | https://kion.ru | email | mtstv_legal@mts.ru |
@@ -3384,9 +4227,16 @@
 | KIT Film Studio | киностудия | https://kitstudio.ru | social | https://rutube.ru |
 | KIT Film Studio | киностудия | https://kitstudio.ru | social | https://t.me/kitstudio |
 | KIT Film Studio | киностудия | https://kitstudio.ru | social | https://vk.ru/public211246229 |
+| Kiwi ice group | ивент агентство | https://eventcatalog.ru/agency/kiwi_ice_group | phone | +7(812) 962-84-20 |
+| Klukva | ивент агентство | https://eventcatalog.ru/agency/klukva | phone | +7(495)925-35-66 |
+| KM Events | ивент агентство | https://eventcatalog.ru/agency/km_events | phone | +7(925)608-00-06 |
 | KM20 | ресторан / бар | https://km20food.ru/ | phone | +74959872220 |
+| KMK Event Agency | ивент агентство | https://eventcatalog.ru/agency/kmk_event_agency | phone | +7(343) 206-03-36 |
+| Kochetshow | ивент агентство | https://eventcatalog.ru/agency/kochetshow | phone | +7(905)700-75-57 |
 | KODspaceKOD Space | лофт | https://www.loft2rent.ru/loft/99475/99484 | phone | 8 (900) 647-87-22 |
 | Koji | ресторан | http://www.koji.lucky-group.ru/ | phone | +74958187788 |
+| Kolizey | ивент агентство | https://eventcatalog.ru/agency/kolizey | phone | +7(495)967-14-31 / +7(495)922-89-94 |
+| Komissarov | ивент агентство | https://eventcatalog.ru/agency/komissarov | phone | +7(4842)20-21-32 / +7(930)841-53-54 |
 | Kommersant Publishing House | издательский дом | https://www.kommersant.ru | email | club@kommersant.ru |
 | Kommersant Publishing House | издательский дом | https://www.kommersant.ru | email | conference@kommersant.ru |
 | Kommersant Publishing House | издательский дом | https://www.kommersant.ru | email | info@kommersant.fm |
@@ -3414,7 +4264,11 @@
 | Kommersant Publishing House | издательский дом | https://www.kommersant.ru | social | https://rutube.ru/channel/23923011 |
 | Kommersant Publishing House | издательский дом | https://www.kommersant.ru | social | https://t.me/kommersant |
 | Kommersant Publishing House | издательский дом | https://www.kommersant.ru | social | https://vk.com/widget_community.php?act=a_subscribe_box&oid=-23482909&state=1 |
+| Korpor | ивент агентство | https://eventcatalog.ru/agency/korpor | phone | +7(495)822-42-62 / +7(812)209-79-59 |
+| Korporativ.ru | ивент агентство | https://eventcatalog.ru/agency/korporativ_ru | phone | +7(495) 788-58-11 |
+| Korporativa.net | ивент агентство | https://eventcatalog.ru/agency/korporativa_net | phone | +7(495) 585-51-74 |
 | Korting Sky Room | лофт | https://www.loft2rent.ru/loft/20188/26709 | phone | 89160393574 |
+| Koyots | ивент агентство | https://eventcatalog.ru/agency/koyots | phone | +7(842) 226-02-18 / +7(927) 807-27-80 |
 | Krasota | ресторан | https://krasota.wrf.su/ | phone | +74957874787 |
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://t.me/darkravt |
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://t.me/kravtsovaevent_reviews |
@@ -3422,8 +4276,13 @@
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | phone | +7 (985) 994-24-46 |
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://t.me/darkravt?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KRAVTSOVA%20EVENT.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | KRAVTSOVA EVENT | event-агентство | http://kravtsova.org | social | https://www.instagram.com/kravtsova.event |
+| Kreatiffagency | ивент агентство | https://eventcatalog.ru/agency/kreatiffagency | phone | +7(926)188-85-92 / +7(963)617-39-97 |
+| Kreativ Event | ивент агентство | https://eventcatalog.ru/agency/kreativ_event | phone | +7(495)660-39-57 |
+| Kreativ-Media | ивент агентство | https://eventcatalog.ru/agency/kreativ-media | phone | +7(499) 748-12-01 / +7(495) 220-44-24 |
+| Kreativity | ивент агентство | https://eventcatalog.ru/agency/kreativity | phone | +7(905)748-88-19 |
 | Krisha loft (Крыша Лофт) | лофт | https://www.reveltime.ru/venue/6498928?eventtype=vecherinka | phone | +79584974228 |
 | Kristall loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| KRM-tour | ивент агентство | https://eventcatalog.ru/agency/krm-tour | phone | +7(066) 405-29-28 |
 | KROV на КРИСТАЛЕ с Теплой верандой, Мощным звуком грилем в Готическом стиле | лофт | https://www.loft2rent.ru/loft/13771 | phone | +7 9055448835 |
 | KSK “Agalarov Polo Division” | ивент-спейс | https://agalarovestate.com | email | hotel@crocusgroup.ru |
 | KSK “Agalarov Polo Division” | ивент-спейс | https://agalarovestate.com | email | pressoffice@crocusgroup.ru |
@@ -3475,29 +4334,52 @@
 | KULWEDDING | свадебное агентство | http://kulwedding.ru | phone | +7 (977) 918-71-78 |
 | KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://t.me/nasyakulikova?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20KULWEDDING.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | KULWEDDING | свадебное агентство | http://kulwedding.ru | social | https://www.instagram.com/kulwedding |
+| Kutezh | ивент агентство | https://eventcatalog.ru/agency/kutezh | phone | +7(926)375-22-23 |
 | KutuzovKytuzov VIP / Кутузов ВИП | лофт | https://www.loft2rent.ru/loft/51342/51345 | phone | +79651011115 |
+| Kvest Lab | ивент агентство | https://eventcatalog.ru/agency/kvest_lab | phone | +7(901)013-74-53 |
+| Kyrgyz Concept | ивент агентство | https://eventcatalog.ru/agency/kyrgyz_concept | phone | +7(996312) 90-32-32 / +7(996312) 90-62-62 |
+| Kураж | ивент агентство | https://eventcatalog.ru/agency/kurazh | phone | +7(863) 298-19-44 / +7(908) 515-16-16 |
+| L'avatar | ивент агентство | https://eventcatalog.ru/agency/lavatar | phone | +7(495) 951-71-78 |
+| L1event | ивент агентство | https://eventcatalog.ru/agency/l1event | phone | +7(916)406-08-80 |
 | La Bottega Siciliana | ресторан | https://bottega-siciliana.com/ | phone | +74956600383 |
+| La Cream | ивент агентство | https://eventcatalog.ru/agency/la_cream | phone | +7(812) 916-10-20 |
+| La Joie | ивент агентство | https://eventcatalog.ru/agency/la_joie | phone | +7(727) 225-26-88 / +7(777) 236-46-75 |
 | La Marée | ресторан | https://la-maree.ru/ | phone | +74956940930 |
+| La Vida del Sol | ивент агентство | https://eventcatalog.ru/agency/la_vida_del_sol | phone | +7(495) 989-82-88 |
+| Lab City | ивент агентство | https://eventcatalog.ru/agency/lab_city | phone | +7(499) 391-01-45 |
 | LAB16 | лофт | https://www.loft2rent.ru/loft/29454/29463 | phone | +74952041617 |
+| Lafayette | ивент агентство | https://eventcatalog.ru/agency/lafayette | phone | +7(861) 274-60-02 |
+| Lafrus | ивент агентство | https://eventcatalog.ru/agency/lafrus | phone | +7(495) 792-17-15 / +7(967) 099-01-07 |
+| LAK | ивент агентство | https://eventcatalog.ru/agency/lak | phone | +7(916)420-82-28 |
 | Lana Studio - Большой зал White | лофт | https://www.loft2rent.ru/loft/42478/46518 | phone | +7 (905) 559 98 60 |
+| Landmedia Creative Studio | ивент агентство | https://eventcatalog.ru/agency/landmedia_creative_studio | phone | +7(815) 299-49-59 / +7(815) 270-60-66 |
+| LandTrip | ивент агентство | https://eventcatalog.ru/agency/landtrip | phone | +7(495) 971-73-55 / +7(901) 555-11-73 |
 | LANIT | IT-компания | https://lanit.ru | email | compliance@lanit.ru |
 | LANIT | IT-компания | https://lanit.ru | email | lanit@lanit.ru |
 | LANIT | IT-компания | https://lanit.ru | phone | +7 (495) 967-66-50 |
 | LANIT | IT-компания | https://lanit.ru | social | https://dzen.ru/lanit |
 | LANIT | IT-компания | https://lanit.ru | social | https://t.me/Lanit_life |
 | LANIT | IT-компания | https://lanit.ru | social | https://vk.com/lanit_life |
+| Lap Label | ивент агентство | https://eventcatalog.ru/agency/lap_label | phone | +7(495) 730-99-66 |
 | LapTime Racing | лофт | https://www.loft2rent.ru/loft/72296 | phone | +78129065552 |
 | LargoCabinet Largo | лофт | https://www.loft2rent.ru/loft/42437/42825 | phone | +7-495-222-38-48 |
 | LargoБанкетный лофт на Ленинском | лофт | https://www.loft2rent.ru/loft/42437/42470 | phone | +7-495-222-38-48 |
 | LargoУютный итальянский Ресторан | лофт | https://www.loft2rent.ru/loft/42437/42842 | phone | +7-495-222-38-48 |
 | LargoУютный Лофт на Юго-Западе | лофт | https://www.loft2rent.ru/loft/42437/42817 | phone | +7-495-222-38-48 |
+| Lava-room | ивент агентство | https://eventcatalog.ru/agency/lava-room | phone | +7(952)852-45-28 |
 | LAVANDA Loft | лофт | https://www.loft2rent.ru/loft/104772 | phone | 89772959526 |
 | Lavanda loft. Уютный лофт для различных событий | лофт | https://www.reveltime.ru/venue/5908581?eventtype=vecherinka | phone | +79772959526 |
+| Le Bon Groupe | ивент агентство | https://eventcatalog.ru/agency/le_bon_groupe | phone | +380(44)599-70-75 |
+| Le Star Events Solutions | ивент агентство | https://eventcatalog.ru/agency/le_star_events_solutions | phone | +7(38044) 229-76-0 |
+| Ledentsova | ивент агентство | https://eventcatalog.ru/agency/ledentsova | phone | +7(906)227-11-44 |
 | Legacy Loft | лофт | https://www.loft2rent.ru/loft/39383 | phone | +79993492320 |
+| Lege Artist communications group | ивент агентство | https://eventcatalog.ru/agency/lege_artist_communications_group | phone | +7(342) 214-77-77 |
+| Leits Media | ивент агентство | https://eventcatalog.ru/agency/leits_media | phone | +7(495) 637-01-22 |
 | LEMagenta | лофт | https://www.loft2rent.ru/loft/117722/131251 | phone | +7 (985) 219-66-57 |
 | LEMagenta 115 | лофт | https://www.loft2rent.ru/loft/117722/131230 | phone | +7 (985) 219-66-57 |
 | LEMagenta 81 | лофт | https://www.loft2rent.ru/loft/117722/131240 | phone | +7 (985) 219-66-57 |
 | LEMagenta 85 | лофт | https://www.loft2rent.ru/loft/117722/131243 | phone | +7 (985) 219-66-57 |
+| Lemon Event Production | ивент агентство | https://eventcatalog.ru/agency/lemon_event_production | phone | +7(050) 428-50-51 / +7(062) 348-92-88 |
 | Lenfilm Production | организация | https://lenfilm.ru | email | info@lenfilm.ru |
 | Lenfilm Production | организация | https://lenfilm.ru | email | ok@lenfilm.ru |
 | Lenfilm Production | организация | https://lenfilm.ru | email | pr@lenfilm.ru |
@@ -3524,13 +4406,18 @@
 | Lenta.ru | онлайн-медиа | https://lenta.ru | social | https://ok.ru/lentaru/?utm_source=lentasocialbuttons&utm_campaign=ok |
 | Lenta.ru | онлайн-медиа | https://lenta.ru | social | https://t.me/lentadnya/?utm_source=lentasocialbuttons&utm_campaign=tlgrm |
 | Lenta.ru | онлайн-медиа | https://lenta.ru | social | https://vk.com/lentaru?utm_source=lentasocialbuttons&utm_campaign=vk |
+| Leo August Branding | ивент агентство | https://eventcatalog.ru/agency/leo_august_branding | phone | +7(812) 648-88-21 |
+| Leon-studio | ивент агентство | https://eventcatalog.ru/agency/leon-studio | phone | +7(38097) 080-45-36 |
 | LeonastageLight 100 | лофт | https://www.loft2rent.ru/loft/152246/152723 | phone | 8 911 260-02-02 |
 | Les Art Resort | resort-отель | https://lesartresort.ru | phone | +7 (495) 772-97-20 |
 | Les Art Resort | resort-отель | https://lesartresort.ru | phone | +7 (800) 200-97-20 |
 | Les Art Resort | resort-отель | https://lesartresort.ru | social | https://t.me/masterhost_news |
 | Les Art Resort | resort-отель | https://lesartresort.ru | social | https://t.me/mh_sup_bot |
 | Les Art Resort | resort-отель | https://lesartresort.ru | social | https://vk.com/masterhost |
+| LeSamedi | ивент агентство | https://eventcatalog.ru/agency/lesamedi | phone | +7(926)598-31-14 |
 | LeTO | лофт | https://www.loft2rent.ru/loft/177699 | phone | +79853052200 |
+| Leto promo group | ивент агентство | https://eventcatalog.ru/agency/leto_promo_group | phone | +7(988)238-26-01 / +7(862)279-50-60 |
+| Level | ивент агентство | https://eventcatalog.ru/agency/level | phone | +7(988)565-61-91 |
 | Level 19 Лофт для закрытых вечеринок | лофт | https://www.reveltime.ru/venue/238467?eventtype=vecherinka | phone | +79261003263 |
 | Level Group | девелопер | https://level.ru | email | commercial@levelgroup.ru |
 | Level Group | девелопер | https://level.ru | email | info@levelgroup.ru |
@@ -3548,8 +4435,10 @@
 | Level Group | девелопер | https://level.ru | social | https://t.me/levelru |
 | Level Group | девелопер | https://level.ru | social | https://vk.com/levelgroupdeveloper |
 | Level Group | девелопер | https://level.ru | social | https://www.youtube.com/channel/UCCxBnhSlybR_mupQimcO5Lg |
+| Level Up | ивент агентство | https://eventcatalog.ru/agency/level_up | phone | +7(347) 257-11-10 / +7(9170 408-33-48 |
 | Leveldva | ресторан / club | https://leveldva.ru | phone | +7 (909) 959-01-37 |
 | Leveldva | бар | https://ugolek.moscow/leveldva | phone | +79099590137 |
+| LeventI | ивент агентство | https://eventcatalog.ru/agency/leventi | phone | +7(918)902-51-72 |
 | LeView | лофт | https://www.loft2rent.ru/loft/145854/145859 | phone | +79110991259 |
 | LEАнгар | лофт | https://www.loft2rent.ru/loft/117722/142720 | phone | +7 (985) 219-66-57 |
 | LEАтом | лофт | https://www.loft2rent.ru/loft/117722/141694 | phone | +79852196657 |
@@ -3572,14 +4461,24 @@
 | Life / News Media Holding | медиахолдинг | https://life.ru | social | https://t.me/shot_proverka |
 | Life / News Media Holding | медиахолдинг | https://life.ru | social | https://t.me/shot_shot |
 | Life / News Media Holding | медиахолдинг | https://life.ru | social | https://vk.com/life |
+| Life is beautiful | ивент агентство | https://eventcatalog.ru/agency/life_is_beautiful | phone | +7(495) 764-62-15 |
+| Life Style | ивент агентство | https://eventcatalog.ru/agency/life_style | phone | +7(777)399-95-58 / +7(707)424-35-58 |
+| LifeTime Event | ивент агентство | https://eventcatalog.ru/agency/lifetime_event | phone | +7(843) 239-27-16 |
+| Light event | ивент агентство | https://eventcatalog.ru/agency/light_event | phone | +7(920)334-55-97 |
 | LimeLoft | лофт | https://www.loft2rent.ru/loft/156511/157795 | phone | +79957207249 |
+| Limurr | ивент агентство | https://eventcatalog.ru/agency/limurr | phone | +7(473)295-16-90 / +7(908)138-27-54 |
 | Linda de La. Арт-центр | лофт | https://www.loft2rent.ru/loft/202713/202812 | phone | 89859447970 |
 | LisospaceLisoSpace | лофт | https://www.loft2rent.ru/loft/56856/56859 | phone | +7 (925) 992 04 83 |
+| Little Partyevents | ивент агентство | https://eventcatalog.ru/agency/little_partyevents | phone | +7(985)641-79-16 |
+| Live Music Agency | ивент агентство | https://eventcatalog.ru/agency/live_music_agency | phone | +7(499)390-02-92 / +372-5839-3069 |
+| Live Party | ивент агентство | https://eventcatalog.ru/agency/live_party | phone | +7(903)502-22-97 |
 | Live Stars (Лайв Старс). Лофт-ночной клуб | лофт | https://www.reveltime.ru/venue/2708141?eventtype=vecherinka | phone | +79584974228 |
 | LiveStudio.moscow - студия записи подкастов Loft на Бауманской / Лофт на Бауманской | лофт | https://www.loft2rent.ru/loft/147438/147444 | phone | +79253912007 |
+| Living Style | ивент агентство | https://eventcatalog.ru/agency/living_style | phone | +7(915) 339-29-69 |
 | Lo/st Pravda (Ло/ст Правда). Светлый лофт | лофт | https://www.reveltime.ru/venue/3452070?eventtype=vecherinka | phone | +79584974331 |
 | LO/ST PravdaLO/ST Pravda. Зал "s3 curry" | лофт | https://www.loft2rent.ru/loft/42981/139387 | phone | +7 (495) 78-90-737 |
 | LO/ST PravdaLO/ST Pravda. Зал "s7 beige" | лофт | https://www.loft2rent.ru/loft/42981/42983 | phone | +79771743777 |
+| Lobacheva Project | ивент агентство | https://eventcatalog.ru/agency/lobacheva_project | phone | +7(926) 576-97-18 |
 | LOFT 15Белый лофт | лофт | https://www.loft2rent.ru/loft/106466/106900 | phone | 89852102473 |
 | LOFT 15Синий лофт | лофт | https://www.loft2rent.ru/loft/106466/106523 | phone | 89852102473 |
 | Loft 2&#039;25. Лофт со своей территорией | лофт | https://www.reveltime.ru/venue/317903?eventtype=vecherinka | phone | +79263872518 |
@@ -3686,8 +4585,11 @@
 | LOFTMSK \ | WILD WEST \ | ДИКИЙ ЗАПАД \ | Лофт с верандой и грилем \ | 5 минут от метро |
 | LOFTMSK \ | X13 \ | Двухуровневый Лофт со сценой \ | 5 минут от метро | лофт |
 | LoftTaboo | лофт | https://www.loft2rent.ru/loft/189235 | phone | +74953084959 |
+| Logos Group | ивент агентство | https://eventcatalog.ru/agency/logos_group | phone | +7(495)308-04-36 / +7(6__)___-__-__ |
+| Lollipop | ивент агентство | https://eventcatalog.ru/agency/lollipop | phone | +7(495)665-29-89 |
 | LONG HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | Look up Cafe&Shop | ресторан / бар | https://lookupcafe.ru/ | phone | +79037901898 |
+| Lookin Good | ивент агентство | https://eventcatalog.ru/agency/lookin_good | phone | +7(960)200-04-04 |
 | Loona | ресторан | https://loona.rest | email | info@pinskiy-concept.ru |
 | Loona | ресторан | https://loona.rest | phone | +7 (495) 150-91-00 |
 | Loona | ресторан | https://loona.rest | phone | +7 (916) 035-58-11 |
@@ -3696,11 +4598,17 @@
 | Loro | ресторан | https://www.loro.lucky-group.ru/ | phone | +74958189818 |
 | LOST GARDEN | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | LOTOS CONGRESS | лофт | https://www.loft2rent.ru/loft/47660 | phone | + 7 (985) 336-50-56 |
+| Louder | ивент агентство | https://eventcatalog.ru/agency/louder | phone | +7(495)644-29-24 |
 | Lounge | лофт | https://www.loft2rent.ru/loft/3318 | phone | +74952080038 |
 | Lounge зоны | лофт | https://www.loft2rent.ru/loft/86306 | phone | +74952042861 |
 | Lounge Лофт Молодежная 26 | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
 | Lounge-лофт | лофт | https://www.reveltime.ru/venue/3128153?eventtype=vecherinka | phone | +74991107697 |
+| Love Feelosophy | ивент агентство | https://eventcatalog.ru/agency/love_feelosophy | phone | +7(499)394-29-34 / +7(929)515-75-73 |
+| Love is Love | ивент агентство | https://eventcatalog.ru/agency/love_is_love | phone | +7(926) 333-10-10 |
+| Love Me | ивент агентство | https://eventcatalog.ru/agency/love_me | phone | +7(926)349-96-54 |
 | Lovely KitchenТворческая кухня | лофт | https://www.loft2rent.ru/loft/66088/66751 | phone | 89166150389 |
+| LSP Studio | ивент агентство | https://eventcatalog.ru/agency/lsp_studio | phone | +7(945) 210-68-82 / +7(916) 109-90-89 |
+| LT-Prime | ивент агентство | https://eventcatalog.ru/agency/lt-prime | phone | +7(911) 087-80-80 |
 | LUBWED | свадебное агентство | http://lubwed.ru | phone | +7 (916) 814-61-48 |
 | LUBWED | свадебное агентство | http://lubwed.ru | phone | phone |
 | LUBWED | свадебное агентство | http://lubwed.ru | social | https://instagram.com/lubwed?igshid=YmMyMTA2M2Y= |
@@ -3713,8 +4621,14 @@
 | LUBWED | свадебное агентство | http://lubwed.ru | phone | +7 (916) 814-62-48 |
 | LUBWED | свадебное агентство | http://lubwed.ru | social | https://t.me/Lubwedd?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Lubwed.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | LUBWED | свадебное агентство | http://lubwed.ru | social | https://www.instagram.com/lubwed |
+| Lucky | ивент агентство | https://eventcatalog.ru/agency/lucky | phone | +7(495)729-89-49 / +7(985)240-19-13 |
+| Lucky Box | ивент агентство | https://eventcatalog.ru/agency/lucky_box | phone | +7(925)098-04-07 |
+| Lucky Event | ивент агентство | https://eventcatalog.ru/agency/lucky_event | phone | +380(67)445-71-61 |
+| Lucky Event agency | ивент агентство | https://eventcatalog.ru/agency/lucky_event_agency | phone | +7(937)271-74-77 / +7(987)632-99-92 |
 | Lucky Izakaya Bar | ресторан | https://www.luckyizakaya.lucky-group.ru/ | phone | +74951897888 |
 | Lucky Space (Lucky Loft)Lucky Loft на Флаконе / Лаки Лофт | лофт | https://www.loft2rent.ru/loft/32704/83388 | phone | 89653090047 |
+| Lucky Star | ивент агентство | https://eventcatalog.ru/agency/lucky_star | phone | +7(343) 388-24-62 / +7(965) 503-38-56 |
+| LuckyMonday | ивент агентство | https://eventcatalog.ru/agency/luckymonday | phone | +7(495) 772-85-49 / +7(926) 264-11-37 |
 | Lui | ресторан | https://alfa.me/db1OAY | phone | +74957998794 |
 | Luis LoftБернулли | лофт | https://www.loft2rent.ru/loft/6753/6759 | phone | +79857736533 |
 | Luis LoftБозе | лофт | https://www.loft2rent.ru/loft/6753/6754 | phone | +79857736533 |
@@ -3723,11 +4637,21 @@
 | Luis LoftРэлей | лофт | https://www.loft2rent.ru/loft/6753/6757 | phone | +79857736533 |
 | Luis LoftТейлор | лофт | https://www.loft2rent.ru/loft/6753/6756 | phone | +79857736533 |
 | Luis LoftШредингер | лофт | https://www.loft2rent.ru/loft/6753/6755 | phone | +79857736533 |
+| Luiza Event | ивент агентство | https://eventcatalog.ru/agency/luiza_event | phone | +7(929)725-44-67 / +7(903)344-90-09 |
 | Lukoil Trading | нефтетрейдинг | https://www.lukoil.ru | social | http://vk.com/lukoil |
 | Lukoil Trading | нефтетрейдинг | https://www.lukoil.ru | social | https://t.me/lukoilofficial |
 | Lumen Fashion StudioLumen Moscow | лофт | https://www.loft2rent.ru/loft/143994/143996 | phone | +79857332203 |
 | Luna Loft - с вип балконом в арт пространстве и грилем | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Lux Wedding Studio | ивент агентство | https://lux-wedding.studio | phone | +7(926)254-64-08 |
+| luxe-event | ивент агентство | https://eventcatalog.ru/agency/luxe-event | phone | +7(495) 748-02-61 / +7(495) 740-68-02 |
+| LuxShow | ивент агентство | https://eventcatalog.ru/agency/luxshow | phone | +7(495) 721-52-47 |
 | Luxury air wooden apartments | лофт | https://www.loft2rent.ru/loft/19512 | phone | +79021444676 |
+| Luxury Event | ивент агентство | https://eventcatalog.ru/agency/luxury_event | phone | +7(495) 229-03-63 |
+| Luxury Events | ивент агентство | https://eventcatalog.ru/agency/luxury_events | phone | +7(495)972-66-22 |
+| Luxury Events Kiev | ивент агентство | https://eventcatalog.ru/agency/luxury_events_kiev | phone | +7(098) 612-13-52 |
+| Luxury Media Group | ивент агентство | https://eventcatalog.ru/agency/luxury_media_group | phone | +7(495)104-73-22 / +7(915)420-33-22 |
+| Luxury Spirit | ивент агентство | https://eventcatalog.ru/agency/luxury_spirit | phone | +7(967)235-04-74 / +380(67)121-14-71 |
+| LX Event | ивент агентство | https://eventcatalog.ru/agency/lx_event | phone | +7(916)301-74-47 |
 | Lyra Agency | event / creative agency | https://lyra-agency.ru | email | email |
 | Lyra Agency | event / creative agency | https://lyra-agency.ru | email | email |
 | Lyra Agency | event / creative agency | https://lyra-agency.ru | email | hr@lyra-agency.ru |
@@ -3740,6 +4664,13 @@
 | Lyra Agency | event / creative agency | https://lyra-agency.ru | social | social |
 | Lyra Agency | event / creative agency | https://lyra-agency.ru | social | social |
 | Lyra Agency | event / creative agency | https://lyra-agency.ru | social | social |
+| LyuMix | ивент агентство | https://eventcatalog.ru/agency/lyumix | phone | +7(960)244-14-28 |
+| M division | ивент агентство | https://eventcatalog.ru/agency/m_division | phone | +7(967)539-50-47 |
+| M&A | ивент агентство | https://eventcatalog.ru/agency/manda | phone | +7(977)113-25-15 / +7(925)941-30-01 |
+| M-ART Studio Records & Production Ltd | ивент агентство | https://eventcatalog.ru/agency/m-art_studio_records_and_production_ltd | phone | +7(798) 530-84-58 / +7(890) 326-76-41 |
+| M-Event | ивент агентство | https://eventcatalog.ru/agency/m-event | phone | +7(495) 972-74-45 / +7(905) 585-54-96 |
+| M.A.G.I. S.A.G.I. | ивент агентство | https://eventcatalog.ru/agency/m_a_g_i_s_a_g_i | phone | +7(968)867-65-65 / +7(499)755-53-67 |
+| M.A.K. Event | ивент агентство | https://eventcatalog.ru/agency/m_a_k_event | phone | +7(931)357-87-09 |
 | M2 EVENTS AGENCY | event-агентство | http://m2events.ru | email | email |
 | M2 EVENTS AGENCY | event-агентство | http://m2events.ru | email | m2.events.agency@yandex.ru |
 | M2 EVENTS AGENCY | event-агентство | http://m2events.ru | phone | +7 (969) 116-78-78 |
@@ -3757,6 +4688,7 @@
 | M2 EVENTS AGENCY | event-агентство | http://m2events.ru | phone | +7 (969) 116-78-78 |
 | M2 EVENTS AGENCY | event-агентство | http://m2events.ru | social | https://t.me/MariaM2events?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20M2%20EVENTS%20AGENCY.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | M2 EVENTS AGENCY | event-агентство | http://m2events.ru | social | https://www.instagram.com/m2_event_agency |
+| MACRO event | ивент агентство | https://eventcatalog.ru/agency/macro_event | phone | +7(495) 504-22-09 |
 | Madame RocheCABARET MUTANT | лофт | https://www.loft2rent.ru/loft/185309/185346 | phone | +7 (495) 019-01-11 |
 | Madame RocheLABORATORY | лофт | https://www.loft2rent.ru/loft/185309/185358 | phone | +7 (495) 019-01-11 |
 | Madame RocheВЕРАНДА | лофт | https://www.loft2rent.ru/loft/185309/185366 | phone | +7 (495) 019-01-11 |
@@ -3764,9 +4696,16 @@
 | Madstream Open Air | музыкальный фестиваль | https://madstreambooking.com | social | https://t.me/MadstreamBookingAgency |
 | Madstream Open Air | музыкальный фестиваль | https://madstreambooking.com | social | https://vk.ru/madstreambooking |
 | Mady Restaurant & Terrace | лофт | https://www.loft2rent.ru/loft/79893 | phone | +7 926 012 04 68 |
+| Maestro event | ивент агентство | https://eventcatalog.ru/agency/maestro_event | phone | +7(960)630-04-14 |
+| Magic Factory | ивент агентство | https://eventcatalog.ru/agency/magic_factory | phone | +7(38044) 466-25-23 |
+| Magic Holiday | ивент агентство | https://eventcatalog.ru/agency/magic_holiday | phone | +7(903)976-70-68 / +7(903)220-01-39 |
+| Magic Innovations | ивент агентство | https://eventcatalog.ru/agency/magic_innovations | phone | +7(063) 400-01-57 / +7(044) 360-80-36 |
 | Magic Time Loft | лофт | https://www.loft2rent.ru/loft/85740/85748 | phone | +79230000750 |
 | Magma лофт на Менделеевской с караоке и PS 5 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | 7 (499) 322-24-13 |
+| Magmer | ивент агентство | https://eventcatalog.ru/agency/magmer | phone | +7(985)987-99-69 |
+| Magnifique | ивент агентство | https://eventcatalog.ru/agency/magnifique | phone | +7(495) 223-06-56 / +7(495) 740-90-74 |
 | Magnum Wine Bar | бар | https://magnumwine.ru/ | phone | +74957758805 |
+| Mahagon | ивент агентство | https://eventcatalog.ru/agency/mahagon | phone | +7(812)988-50-04 |
 | Mail.ru Group (VK Tech) | IT / internet holding | https://vk.company | email | events@vk.company |
 | Mail.ru Group (VK Tech) | IT / internet holding | https://vk.company | email | ir@vk.company |
 | Mail.ru Group (VK Tech) | IT / internet holding | https://vk.company | email | legal_dep@vk.company |
@@ -3778,7 +4717,9 @@
 | Mail.ru Group (VK Tech) | IT / internet holding | https://vk.company | social | https://ok.ru/insidevk |
 | Mail.ru Group (VK Tech) | IT / internet holding | https://vk.company | social | https://t.me/inside_vk |
 | Mail.ru Group (VK Tech) | IT / internet holding | https://vk.company | social | https://vk.com/insidevk |
+| Main Event | ивент агентство | https://eventcatalog.ru/agency/main_event | phone | +7(812)467-32-22 |
 | Main&Dizzy двухкомнатный лофт в центре | лофт | https://www.loft2rent.ru/loft/136868 | phone | +79933450544 |
+| Mainstream | ивент агентство | https://eventcatalog.ru/agency/mainstream | phone | +7(812) 644-41-49 / +7(921) 551-79-69 |
 | Major Auto | автомобильный холдинг | https://www.major-auto.ru | phone | +7 (495) 025-02-36 |
 | Major Auto | автомобильный холдинг | https://www.major-auto.ru | phone | +7 (495) 025-02-81 |
 | Major Auto | автомобильный холдинг | https://www.major-auto.ru | phone | +7 (495) 025-10-10 |
@@ -3808,19 +4749,38 @@
 | Major Cargo Service | организация | https://www.mjcargo.ru | email | mzljiasheng1993@163.com |
 | Major Cargo Service | организация | https://www.mjcargo.ru | email | office@mjcargo.ru |
 | Major Cargo Service | организация | https://www.mjcargo.ru | social | https://www.youtube.com/@Manzhouli_Jiasheng |
+| Major-Event | ивент агентство | https://eventcatalog.ru/agency/major-event | phone | +7(495) 226-18-54 / +7(495) 231-91-47 |
+| Make a wish | ивент агентство | https://eventcatalog.ru/agency/make_a_wish | phone | +7(917)541-49-25 |
+| Make Your Film | ивент агентство | https://eventcatalog.ru/agency/make_your_film | phone | +7(499)393-34-14 |
+| Makrocompany | ивент агентство | https://eventcatalog.ru/agency/makrocompany | phone | +7(4012)35-45-29 / +7(911)451-39-39 |
+| Malbred Show group | ивент агентство | http://www.malbred.com | phone | +7(921)386-70-23 |
+| MalDiva Event | ивент агентство | https://eventcatalog.ru/agency/maldiva_event | phone | +7(495) 111-11-11 |
 | MaldivesInMoscowКриминальное чтиво. Pulp Fiction | лофт | https://www.loft2rent.ru/loft/152747/200473 | phone | +7 925 107 37 62 |
 | MaldivesInMoscowМексика. Лос-Кабос | лофт | https://www.loft2rent.ru/loft/152747/200803 | phone | +7 925 107 37 62 |
 | MaldivesInMoscowОстров "Бияду" | лофт | https://www.loft2rent.ru/loft/152747/200310 | phone | +7 925 107 3762 |
 | MaldivesInMoscowОстров "Камаду" | лофт | https://www.loft2rent.ru/loft/152747/200294 | phone | +7 925 107 3762 |
 | MaldivesInMoscowОстров "Лавиани" | лофт | https://www.loft2rent.ru/loft/152747/200250 | phone | +79251073762 |
 | MaldivesInMoscowОстров "Маалхос" | лофт | https://www.loft2rent.ru/loft/152747/200325 | phone | +7 925 107 37 62 |
+| Malina wedding | ивент агентство | https://eventcatalog.ru/agency/malina_wedding | phone | +7(981)153-24-60 |
 | Mama Tuta | ресторан | https://www.probka.org/restaurants/mama-tuta-patriatch | phone | +74993994090 |
 | Mamie | ресторан | https://mamie.lucky-group.rest/ | phone | +74951897878 |
+| Manfriday | ивент агентство | https://eventcatalog.ru/agency/manfriday | phone | +7(495) 961-28-64 |
+| Mango Party | ивент агентство | https://eventcatalog.ru/agency/mango_party | phone | +7(916) 151-01-02 / +7(925) 517-06-39 |
 | Mansarda на Сретенке | лофт | https://www.loft2rent.ru/loft/117522 | phone | 89257951550 |
 | MANUL | лофт | https://www.loft2rent.ru/loft/167727 | phone | 89031281317 |
+| MaP Group | ивент агентство | https://eventcatalog.ru/agency/map_group | phone | +7(727) 323-10-11 / +7(701) 599-93-61 |
+| Mariages d'Art | ивент агентство | https://eventcatalog.ru/agency/mariages_dart | phone | +33(784)550-446 |
 | Maritozzo | ресторан | https://probka.org/restaurants/maritozzo/ | phone | +74993995090 |
+| Mark Sol | ивент агентство | https://eventcatalog.ru/agency/mark_sol | phone | +7(925)730-80-92 / +7(495)532-66-15 |
+| MarketEmotion | ивент агентство | https://eventcatalog.ru/agency/marketemotion | phone | +7(495) 726-55-99 / +7(903) 165-77-00 |
+| Marketing Communications | ивент агентство | https://eventcatalog.ru/agency/marketing_communications | phone | +7(495) 661-55-99 |
+| Marketing Geek | ивент агентство | https://eventcatalog.ru/agency/marketing_geek | phone | +7(985)896-08-60 / +7(985)896-05-77 |
+| Marketing Solution Group | ивент агентство | https://eventcatalog.ru/agency/marketing_solution_group | phone | +7(812) 335-34-55 |
 | Markofken Art Gallery | лофт | https://www.loft2rent.ru/loft/95622/96173 | phone | +79657648282 |
+| Marmelad Event | ивент агентство | https://eventcatalog.ru/agency/marmelad_event | phone | +7(495)778-38-37 |
 | Marmo | ресторан | https://marmorest.ru/ | phone | +79250605015 |
+| Marry Me Agency | ивент агентство | https://eventcatalog.ru/agency/marry_me_agency | phone | +7(926)553-51-63 |
+| MarryMe | ивент агентство | https://eventcatalog.ru/agency/marryme | phone | +7(812) 642-65-63 / +7(812) 642-65-69 |
 | Mars Media Entertainment | кинокомпания | https://marsme.ru | email | mail@marsme.ru |
 | Mars Media Entertainment | кинокомпания | https://marsme.ru | email | o.semenova@marsme.ru |
 | Mars Media Entertainment | кинокомпания | https://marsme.ru | email | scripts@marsme.ru |
@@ -3844,8 +4804,15 @@
 | Mars Russia | FMCG компания | https://www.mars.com | social | https://www.linkedin.com/company/mars |
 | Mars Russia | FMCG компания | https://www.mars.com | social | https://www.linkedin.com/groups/86867 |
 | Mars Russia | FMCG компания | https://www.mars.com | social | https://www.youtube.com/user/Mars |
+| Martin | ивент агентство | https://eventcatalog.ru/agency/martin | phone | +7(926)395-85-12 |
+| Marvel | ивент агентство | https://eventcatalog.ru/agency/marvel | phone | +7(904)175-97-01 / +7(343)202-32-62 |
+| Mas-Show | ивент агентство | https://eventcatalog.ru/agency/mas-show | phone | +7(909) 708-73-08 |
 | Masa Madre | ресторан / бар | https://masamadre.ru | phone | +74956362981 |
 | Mason ST.ONE | лофт | https://www.loft2rent.ru/loft/200295/200346 | phone | +79253830802 |
+| MasterEvent | ивент агентство | https://eventcatalog.ru/agency/masterevent | phone | +7(495) 790-98-90 |
+| Matreshka Team | ивент агентство | https://eventcatalog.ru/agency/matreshka_team | phone | +7(967)245-79-21 |
+| Matreshkat | ивент агентство | https://eventcatalog.ru/agency/matreshkat | phone | +7(927) 892-31-63 / +7(917) 101-75-03 |
+| Max Event | ивент агентство | https://eventcatalog.ru/agency/max_event | phone | +7(918)577-11-44 / +7(863)311-12-33 |
 | Maxim Russia | мужской журнал | https://maximonline.ru | email | editors@maximonline.ru |
 | Maxim Russia | мужской журнал | https://maximonline.ru | email | maxim@maximonline.ru |
 | Maxim Russia | мужской журнал | https://maximonline.ru | social | https://ok.ru/maximofficial |
@@ -3872,14 +4839,18 @@
 | Maxima Park Equestrian Center | конный клуб | https://maximapark.ru | phone | +791500842438 |
 | Maxima Park Equestrian Center | конный клуб | https://maximapark.ru | social | https://t.me/maximaparkkompleks |
 | Maxima Park Equestrian Center | конный клуб | https://maximapark.ru | social | https://vk.com/maxima_park |
+| MaxiMax | ивент агентство | https://eventcatalog.ru/agency/maximax | phone | +7(904) 706-22-72 / +7(987) 835-24-83 |
 | Maximice | event / experiential marketing agency | https://maximice.ru | email | email |
 | Maximice | event / experiential marketing agency | https://maximice.ru | email | info@maximice.ru |
 | Maximice | event / experiential marketing agency | https://maximice.ru | phone | +7 (495) 739-33-58 |
 | Maximice | event / experiential marketing agency | https://maximice.ru | phone | phone |
 | Maximice | event / experiential marketing agency | https://maximice.ru | social | https://www.youtube.com/@MaxiMICEcompany |
 | Maximice | event / experiential marketing agency | https://maximice.ru | social | social |
+| MAXIMICE | ивент агентство | https://eventcatalog.ru/agency/maximice | phone | +7(495)739-33-58 |
 | Maximum Radio | радиостанция | https://maximum.ru | social | https://ok.ru/group/maximum |
 | Maximum Radio | радиостанция | https://maximum.ru | social | https://vk.com/radiomaximum |
+| MaxMedium | ивент агентство | https://eventcatalog.ru/agency/maxmedium | phone | +7(495)729-50-55 / +7(495)729-50-65 |
+| Maxmotion | ивент агентство | https://eventcatalog.ru/agency/maxmotion | phone | +7(391) 221 03 31 / +7(391) 214 79 89 |
 | Max’s Beef for Money | ресторан | https://www.facebook.com/maxsrestmoscow | phone | +79857660578 |
 | Media Direction Group (OMD) | медиабаинговое агентство | https://omd.ru | email | buying@group-omd.com |
 | Media Direction Group (OMD) | медиабаинговое агентство | https://omd.ru | email | newbiz@group.omd.ru |
@@ -3983,12 +4954,25 @@
 | Media Direction Group (OMD) | медиабаинговое агентство | https://omd.ru | social | https://www.youtube.com/watch?v=aiKT88i1Pno&feature=youtu.be |
 | Media Direction Group (OMD) | медиабаинговое агентство | https://omd.ru | social | https://www.youtube.com/watch?v=i55xwt_hp8I&app=desktop |
 | Media Direction Group (OMD) | медиабаинговое агентство | https://omd.ru | social | https://youtu.be/xDZ7hb75iyM |
+| Media Price | ивент агентство | https://eventcatalog.ru/agency/media_price | phone | +7(911)793-29-33 |
+| Media Кухня | ивент агентство | https://eventcatalog.ru/agency/media_kuhnya | phone | +7(4872) 70-00-54 / +7(910) 558-44-44 |
+| MediaEvent | ивент агентство | http://mediaevent.ru | phone | +7(495)744-35-14 / +7(967)168-23-23 |
+| Median | ивент агентство | https://eventcatalog.ru/agency/median | phone | +7(862)296-50-90 / +7(918)917-77-22 |
 | MEDIAPORT | лофт | https://www.loft2rent.ru/loft/121847/122273 | phone | 89872087380 |
+| MediaPRoject Agency | ивент агентство | https://eventcatalog.ru/agency/mediaproject_agency | phone | +7(495) 730-74-48 |
+| MediaЛюди | ивент агентство | https://eventcatalog.ru/agency/medialyudi | phone | +7(921) 392-92-85 |
+| MedЕvents | ивент агентство | https://eventcatalog.ru/agency/medevents | phone | +7(495) 723-16-19 |
+| Meedlook Model Management | ивент агентство | https://eventcatalog.ru/agency/meedlook_model_management | phone | +7(909)979-28-58 |
 | MeettroomЗал «Лондон» | лофт | https://www.loft2rent.ru/loft/51193/51220 | phone | +74957257987 |
 | MeettroomЗал «Лос Анджелес» | лофт | https://www.loft2rent.ru/loft/51193/51216 | phone | +74957257987 |
 | MeettroomЗал «Нью Йорк» | лофт | https://www.loft2rent.ru/loft/51193/51212 | phone | +74957257987 |
 | MeettroomЗал «Париж» | лофт | https://www.loft2rent.ru/loft/51193/51230 | phone | +74957257987 |
 | MeettroomЗал «Рим» | лофт | https://www.loft2rent.ru/loft/51193/51224 | phone | +74957257987 |
+| Mega Party Show | ивент агентство | https://eventcatalog.ru/agency/mega_party_show | phone | +7(495) 730-29-42 / +7(926) 019-84-76 |
+| Megapolis Event | ивент агентство | https://eventcatalog.ru/agency/megapolis_event | phone | +7(495) 504-86-28 |
+| Megapolis Moskva | ивент агентство | https://eventcatalog.ru/agency/megapolis_moskva | phone | +7(495) 767-26-97 / +7(985) 767-26-97 |
+| MEGATeams | ивент агентство | https://eventcatalog.ru/agency/megateams | phone | +7(495) 221-22-64 / +7(495) 740-34-17 |
+| MelLuna | ивент агентство | https://eventcatalog.ru/agency/melluna | phone | +7(977)607-78-00 |
 | Melnista Concert Agency | концертное агентство | https://melnitsa.org | social | https://www.facebook.com/melnitsa.org |
 | Melnista Concert Agency | концертное агентство | https://melnitsa.org | social | https://www.instagram.com/ca_melnitsa_kyiv |
 | Melnista Concert Agency | концертное агентство | https://melnitsa.org | social | https://www.youtube.com/channel/UCPUvCAnJrNdfl8cQm4huExw |
@@ -4011,8 +4995,12 @@
 | Mendeleev | бар | https://mendeleev.bar/ | phone | +74952233850 |
 | Mendeleev Bar | бар | https://mendeleev.bar | phone | +7 (495) 223-38-50 |
 | Mendeleev Bar | бар | https://mendeleev.bar | social | https://www.instagram.com/mendeleev.msk |
+| Mendelson | ивент агентство | https://eventcatalog.ru/agency/mendelson | phone | +7(925)886-22-79 |
 | Mercury Space | event space | https://mercury-space.ru | email | events@mercury-space.ru |
 | Mercury Space | event space | https://mercury-space.ru | phone | +7 (495) 651-65-10 |
+| Merry moon | ивент агентство | https://eventcatalog.ru/agency/merry_moon | phone | +7(985)765-85-38 |
+| Merry-go-round | ивент агентство | https://eventcatalog.ru/agency/merry-go-round | phone | +7(495) 997-32-39 |
+| Merry-Go-Round MC | ивент агентство | https://eventcatalog.ru/agency/merry-go-round_mc | phone | +7(495) 997-32-39 |
 | METALLIC - металлический лофт с яркими акцентами, 8 минут от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
 | Metrafilms | кинокомпания | https://metrafilms.ru | email | production@metrafilms.ru |
 | Metrafilms | кинокомпания | https://metrafilms.ru | email | veronika@metrafilms.ru |
@@ -4246,19 +5234,40 @@
 | Metropol Restaurant | ресторан | https://metropol-moscow.ru | email | special-offers@2x.webp |
 | Metropol Restaurant | ресторан | https://metropol-moscow.ru | phone | +7 (495) 266-01-64 |
 | Metropol Restaurant | ресторан | https://metropol-moscow.ru | phone | +7 (495) 432-65-49 |
+| MG Event | ивент агентство | https://eventcatalog.ru/agency/mg_event | phone | +7 (926) 554-73-95 |
 | MGCom | digital-агентство | https://mgcom.ru | email | mgcom@mgcom.ru |
 | MGCom | digital-агентство | https://mgcom.ru | social | https://t.me/mgcom360 |
+| MGM Event | ивент агентство | https://eventcatalog.ru/agency/mgm_event | phone | +7(965)300-30-59 / +7(965)300-30-67 |
+| MiA Event | ивент агентство | https://eventcatalog.ru/agency/mia_event | phone | +7(495) 506-87-80 / +7(495) 258-02-84 |
+| MICE Advice | ивент агентство | https://eventcatalog.ru/agency/mice_advice | phone | +994-55-795-00-07 |
+| Mice Direction | ивент агентство | https://eventcatalog.ru/agency/mice_direction | phone | +7(495)648-65-56 / +7(980)756-38-90 |
+| MICE Experts | ивент агентство | https://eventcatalog.ru/agency/mice_experts | phone | +7(495)424-98-39 |
+| Mice Master Agency | ивент агентство | https://eventcatalog.ru/agency/mice_master_agency | phone | +7(952) 944-59-98 / +7(923) 243-64-27 |
+| Mice.az | ивент агентство | https://eventcatalog.ru/agency/mice_az | phone | +994-50-315-55-95 / +994-12-437-90-90 |
+| MiceGroup | ивент агентство | https://eventcatalog.ru/agency/micegroup | phone | +7(499)322-37-89 / +7(495)730-23-65 |
+| Miceversa | ивент агентство | https://eventcatalog.ru/agency/miceversa | phone | +7(499)288-21-18 / +7(964)718-55-50 |
 | Microsoft Russia | технологическая компания | https://www.microsoft.com | social | https://www.instagram.com/msftissues |
 | Microsoft Russia | технологическая компания | https://www.microsoft.com | social | https://www.linkedin.com/showcase/microsoft-on-the-issues |
 | Microsoft Russia | технологическая компания | https://www.microsoft.com | social | https://x.com/msftissues |
+| Midas | ивент агентство | https://eventcatalog.ru/agency/midas | phone | +7(495) 780-97-03 / +7(495) 517-77-02 |
 | Midnight Cocktail Club Midnight Cocktail Club | лофт | https://www.loft2rent.ru/loft/157541/157544 | phone | +79312377218 |
+| MilaGrass | ивент агентство | https://eventcatalog.ru/agency/milagrass | phone | +7(495) 643-00-59 / +7(495) 580-40-95 |
+| Milagro Events | ивент агентство | https://eventcatalog.ru/agency/milagro_events | phone | +7(242) 311-14-45 |
+| Milana Wedding | ивент агентство | https://eventcatalog.ru/agency/milana_wedding | phone | +7(917) 790-74-45 |
+| Mimur | ивент агентство | https://eventcatalog.ru/agency/mimur | phone | +7(863) 246-34-57 / +7(909) 404-41-54 |
 | Mina | ресторан | https://probka.org/restaurants/mina-msk/ | phone | +74993905090 |
+| Mio Matryosh | ивент агентство | https://eventcatalog.ru/agency/mio_matryosh | phone | +7(863) 226-56-05 / +7(928) 166-44-66 |
 | MIR EVENTANIMA Event / Анима Лофт | лофт | https://www.loft2rent.ru/loft/41580/89646 | phone | 7 985 738-18-15 |
 | MIR EVENTBIZI Event / Бизи Лофт | лофт | https://www.loft2rent.ru/loft/41580/43553 | phone | +79857381815 |
 | MIR EVENTIZI Event / Изи Лофт | лофт | https://www.loft2rent.ru/loft/41580/41582 | phone | +79857381815 |
 | MIR EVENTPIPL Event / Пипл Лофт | лофт | https://www.loft2rent.ru/loft/41580/85410 | phone | 9857381815 |
 | MIR EVENTPUSH / Пуш Лофт | лофт | https://www.loft2rent.ru/loft/41580/210196 | phone | +79168840690 |
 | MIR EVENTVIBE Event / Вайб Лофт | лофт | https://www.loft2rent.ru/loft/41580/147635 | phone | +7 985 738 18 15 |
+| Mira Family | ивент агентство | https://eventcatalog.ru/agency/mira_family | phone | +7(968)666-10-99 / +7(968)660-56-04 |
+| Miracle inc. | ивент агентство | https://eventcatalog.ru/agency/miracle_inc | phone | +7(927) 207-18-29 / +7(927) 201-18-93 |
+| Miracle Weddings | ивент агентство | https://eventcatalog.ru/agency/miracle_weddings | phone | +39(333)900-67-03 |
+| Miram Group | ивент агентство | https://eventcatalog.ru/agency/miram_group | phone | +7(499)997-93-34 |
+| Mirans group | ивент агентство | https://eventcatalog.ru/agency/mirans_group | phone | +7(903)508-39-95 |
 | Miratorg | агрохолдинг | https://www.miratorg.ru | email | a.s.anciferov@agrohold.ru |
 | Miratorg | агрохолдинг | https://www.miratorg.ru | email | d.trifonov@agrohold.ru |
 | Miratorg | агрохолдинг | https://www.miratorg.ru | email | export@agrohold.ru |
@@ -4287,6 +5296,7 @@
 | Miratorg | агрохолдинг | https://www.miratorg.ru | social | https://t.me/miratorg_official |
 | Miratorg | агрохолдинг | https://www.miratorg.ru | social | https://vk.com/miratorgru |
 | Miratorg | агрохолдинг | https://www.miratorg.ru | social | https://www.youtube.com/c/MiratorgChannel |
+| Mironov Entertainment | ивент агентство | https://eventcatalog.ru/agency/mironov_entertainment | phone | +7(701) 396-92-25 / +7(701) 270-00-86 |
 | MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | email | email |
 | MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | email | info@mironovawedding.ru |
 | MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | phone | +7 (495) 181-00-41 |
@@ -4300,7 +5310,18 @@
 | MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | phone | +7 (968) 895-22-03 |
 | MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | https://t.me/mironovawedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Mironova%20Wedding.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | MIRONOVA WEDDING | свадебное агентство | http://mironovawedding.ru | social | https://www.instagram.com/mironovawedding |
+| Misdirection | ивент агентство | https://eventcatalog.ru/agency/misdirection | phone | +7(495) 641-67-28 / +7(925) 129-41-61 |
+| Miss Holiday | ивент агентство | https://eventcatalog.ru/agency/miss_holiday | phone | +7(931)201-83-46 |
+| Mister ideas | ивент агентство | https://eventcatalog.ru/agency/mister_ideas | phone | +7(495)514-46-36 / +7(926)232-21-23 |
+| Mister Show | ивент агентство | https://eventcatalog.ru/agency/mister_show | phone | +7(911) 307-63-70 / +7(8152) 75-08-11 |
 | Misty Kids Club | лофт | https://www.loft2rent.ru/loft/186700/186706 | phone | +7 925 416 99 04 |
+| Mix Bali Events | ивент агентство | https://eventcatalog.ru/agency/mix_bali_events | phone | +62-03-619-2214 |
+| Mix Event | ивент агентство | https://eventcatalog.ru/agency/mix_event | phone | +7(495) 645-19-42 / +7(495) 953-23-84 |
+| MKPR | ивент агентство | https://eventcatalog.ru/agency/mkpr | phone | +7(926)593-82-37 |
+| ML Group | ивент агентство | https://eventcatalog.ru/agency/ml_group | phone | +7(044) 599-93-33 / +7(067) 755-50-55 |
+| MLS Entertainment | ивент агентство | https://eventcatalog.ru/agency/mls_entertainment | phone | +7(987)296-48-28 / +7(843)527-96-10 |
+| Models Production | ивент агентство | https://eventcatalog.ru/agency/models_production | phone | +7(727) 263-63-37 / +7(727) 263-44-88 |
+| Modern Event Group | ивент агентство | https://eventcatalog.ru/agency/modern_event_group | phone | +7(495) 649-42-39 / +7(985) 964-93-38 |
 | Modus | ресторан | https://modus.moscow | email | artpromomodus@gmail.com |
 | Modus | ресторан | https://modus.moscow | email | info@modusevent.ru |
 | Modus | ресторан | https://modus.moscow | phone | +7 (495) 221-10-23 |
@@ -4314,9 +5335,11 @@
 | MOJO | event / creative agency | https://top100awards.ru/mojo | social | https://www.instagram.com/mojo_wed |
 | Molecule loft (Молекула лофт) | лофт | https://www.reveltime.ru/venue/7108886?eventtype=vecherinka | phone | +79584974064 |
 | Molecule loft (Молекула лофт). Современный лофт-зал для различных событий | лофт | https://www.reveltime.ru/venue/7341371?eventtype=vecherinka | phone | +79584974206 |
+| Moliere | ивент агентство | https://eventcatalog.ru/agency/moliere | phone | +7(495) 772-42-99 / +7(499) 728-57-67 |
 | MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | phone | +7 (916) 271-47-37 |
 | MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | social | https://t.me/carolinamalinskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Molly.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | MOLLY EVENT 2.0 | event-агентство | https://top100awards.ru/molly-event-2-0 | social | https://www.instagram.com/molly.event2.0_ |
+| Moloshnikov | ивент агентство | https://eventcatalog.ru/agency/moloshnikov | phone | +7(495)505-10-17 / +7(985)226-14-18 |
 | MOMENT — большой зал для масштабных праздников, банкетов и событий | лофт | https://www.loft2rent.ru/loft/151727 | phone | +7 (903) 195-93-49 |
 | MOMENTO | event-агентство | http://www.momento-event.ru | email | email |
 | MOMENTO | event-агентство | http://www.momento-event.ru | email | email |
@@ -4340,12 +5363,21 @@
 | MOMENTO | event-агентство | http://www.momento-event.ru | phone | +7 (916) 216-52-67 |
 | MOMENTO | event-агентство | http://www.momento-event.ru | social | https://t.me/zavialovamarina?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Momento.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | MOMENTO | event-агентство | http://www.momento-event.ru | social | https://www.instagram.com/momento.event |
+| Moments | ивент агентство | https://eventcatalog.ru/agency/moments | phone | +7(926)232-85-33 |
+| Mon Amour mariage&voyage | ивент агентство | https://eventcatalog.ru/agency/mon_amour_mariageandvoyage | phone | +7(926)339-50-60 |
+| Mon Plaisir | ивент агентство | https://eventcatalog.ru/agency/mon_plaisir | phone | +7(812)921-28-99 МТС / +793-828-92 Мегафон |
 | MONDRIAN | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
+| MoneyShow-Event | ивент агентство | https://eventcatalog.ru/agency/moneyshow-event | phone | +7(499) 714-65-55 / +7(929) 635-39-37 |
 | MONTBLANC HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
+| Monte Kristo | ивент агентство | https://eventcatalog.ru/agency/monte_kristo | phone | +7(8452) 77-69-66 / +7(8452) 93-88-80 |
 | Moon Loft на Бауманской с караоке и PS 4 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-53-72 |
 | Moonlight Lounge | лофт | https://www.loft2rent.ru/loft/106129/106135 | phone | +7(999)938-56-63 |
+| More | ивент агентство | https://eventcatalog.ru/agency/more | phone | +7(4012)39-83-13 / +7(906)219-13-13 |
 | More Loft | лофт | https://www.loft2rent.ru/loft/74440 | phone | +79956228279 |
+| More!Group | ивент агентство | https://eventcatalog.ru/agency/moregroup | phone | +7(812)612-11-16 |
 | MORRISON | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
+| Mos-event | ивент агентство | https://eventcatalog.ru/agency/mos-event | phone | +7(495) 543-56-47 / +7(925) 543-56-46 |
+| Mosaction | ивент агентство | https://eventcatalog.ru/agency/mosaction | phone | +7(964)536-26-62 / +7(977)575-41-88 |
 | Moscow Business Club | бизнес-клуб | https://mbclub.ru | email | info@mbclub.ru |
 | Moscow Business Club | бизнес-клуб | https://mbclub.ru | social | https://api.whatsapp.com/send?text={title} {url} |
 | Moscow Business Club | бизнес-клуб | https://mbclub.ru | social | https://t.me/mbclubrus |
@@ -4378,6 +5410,7 @@
 | Moscow Country Club | гольф-клуб / resort | https://www.mccgolf.ru | email | reception@mcc.updk.ru |
 | Moscow Country Club | гольф-клуб / resort | https://www.mccgolf.ru | phone | +7 (495) 626-59-10 |
 | Moscow Country Club | гольф-клуб / resort | https://www.mccgolf.ru | phone | +749562520202 |
+| Moscow Event | ивент агентство | https://eventcatalog.ru/agency/moscow_event | phone | +7(495)481-22-33 / +7(929)621-10-40 |
 | Moscow Innovation Cluster | инновационный кластер | https://i.moscow | email | imoscow@cluster.mos.ru |
 | Moscow Innovation Cluster | инновационный кластер | https://i.moscow | email | micpress@cluster.mos.ru |
 | Moscow Innovation Cluster | инновационный кластер | https://i.moscow | email | support@i.moscow |
@@ -4388,6 +5421,7 @@
 | Moscow Innovation Cluster | инновационный кластер | https://i.moscow | social | https://t.me/share/url?url=http%3A%2F%2Fi.moscow%2Fcontacts |
 | Moscow Innovation Cluster | инновационный кластер | https://i.moscow | social | https://vk.com/innocluster |
 | Moscow Innovation Cluster | инновационный кластер | https://i.moscow | social | https://vk.com/share.php?url=http%3A%2F%2Fi.moscow%2Fcontacts |
+| Moscow Party Makers | ивент агентство | https://eventcatalog.ru/agency/moscow_party_makers | phone | +7(901)747-43-22 |
 | Moscow School of Management Skolkovo | бизнес-школа | https://skolkovo.ru | email | alexey_ulanovsky@skolkovo.ru |
 | Moscow School of Management Skolkovo | бизнес-школа | https://skolkovo.ru | email | anastasiya_opanasenko@skolkovo.ru |
 | Moscow School of Management Skolkovo | бизнес-школа | https://skolkovo.ru | email | anastasiya_ozerova@skolkovo.ru |
@@ -4427,6 +5461,7 @@
 | Moscow School of Management Skolkovo | бизнес-школа | https://skolkovo.ru | social | https://www.youtube.com/user/skolkovoschool |
 | Moscow Urban Forum Org | урбанистический форум | https://mosurbanforum.ru | social | https://vk.com/moscow2030 |
 | Moscow Urban Forum Org | урбанистический форум | https://mosurbanforum.ru | social | social |
+| Mosevent | ивент агентство | https://eventcatalog.ru/agency/mosevent | phone | +7(495)988-42-12 / +7(495)988-42-14 |
 | Mosfilm | киностудия | https://mosfilm.ru | social | https://dzen.ru/mosfilm |
 | Mosfilm | киностудия | https://mosfilm.ru | social | https://ok.ru/profile/595069262129 |
 | Mosfilm | киностудия | https://mosfilm.ru | social | https://t.me/mosfilm_official |
@@ -4453,15 +5488,26 @@
 | Moskvichi Event Agency | event-агентство | https://moskvichi.agency | email | email |
 | Moskvichi Event Agency | event-агентство | https://moskvichi.agency | email | m%65ss%61%67e@mosk%76%69chi.ag%65%6ec%79 |
 | Moskvichi Event Agency | event-агентство | https://moskvichi.agency | email | message@moskvichi.agency |
+| Most event | ивент агентство | https://eventcatalog.ru/agency/most_event | phone | +7(863) 221-84-09 |
 | Mousse Loft - с верандой на крыше в центре Москвы | лофт | https://www.loft2rent.ru/loft/1821 | phone | +74998881829 |
+| Move | ивент агентство | https://eventcatalog.ru/agency/move | phone | +7(843)253-87-07 |
+| Move Agency | ивент агентство | https://eventcatalog.ru/agency/move_agency | phone | +7(843)211-07-77 |
+| Move Agency Челны | ивент агентство | https://eventcatalog.ru/agency/move_agency_chelny | phone | +7(965)600-02-10 |
+| Mozaika | ивент агентство | https://eventcatalog.ru/agency/mozaika | phone | +7(343) 206-90-00 / +7(343) 207-90-00 |
 | MPSELLERSКонференц зал MPS | лофт | https://www.loft2rent.ru/loft/176710/176713 | phone | 89856265900 |
 | MPSELLERSПереговорная комната | лофт | https://www.loft2rent.ru/loft/176710/176723 | phone | 89856265900 |
 | MPSELLERSПереговорная комната | лофт | https://www.loft2rent.ru/loft/176710/176724 | phone | 89856265900 |
+| Mr-joy | ивент агентство | https://eventcatalog.ru/agency/mr-joy | phone | +7(343)339-46-86 |
 | Mr. Lee | ресторан | https://mrlee.ru | email | info@mrlee.ru |
 | Mr. Lee | ресторан | https://mrlee.ru | phone | +7 (495) 730-66-63 |
 | Mr. Lee | ресторан | https://mrlee.ru | social | https://t.me/mrleerestaurant |
 | Mr. Lee | ресторан | https://mrlee.ru | social | https://vk.com/mr_leemoscow |
 | Mr. Lee | ресторан | https://mrlee.ru/ | phone | +74957306663 |
+| Mr.Wolfe | ивент агентство | https://eventcatalog.ru/agency/mr_wolfe | phone | +7(916)634-57-72 / +7(906)066-07-47 |
+| MS | ивент агентство | https://eventcatalog.ru/agency/ms | phone | +7(499)397-77-32 |
+| MS Event | ивент агентство | https://eventcatalog.ru/agency/ms_event | phone | +7(812)985-56-85 |
+| MS Group | ивент агентство | https://eventcatalog.ru/agency/ms_group | phone | +7(495)221-21-48 / +7(495)543-53-70 |
+| MSG | ивент агентство | https://eventcatalog.ru/agency/msg | phone | +7(928)294-68-23 |
 | MTS Live | entertainment platform | https://live.mts.ru | email | email |
 | MTS Live | entertainment platform | https://live.mts.ru | email | support@ticketland.ru |
 | MTS Live | entertainment platform | https://live.mts.ru | phone | +7 (800) 250-20-86 |
@@ -4472,9 +5518,13 @@
 | MTS Live | entertainment platform | https://live.mts.ru | social | social |
 | Multiloft на Люсиновской | лофт | https://www.loft2rent.ru/loft/135091 | phone | 89958867517 |
 | Multiroom. Лофт-студия | лофт | https://www.reveltime.ru/venue/746367?eventtype=vecherinka | phone | +79584974039 |
+| Multiway | ивент агентство | https://eventcatalog.ru/agency/multiway | phone | +7(495) 916-76-67 |
 | Muse | ресторан | https://alfa.me/db1OAY | phone | +79672709372 |
 | Mushrooms | ресторан | https://mushroomsmoscow.ru/ru/ | phone | +74957252578 |
+| Music City | ивент агентство | https://eventcatalog.ru/agency/music_city | phone | +7(495) 940-64-34 |
 | Music Loft | лофт | https://www.loft2rent.ru/loft/45889 | phone | +79959001274 |
+| Music to you | ивент агентство | https://eventcatalog.ru/agency/music_to_you | phone | +7(925)562-89-63 |
+| Music4Event | ивент агентство | https://eventcatalog.ru/agency/music4event | phone | +7(916) 388-73-50 / +7(909) 972-73-18 |
 | MusicStudio LoftLoft MusicStudio | лофт | https://www.loft2rent.ru/loft/37300/37302 | phone | +7-916-283-61-11 |
 | Mutabor / ARMA events ecosystem | комьюнити | https://mutabor.club | social | https://t.me/armaseventeen |
 | Mutabor / ARMA events ecosystem | комьюнити | https://mutabor.club | social | https://vk.com/armaseventeen |
@@ -4485,10 +5535,17 @@
 | Mutabor Events | event ecosystem | https://mutabor.club | social | social |
 | Mutabor Events | event ecosystem | https://mutabor.club | social | social |
 | Mutabor Events | event ecosystem | https://mutabor.club | social | social |
+| MV Event | ивент агентство | https://eventcatalog.ru/agency/mv_event | phone | +7(999)158-53-50 |
+| MV Production | ивент агентство | https://eventcatalog.ru/agency/mv_production | phone | +7(812)612-47-24 |
+| My event partners | ивент агентство | https://eventcatalog.ru/agency/my_event_partners | phone | +7(925)229-42-26 / +7(925)702-03-74 |
+| My event studio | ивент агентство | https://eventcatalog.ru/agency/my_event_studio | phone | +7(916)530-49-33 |
 | My Hygge Place ЛофтMy Hygge Place, Элитный Лофт на Тульской | лофт | https://www.loft2rent.ru/loft/173968/173970 | phone | +7 958 578-01-17 |
 | My loft | лофт | https://www.loft2rent.ru/loft/155584/155586 | phone | 89160206344 |
 | MY STORY | лофт | https://www.loft2rent.ru/loft/91500/91504 | phone | 89015204077 |
+| My White Label | ивент агентство | https://eventcatalog.ru/agency/my_white_label | phone | +7(812)372-68-82 / +7(904)339-70-00 |
 | Myata Platinum Менделеевская | лофт | https://www.loft2rent.ru/loft/197737/197746 | phone | 89165900222 |
+| MyRange | ивент агентство | https://eventcatalog.ru/agency/myrange | phone | +7(926) 163-25-46 / +7(495) 624-41-43 |
+| Mystery Wedding | ивент агентство | https://eventcatalog.ru/agency/mystery_wedding | phone | +7(921)413-29-99 / +357-96-446-794 |
 | N1 Event | event-агентство | https://n1event.ru | email | email |
 | N1 Event | event-агентство | https://n1event.ru | email | info@n1event.ru |
 | N1 Event | event-агентство | https://n1event.ru | phone | +7 (927) 711-11-10 |
@@ -4500,6 +5557,7 @@
 | N1 Event | event-агентство | https://n1event.ru | social | social |
 | N1 Event | event-агентство | https://n1event.ru | social | social |
 | Na Palm (Напалм) . Тропический лофт с играми | лофт | https://www.reveltime.ru/venue/8860096?eventtype=vecherinka | phone | +79346644195 |
+| NakedStyle | ивент агентство | https://eventcatalog.ru/agency/nakedstyle | phone | +7(499)390-46-65 |
 | Nashe Radio | радиостанция | https://nashe.ru | email | copyright@multimediaholding.ru |
 | Nashe Radio | радиостанция | https://nashe.ru | social | http://vk.com/nashe |
 | Nashe Radio | радиостанция | https://nashe.ru | social | https://dzen.ru/nashe.ru |
@@ -4517,11 +5575,13 @@
 | Nashe Radio | радиостанция | https://nashe.ru | social | https://vk.com/wall-28866484_2935736 |
 | Nashe Radio | радиостанция | https://nashe.ru | social | https://www.youtube.com/channel/UC7EnVVhlxXtXHQxdkQEpvCw?sub_confirmation=1 |
 | National Media Group assets | организация | https://www.nmg.ru | email | designstudio@ctcmedia.ru |
+| National Pro | ивент агентство | https://eventcatalog.ru/agency/national_pro | phone | +7(499) 235-29-68 / +7(499) 235-05-50 |
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | email | email |
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | email | info@navigatorrecords.ru |
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | social | https://vk.com/ntv_kvartirnik |
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | social | https://vk.com/vkmusic |
 | Navigator Records | музыкальный лейбл | https://navigatorrecords.ru | social | social |
+| Navigator Records | ивент агентство | https://eventcatalog.ru/agency/navigator_records | phone | +7(495) 748-17-49 |
 | Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | concert@neborecords.ru |
 | Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | dasha@neborecords.ru |
 | Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | email | email |
@@ -4538,26 +5598,47 @@
 | Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | social |
 | Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | social |
 | Nebo Records | музыкальный лейбл / entertainment | https://neborecords.ru | social | social |
+| Nectar music | ивент агентство | https://eventcatalog.ru/agency/nectar_music | phone | +7(495) 969-32-88 / +7(495) 251-66-45 |
 | Neon space loft | лофт | https://www.loft2rent.ru/loft/122092 | phone | +79651468019 |
 | NeonLoft | лофт | https://www.loft2rent.ru/loft/179457 | phone | +79268244318 |
+| NEOбычные праздники | ивент агентство | https://eventcatalog.ru/agency/neobychnye_prazdniki | phone | +7(921) 937-41-00 |
+| NEOпраздник | ивент агентство | https://eventcatalog.ru/agency/neoprazdnik | phone | +7(495)657-95-04 |
 | Nestlé Russia | FMCG компания | https://www.nestle.ru | social | https://vk.com/nestlerussia |
+| Neva Event | ивент агентство | https://eventcatalog.ru/agency/neva_event | phone | +7(906) 263-66-37 / +7(921) 599-43-24 |
+| Neva Show | ивент агентство | https://eventcatalog.ru/agency/neva_show | phone | +7(812)330-55-00 |
 | Neva Towers Event | event space | https://nevatowers.ru | email | neva.desk@desnadev.com |
 | Neva Towers Event | event space | https://nevatowers.ru | email | neva.retail@desnadev.com |
 | Neva Towers Event | event space | https://nevatowers.ru | phone | +7 (495) 085-17-46 |
 | Neva Towers Event | event space | https://nevatowers.ru | phone | +7 (495) 787-24-24 |
 | Neva Towers Event | event space | https://nevatowers.ru | phone | +7 (499) 300-03-03 |
+| Never Sleep | ивент агентство | https://eventcatalog.ru/agency/never_sleep | phone | +7(495)212-13-33 |
 | New Holland Loft | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
+| New Look Models | ивент агентство | https://eventcatalog.ru/agency/new_look_models | phone | +7(831) 415-33-96 |
+| New Promo Group | ивент агентство | https://eventcatalog.ru/agency/new_promo_group | phone | +7(922)242-73-80 |
+| New sintez project | ивент агентство | https://eventcatalog.ru/agency/new_sintez_project | phone | +7(495)500-74-07 / +7(495)500-98-66 |
 | New York | лофт | https://www.loft2rent.ru/loft/125195 | phone | +79990071109 |
+| NewLineVision | ивент агентство | https://eventcatalog.ru/agency/newlinevision | phone | +7(495) 506-53-62 / +7(926) 107-41-32 |
+| NewPeople for Event | ивент агентство | https://eventcatalog.ru/agency/newpeople_for_event | phone | +7(050) 444-74-84 / +7(044) 428-55-89 |
+| Newrange | ивент агентство | https://eventcatalog.ru/agency/newrange | phone | +7(905) 553-26-68 |
+| Newton Event Group | ивент агентство | https://eventcatalog.ru/agency/newton_event_group | phone | +7(495) 970-33-74 |
+| NEXT Advertising | ивент агентство | https://eventcatalog.ru/agency/next_advertising | phone | +7(495) 648-78-96 / +7(926) 187-22-00 |
+| Nice Event | ивент агентство | https://eventcatalog.ru/agency/nice_event | phone | +33(607)799-308 |
 | Nice LoftNice Loft площадка для любых мероприятий | лофт | https://www.loft2rent.ru/loft/2576/3747 | phone | +79166753770 |
 | Nice LoftNiceLoft Коворкинг/ Переговорная/ Консультационная | лофт | https://www.loft2rent.ru/loft/2576/18687 | phone | +79166753770 |
+| Nice MICE Portugal | ивент агентство | https://eventcatalog.ru/agency/nice_mice_portugal | phone | +7(985)111-18-13 / +351-91-923-2202 |
+| Nice Moment | ивент агентство | https://www.nicemomentevent.ru | phone | +7(993)078-21-08 |
 | Night LiveBalzi Rossi | лофт | https://www.loft2rent.ru/loft/172993/184298 | phone | +7 909 916-06-25 |
 | Night LiveКлуб Cub Msk | лофт | https://www.loft2rent.ru/loft/172993/173247 | phone | +7 909 916-06-25 |
 | Night LiveКлуб Jungle Mockow | лофт | https://www.loft2rent.ru/loft/172993/173246 | phone | +7 909 916-06-25 |
 | Night LiveКлуб Ravers | лофт | https://www.loft2rent.ru/loft/172993/178004 | phone | +7 909 916-06-25 |
 | Night LiveЛофт Vintage Измайлово | лофт | https://www.loft2rent.ru/loft/172993/177883 | phone | +7 909 916-06-25 |
+| Night People | ивент агентство | https://eventcatalog.ru/agency/night_people | phone | +38 (095) 845-41-8 / +38 (067) 707-44-9 |
+| Night Street | ивент агентство | https://eventcatalog.ru/agency/night_street | phone | +7(499)390-00-70 |
 | Niki | ресторан | https://niki.lucky-group.ru/ | phone | +74951898838 |
+| NK-Project | ивент агентство | https://eventcatalog.ru/agency/nk-project | phone | +7(495)369-17-71 |
 | No Limits Event LoftMafia No Limits | лофт | https://www.loft2rent.ru/loft/140724/140734 | phone | 89626818282 |
 | No Limits Event LoftNo Limits Event Loft | лофт | https://www.loft2rent.ru/loft/140724/140727 | phone | +7 (911) 096-08-08 |
+| No Stress event agency | ивент агентство | https://no-stresss.ru | phone | +7(900)258-58-44 |
 | Noor | бар | https://www.noorbar.com/ | phone | +79031367686 |
 | Noor Bar | бар | https://noorbar.com | email | booking@noorbar.com |
 | Noor Bar | бар | https://noorbar.com | email | hi@noorfamily.ru |
@@ -4581,6 +5662,7 @@
 | Noor Electro / Noor bar ecosystem | комьюнити | https://noorbar.com | social | https://www.youtube.com/@NoorBar |
 | Nora Loft | лофт | https://www.loft2rent.ru/loft/156687 | phone | 89219899516 |
 | Nord Loft | лофт | https://www.loft2rent.ru/loft/88534 | phone | +79217659992 |
+| Noro Corporation | ивент агентство | https://eventcatalog.ru/agency/noro_corporation | phone | +7(925)913-11-12 / +7(926)660-56-59 |
 | Norrlandloft (Норрланд Лофт) в скандинавском стиле | лофт | https://www.reveltime.ru/venue/292882?eventtype=vecherinka | phone | +79346695974 |
 | Not Bad Loft / Нот Бэд ЛофтNot Bad Loft Грибоедова 1 | лофт | https://www.loft2rent.ru/loft/87948/95935 | phone | +7 (812) 245-25-45 |
 | Not Bad Loft / Нот Бэд ЛофтNot Bad Loft Грибоедова 2 | лофт | https://www.loft2rent.ru/loft/87948/95943 | phone | +7 (812) 245-25-45 |
@@ -4588,6 +5670,7 @@
 | Not Bad Loft / Нот Бэд ЛофтNot Bad Loft Курляндская / Нот Бэд Лофт | лофт | https://www.loft2rent.ru/loft/87948/87962 | phone | +7 (812) 245-25-45 |
 | Not Bad Loft / Нот Бэд ЛофтСтепана Разина | лофт | https://www.loft2rent.ru/loft/87948/171111 | phone | +7 (812) 245-25-45 |
 | NoTime Loft | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
+| Nova Arena Event | ивент агентство | https://eventcatalog.ru/agency/nova_arena_event | phone | +7(812)407-85-85 |
 | NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | email | email |
 | NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | email | novawedevent@ya.ru |
 | NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +7 (495) 795-18-89 |
@@ -4617,6 +5700,7 @@
 | NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | phone | +7 (965) 247-13-20 |
 | NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://t.me/novaeventsagency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Nova.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | NOVA EVENTS AGENCY | event-агентство | http://novawedevent.com | social | https://www.instagram.com/novaevents.agency |
+| Novator | ивент агентство | https://eventcatalog.ru/agency/novator | phone | +7(351) 796-57-08 / +7(351) 796-57-09 |
 | Novikov Group | ресторанный холдинг | https://www.novikovgroup.ru | email | alpiniya.card@yandex.ru |
 | Novikov Group | ресторанный холдинг | https://www.novikovgroup.ru | email | e.shargorodskaya@novikovgroup.ru |
 | Novikov Group | ресторанный холдинг | https://www.novikovgroup.ru | email | info@novikovgroup.ru |
@@ -4660,6 +5744,7 @@
 | Noôdome (EN) | комьюнити | https://noodome.club/en | social | https://vk.com/noodomeclub |
 | Noôdome (EN) | комьюнити | https://noodome.club/en | social | https://www.youtube.com/channel/UCvgTLmVKwmfFULLf4NQTHvA |
 | Noôdome7 этаж с террасой Тимирязев | лофт | https://www.loft2rent.ru/loft/86136/86138 | phone | +79637216534 |
+| NP-art | ивент агентство | https://eventcatalog.ru/agency/np-art | phone | +7(495) 669-17-57 |
 | NTV | телеканал | https://ntv.ru | email | www@ntv.ru |
 | NTV | телеканал | https://ntv.ru | social | https://dzen.ru/ntv.ru |
 | NTV | телеканал | https://ntv.ru | social | https://ok.ru/ntv |
@@ -4667,14 +5752,22 @@
 | NTV | телеканал | https://ntv.ru | social | https://t.me/ntvnews |
 | NTV | телеканал | https://ntv.ru | social | https://vk.com/ntv |
 | NUANCE LOFT | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
+| O.K. Event Project | ивент агентство | https://eventcatalog.ru/agency/o_k_event_project | phone | +7(918)224-36-97 / +7(928)433-23-33 |
+| Oasis | ивент агентство | https://eventcatalog.ru/agency/oasis | phone | +7(812) 719-66-11 / +7(812) 273-28-72 |
 | OBLAKA | лофт | https://www.loft2rent.ru/loft/204567/204569 | phone | +79169605001 |
 | Oblako 53 | event space / площадка | https://oblako53.ru | email | oblakolounge@yandex.ru |
 | Oblako 53 | event space / площадка | https://oblako53.ru | social | https://t.me/Oblako_mos |
 | Oblako 53 | event space / площадка | https://oblako53.ru | social | https://vk.com/oblako_moscow |
 | Oblako 53 | event space / площадка | https://oblako53.ru | social | https://vk.com/oblakopekin |
 | Oblivion - Лофт в центре с дизайнерским ремонтом, караоке и отдельным входом | лофт | https://www.loft2rent.ru/loft/58868 | phone | 89301703019 |
+| Ocean Show | ивент агентство | https://eventcatalog.ru/agency/ocean_show | phone | +7(495) 778-16-06 / +7(906) 796-56-56 |
+| Octavi | ивент агентство | https://eventcatalog.ru/agency/octavi | phone | +33(450)338-383 / +33(972)428-601 |
 | ODMOODMO Space | лофт | https://odmo.space | phone | 89651434140 |
+| OK Event | ивент агентство | https://eventcatalog.ru/agency/ok_event | phone | +7(925)705-43-20 |
+| Okay Event | ивент агентство | https://eventcatalog.ru/agency/okay_event | phone | +7(38099) 711-69-32 / +7(38095) 223-61-11 |
 | Okovoice Event Hall | лофт | https://www.loft2rent.ru/loft/180116/180119 | phone | +7 985 922-29-19 |
+| OKtava-Party | ивент агентство | https://eventcatalog.ru/agency/oktava-party | phone | +7(495) 621-63-62 / +7(905) 549-49-43 |
+| Oleg Zhadenov | ивент агентство | https://eventcatalog.ru/agency/oleg_zhadenov | phone | +7(495) 769-12-41 / +7(903) 970-55-00 |
 | OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | email | email |
 | OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | email | olga@kuptsova.com |
 | OLGA KUPTSOVA WEDDINGS & EVENTS | свадебное и event-агентство | http://kuptsova.com | phone | +7 (903) 282-52-34 |
@@ -4812,25 +5905,47 @@
 | OMG VR - Лофты с виртуальной реальностьюЛофт с виртуальной реальностью OMG VR Ленинский | лофт | https://www.loft2rent.ru/loft/203323/203325 | phone | 8 (499) 348-13-69 |
 | OMG VR - Лофты с виртуальной реальностьюЛофт с плойкой и виртуальной реальностью на Дмитровской OMG VR | лофт | https://www.loft2rent.ru/loft/203323/203761 | phone | 8 (499) 348-13-69 |
 | OMG VR - Лофты с виртуальной реальностьюПросторный лофт с виртуальной реальностью OMG VR в ТЦ Мариэль | лофт | https://www.loft2rent.ru/loft/203323/203480 | phone | 8 (499) 348-13-69 |
+| OMG Ивент | ивент агентство | https://eventcatalog.ru/agency/omg_ivent | phone | +7(3852)57-18-57 |
 | ONA | лофт | https://www.loft2rent.ru/loft/152461/152482 | phone | 89193444000 |
 | One love Крыша в центре МосквыИглу на крыше на Смоленской | лофт | https://www.loft2rent.ru/loft/38596/38598 | phone | 84991130708 |
 | One love Крыша в центре МосквыКрыша в центре Москвы с потрясающим видом (м. Маяковская) | лофт | https://www.loft2rent.ru/loft/38596/108891 | phone | +7(499) 348-81-95 |
 | One love Крыша в центре МосквыСветлый стильный лофт в небоскребе на 62 этаже с топовым видом на Москву | лофт | https://www.loft2rent.ru/loft/38596/103902 | phone | 74991131244 |
+| One More | ивент агентство | https://eventcatalog.ru/agency/one_more | phone | +7(495)504-31-84 |
+| One only events | ивент агентство | https://eventcatalog.ru/agency/one_only_events | phone | +7(812)645-08-12 |
+| One-two | ивент агентство | https://eventcatalog.ru/agency/one-two | phone | +7(921)900-24-78 / +7(921)891-53-91 |
+| OneLabel | ивент агентство | https://eventcatalog.ru/agency/onelabel | phone | +7(99871) 280-77-88 / +7(99898) 121-00-11 |
 | Onest | ресторан | https://onestrest.ru | phone | +79854707030 |
+| Only event | ивент агентство | https://eventcatalog.ru/agency/only_event | phone | +7(915)109-07-07 / +7(985)963-89-11 |
+| Only Fresh | ивент агентство | https://eventcatalog.ru/agency/only_fresh | phone | +7(495) 782-79-72 |
 | ONLY STARS | лофт | https://www.loft2rent.ru/loft/161255/161259 | phone | 89778011521 |
 | Only You (Только Ты). Белый лофт | лофт | https://www.reveltime.ru/venue/277459?eventtype=vecherinka | phone | +79584974208 |
+| Open | ивент агентство | https://eventcatalog.ru/agency/open | phone | +7(499) 503-93-63 |
+| Open Air Entertainment | ивент агентство | https://eventcatalog.ru/agency/open_air_entertainment | phone | +7(495) 971-24-17 / +7(495) 518-68-88 |
 | Open loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
+| OpenStar Pro | ивент агентство | https://eventcatalog.ru/agency/openstar_pro | phone | +7(938)411-70-00 / +7(929)830-52-74 |
+| OperaEvent | ивент агентство | https://eventcatalog.ru/agency/operaevent | phone | +7(919)100-20-39 / +7(985)220-14-40 |
 | Opora Russia | комьюнити | https://opora.ru | email | id@opora.ru |
 | Opora Russia | комьюнити | https://opora.ru | email | pressa@opora.ru |
 | Opora Russia | комьюнити | https://opora.ru | social | https://t.me/opora_russia |
 | Opora Russia | комьюнити | https://opora.ru | social | https://vk.com/opora_russia |
+| OPS | ивент агентство | https://eventcatalog.ru/agency/ops | phone | +7(499) 390-93-63 / +7(926) 531-56-00 |
+| OrangeDisco | ивент агентство | https://eventcatalog.ru/agency/orangedisco | phone | +7(495) 661-54-50 / +7(495) 720-13-19 |
+| Org Master | ивент агентство | http://www.org-master.com | phone | +7(343)319-46-43 |
+| Organizer | ивент агентство | https://eventcatalog.ru/agency/organizer | phone | +7(495) 790-26-32 / +7(495) 790-26-02 |
+| Orgteam | ивент агентство | https://eventcatalog.ru/agency/orgteam | phone | +7(812)946-49-64 |
+| Original Promotion Serviсe | ивент агентство | https://eventcatalog.ru/agency/original_promotion_servise | phone | +7(777) 726-00-33 / +7(727) 272-49-27 |
+| Orizzonte Studio | ивент агентство | https://eventcatalog.ru/agency/orizzonte_studio | phone | +7(4212)20-27-11 / +7(914)158-27-11 |
 | Orlov.eventMain Stage | лофт | https://www.loft2rent.ru/loft/172081/200400 | phone | +79255165332 |
+| Orton Group | ивент агентство | https://eventcatalog.ru/agency/orton_group | phone | +7(812)923-46-96 / +7(950)024-24-58 |
+| OS Corporation | ивент агентство | https://eventcatalog.ru/agency/os_corporation | phone | +7(903)955-38-03 |
+| Oscar Event | ивент агентство | https://eventcatalog.ru/agency/oscar_event | phone | +7(925)561-68-58 |
 | Otkritie Broker | организация | https://open-broker.ru | email | investing-main@2x.png |
 | Otkritie Broker | организация | https://open-broker.ru | email | press@open.ru |
 | Otrada LoftОтрада лофт | лофт | https://www.loft2rent.ru/loft/177610/177612 | phone | +79959183325 |
 | Outline Festival | музыкальный фестиваль | https://outlinefestival.org | email | info@outlinefestival.org |
 | Outline Festival | музыкальный фестиваль | https://outlinefestival.org | social | https://t.me/outlinefestival |
 | OUTLOFT | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
+| OverMore | ивент агентство | https://eventcatalog.ru/agency/overmore | phone | +7(495) 669-05-97 |
 | O’KEY | retail сеть | https://okeygroup.ru | email | mail@webadresa.ru |
 | O’Key Group | организация | https://okeygroup.ru | email | mail@webadresa.ru |
 | P17 Place (Плэйс). Стилизованный лофт в сине-розовых оттенках | лофт | https://www.reveltime.ru/venue/3902495?eventtype=vecherinka | phone | +79386982643 |
@@ -4844,7 +5959,10 @@
 | Padel Club “Rocket Padel Moscow” | ивент-спейс | https://rocketpadel.ru | social | https://vk.com/rocket_padel_club |
 | Padel Club “Rocket Padel Moscow” | ивент-спейс | https://rocketpadel.ru | social | https://wa.me/79234715478 |
 | Padron | ресторан | https://padron-rest.ru/ | phone | +74951898088 |
+| Palazzi | ивент агентство | https://eventcatalog.ru/agency/palazzi | phone | + 39 (348) 8727844 / + 39 (328) 0078156 |
 | PALMA - красивый просторный лофт с шикарным звуком и интерьером возле метро | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
+| Panda Party | ивент агентство | https://eventcatalog.ru/agency/panda_party | phone | +7(495)532-36-32 / +7(905)501-61-20 |
+| Panda Project | ивент агентство | https://eventcatalog.ru/agency/panda_project | phone | +7(812)932-09-23 / +7(926)316-57-77 |
 | Panorama 360 | ивент-спейс | https://panorama360.ru | email | welcome@pnr360.ru |
 | Panorama 360 | ивент-спейс | https://panorama360.ru | phone | +7 (495) 151-94-94 |
 | Panorama 360 | ивент-спейс | https://panorama360.ru | social | https://dzen.ru/pnr360 |
@@ -4884,6 +6002,8 @@
 | PANORAMA360 | смотровая площадка | https://panorama360.ru | social | social |
 | PANORAMA360 | смотровая площадка | https://panorama360.ru | social | social |
 | PAPAYA loft | лофт | https://www.loft2rent.ru/loft/90962/91043 | phone | +79999 695 345 |
+| PaPriCo | ивент агентство | https://eventcatalog.ru/agency/paprico | phone | +7(920)630-73-93 / +7(920)966-70-71 |
+| Paprikash Entertainment | ивент агентство | https://eventcatalog.ru/agency/paprikash_entertainment | phone | +7(495) 660-81-96 |
 | PAR AMOUR | свадебное агентство | http://paramour-wed.ru | phone | +7 (923) 408-02-85 |
 | PAR AMOUR | свадебное агентство | http://paramour-wed.ru | phone | phone |
 | PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://t.me/par_amour_wed |
@@ -4894,6 +6014,14 @@
 | PAR AMOUR | свадебное агентство | http://paramour-wed.ru | phone | +7 (923) 408-02-85 |
 | PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://t.me/paramour_wed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Par.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | PAR AMOUR | свадебное агентство | http://paramour-wed.ru | social | https://www.instagram.com/paramour.wed |
+| Parade | ивент агентство | https://eventcatalog.ru/agency/parade | phone | +375(29)130-52-42 / +375(29)230-52-20 |
+| Paradise Agency | ивент агентство | https://eventcatalog.ru/agency/paradise_agency | phone | +7(057) 762-91-81 / +7(063) 121-69-01 |
+| Paradise Event Holding | ивент агентство | https://eventcatalog.ru/agency/paradise_event_holding | phone | +7(812)612-29-46 / +7(812)612-29-45 |
+| Paradise Travel Group | ивент агентство | https://eventcatalog.ru/agency/paradise_travel_group | phone | +7(495) 225-38-06 |
+| Parodist | ивент агентство | https://eventcatalog.ru/agency/parodist | phone | +7(926) 226-70-99 / +7(926) 831-73-31 |
+| Partizan event & marketing | ивент агентство | https://eventcatalog.ru/agency/partizan_event_and_marketing | phone | +7(903)835-02-69 / +7(4912)51-12-69 |
+| Partner Events | ивент агентство | https://eventcatalog.ru/agency/partner_events | phone | +7(4232) 450-123 |
+| Party Exclusive | ивент агентство | https://eventcatalog.ru/agency/party_exclusive | phone | +7(495) 518-12-85 |
 | Party Hall loft | лофт | https://www.loft2rent.ru/loft/97847/97849 | phone | 89103969188 |
 | Party Hall Лофт для вечеринок | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
 | Party Hard | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
@@ -4945,6 +6073,14 @@
 | Party HardТуманный лес | лофт | https://www.loft2rent.ru/loft/88400/88543 | phone | +79264844002 |
 | Party HardХард Рок | лофт | https://www.loft2rent.ru/loft/116084/116086 | phone | 89670301871 |
 | Party HardХогвартс | лофт | https://www.loft2rent.ru/loft/88400/88552 | phone | +79264844002 |
+| Party House | ивент агентство | https://eventcatalog.ru/agency/party_house | phone | +7(495) 505-08-76 |
+| Party Monster | ивент агентство | https://eventcatalog.ru/agency/party_monster | phone | +7(977)267-33-15 / +7(499)651-81-87 |
+| Party Planet | ивент агентство | https://eventcatalog.ru/agency/party_planet | phone | +7(495) 605-93-53 / +7(495) 641-63-39 |
+| Party Project | ивент агентство | https://eventcatalog.ru/agency/party_project | phone | +7(916) 833-85-69 |
+| Party Technology | ивент агентство | https://eventcatalog.ru/agency/party_technology | phone | +7(915)004-40-44 |
+| Party Time | ивент агентство | https://eventcatalog.ru/agency/party_time | phone | +7(906)300-93-00 / +7(8452)34-63-45 |
+| PartyPeople | ивент агентство | https://eventcatalog.ru/agency/partypeople | phone | +7(383) 287-84-67 / +7(913) 205-59-55 |
+| Partyzanka | ивент агентство | https://eventcatalog.ru/agency/partyzanka | phone | +7(495) 741-70-22 / +7(495) 741-70-24 |
 | PAVILION EVENT / Мероприятия, аренда лофт!Sweet Home | лофт | https://www.loft2rent.ru/loft/148807/174222 | phone | 89214495938 |
 | PAVILION EVENT / Мероприятия, аренда лофт!Зал "Edison" | лофт | https://www.loft2rent.ru/loft/148807/149187 | phone | 89214495938 |
 | PAVILION EVENT / Мероприятия, аренда лофт!Зал "Lumier" | лофт | https://www.loft2rent.ru/loft/148807/149086 | phone | 89214495938 |
@@ -4960,14 +6096,22 @@
 | PEACH EVENT | event-агентство | https://top100awards.ru/peach-event | social | https://www.instagram.com/peach__event |
 | Pentahotel Москва, Арбат / Отель Пента Москва, АрбатPentaloft / Пенталофт | лофт | https://www.loft2rent.ru/loft/198993/199023 | phone | +7 919 970-06-79 |
 | Penthouse59Пентхаус в стиле high tech Москва Сити Башня Империя | лофт | https://www.loft2rent.ru/loft/109421/109498 | phone | +79993597584 |
+| People Around | ивент агентство | https://eventcatalog.ru/agency/people_around | phone | +7(863) 263-09-32 / +7(863) 268-76-94 |
+| People Friendship Group | ивент агентство | https://eventcatalog.ru/agency/people_friendship_group | phone | +7(495)585-72-90 / +7(929)992-20-62 |
+| People Talk | ивент агентство | https://eventcatalog.ru/agency/people_talk | phone | +7(926) 622-29-86 / +7(926) 055-98-34 |
 | people_loft people_loft | лофт | https://www.loft2rent.ru/loft/81919/81921 | phone | 89771127069 |
 | Pepe Space / Пространство Пепе | лофт | https://www.loft2rent.ru/loft/113960/113991 | phone | +7 909 579 6460 |
 | PepsiCo Russia | FMCG компания | https://www.pepsico.ru | social | https://ok.ru/group/54336018841721 |
 | PepsiCo Russia | FMCG компания | https://www.pepsico.ru | social | https://twitter.com/PepsiCoRUS |
 | PepsiCo Russia | FMCG компания | https://www.pepsico.ru | social | https://vk.com/pepsicorussia |
+| Perets Pro | ивент агентство | https://eventcatalog.ru/agency/perets_pro | phone | +7(499)390-99-31 / +7(926)229-48-44 |
+| Perfect Day | ивент агентство | https://eventcatalog.ru/agency/perfect_day | phone | +7(916)616-54-75 |
+| Perfection Group | ивент агентство | https://eventcatalog.ru/agency/perfection_group | phone | +7(495)988-27-35 |
+| Perfection-Group | ивент агентство | https://eventcatalog.ru/agency/perfection-group | phone | +7(495) 772-63-09 / +7(926) 598-19-11 |
 | Petrof Loft | лофт | https://www.loft2rent.ru/loft/100002/100004 | phone | +79213705762 |
 | PetroffLoft | лофт | https://www.loft2rent.ru/loft/209121 | phone | +79262125229 |
 | PetrushkagroupЛофт под мероприятия | лофт | https://www.loft2rent.ru/loft/196459/196470 | phone | 89629115141 |
+| Phlatline Entertainment | ивент агентство | https://eventcatalog.ru/agency/phlatline_entertainment | phone | +7(968)764-20-00 |
 | Piano Loft | лофт | https://www.loft2rent.ru/loft/162657 | phone | +79215901294 |
 | Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | adb@afisha.ru |
 | Picnic Afisha Team | фестивальная / media events команда | https://www.afisha.ru | email | adb_vip@afisha.ru |
@@ -5013,22 +6157,33 @@
 | Pikabu Media | digital-медиа | https://pikabu.ru | social | https://www.tiktok.com/@pikabu_ru |
 | Pilates PMP Studio | pilates studio | https://pmpstudio.ru | email | mail@pmpstudio.ru |
 | Pilates PMP Studio | pilates studio | https://pmpstudio.ru | social | https://www.tiktok.com/@pmp_studio?refer=creator_embed |
+| Pilot-promo | ивент агентство | https://eventcatalog.ru/agency/pilot-promo | phone | +7(3412) 412-607 / +7(912) 872-32-22 |
 | Pink Loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
 | Pino | ресторан | http://pinorestaurantbar.ru/ | phone | +79011879040 |
 | Pinskiy & Co | ресторанный холдинг | https://pinskiy.co | email | info@pinskiy-concept.ru |
 | Pipes Studio | лофт | https://www.loft2rent.ru/loft/195377/195406 | phone | +79998882069 |
+| Piter Event | ивент агентство | https://eventcatalog.ru/agency/piter_event | phone | +7(812)982-07-50 / +7(911)927-40-06 |
 | Place | лофт | https://www.loft2rent.ru/loft/81681 | phone | +79995105599 |
+| Plan A | ивент агентство | http://www.plan-a-event.ru | phone | +7(989)511-30-07 / +7(863)311-30-07 |
+| Plan Event Agency | ивент агентство | https://eventcatalog.ru/agency/plan_event_agency | phone | +7(499)957-85-37 / +7(903)624-01-85 |
+| Planet Stars Company | ивент агентство | https://eventcatalog.ru/agency/planet_stars_company | phone | +7(495) 984-70-30 / +7(495) 984-73-00 |
 | Planeta Kino | кинотеатр | https://planeta-kino.ru | email | mail@webadresa.ru |
 | PLARTКонференц-зал для бизнес-ивентов в 1 км от Кремля | лофт | https://www.loft2rent.ru/loft/28751/28754 | phone | +79858599162 |
+| Plastilin | ивент агентство | https://eventcatalog.ru/agency/plastilin | phone | +7(383) 354-16-04 / +7(383) 354-16-06 |
 | Platimum Ap с Джакузи у окна в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
 | Platinum Orange Ванна у окна Москва Сити! | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
+| Platinum Project | ивент агентство | https://eventcatalog.ru/agency/platinum_project | phone | +7(901)772-50-70 |
 | platon_studioзал "Diana" | лофт | https://www.loft2rent.ru/loft/27889/36384 | phone | +79136886868 |
 | platon_studioЗал "Platon" | лофт | https://www.loft2rent.ru/loft/27889/27894 | phone | +79136886868 |
 | platon_studioСтудия 166 | лофт | https://www.loft2rent.ru/loft/27889/88026 | phone | +79136886868 |
 | PLAV BANYAPLAV BANYA, баня на яхте в центре Москвы | лофт | https://www.loft2rent.ru/loft/168328/170248 | phone | 89099695025 |
+| Play Project Event & Creative | ивент агентство | https://eventcatalog.ru/agency/play_project_event_and_creative | phone | +7(499) 393-32-27 |
+| Play-day | ивент агентство | https://eventcatalog.ru/agency/play-day | phone | +7(926) 527-69-61 / +7(903) 299-97-12 |
+| PlayGame Events | ивент агентство | https://eventcatalog.ru/agency/playgame_events | phone | +7(989)048-54-38 |
 | PlaykortПомещение под съемки | лофт | https://www.loft2rent.ru/loft/137226/180772 | phone | +79060544499 |
 | PlaykortСпортивно-развлекательная арена PLAYKORT в Мытищах | лофт | https://www.loft2rent.ru/loft/137226/143781 | phone | +79060544499 |
 | Plaza Garden Moscow WTC Hotel | отель | https://ostrovok.ru/hotel/russia/moscow/mid8075994/crowne_plaza_moscow_world_trade_centre | address | набережная Краснопресненская, дом 12, Москва |
+| PM:AM Entertaiment | ивент агентство | https://eventcatalog.ru/agency/pm_am_entertaiment | phone | +7(495) 663-91-33 |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | email | hr@flypobeda.ru |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | phone | +7 (809) 505-87-77 |
 | POBEDA | авиакомпания / бренд | https://pobeda.aero | social | https://dzen.ru/pobeda_aero |
@@ -5042,6 +6197,9 @@
 | Pobeda | авиакомпания / бренд | https://pobeda.aero | social | https://t.me/pobeda_aero_bot |
 | Pobeda | авиакомпания / бренд | https://pobeda.aero | social | https://vk.com/flypobeda |
 | POD (Под) гаражом. Дизайнерский лофт | лофт | https://www.reveltime.ru/venue/8776992?eventtype=vecherinka | phone | +79584974160 |
+| Point management | ивент агентство | https://eventcatalog.ru/agency/point_management | phone | +7(495) 981-99-11 |
+| Point Passat | ивент агентство | https://eventcatalog.ru/agency/point_passat | phone | +7(495)937-23-60 |
+| Poligon event | ивент агентство | https://eventcatalog.ru/agency/poligon_event | phone | +7(920)930-99-11 |
 | POLOTNO | creative agency / production | http://polotnoagency.ru | email | email |
 | POLOTNO | creative agency / production | http://polotnoagency.ru | email | info@polotnoagency.ru |
 | POLOTNO | creative agency / production | http://polotnoagency.ru | phone | +7 (926) 915-18-11 |
@@ -5064,6 +6222,8 @@
 | Portal Hall. Двухэтажный стилизованный лофт | лофт | https://www.reveltime.ru/venue/3327149?eventtype=vecherinka | phone | +74951570268 |
 | Portal loft | лофт | https://www.loft2rent.ru/loft/104813 | phone | +79952367709 |
 | posh_bar / пош бар | лофт | https://www.loft2rent.ru/loft/65926/65928 | phone | +79689523333 |
+| Positive Communications | ивент агентство | https://eventcatalog.ru/agency/positive_communications | phone | +7(495) 629-80-10 / +7(812) 456-22-99 |
+| Positive Event | ивент агентство | https://eventcatalog.ru/agency/positive_event | phone | +7(495) 790-15-11 / +7(495) 972-73-80 |
 | Positive Technologies | cybersecurity компания | https://www.ptsecurity.com | email | u003exspider@ptsecurity.com |
 | Positive Technologies | cybersecurity компания | https://www.ptsecurity.com | social | https://api.whatsapp.com/send/?text=PT%C2%A0ISIM%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%20%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%C2%A0%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0%20%D0%9F%D1%83%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE%20 |
 | Positive Technologies | cybersecurity компания | https://www.ptsecurity.com | social | https://t.me/Positive_Technologies |
@@ -5071,6 +6231,8 @@
 | Positive Technologies | cybersecurity компания | https://www.ptsecurity.com | social | https://t.me/share/url?url=&text=PT%C2%A0ISIM%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%20%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%C2%A0%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0%20%D0%9F%D1%83%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE&utm_source=share_block |
 | Positive Technologies | cybersecurity компания | https://www.ptsecurity.com | social | https://vk.com/ptsecurity |
 | Positive Technologies | cybersecurity компания | https://www.ptsecurity.com | social | https://vk.com/share.php?url=&title=PT%C2%A0ISIM%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%20%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%C2%A0%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B0%20%D0%9F%D1%83%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE&utm_source=share_block |
+| Positive Wedding | ивент агентство | https://eventcatalog.ru/agency/positive_wedding | phone | +7(351)218-12-52 |
+| Post Scriptum | ивент агентство | https://eventcatalog.ru/agency/post_scriptum | phone | +7(985)278-22-89 |
 | Posterscope Russia | outdoor media agency | https://posterscope.com | social | https://twitter.com/Posterscope |
 | Posterscope Russia | outdoor media agency | https://posterscope.com | social | https://www.instagram.com/posterscopelondon |
 | Posterscope Russia | outdoor media agency | https://posterscope.com | social | https://www.linkedin.com/company/posterscope |
@@ -5080,10 +6242,15 @@
 | Postmodern Production | продакшн-студия | https://postmodern.ru | phone | +7 (800) 301-15-02 |
 | Postmodern Production | продакшн-студия | https://postmodern.ru | social | https://rutube.ru/channel/71929018 |
 | Postmodern Production | продакшн-студия | https://postmodern.ru | social | https://t.me/mis_medialog |
+| Postscriptum | ивент агентство | https://eventcatalog.ru/agency/postscriptum | phone | +7(911)780-03-01 |
+| Pr Event Bureau | ивент агентство | https://eventcatalog.ru/agency/pr_event_bureau | phone | +7(989)214-53-34 |
+| PR Group | ивент агентство | https://eventcatalog.ru/agency/pr_group | phone | +7(800)250-23-50 |
 | PR Inc. | PR-агентство | https://princ.ru | phone | +7 495 660-38-88 |
 | PR Inc. | PR-агентство | https://princ.ru | social | https://t.me/${encodeURIComponent(tg)} |
 | PR Inc. | PR-агентство | https://princ.ru | social | https://t.me/durcoin |
 | PR Inc. | PR-агентство | https://princ.ru | social | social |
+| PR Inc. | ивент агентство | https://eventcatalog.ru/agency/pr_inc | phone | +7(495) 651-84-54 |
+| PR Music | ивент агентство | https://eventcatalog.ru/agency/pr_music | phone | +380(50)407-77-22 / +380(67)531-46-46 |
 | PR News | PR / media monitoring | https://prnews.ru | email | contact@prnews.ru |
 | PR News | PR / media monitoring | https://prnews.ru | email | email |
 | PR News | PR / media monitoring | https://prnews.ru | phone | +7 (495) 789-42-59 |
@@ -5110,7 +6277,18 @@
 | PR Partner | PR-агентство | https://prpartner.ru | social | social |
 | PR Partner | PR-агентство | https://prpartner.ru | social | social |
 | PR Partner | PR-агентство | https://prpartner.ru | social | social |
+| PR Partner | ивент агентство | https://eventcatalog.ru/agency/pr_partner | phone | +7(495) 380-07-53 |
+| PR Эксперт | ивент агентство | https://eventcatalog.ru/agency/pr_ekspert | phone | +7(863) 300-35-53 / +7(863) 300-35-54 |
+| PR-Effect | ивент агентство | https://eventcatalog.ru/agency/pr-effect | phone | +7(495)748-81-07 |
+| PR-Проект | ивент агентство | https://eventcatalog.ru/agency/pr-proekt | phone | +7(342)219-79-01 / +7(342)281-11-12 |
+| Prana | ивент агентство | https://eventcatalog.ru/agency/prana | phone | +7(919) 361-32-00 / +7(912) 031-32-00 |
 | PRAVDA | лофт | https://www.loft2rent.ru/loft/81145/81149 | phone | +79263427655 |
+| Prazdnickof | ивент агентство | https://eventcatalog.ru/agency/prazdnickof | phone | +7(921) 352-99-80 |
+| Prazdnik Detyam.ru | ивент агентство | https://eventcatalog.ru/agency/prazdnik_detyam_ru | phone | +7(495) 647-88-56 |
+| Prazdnik Land studio | ивент агентство | https://eventcatalog.ru/agency/prazdnik_land_studio | phone | +7(905) 716-64-17 / +7(915) 306-17-40 |
+| Prazdnik-style | ивент агентство | https://eventcatalog.ru/agency/prazdnik-style | phone | +7(915)222-44-50 / +7(499)677-52-04 |
+| Prazdnik99.ru | ивент агентство | https://eventcatalog.ru/agency/prazdnik99_ru | phone | +7(499) 259-06-34 / +7(495) 979-39-99 |
+| Prazdno | ивент агентство | https://eventcatalog.ru/agency/prazdno | phone | +7(495)822-62-42 |
 | Premier | онлайн-кинотеатр | https://premier.one | email | b2b@premier.one |
 | Premier | онлайн-кинотеатр | https://premier.one | email | help@premier.one |
 | Premier Studios | продакшн-студия | https://premier.one | email | b2b@premier.one |
@@ -5118,9 +6296,15 @@
 | Premier Апартаменты Москва-СитиCity Escape 1 | лофт | https://www.loft2rent.ru/loft/175169/175182 | phone | +7 (925) 869 08 40 |
 | Premier Апартаменты Москва-СитиEasy Living 1 | лофт | https://www.loft2rent.ru/loft/175169/175178 | phone | +7 (925) 869 08 40 |
 | Premier Апартаменты Москва-СитиSerene Retreat 1 | лофт | https://www.loft2rent.ru/loft/175169/175177 | phone | +7 (925) 869 08 40 |
+| Premium | ивент агентство | https://eventcatalog.ru/agency/premium | phone | +7(843) 214-55-50 / +7(9272) 48-25-17 |
 | Premium air apartments | лофт | https://skyrent24.ru | phone | +7 (902) 144-46-76 |
 | Premium Air Apartments 2 | лофт | https://skyrent24.ru | phone | +7 (902) 144-46-76 |
 | Premium Apartments in Moscow City | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
+| PremiumEvent | ивент агентство | https://eventcatalog.ru/agency/premiumevent | phone | +7(903)513-48-91 / +7(495)504-25-18 |
+| Present | ивент агентство | https://eventcatalog.ru/agency/present | phone | +7(8422) 95-04-95 / +7(902) 588-30-58 |
+| Present Show | ивент агентство | https://eventcatalog.ru/agency/present_show | phone | +7(495) 789-98-55 / +7(905) 511-48-43 |
+| Prestigetour | ивент агентство | https://eventcatalog.ru/agency/prestigetour | phone | +7(495) 777-05-70 |
+| Pride Event | ивент агентство | https://eventcatalog.ru/agency/pride_event | phone | +7(915)179-62-67 |
 | Pride Lounge Тверская | лофт | https://www.loft2rent.ru/loft/87842/87848 | phone | +7 (930) 999-22-33 |
 | Pride Wellness Club | wellness / fitness club | https://pridewellness.ru | email | info@clpride.com |
 | Pride Wellness Club | wellness / fitness club | https://pridewellness.ru | phone | +7 (495) 780-08-52 |
@@ -5131,11 +6315,30 @@
 | Pride Wellness Club | wellness / fitness club | https://pridewellness.ru | social | https://vk.com/id711752750 |
 | Pride Wellness Club | wellness / fitness club | https://pridewellness.ru | social | https://wa.me/74957800853 |
 | Pride Wellness Club | wellness / fitness club | https://pridewellness.ru | social | https://www.facebook.com/PrideWellnessClub |
+| Prime Event Kiev | ивент агентство | https://eventcatalog.ru/agency/prime_event_kiev | phone | +380(67)899-49-49 / +380(44)599-29-49 |
+| Prime Mover | ивент агентство | https://eventcatalog.ru/agency/prime_mover | phone | +7(915)388-05-49 / +7(969)019-49-49 |
 | Prime Show | лофт | https://www.loft2rent.ru/loft/182297 | phone | +79956075773 |
+| Prime Star | ивент агентство | https://eventcatalog.ru/agency/prime_star | phone | +7(044) 592-65-86 / +7(044) 592-65-87 |
+| Prime Time | ивент агентство | https://eventcatalog.ru/agency/prime_time | phone | +7(812) 950-06-67 |
+| Prime Time Event. Design. Communications | ивент агентство | https://eventcatalog.ru/agency/prime_time_event_design_communications | phone | +7(812)950-06-67 |
+| Priment | ивент агентство | https://eventcatalog.ru/agency/priment | phone | +7(926)216-83-45 / +7(925)500-22-81 |
+| Primero e.g. | ивент агентство | https://eventcatalog.ru/agency/primero_e_g | phone | +7(495) 772-63-38 / +7(926) 901-89-21 |
+| PrimeSV | ивент агентство | https://eventcatalog.ru/agency/primesv | phone | +7(495)269-23-03 / +7(903)890-22-16 |
+| Primevent | ивент агентство | https://eventcatalog.ru/agency/primevent | phone | +7(495) 782-54-21 |
+| PRISM | ивент агентство | https://eventcatalog.ru/agency/prism | phone | +7(812) 993-30-64 |
 | Prisma Loft с уютной верандой и уличным камином | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Private 25 / 25 ПриватЛофт с террасой на крыше 25 эт. | лофт | https://www.loft2rent.ru/loft/95893/95895 | phone | +79252676534 |
+| Private case | ивент агентство | https://eventcatalog.ru/agency/private_case | phone | +7(921) 944-91-52 |
+| Private event studio | ивент агентство | https://eventcatalog.ru/agency/private_event_studio | phone | +7(495) 661-62-13 |
 | PrivateZone (ПриватнаяЗона). Пространство для мероприятий с кухней | лофт | https://www.reveltime.ru/venue/2363608?eventtype=vecherinka | phone | +79584055346 |
+| Pro Brand | ивент агентство | https://eventcatalog.ru/agency/pro_brand | phone | +7(495)374-55-88 / +7(968)764-46-44 |
+| Pro story | ивент агентство | https://eventcatalog.ru/agency/pro_story | phone | +7(978)279-19-29 |
+| PRO Движение | ивент агентство | https://eventcatalog.ru/agency/pro_dvizhenie | phone | +7(863) 296-10-94 / +7(863) 296-10-93 |
+| Pro-Event | ивент агентство | https://eventcatalog.ru/agency/pro-event | phone | +7(495) 680-41-78 / +7(926) 722-17-77 |
+| Pro-Media | ивент агентство | https://eventcatalog.ru/agency/pro-media | phone | +7(499)918-63-33 |
+| Pro-Tech | ивент агентство | https://eventcatalog.ru/agency/pro-tech | phone | +7(903) 820-55-20 / +7(910) 961-33-43 |
 | PRO-Vision | коммуникационное агентство | https://pro-vision.ru | phone | +7 495 540-50-60 |
+| Pro-Vision Communications | ивент агентство | https://eventcatalog.ru/agency/pro-vision_communications | phone | +7(495) 221-69-12 |
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | +7 (936) 288-85-31 |
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | phone |
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://t.me/m/FsOHru3wNmFi |
@@ -5147,10 +6350,12 @@
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | phone | +7 (936) 288-85-31 |
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://t.me/pro_lyubov_agency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20PRO.LYUBOV.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | PRO.LYUBOV | свадебное агентство | http://prolyubov.com | social | https://www.instagram.com/pro.lyubov.agency |
+| ProAction | ивент агентство | https://eventcatalog.ru/agency/proaction | phone | +7(495) 722-43-17 / +7(495) 739-93-29 |
 | Probka | ресторан | https://probka.org | social | https://t.me/share/url?url=https://probka.org |
 | Probka | ресторан | https://probka.org | social | https://vk.com/share.php?url=https://probka.org |
 | Probka | ресторан | https://probka.org | social | https://www.facebook.com/sharer/sharer.php?u=https://probka.org |
 | Probka | ресторан | https://www.probka.org/restaurants/msk/probka-na-tsvetnom/ | phone | +74959959045 |
+| ProConcert | ивент агентство | https://eventcatalog.ru/agency/proconcert | phone | +7(495) 997-47-64 |
 | ProDelki / ПроделкиProDelki (Ленинский пр. д.111, к. 2) | лофт | https://www.loft2rent.ru/loft/163646/180804 | phone | +79313234252 |
 | ProDelki / ПроделкиProDelki (ул. Адмирала Черокова, 18 к 2) | лофт | https://www.loft2rent.ru/loft/163646/168278 | phone | +79313234252 |
 | ProDelki / ПроделкиProDelki (ул. Малая Митрофаньевская д. 5 к. 1) | лофт | https://www.loft2rent.ru/loft/163646/163719 | phone | +79313234252 |
@@ -5163,10 +6368,32 @@
 | Product Sense Community | product management community | https://productsense.io | social | https://t.me/productmindset |
 | Product Sense Community | product management community | https://productsense.io | social | https://t.me/productsense |
 | Production8 | лофт | https://www.loft2rent.ru/loft/187873/187875 | phone | +7(977)406-22-08 |
+| proekt212 | ивент агентство | https://eventcatalog.ru/agency/proekt212 | phone | +7(904) 980-16-98 / +7(953) 047-44-24 |
+| Proektovgrad | ивент агентство | https://eventcatalog.ru/agency/proektovgrad | phone | +7(495) 940-96-96 |
+| PRofi | ивент агентство | https://eventcatalog.ru/agency/profi | phone | +7(097) 989-56-33 |
+| Profi Event Producrion | ивент агентство | https://eventcatalog.ru/agency/profi_event_producrion | phone | +7(922)637-70-44 |
+| profi project | ивент агентство | https://eventcatalog.ru/agency/profi_project | phone | +7(495) 638-53-29 / +7(925) 083-82-87 |
+| Profistar | ивент агентство | https://eventcatalog.ru/agency/profistar | phone | +7(495)504-93-60 |
+| Project113 | ивент агентство | https://eventcatalog.ru/agency/project113 | phone | +7(495) 664-41-13 / +7(926) 209-61-13 |
+| Prolight | ивент агентство | https://eventcatalog.ru/agency/prolight | phone | +7(383) 201-56-28 / +7(383) 201-56-29 |
 | Proloft | лофт | https://www.loft2rent.ru/loft/132167/132184 | phone | 89251539733 |
 | Proloft (Пролофт) | лофт | https://www.reveltime.ru/venue/6209514?eventtype=vecherinka | phone | +79346608162 |
+| ProMedia Group | ивент агентство | https://eventcatalog.ru/agency/promedia_group | phone | +7(861) 945-00-13 / +7(928) 401-07-52 |
+| PromExpo | ивент агентство | https://eventcatalog.ru/agency/promexpo | phone | +7(495) 921-35-07 |
+| Promo | ивент агентство | https://eventcatalog.ru/agency/promo | phone | +7(950)715-08-88 |
 | Promo FM Group | event / promo agency | https://promofm.ru | email | email |
 | Promo FM Group | event / promo agency | https://promofm.ru | email | support@promo.music |
+| Promo-Republic | ивент агентство | https://eventcatalog.ru/agency/promo-republic | phone | +7(3852)25-33-51 / +7(906)960-03-79 |
+| PROmodels | ивент агентство | https://eventcatalog.ru/agency/promodels | phone | +7(345) 246-33-57 |
+| PromoFabrika | ивент агентство | https://eventcatalog.ru/agency/promofabrika | phone | +7(812) 380-00-49 |
+| PromoHR | ивент агентство | https://eventcatalog.ru/agency/promohr | phone | +7(495) 540-42-15 / +7(964) 706-08-21 |
+| Promopull | ивент агентство | https://eventcatalog.ru/agency/promopull | phone | +7(917)755-52-27 / +7(347)246-51-66 |
+| Promotechnoligies | ивент агентство | https://eventcatalog.ru/agency/promotechnoligies | phone | +7(495)909-26-34 |
+| PromoЛюди | ивент агентство | https://eventcatalog.ru/agency/promolyudi | phone | +7(968) 611-61-11 / +7(495) 988-48-11 |
+| Propusk | ивент агентство | https://eventcatalog.ru/agency/propusk | phone | +7(927)051-25-79 / +7(8452)37-42-09 |
+| Prospectr | ивент агентство | https://eventcatalog.ru/agency/prospectr | phone | +7(4842)51-00-13 / +7(909)251-55-00 |
+| ProstoDj | ивент агентство | https://eventcatalog.ru/agency/prostodj | phone | +7(926)079-34-70 |
+| Prostoevent | ивент агентство | https://eventcatalog.ru/agency/prostoevent | phone | +7(965)127-82-20 / +7(926)541-77-35 |
 | Prostranstvo (Пространство). Большой лофт | лофт | https://www.reveltime.ru/venue/4119721?eventtype=vecherinka | phone | +79346695974 |
 | Prostranstvo (Пространство). Зал Квартира | лофт | https://www.reveltime.ru/venue/4112008?eventtype=vecherinka | phone | +79584974226 |
 | Prostranstvo (Пространство). Лофт с высокими потолками | лофт | https://www.reveltime.ru/venue/4119598?eventtype=vecherinka | phone | +79584974064 |
@@ -5174,12 +6401,21 @@
 | Prostranstvo (Пространство). Фотостудия | лофт | https://www.reveltime.ru/venue/3768105?eventtype=vecherinka | phone | +79910173255 |
 | Prosvet Hall | лофт | https://www.loft2rent.ru/loft/74776/74778 | phone | +79776615700 |
 | Prosvet Hall ( малый зал ) | лофт | https://www.loft2rent.ru/loft/74776 | phone | +79776615700 |
+| Prout Group | ивент агентство | http://www.proutgroup.ru | phone | +7(495)625-23-05 |
+| PROведем | ивент агентство | https://eventcatalog.ru/agency/provedem | phone | +7(916) 803-39-50 / +7(916) 216-52-67 |
 | PROстранствоЛофт PROстранство для мероприятий и дней рождений с караоке в Казани | лофт | https://www.loft2rent.ru/loft/95670/95672 | phone | 89270346624 |
+| Proтеус Группа | ивент агентство | https://eventcatalog.ru/agency/proteus_gruppa | phone | +7(495) 730-27-79 |
+| PRемьер | ивент агентство | https://eventcatalog.ru/agency/premjer | phone | +7(343) 222-02-32 / +7(343) 264-17-38 |
+| PRемьер __ | ивент агентство | https://eventcatalog.ru/agency/premjer-5 | phone | +7(343) 222-02-32 / +7(343) 378-50-00 |
+| PSG | ивент агентство | https://eventcatalog.ru/agency/psg | phone | +7(963) 924-16-54 / +7(917) 583-10-66 |
 | Psy game &amp; lounge (Псай игры и лаундж). Отдельная комната | лофт | https://www.reveltime.ru/venue/5414206?eventtype=vecherinka | phone | +79676932714 |
 | Psychologies Russia | журнал | https://www.psychologies.ru | email | info@psychologies.ru |
 | Psychologies Russia | журнал | https://www.psychologies.ru | social | http://www.youtube.com/user/psychologiesru |
 | Psychologies Russia | журнал | https://www.psychologies.ru | social | https://ok.ru/psychologiesrussia |
 | Psychologies Russia | журнал | https://www.psychologies.ru | social | https://vk.com/psychologiesrussia |
+| Public Agency | ивент агентство | https://eventcatalog.ru/agency/public_agency | phone | +7(916) 207-92-07 / +7(916) 340-66-77 |
+| Public Image.iPR | ивент агентство | https://eventcatalog.ru/agency/public_image_ipr | phone | +7(499)702-31-91 / +7(903)508-03-59 |
+| Publicity | ивент агентство | https://eventcatalog.ru/agency/publicity | phone | +7(909)863-09-71 / +7(924)221-10-02 |
 | Pulsar | лофт | https://www.loft2rent.ru/loft/108466 | phone | +74958433175 |
 | Pushkin Museum Friends | комьюнити | https://pushkinmuseum.art | email | aleksey.popov@pushkinmuseum.art |
 | Pushkin Museum Friends | комьюнити | https://pushkinmuseum.art | email | anna.ragulina@arts-museum.ru |
@@ -5196,13 +6432,24 @@
 | Pushkin Museum Friends | комьюнити | https://pushkinmuseum.art | social | https://rutube.ru/channel/25618709 |
 | Pushkin Museum Friends | комьюнити | https://pushkinmuseum.art | social | https://t.me/theartsmuseum |
 | Pushkin Museum Friends | комьюнити | https://pushkinmuseum.art | social | https://vk.com/club23141780 |
+| Putter-Club | ивент агентство | https://eventcatalog.ru/agency/putter-club | phone | +7(495)721-65-59 / +7(964)529-99-45 |
+| Puzzle | ивент агентство | https://eventcatalog.ru/agency/puzzle | phone | +7(495)664-58-43 / +7(925)701-55-10 |
+| PVA event | ивент агентство | https://eventcatalog.ru/agency/pva_event | phone | +7(495) 507-39-83 / +7(965) 115-01-23 |
 | Python Moscow Community | IT community | https://python.ru | social | https://t.me/moscow_python |
 | Python Moscow Community | IT community | https://python.ru | social | https://t.me/moscowpythonconf |
 | Python Moscow Community | IT community | https://python.ru | social | https://www.facebook.com/groups/MoscowDjango |
+| PZevent | ивент агентство | https://eventcatalog.ru/agency/pzevent | phone | +7(495)229-23-49 / +7(903)009-77-19 |
 | Queen Loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Queensbury | ивент агентство | https://eventcatalog.ru/agency/queensbury | phone | +7(925) 001-36-99 |
 | QUERCUS CLUB | лофт | https://www.loft2rent.ru/loft/203532/203556 | phone | 89852111331 |
+| Quest Event Network | ивент агентство | https://eventcatalog.ru/agency/quest_event_network | phone | +380(93)942-29-92 |
+| Questern | ивент агентство | https://eventcatalog.ru/agency/questern | phone | +7(962)943-56-19 |
+| Questlands | ивент агентство | https://eventcatalog.ru/agency/questlands | phone | +7(499)380-83-63 / +7(906)777-08-98 |
+| QuestoMania | ивент агентство | https://eventcatalog.ru/agency/questomania | phone | +7(985)226-44-54 |
+| Quiz Mafia Event | ивент агентство | https://eventcatalog.ru/agency/quiz_mafia_event | phone | +7(915)291-99-35 |
 | R.S.V.P. PR | PR-агентство | https://rsvp.agency | phone | +7 495 737-89-09 |
 | R414 studioТерраса на Плющихе | лофт | https://www.loft2rent.ru/loft/182467/182469 | phone | +79654143322 |
+| RadaxGroup | ивент агентство | https://eventcatalog.ru/agency/radaxgroup | phone | +7(499) 502-01-49 / +7(926) 229-48-44 |
 | Radiant Loft | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
 | Radio Greenhouse | ресторан / бар | https://alfa.me/db1OAY | phone | +79916471170 |
 | Radio Record | радиостанция | https://radiorecord.ru | email | muzred@radiorecord.ru |
@@ -5244,6 +6491,8 @@
 | Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | social |
 | Radio Record Events | музыкальный event organizer | https://www.radiorecord.ru | social | social |
 | Radiola Loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Radugadiscotek | ивент агентство | https://eventcatalog.ru/agency/radugadiscotek | phone | +7(903)281-13-86 / +7(495)792-93-02 |
+| RAM Music | ивент агентство | https://eventcatalog.ru/agency/ram_music | phone | +7(926)855-61-98 / +7(965)445-86-93 |
 | Rambler Group | медиахолдинг | https://rambler.ru | social | https://ok.ru/rambler |
 | Rambler Group | медиахолдинг | https://rambler.ru | social | https://vk.com/rambler |
 | RANCHO LOFTRancho lof | лофт | https://www.loft2rent.ru/loft/165571/165831 | phone | +7 915 005-68-25 |
@@ -5272,6 +6521,8 @@
 | RANEPA Alumni Network | комьюнити | https://ranepa.ru | social | https://vk.com/theacademy |
 | RATUSHA HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
 | Razgruzka | лофт | https://www.loft2rent.ru/loft/208022/208032 | phone | 89262268857 |
+| RB Arts Group | ивент агентство | https://eventcatalog.ru/agency/rb_arts_group | phone | +7(919)022-14-84 |
+| RBA | ивент агентство | https://eventcatalog.ru/agency/rba | phone | +7(495) 434-65-11 / +7(495) 434-64-28 |
 | RBC Sport | спортивное медиа | https://sportrbc.ru | email | sportnews@rbc.ru |
 | RBC Sport | спортивное медиа | https://sportrbc.ru | email | webmaster@rbc.ru |
 | RBC Sport | спортивное медиа | https://sportrbc.ru | social | https://ok.ru/group/51670727852273 |
@@ -5297,6 +6548,7 @@
 | RBC Style | lifestyle-медиа | https://style.rbc.ru | email | webmaster@style.rbc.ru |
 | RBC Style | lifestyle-медиа | https://style.rbc.ru | phone | +7 (495) 363-11-11 |
 | RBC Style | lifestyle-медиа | https://style.rbc.ru | social | https://t.me/rbcstyle |
+| RBTravel | ивент агентство | https://eventcatalog.ru/agency/rbtravel | phone | +7(495) 649-24-52 / +7(903) 572-69-65 |
 | RDI Group | девелопер | https://rdi.ru | email | agent@rdi.ru |
 | RDI Group | девелопер | https://rdi.ru | email | info@rdi.ru |
 | RDI Group | девелопер | https://rdi.ru | email | info@rdigeo.ru |
@@ -5307,6 +6559,7 @@
 | RDI Group | девелопер | https://rdi.ru | phone | +7 (495) 983-15-20 |
 | RDI Group | девелопер | https://rdi.ru | social | https://t.me/rdi_ru |
 | RDI Group | девелопер | https://rdi.ru | social | https://vk.com/rdi.developer |
+| Ready-Steady-Go | ивент агентство | https://eventcatalog.ru/agency/ready-steady-go | phone | +382-69-591-425 |
 | Realweb | digital-агентство | https://realweb.ru | email | hello@realweb.ru |
 | Realweb | digital-агентство | https://realweb.ru | email | hr@realweb.ru |
 | Realweb | digital-агентство | https://realweb.ru | email | msk@realweb.ru |
@@ -5341,16 +6594,25 @@
 | RED BOATЯхта BLUE MARINA | лофт | https://www.loft2rent.ru/loft/35892/66983 | phone | 84996478964 |
 | RED BOATЯхта Виктория | лофт | https://www.loft2rent.ru/loft/35892/66974 | phone | 84996478964 |
 | RED BOATЯхта Легрина | лофт | https://www.loft2rent.ru/loft/35892/66969 | phone | 84996478964 |
+| Red Dog Media | ивент агентство | https://eventcatalog.ru/agency/red_dog_media | phone | +7(495)369-46-58 |
+| Red G Team | ивент агентство | https://eventcatalog.ru/agency/red_g_team | phone | +7(812)750-05-54 |
+| Red Heads | ивент агентство | https://eventcatalog.ru/agency/red_heads | phone | +7(968)903-46-65 |
 | Red Media | медиахолдинг | https://red-media.ru | email | rating@mail.ru |
 | Red Media | медиахолдинг | https://red-media.ru | social | https://ok.ru/group/63145683452079 |
 | Red Media | медиахолдинг | https://red-media.ru | social | https://t.me/redmediatv |
 | Red Media | медиахолдинг | https://red-media.ru | social | https://vk.ru/redmediatv |
+| Red Square Group | ивент агентство | https://eventcatalog.ru/agency/red_square_group | phone | +7(495) 744-29-10 |
+| Red Star | ивент агентство | https://eventcatalog.ru/agency/red_star | phone | +7(473)333-05-68 / +7(919)233-33-99 |
 | RedBrick.loft | лофт | https://www.loft2rent.ru/loft/204932 | phone | +79818314981 |
 | Redday | event-агентство | https://redday.ru | email | email |
 | Redday | event-агентство | https://redday.ru | email | hotline@redday.ru |
+| Redday | ивент агентство | https://eventcatalog.ru/agency/redday | phone | +7(495)180-04-20 |
+| ReDiS | ивент агентство | https://eventcatalog.ru/agency/redis | phone | +7(926) 125-70-54 |
 | Regent | ресторан | https://regent.rest | phone | +7 (926) 435-55-54 |
 | Regent | ресторан | https://regent.rest | social | https://www.instagram.com/regent.rest?igsh=bHNsMG5wMXF2dXRn |
 | Regent | ресторан | https://pinski.rest/restaurants/regent/ | phone | +79264355554 |
+| Relanta | ивент агентство | https://eventcatalog.ru/agency/relanta | phone | +7(499)238-95-11 / +7(905)728-73-93 |
+| Remar Group | ивент агентство | https://eventcatalog.ru/agency/remar_group | phone | +7(812)309-88-40 / +7(800)333-88-32 |
 | Remy Kitchen Bakery | ресторан | http://remykitchenbakery.ru/ | phone | +79851829600 |
 | REN Media Group | организация | https://www.ren.tv | email | item-1@2x.cd |
 | REN Media Group | организация | https://www.ren.tv | email | item-3@2x.da |
@@ -5400,16 +6662,26 @@
 | Renaissance Insurance | страховая компания | https://www.renins.ru | social | https://t.me/renins_official |
 | Renaissance Insurance | страховая компания | https://www.renins.ru | social | https://vk.com/renins |
 | Renaissance Insurance | страховая компания | https://www.renins.ru | social | https://youtube.com/channel/UCyyIUGrIZ3OBVHQ_x7BVL8A?si=hSa4rFBUtP5u87uf |
+| Rent-A-Place | ивент агентство | https://eventcatalog.ru/agency/rent-a-place | phone | +7(495) 195-81-92 / +7(495) 795-50-00 |
 | Replace LOFTPINTEREST | лофт | https://www.loft2rent.ru/loft/118453/118455 | phone | +7 925 068-48-97 |
+| Republic Free | ивент агентство | https://eventcatalog.ru/agency/republic_free | phone | +7(495)762-17-12 |
 | Republica | ивент-спейс | https://republica.ru | email | contact@republica.ru |
 | Republica | ивент-спейс | https://republica.ru | email | printdepo@republica.ru |
 | Republica | ивент-спейс | https://republica.ru | phone | +7 (495) 180-11-11 |
 | Republica | ивент-спейс | https://republica.ru | social | https://t.me/republica_chat_bot |
 | Republica | ивент-спейс | https://republica.ru | social | https://wa.me/74951801111 |
+| RePublique | ивент агентство | https://eventcatalog.ru/agency/republique | phone | +7(495) 632-01-26 / +7(495) 649-43-59 |
 | RESO-Garantia | страховая компания | https://www.reso.ru | phone | +7 (495) 730-30-00 |
 | RESO-Garantia | страховая компания | https://www.reso.ru | phone | +7 (800) 234-18-02 |
 | RESO-Garantia | страховая компания | https://www.reso.ru | social | http://t.me/reso_ru_official |
 | RESO-Garantia | страховая компания | https://www.reso.ru | social | http://vk.com/reso_garantia |
+| Rest Business | ивент агентство | https://eventcatalog.ru/agency/rest_business | phone | +7(421) 261-12-03 |
+| Rest EVENTS | ивент агентство | https://eventcatalog.ru/agency/rest_events | phone | +7(495)765-75-72 |
+| Restar Agency | ивент агентство | https://eventcatalog.ru/agency/restar_agency | phone | +7(926)095-33-23 |
+| RestLine Company | ивент агентство | https://eventcatalog.ru/agency/restline_company | phone | +7(342) 276-18-00 / +7(342) 276-06-00 |
+| Resto Group | ивент агентство | https://eventcatalog.ru/agency/resto_group | phone | +7(495) 981-98-95 / +7(495) 921-22-22 |
+| RestPublic creative group | ивент агентство | https://eventcatalog.ru/agency/restpublic_creative_group | phone | +7(066) 045-46-40 / +7(097) 964-48-18 |
+| RG team | ивент агентство | https://eventcatalog.ru/agency/rg_team | phone | +7(499)391-98-43 |
 | Rhythm & Blues Café | музыкальный клуб / ресторан | https://rhythm-blues-cafe.ru | phone | +7 (495) 765-93-13 |
 | Rhythm & Blues Café | музыкальный клуб / ресторан | https://rhythm-blues-cafe.ru | social | https://t.me/rhythmandbluesmoscow |
 | Rhythm & Blues Café | музыкальный клуб / ресторан | https://rhythm-blues-cafe.ru | social | https://vk.com/rhythmbluescafe |
@@ -5417,21 +6689,27 @@
 | RibambelleRibambelle Vremena Goda | лофт | https://www.loft2rent.ru/loft/172437/172439 | phone | +79670912800 |
 | RibambelleRibambelle Сердце столицы | лофт | https://www.loft2rent.ru/loft/172437/172505 | phone | +79670912800 |
 | RibambelleRibambelle Хамовники | лофт | https://www.loft2rent.ru/loft/172437/172500 | phone | +79670912800 |
+| Rich and Famous | ивент агентство | https://eventcatalog.ru/agency/rich_and_famous | phone | +7(495)221-06-70 / +7(903)136-86-98 |
 | Rich Loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | RIM Group | event production / застройка / multimedia | https://rimgroup.ru | email | email |
 | RIM Group | event production / застройка / multimedia | https://rimgroup.ru | email | info@rimgroup.ru |
 | RIM Group | event production / застройка / multimedia | https://rimgroup.ru | email | zavod@tsp-s.ru |
 | RIM Group | event production / застройка / multimedia | https://rimgroup.ru | phone | +7 (938) 777-00-03 |
 | RIM Group | event production / застройка / multimedia | https://rimgroup.ru | phone | phone |
+| Rina Event | ивент агентство | https://eventcatalog.ru/agency/rina_event | phone | +7(967)117-92-17 |
+| Rino Lens | ивент агентство | https://eventcatalog.ru/agency/rino_lens | phone | +7(495) 999-52-90 / +7(495) 675-70-54 |
 | Rise Apartments Blonde Апартаменты Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Rise Apartments Pretty студия в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Rise Apartments Неоновый апартамент на 62 этаже под мероприятия в Москва Сити! | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Rise Diamond Апартаменты в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Rise-Apartments 43 floor Moscow City | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | River Loft (Река Лофт). Просторный лофт | лофт | https://www.reveltime.ru/venue/5090158?eventtype=vecherinka | phone | +79584630738 |
+| River Sound | ивент агентство | https://eventcatalog.ru/agency/river_sound | phone | +7(926)100-10-36 / +84-96-7762-977 |
 | RiverOneRiverOne, Hi-Tech lounge бар с панорамными окнами | лофт | https://www.loft2rent.ru/loft/45360/45391 | phone | 89165588810 |
 | RIZZПАРАДАЙС / ПАРАДАЙС банкетный зал | лофт | https://www.loft2rent.ru/loft/180043/180051 | phone | +79254200006 |
+| Rk Inside | ивент агентство | https://eventcatalog.ru/agency/rk_inside | phone | +7(988)559-59-18 |
 | RL Loft | лофт | https://www.loft2rent.ru/loft/160550/160552 | phone | 89788760354 |
+| RNCC Vriendschap | ивент агентство | https://eventcatalog.ru/agency/rncc_vriendschap | phone | +31-30-294-4023 / +31-65-116-6310 |
 | Rock & Roll | лофт | https://www.loft2rent.ru/loft/125195 | phone | +79990071109 |
 | Rock Bar | бар / концертная площадка | https://rockbar.ru | social | https://instagram.com/rockbar_nn |
 | Rock Bar | бар / концертная площадка | https://rockbar.ru | social | https://twitter.com/rockbar_nn |
@@ -5455,6 +6733,10 @@
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | social | https://t.me/rolf_company |
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | social | https://vk.com/rolfcompany |
 | ROLF Group | автомобильный холдинг | https://www.rolf.ru | social | https://www.youtube.com/c/ROLFCompany |
+| Roma-consulting | ивент агентство | https://eventcatalog.ru/agency/roma-consulting | phone | +7(334) 918-60-34 |
+| Romanoff Group | ивент агентство | https://eventcatalog.ru/agency/romanoff_group | phone | +7(495)923-70-87 |
+| Romantic | ивент агентство | https://eventcatalog.ru/agency/romantic | phone | +380(96)414-79-24 |
+| Romantic Moscow | ивент агентство | https://eventcatalog.ru/agency/romantic_moscow | phone | +7(495)233-04-29 |
 | Roof LoungeЗАЛ ВАЙБ | лофт | https://www.loft2rent.ru/loft/189162/195671 | phone | +7 (995) 120-59-99 |
 | Roofevents | rooftop event agency | https://roofevents.ru | email | email |
 | Roofevents | rooftop event agency | https://roofevents.ru | email | email |
@@ -5477,6 +6759,7 @@
 | Roofevents | rooftop event agency | https://roofevents.ru | social | social |
 | ROOM | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
 | Room 404 -двухэтажный лофт с панорамными окнами | лофт | https://www.loft2rent.ru/loft/1821 | phone | +74998881829 |
+| Root | ивент агентство | https://eventcatalog.ru/agency/root | phone | +7(495)181-98-05 |
 | Rosgosstrakh | организация | https://www.rgs.ru | email | career@rgs.ru |
 | Rosgosstrakh | организация | https://www.rgs.ru | email | example@mail.ru |
 | Rosgosstrakh | организация | https://www.rgs.ru | email | v.solodovnikova@spb.rgs.ru |
@@ -5489,19 +6772,39 @@
 | Rosinter Restaurants Holding | ресторанный холдинг | https://www.rosinter.ru | phone | +7 (495) 788-44-88 |
 | Rosinter Restaurants Holding | ресторанный холдинг | https://www.rosinter.ru | phone | +7 (495) 956-47-05 |
 | Rossa Loft | лофт | https://www.loft2rent.ru/loft/124023/145170 | phone | +7 (965) 417-05-97 |
+| Rost Event&Tourism | ивент агентство | https://eventcatalog.ru/agency/rost_eventandtourism | phone | +7(812)954-34-89 |
 | Rotary Club Moscow International | международный клуб | https://rcmi.ru | email | secretary@rcmi.ru |
 | Rotary Club Moscow International | международный клуб | https://rcmi.ru | social | https://t.me/gleb_tiidt |
 | ROTHSCHILD’S HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
+| Rout | ивент агентство | https://eventcatalog.ru/agency/rout | phone | +7(050) 300-98-44 / +7(093) 133-38-82 |
 | ROYAL | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
+| Royal Event | ивент агентство | https://eventcatalog.ru/agency/royal_event | phone | +7(926)727-84-84 |
+| Royal Life | ивент агентство | https://eventcatalog.ru/agency/royal_life | phone | +7(925) 802-10-22 |
+| Royal Wedding | ивент агентство | https://eventcatalog.ru/agency/royal_wedding | phone | +7(921)956-18-40 / +7(812)339-18-40 |
+| Royal-Events | ивент агентство | https://eventcatalog.ru/agency/royal-events | phone | +7(495)231-89-64 / +7(910)480-02-67 |
+| Royal-group | ивент агентство | https://eventcatalog.ru/agency/royal-group | phone | +7(964) 764-11-11 |
+| Royalevent | ивент агентство | https://eventcatalog.ru/agency/royalevent | phone | +7(916)620-00-26 |
+| RRT | ивент агентство | https://eventcatalog.ru/agency/rrt | phone | +700000 |
+| RT Event & MICE | ивент агентство | https://eventcatalog.ru/agency/rt_event_and_mice | phone | +7(921)370-57-62 |
+| RU Media-Group | ивент агентство | https://eventcatalog.ru/agency/ru_media-group | phone | +7(499) 390-57-27 |
 | RubiconКонференц-зал до 12 человек в центре СПБ | лофт | https://www.loft2rent.ru/loft/170656/170666 | phone | +79110008819 |
 | RubiconКонференц-зал до 25 человек в центре СПБ | лофт | https://www.loft2rent.ru/loft/170656/170658 | phone | +79110008819 |
 | RubiconКонференц-зал до 60 человек в центре СПБ | лофт | https://www.loft2rent.ru/loft/170656/170663 | phone | +79110008819 |
+| Rudanovsky Productions | ивент агентство | https://eventcatalog.ru/agency/rudanovsky_productions | phone | +7(967) 351-01-85 |
+| Run The Show | ивент агентство | https://eventcatalog.ru/agency/run_the_show | phone | +7(495)664-69-43 / +7(915)267-08-39 |
+| RunFun | ивент агентство | https://eventcatalog.ru/agency/runfun | phone | +7(926) 407-55-55 / +7(903) 115-06-94 |
+| Rusconcert | ивент агентство | https://eventcatalog.ru/agency/rusconcert | phone | +7(495) 505-22-98 / +7(495) 771-12-81 |
+| RusEventProject | ивент агентство | https://eventcatalog.ru/agency/ruseventproject | phone | +7(495) 363-65-41 / +7(495) 926-09-45 |
+| Rush | ивент агентство | https://eventcatalog.ru/agency/rush | phone | +7(863) 240-62-11 |
+| Russian Event Consulting | ивент агентство | https://eventcatalog.ru/agency/russian_event_consulting | phone | +7(499)390-57-40 |
+| Russian Events | ивент агентство | https://eventcatalog.ru/agency/russian_events | phone | +7(919) 960-26-73 / +7(495) 759-86-67 |
 | Russian Post | почтовый оператор | https://www.pochta.ru | social | http://vk.com/russianpost |
 | Russian Post | почтовый оператор | https://www.pochta.ru | social | https://ok.ru/ruspostofficial |
 | Russian Post | почтовый оператор | https://www.pochta.ru | social | https://t.me/+bXSxMVtXUN5jMjU6 |
 | Russian Post | почтовый оператор | https://www.pochta.ru | social | https://t.me/b2bpochta |
 | Russian Post | почтовый оператор | https://www.pochta.ru | social | https://t.me/napochte |
 | Russian Post | почтовый оператор | https://www.pochta.ru | social | https://t.me/russianpochta |
+| Russian Promotion Company | ивент агентство | https://eventcatalog.ru/agency/russian_promotion_company | phone | +7(938)445-97-77 |
 | Russian Railways | организация | https://rzd.ru | email | ticket@rzd.ru |
 | Russian Railways | организация | https://rzd.ru | social | https://ok.ru/group/52571620376641 |
 | Russian Railways | организация | https://rzd.ru | social | https://t.me/telerzd |
@@ -6625,6 +7928,7 @@
 | RuVDS | cloud / hosting provider | https://ruvds.com | social | https://t.me/ruvds_community |
 | RuVDS | cloud / hosting provider | https://ruvds.com | social | https://vk.com/ru_vds |
 | RuVDS | cloud / hosting provider | https://ruvds.com | social | https://www.youtube.com/c/Ruvds |
+| S-Gusto | ивент агентство | https://eventcatalog.ru/agency/s-gusto | phone | +7(905) 575-44-21 / +7(916) 023-36-99 |
 | Sabor de la VidaРесторан Sabor de la Vida | лофт | https://www.loft2rent.ru/loft/209177/209999 | phone | +7 (926) 222-71-22 |
 | Safisa | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Sakhalin | ресторан | https://sakhalin-moscow.ru | email | welcome@sakhalin-moscow.ru |
@@ -6661,6 +7965,12 @@
 | SALT.WEDDING | свадебное агентство | http://saltwedding.ru | phone | +7 (920) 096-60-68 |
 | SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://t.me/saltwedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20SALT.WEDDING.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | SALT.WEDDING | свадебное агентство | http://saltwedding.ru | social | https://www.instagram.com/salt.wedding |
+| Salute | ивент агентство | https://eventcatalog.ru/agency/salute | phone | +7(921)965-16-25 / +7(812)604-25-25 |
+| Salvador | ивент агентство | https://eventcatalog.ru/agency/salvador | phone | +7(985)481-56-52 |
+| Sanctu ignes | ивент агентство | https://eventcatalog.ru/agency/sanctu_ignes | phone | +7(903)447-40-26 |
+| Sand Project | ивент агентство | https://eventcatalog.ru/agency/sand_project | phone | +7(495) 999-29-45 |
+| Sandazh | ивент агентство | https://eventcatalog.ru/agency/sandazh | phone | +7(38044) 209-69-00 |
+| Sandraevent | ивент агентство | https://eventcatalog.ru/agency/sandraevent | phone | +7(499)136-67-79 |
 | Sangre Fresca | бар | https://sangre-fresca.com/ | phone | +74956468060 |
 | Sansara LoftBreeze - новый лофт для праздников под ключ | лофт | https://www.loft2rent.ru/loft/203791/203838 | phone | 89151989966 |
 | Sansara LoftGlam - лофт с караоке, диско-шаром и приставкой для ваших мероприятий | лофт | https://www.loft2rent.ru/loft/203791/203834 | phone | 89151989966 |
@@ -6675,6 +7985,8 @@
 | SAP Russia | enterprise software company | https://www.sap.com | social | https://www.linkedin.com/company/sap |
 | SAP Russia | enterprise software company | https://www.sap.com | social | https://www.youtube.com/@SAP |
 | Sapphire — яркий, классический лофт с караоке, 8 минут от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
+| Sapupa.ru | ивент агентство | https://eventcatalog.ru/agency/sapupa_ru | phone | +7(495) 589-53-16 |
+| Sarafan group | ивент агентство | https://eventcatalog.ru/agency/sarafan_group | phone | +7(978)899-59-61 |
 | Saray | ресторан | http://saray.lucky-group.rest/ | phone | +74951898819 |
 | Sartoria Lamberti | ресторан | https://www.sartorialamberti.com/ | phone | +74957950025 |
 | SAV Entertainment | концертный оператор | https://savshow.ru | email | daria@saventertainment.ru |
@@ -6694,6 +8006,8 @@
 | Sava loft с уютной верандой и грилем | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | SAVANNAH LOFT | лофт | https://www.loft2rent.ru/loft/140407/140409 | phone | 89259700202 |
 | SAVANNAH LOFTSPACE LOFT | лофт | https://www.loft2rent.ru/loft/140407/177594 | phone | 89259700202 |
+| Saventa | ивент агентство | https://eventcatalog.ru/agency/saventa | phone | +7(495) 616-66-87 / +7(915) 366-47-14 |
+| Savik&Partners | ивент агентство | https://eventcatalog.ru/agency/savikandpartners | phone | +7(495) 788-17-79 |
 | SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | email | email |
 | SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | email | savina.wedding@mail.ru |
 | SAVINA WEDDING | свадебное агентство | http://savinawedding.ru | phone | +7 (929) 606-27-96 |
@@ -6717,6 +8031,7 @@
 | Savva | ресторан | https://savvarest.ru | social | https://www.instagram.com/ludi.govoryat |
 | Savva | ресторан | https://savvarest.ru | social | https://www.instagram.com/savva.restaurant?igsh=MTVsMHN2OTF1Z25kMA== |
 | Savva | ресторан | https://www.savvarest.ru/ | phone | +74997959999 |
+| SazonovStudio | ивент агентство | https://eventcatalog.ru/agency/sazonovstudio | phone | +7(812)600-92-48 / +7(921)953-69-00 |
 | SB Lounge BarКальянная SB Lounge Bar | лофт | https://www.loft2rent.ru/loft/209098/209104 | phone | 89251013238 |
 | SberCloud | cloud provider | https://cloud.ru | email | hr@cloud.ru |
 | SberCloud | cloud provider | https://cloud.ru | email | pr@cloud.ru |
@@ -6729,7 +8044,10 @@
 | SberCloud | cloud provider | https://cloud.ru | social | https://t.me/cloudruprovider |
 | SberCloud | cloud provider | https://cloud.ru | social | https://vk.com/cloudru |
 | SberCloud | cloud provider | https://cloud.ru | social | https://www.youtube.com/@cloudru |
+| SBM | ивент агентство | https://eventcatalog.ru/agency/sbm | phone | +7(495) 220-82-42 / +7(495) 220-82-56 |
 | ScandyLoft / СкандиЛофт | лофт | https://www.loft2rent.ru/loft/108903/108906 | phone | +79152223001 |
+| Scenarium | ивент агентство | https://eventcatalog.ru/agency/scenarium | phone | +7(916) 104-74-44 |
+| SCommunications | ивент агентство | https://eventcatalog.ru/agency/scommunications | phone | +7(905)205-43-21 |
 | Sculpt Moscow | fitness / wellness studio | https://sculptstudio.ru | email | info@sculptstudio.ru |
 | Sculpt Moscow | fitness / wellness studio | https://sculptstudio.ru | email | pr@sculptstudio.ru |
 | Sculpt Moscow | fitness / wellness studio | https://sculptstudio.ru | phone | +7 (925) 076-07-10 |
@@ -6743,8 +8061,10 @@
 | SD_loungeSD_lounge Самый большой лаунж-бар в России! | лофт | https://www.loft2rent.ru/loft/118930/118944 | phone | 89254200006 |
 | SD_loungeSD_lounge_space | лофт | https://www.loft2rent.ru/loft/118930/119081 | phone | 89254200006 |
 | Sea Grill банкетный зал с панорамным видом на Неву | лофт | https://www.loft2rent.ru/loft/169659 | phone | +79112601333 |
+| Sea&Fun | ивент агентство | https://eventcatalog.ru/agency/seaandfun | phone | +7(926) 380-95-01 / +7(926) 524-68-11 |
 | Secret lounge | лофт | https://www.loft2rent.ru/loft/163923/164276 | phone | +7 (993) 005-31-67 |
 | Segreto | лофт | https://www.loft2rent.ru/loft/129937/129940 | phone | +7 909 949 50 85 |
+| Selebration | ивент агентство | https://eventcatalog.ru/agency/selebration | phone | +7(8332)32-16-87 / +7(912)734-40-64 |
 | Select Hotel Paveletskaya | отель | https://select-hotel.ru | phone | +7 495 788-77-00 |
 | Selectel | cloud provider | https://selectel.ru | email | ir@selectel.ru |
 | Selectel | cloud provider | https://selectel.ru | email | pr@selectel.ru |
@@ -6763,8 +8083,15 @@
 | Selfie | ресторан | https://selfiemoscow.ru | social | https://t.me/SelfieGuideBot |
 | Selfie | ресторан | https://selfiemoscow.ru | social | https://t.me/selfierest |
 | Selfie | ресторан | https://selfiemoscow.ru/ | phone | +74959958503 |
+| Selyanin | ивент агентство | https://eventcatalog.ru/agency/selyanin | phone | +7(812)934-82-62 / +7(911)229-83-12 |
 | Semifreddo | ресторан | https://semifreddo-restaurant.com/ | phone | +74951815555 |
+| Sense of Life | ивент агентство | https://eventcatalog.ru/agency/sense_of_life | phone | +7(911)271-05-46 / +7(904)559-91-05 |
 | Sent Loft | лофт | https://www.loft2rent.ru/loft/48959 | phone | +79150883390 |
+| Serebro | ивент агентство | https://eventcatalog.ru/agency/serebro | phone | +7(913) 903-79-61 / +7(383) 380-92-00 |
+| Serena Event Agency | ивент агентство | https://eventcatalog.ru/agency/serena_event_agency | phone | +7(495)765-11-01 |
+| Serpentine | ивент агентство | https://eventcatalog.ru/agency/serpentine | phone | +7(485) 268-14-87 / +7info@avangard-rus. |
+| Service A Travel & Events | ивент агентство | https://eventcatalog.ru/agency/service_a_travel_and_events | phone | +7(926) 207-16-71 |
+| Set Services | ивент агентство | https://eventcatalog.ru/agency/set_services | phone | +7(499) 762-66-06 |
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | email | dvk@pn.ru |
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | email | garant@setlgroup.ru |
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | email | hr@setlgroup.ru |
@@ -6776,7 +8103,13 @@
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | social | https://t.me/setlgroup |
 | Setl Group (МСК представительство) | организация | https://setlgroup.ru | social | https://vk.com/setlgroupnews |
 | Setl Комьюнити / Сэтл КомьюнитиSetl Комьюнити ЖК "Солнечный город. Резиденции" | лофт | https://www.loft2rent.ru/loft/182811/182826 | phone | 89319905580 |
+| Setup Agency | ивент агентство | https://eventcatalog.ru/agency/setup_agency | phone | +7(495) 626-41-50 / +7(963) 782-50-53 |
+| Seven Communications | ивент агентство | https://eventcatalog.ru/agency/seven_communications | phone | +380(44)500-77-80 |
+| Seventeen | ивент агентство | https://eventcatalog.ru/agency/seventeen | phone | +7(499) 340-01-81 |
 | Severyane | ресторан | https://severyane.com | social | https://wa.me/+77010446666 |
+| SGArt | ивент агентство | https://eventcatalog.ru/agency/sgart | phone | +7(499)399-30-52 |
+| SGP | ивент агентство | https://eventcatalog.ru/agency/sgp | phone | +7(846)989-00-97 / +7(987)950-30-11 |
+| Shake Up | ивент агентство | https://eventcatalog.ru/agency/shake_up | phone | +7(913)950-99-33 |
 | Shaker GroupBunin Bar | лофт | https://clck.ru/pPfur | phone | 89222272628 |
 | Shaker GroupCoyote Ugly | лофт | https://www.loft2rent.ru/loft/54661/54690 | phone | 89222272628 |
 | Shaker GroupStar Bar | лофт | https://www.loft2rent.ru/loft/54661/54685 | phone | 89222272628 |
@@ -6787,13 +8120,32 @@
 | ShantiPlaceShantiPlace Зал Музей | лофт | https://www.loft2rent.ru/loft/94258/94288 | phone | +79163083838 |
 | ShantiPlaceShantiPlace Каминный зал | лофт | https://www.loft2rent.ru/loft/94258/94329 | phone | +79163083838 |
 | ShantiPlaceShantiPlace Музыкальный зал | лофт | https://www.loft2rent.ru/loft/94258/94326 | phone | +79163083838 |
+| Sharmol | ивент агентство | https://eventcatalog.ru/agency/sharmol-1 | phone | +7(495) 972-11-12 / +7(495) 971-18-12 |
+| Sharmol | ивент агентство | https://eventcatalog.ru/agency/sharmol | phone | +7(495) 972-11-12 |
 | Sheraton Skypoint Luxe | отель | https://ostrovok.ru/hotel/russia/moscow/mid8022376/sheraton_moscow_sheremetyevo_airport_hotel | address | шоссе Международное, д.28Б, стр.5, Москва |
 | Shisha lounge room (Кальянная комната) № 257 | лофт | https://www.reveltime.ru/venue/6435477?eventtype=vecherinka | phone | +79584974089 |
+| Shkaprov elite event agency | ивент агентство | https://eventcatalog.ru/agency/shkaprov_elite_event_agency | phone | +7(495) 641-42-61 |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | email | info@shkulev.ru |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | phone | +7 (495) 633-57-57 |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | social | https://t.me/shkulevholding |
 | Shkulev Media Holding | медиахолдинг | https://shkulevholding.ru | social | https://vk.com/shkulevholding |
+| Shooters Catervent | ивент агентство | https://eventcatalog.ru/agency/shooters_catervent | phone | +7(050) 014-81-48 / +7(063) 444-46-22 |
+| Show | ивент агентство | https://eventcatalog.ru/agency/show | phone | +7(495)255-27-03 |
+| Show Dream | ивент агентство | https://eventcatalog.ru/agency/show_dream | phone | +7(495)215-20-38 |
+| Show Effect | ивент агентство | https://eventcatalog.ru/agency/show_effect | phone | +7(926)285-12-34 |
+| Show Life Production | ивент агентство | https://eventcatalog.ru/agency/show_life_production | phone | +7(495)228-18-45 |
+| Show Prod | ивент агентство | https://eventcatalog.ru/agency/show_prod | phone | +7(963)925-86-86 / +7(903)533-99-29 |
+| Show time | ивент агентство | https://eventcatalog.ru/agency/show_time | phone | +380(66)812-07-33 |
 | Show TodayЛофт в стиле ТВ ШОУ | лофт | https://www.loft2rent.ru/loft/126644/126646 | phone | +79998280732 |
+| Show&Motion | ивент агентство | https://eventcatalog.ru/agency/showandmotion | phone | +7(499) 270-09-52 |
+| Show.media | ивент агентство | https://eventcatalog.ru/agency/show_media | phone | +7(863) 221-69-99 |
+| Showbizpro | ивент агентство | https://eventcatalog.ru/agency/showbizpro | phone | +7(926) 222-98-42 |
+| ShowCompany | ивент агентство | https://eventcatalog.ru/agency/showcompany | phone | +7(812)716-50-00 |
+| ShowMaker | ивент агентство | https://eventcatalog.ru/agency/showmaker | phone | +7(916)473-30-73 / +7(964)786-26-52 |
+| Showtime Харьков | ивент агентство | https://eventcatalog.ru/agency/showtime_harjkov | phone | +7(066) 468-18-08 / +7(057) 754-40-95 |
+| Shtorm | ивент агентство | https://eventcatalog.ru/agency/shtorm | phone | +7(911)086-95-30 / +7(977)317-36-81 |
+| Sibevent group | ивент агентство | https://eventcatalog.ru/agency/sibevent_group | phone | +7(838)229-42-49 / +7(952)157-90-75 |
+| Sichkar Group | ивент агентство | https://eventcatalog.ru/agency/sichkar_group | phone | +7(800)550-06-65 / +7(861)203-02-90 |
 | Signal Festival | музыкальный фестиваль | https://signal.live | email | art@signal.live |
 | Signal Festival | музыкальный фестиваль | https://signal.live | email | camp@signal.live |
 | Signal Festival | музыкальный фестиваль | https://signal.live | email | feedback@signal.live |
@@ -6804,6 +8156,7 @@
 | Signal Festival | музыкальный фестиваль | https://signal.live | social | https://t.me/signal_live |
 | Signal Festival | музыкальный фестиваль | https://signal.live | social | https://vk.com/signal.live |
 | Signal Festival | музыкальный фестиваль | https://signal.live | social | https://www.youtube.com/@signallive6804 |
+| Sila Group | ивент агентство | https://eventcatalog.ru/agency/sila_group | phone | +7(995)112-13-75 / +90(531)689-3510 |
 | Sila Sveta | multimedia production studio | https://silasveta.com | email | email |
 | Sila Sveta | multimedia production studio | https://silasveta.com | email | hello@silasveta.com |
 | Sila Sveta | multimedia production studio | https://silasveta.com | social | https://t.me/silasveta_kitchen |
@@ -6818,15 +8171,22 @@
 | Sila Sveta | multimedia production studio | https://silasveta.com | social | social |
 | Sila Sveta | multimedia production studio | https://silasveta.com | social | social |
 | Silencio | бар | https://alfa.me/db1OAY | phone | +74951458858 |
+| Silent Disco | ивент агентство | https://eventcatalog.ru/agency/silent_disco | phone | +7(495)166-25-19 |
+| Silver Event | ивент агентство | https://eventcatalog.ru/agency/silver_event | phone | +7(495) 730-10-01 |
 | Silverpool  площадка с баней-бассейном-джакузиSilverpool площадка с баней-бассейном-джакузи | лофт | https://www.loft2rent.ru/loft/127753/127758 | phone | +79150638860 |
 | Simple loft с уютной верандой и грилем | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | SIMPLE. VIP 1 (СИМПЛ. ВИП 1). Лофт на мансардном этаже с покерным столом | лофт | https://www.reveltime.ru/venue/5292784?eventtype=vecherinka | phone | +79676928564 |
 | SIMPLE. VIP 1 (СИМПЛ. ВИП 1). Неоновый лофт на мансардном этаже | лофт | https://www.reveltime.ru/venue/5292838?eventtype=vecherinka | phone | +79676928674 |
 | SIMPLE. VIP 4 (СИМПЛ. ВИП 4). Неоновый лофт с покерным столом | лофт | https://www.reveltime.ru/venue/6318106?eventtype=vecherinka | phone | +79584974167 |
+| Simplicity | ивент агентство | https://eventcatalog.ru/agency/simplicity | phone | +7(812) 950-69-19 / +7(921) 303-72-43 |
+| Siriys Communication Group | ивент агентство | https://eventcatalog.ru/agency/siriys_communication_group | phone | +7(495) 585-70-79 |
 | Sixty | ресторан | https://sixtyrestaurant.ru | phone | +7 (967) 288-69-93 |
 | Sixty | ресторан | https://sixtyrestaurant.ru | social | https://t.me/sixtymoscow |
 | Sixty | ресторан | https://sixtyrestaurant.ru | social | https://vk.com/sixtymoscow |
 | Sixty | ресторан | https://sixtyrestaurant.ru | social | https://wa.me/79152406060 |
+| Skazka Project | ивент агентство | https://eventcatalog.ru/agency/skazka_project | phone | +7(812)921-13-80 / +7(911)921-13-80 |
+| Skill | ивент агентство | https://eventcatalog.ru/agency/skill | phone | +374-60-707-570 |
+| SKM | ивент агентство | https://eventcatalog.ru/agency/skm | phone | +7(961)478-18-00 / +7(906)499-98-85 |
 | Skolkovo Golf Club | гольф-клуб | https://skolkovogolf.com | email | hr@skolkovogolf.com |
 | Skolkovo Golf Club | гольф-клуб | https://skolkovogolf.com | email | info@skolkovogolf.com |
 | Skolkovo Golf Club | гольф-клуб | https://skolkovogolf.com | email | partnership@skolkovogolf.com |
@@ -6836,6 +8196,7 @@
 | Skolkovo Golf Club | гольф-клуб | https://skolkovogolf.com | phone | +7 (495) 777-98-99 |
 | Skolkovo Golf Club | гольф-клуб | https://skolkovogolf.com | social | https://t.me/skolkovogolfclub |
 | SKY | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
+| Sky | ивент агентство | https://eventcatalog.ru/agency/sky | phone | +7(925)353-75-75 |
 | Sky Apartments | лофт | https://www.loft2rent.ru/loft/47177/196147 | phone | +74952553934 |
 | Sky City MoscowCity View | лофт | https://www.loft2rent.ru/loft/165490/190017 | phone | 89264450404 |
 | Sky City MoscowPlatinum Orange | лофт | https://www.loft2rent.ru/loft/165490/190008 | phone | 89264450404 |
@@ -6848,6 +8209,8 @@
 | Sky Individual Апартаменты в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | Sky Lounge Апартаменты в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | 89958998202 |
 | Sky Terrasse | лофт | https://www.loft2rent.ru/loft/78928/78932 | phone | 88129592686 |
+| Sky-Events | ивент агентство | https://eventcatalog.ru/agency/sky-events | phone | +7(495) 979-08-43 / +7(926) 584-37-11 |
+| Skyfest | ивент агентство | https://eventcatalog.ru/agency/skyfest | phone | +7(499)390-95-39 / +20(19_)___-____ |
 | SkyLine 59 Уютный Апартмент в Москва Сити | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
 | SKYNIA HALL / Скиния Холл | лофт | https://www.loft2rent.ru/loft/131578/131583 | phone | 8 (495) 41-41-491 |
 | SKYPOINT STUDIOБольшая гостиная | лофт | https://www.loft2rent.ru/loft/118092/118094 | phone | 8 952 222 4599 |
@@ -6861,7 +8224,27 @@
 | SKYPOINT STUDIOСРЕДНИЙ ЛОФТ 50 | лофт | https://www.loft2rent.ru/loft/118092/118149 | phone | +79111280012 |
 | SKYPOINT STUDIOУЮТ | лофт | https://www.loft2rent.ru/loft/118092/118155 | phone | +79315933082 |
 | SKYPOINT STUDIOХОЛЛ | лофт | https://www.loft2rent.ru/loft/118092/118119 | phone | 8 952 222 4599 |
+| Skyworker | ивент агентство | https://eventcatalog.ru/agency/skyworker | phone | +7(926) 325-63-65 / +7(495) 960-79-44 |
+| SLG group - Producing & Media | ивент агентство | http://slg-g.com | phone | +7(495)532-58-38 / +7(915)231-99-98 |
+| Slon _ | ивент агентство | https://eventcatalog.ru/agency/slon-1 | phone | +7(495) 663-72-13 |
+| Slon event storytelling | ивент агентство | https://eventcatalog.ru/agency/slon_event_storytelling | phone | +7(916)478-34-96 / +7(495)663-72-13 |
+| SLS Group | ивент агентство | https://eventcatalog.ru/agency/sls_group | phone | +7(499)553-06-54 |
+| Sm:art events & consulting | ивент агентство | https://eventcatalog.ru/agency/sm_art_events_and_consulting | phone | +7(495) 290-08-72 |
+| Smart | ивент агентство | https://eventcatalog.ru/agency/smart | phone | +7(495)980-89-66 |
+| Smart Emotions | ивент агентство | https://eventcatalog.ru/agency/smart_emotions | phone | +7(495)648-41-31 |
+| Smart Event | ивент агентство | https://eventcatalog.ru/agency/smart_event | phone | +7(727)354-78-78 / +7(707)354-78-78 |
+| Smart Event Group | ивент агентство | https://eventcatalog.ru/agency/smart_event_group | phone | +7(926) 530-40-40 |
+| Smart events & fundraising | ивент агентство | https://eventcatalog.ru/agency/smart_events_and_fundraising | phone | +7(495)229-88-56 |
+| Smart Events by Zolotukhina | ивент агентство | https://eventcatalog.ru/agency/smart_events_by_zolotukhina | phone | +7(921)961-27-70 |
+| Smart Management Group | ивент агентство | http://www.mgsmart.ru | phone | +7(812)385-54-55 / +7(921)900-47-77 |
+| Smart Motion | ивент агентство | https://eventcatalog.ru/agency/smart_motion | phone | +7(495)120-77-74 |
+| Smart.Network | ивент агентство | https://eventcatalog.ru/agency/smart_network | phone | +7(916)945-72-51 |
+| Smartberry | ивент агентство | https://eventcatalog.ru/agency/smartberry | phone | +7(749) 579-80-73 / +7(749) 562-68-20 |
+| SMARTBERRY Event Solutions | ивент агентство | https://eventcatalog.ru/agency/smartberry_event_solutions | phone | +7(495) 626-82-02 / +7(495) 798-07-39 |
 | Smartcomm | PR-агентство | https://smartcomm.ru | phone | +7 495 937-50-50 |
+| Smile Time | ивент агентство | https://eventcatalog.ru/agency/smile_time | phone | +7(978)816-24-37 / +7(978)213-39-98 |
+| Smile-Group | ивент агентство | https://eventcatalog.ru/agency/smile-group | phone | +7(926) 614-44-31 |
+| Smilin' Box | ивент агентство | https://eventcatalog.ru/agency/smilin_box | phone | +7(499)391-40-34 |
 | Smoke BBQ | ресторан / бар | https://smokebbq.ru/msk | phone | +74993995372 |
 | Smoky rooms | лофт | https://www.loft2rent.ru/loft/53089 | phone | 89099256100 |
 | Snob | lifestyle-медиа | https://snob.ru | email | benefit@snob.ru |
@@ -6891,6 +8274,9 @@
 | Snob | lifestyle-медиа | https://snob.ru | social | https://twitter.com/snob_project |
 | Snob | lifestyle-медиа | https://snob.ru | social | https://vk.com/club17760452 |
 | Snob | lifestyle-медиа | https://snob.ru | social | https://www.youtube.com/channel/UC1geY6Cj8u2UxnnL4KhCasQ |
+| Snovaprazdnik | ивент агентство | https://eventcatalog.ru/agency/snovaprazdnik | phone | +7(964) 573-63-63 |
+| SO Creative Group | ивент агентство | https://eventcatalog.ru/agency/so_creative_group | phone | +7(495) 968-92-62 |
+| Sobytie Communications | ивент агентство | http://www.so-bytie.ru | phone | +7(495)921-05-72 |
 | Soderis Residence & Spa | отель | https://ostrovok.ru/hotel/russia/moscow/mid9209124/soderis_residence_spa_hotel | address | 2-я Бородинская улица, 20, Москва |
 | SOFT | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
 | Softline | IT-компания | https://softline.ru | email | edusales@softline.ru |
@@ -7019,7 +8405,12 @@
 | SoldOut Loft | лофт | https://www.loft2rent.ru/loft/40111/40113 | phone | 8(985) 362-45-58 |
 | SoldOut Lофт (Солдаут Лофт). Лофт с панорамными окнами | лофт | https://www.reveltime.ru/venue/3372282?eventtype=vecherinka | phone | +79893636021 |
 | Solist loft | лофт | https://www.loft2rent.ru/loft/101644 | phone | +7 993 075-29-93 |
+| Solnechnaya | ивент агентство | https://eventcatalog.ru/agency/solnechnaya | phone | +7(925)230-31-09 |
 | Solo Loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Solvit | ивент агентство | https://eventcatalog.ru/agency/solvit | phone | +7(495) 723-48-94 / +7(963) 674-29-44 |
+| SOM Solutions | ивент агентство | https://eventcatalog.ru/agency/som_solutions | phone | +7(926) 528-86-80 |
+| Somnium Event & Lighting | ивент агентство | https://eventcatalog.ru/agency/somnium_event_and_lighting | phone | +7(495) 991-60-57 |
+| Sorpresa | ивент агентство | https://eventcatalog.ru/agency/sorpresa | phone | +7(495)524-05-27 / +7(916)549-04-13 |
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | email | ao@sostav.ru |
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | email | en@sostav.ru |
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | email | glavred@sostav.ru |
@@ -7054,6 +8445,8 @@
 | Sostav (Ad/media industry) | организация | https://www.sostav.ru | social | https://vk.com/sostavru |
 | Soulful Loft (Соулфул Лофт). Стильное лофт-пространство | лофт | https://www.reveltime.ru/venue/2146836?eventtype=vecherinka | phone | +79386982643 |
 | Soulfulloft Лофт в бизнес-центре | лофт | https://www.reveltime.ru/venue/281170?eventtype=vecherinka | phone | +79774984998 |
+| South Traffic | ивент агентство | https://eventcatalog.ru/agency/south_traffic | phone | +7(978)072-22-08 |
+| Sova Team | ивент агентство | https://eventcatalog.ru/agency/sova_team | phone | +7(495)101-38-85 |
 | Sovcomflot | судоходная компания | https://www.sovcomflot.ru | email | info@scf-group.ru |
 | Sovcomflot | судоходная компания | https://www.sovcomflot.ru | email | spbinfo@scf-group.ru |
 | Sovcomflot | судоходная компания | https://www.sovcomflot.ru | phone | +7 (495) 660-40-00 |
@@ -7096,7 +8489,13 @@
 | Spark Media | медиакомпания | https://spark.ru | social | https://vk.com/gospark |
 | Spark Media | медиакомпания | https://spark.ru | social | https://www.facebook.com/spark.ru |
 | Spark Media | медиакомпания | https://spark.ru | social | https://www.instagram.com/spark_project |
+| Sparks | ивент агентство | https://eventcatalog.ru/agency/sparks | phone | +7(963)681-80-90 |
 | SPBFOTOфотостудия SPBFOTO | лофт | https://www.loft2rent.ru/loft/73666/73671 | phone | +78126291315 |
+| Special Agency | ивент агентство | https://eventcatalog.ru/agency/special_agency | phone | +7(495)287-76-25 |
+| Special Events | ивент агентство | https://eventcatalog.ru/agency/special_events | phone | +7(495) 646-26-11 / +7(495) 646-26-22 |
+| Special events CDS | ивент агентство | https://eventcatalog.ru/agency/special_events_cds | phone | +7(911)914-87-09 / +34(603)427-453 |
+| Special Project Agency | ивент агентство | https://eventcatalog.ru/agency/special_project_agency | phone | +7(495)287 76 30 |
+| Splendid agency | ивент агентство | https://eventcatalog.ru/agency/splendid_agency | phone | +7(985) 134-43-47 / +7(916) 901-46-60 |
 | SPN Communications | коммуникационное агентство | https://spncomms.com | email | careerstart@spncomms.com |
 | SPN Communications | коммуникационное агентство | https://spncomms.com | email | email |
 | SPN Communications | коммуникационное агентство | https://spncomms.com | email | email |
@@ -7104,6 +8503,9 @@
 | SPN Communications | коммуникационное агентство | https://spncomms.com | email | info.kz@spncomms.com |
 | SPN Communications | коммуникационное агентство | https://spncomms.com | email | info@spncomms.com |
 | SPN Communications | коммуникационное агентство | https://spncomms.com | phone | +7 812 332-16-55 |
+| SPN Communications | ивент агентство | http://spncomms.com | phone | +7(495)510-22-00 |
+| Sport Emotions | ивент агентство | https://eventcatalog.ru/agency/sport_emotions | phone | +7(499)348-21-25 |
+| Sport Event BVC | ивент агентство | https://eventcatalog.ru/agency/sport_event_bvc | phone | +7(911)215-50-00 |
 | Sports.ru | спортивное медиа | https://www.sports.ru | email | abuse@sports.ru |
 | Sports.ru | спортивное медиа | https://www.sports.ru | email | editorial@sports.ru |
 | Sports.ru | спортивное медиа | https://www.sports.ru | email | info@sports.ru |
@@ -7116,7 +8518,10 @@
 | Sports.ru | спортивное медиа | https://www.sports.ru | social | https://vk.com/sportsru |
 | Sports.ru | спортивное медиа | https://www.sports.ru | social | https://www.instagram.com/sportsru |
 | SportStationEvent Hall | лофт | https://www.loft2rent.ru/loft/77925/77931 | phone | 89646442436 |
+| Spring Solutions | ивент агентство | https://eventcatalog.ru/agency/spring_solutions | phone | +7(978)859-59-74 / +7(915)303-60-84 |
+| Squadra | ивент агентство | https://eventcatalog.ru/agency/squadra | phone | +7(495) 777-30-72 / +7(499) 504-64-54 |
 | SredaБольшой зал | лофт | https://www.loft2rent.ru/loft/163980/164920 | phone | +79163304414 |
+| Sshikom | ивент агентство | https://eventcatalog.ru/agency/sshikom | phone | +7(495) 221-76-37 |
 | St. Regis Moscow Astor | luxury-отель | https://stregis.com | social | https://www.facebook.com/stregis |
 | St. Regis Moscow Astor | luxury-отель | https://stregis.com | social | https://www.instagram.com/%username% |
 | St. Regis Moscow Astor | luxury-отель | https://stregis.com | social | https://www.instagram.com/p/C-DkQbBRBeI |
@@ -7221,8 +8626,11 @@
 | St. Regis Moscow Astor | luxury-отель | https://stregis.com | social | https://www.instagram.com/stregishotels |
 | St. Regis Moscow Astor | luxury-отель | https://stregis.com | social | https://www.instagram.com/tv/CgVh3qVDY6s |
 | St. Regis Moscow Astor | luxury-отель | https://stregis.com | social | https://www.twitter.com/stregishotels |
+| Stagecom | ивент агентство | https://eventcatalog.ru/agency/stagecom | phone | +7(495) 637-02-70 / +7(925) 518-48-45 |
 | STAR LOFT | лофт | https://www.loft2rent.ru/loft/134148 | phone | +7 (995) 626-65-65 |
 | Star Lounge | лофт | https://www.loft2rent.ru/loft/197170/197172 | phone | +79259900335 |
+| Star way | ивент агентство | https://eventcatalog.ru/agency/star_way | phone | +7(910)684-15-18 |
+| Stardast | ивент агентство | https://eventcatalog.ru/agency/stardast | phone | +7(953)600-58-68 / +_(___)___-____ |
 | StarHit (Shkulev) | организация | https://www.starhit.ru | email | contactus@starhit.ru |
 | StarHit (Shkulev) | организация | https://www.starhit.ru | email | starhit.ru_legal@shkulev.ru |
 | StarHit (Shkulev) | организация | https://www.starhit.ru | social | https://ok.ru/group/54100754169874 |
@@ -7238,9 +8646,13 @@
 | Start | онлайн-кинотеатр | https://start.ru | email | support@start.ru |
 | Start Loft Новосибирск Галущака 9 | лофт | https://www.loft2rent.ru/loft/86655 | phone | 89039328089 |
 | Start Production | продакшн-студия | https://start.ru | email | support@start.ru |
+| Start Up | ивент агентство | https://eventcatalog.ru/agency/start_up | phone | +7(903) 239-99-89 / +7(926) 571-59-12 |
+| StarVizion | ивент агентство | https://eventcatalog.ru/agency/starvizion | phone | +7(495) 796-43-33 |
+| StarWave | ивент агентство | https://eventcatalog.ru/agency/starwave | phone | +7(495) 410-01-54 |
 | Status LoftСтатус Лофт на Кадетской | лофт | https://www.loft2rent.ru/loft/73553/73555 | phone | +79219356035 |
 | Status LoftСтатус Лофт на Лиговском | лофт | https://www.loft2rent.ru/loft/73553/94955 | phone | +79219356035 |
 | Status LoftСтатус Лофт на Площади Ленина | лофт | https://www.loft2rent.ru/loft/73553/115809 | phone | +79219356035 |
+| Status Up | ивент агентство | https://eventcatalog.ru/agency/status_up | phone | +7(495) 988-37-08 |
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | email | email |
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | email | hello@staystd.com |
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | social | https://t.me/+5xDuqa-LT25jODNi |
@@ -7250,19 +8662,38 @@
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | phone | +7 (906) 094-83-85 |
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | social | https://t.me/stay_ag?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20STAY.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | STAY STUDIO | продакшн / photo studio | http://staystd.com | social | https://www.instagram.com/stay_ag |
+| Steamevent | ивент агентство | https://eventcatalog.ru/agency/steamevent | phone | +7(960)615-69-58 / +7(495)968-70-11 |
 | Steklo loft - с грилем, верандой и настольным теннисом в ЦАО | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
 | Stella di Mosca by BVLGARI Hotels | отель | https://ostrovok.ru/hotel/russia/moscow/mid11196975/hotel_stella_di_mosca | address | Большая Никитская улица 9, Москва |
+| Stem | ивент агентство | https://eventcatalog.ru/agency/stem | phone | +7(495)604-11-78 / +7(812)334-98-92 |
+| Step by step | ивент агентство | https://eventcatalog.ru/agency/step_by_step | phone | +7 903 526 91 91 / +7 985 928 18 37 |
+| Step production | ивент агентство | https://eventcatalog.ru/agency/step_production | phone | +7(903) 275-25-04 / +7(903) 125-84-18 |
+| Stillart | ивент агентство | https://eventcatalog.ru/agency/stillart | phone | +7(985)319-62-19 |
+| STL-Event | ивент агентство | https://eventcatalog.ru/agency/stl-event | phone | +7(38066) 328-75-81 / +7(38067) 501-28-12 |
 | StockOut Loft | лофт | https://www.loft2rent.ru/loft/40111 | phone | +7 (985) 362-45-58 |
 | STONE | лофт | https://www.loft2rent.ru/loft/79646 | phone | +79219254594 |
 | Strata Concept | лофт | https://www.loft2rent.ru/loft/162585/162587 | phone | 89104505611 |
+| Strategy Vivid Solutions | ивент агентство | https://eventcatalog.ru/agency/strategy_vivid_solutions | phone | +7(495) 641-03-89 |
 | Street Art Loft (Стрит-Арт Лофт) | лофт | https://www.reveltime.ru/venue/697622?eventtype=vecherinka | phone | +79346644195 |
 | Street food Maniac's | лофт | https://www.loft2rent.ru/loft/171949/171960 | phone | +79031405972 |
 | StreetArtLoft - 2х ярусный лофт с приватной верандой 60м2 | лофт | https://www.loft2rent.ru/loft/75181 | phone | +79166683000 |
+| Striptease 74 | ивент агентство | https://eventcatalog.ru/agency/striptease_74 | phone | +7(351) 270-87-94 |
+| Studio 2112 | ивент агентство | https://eventcatalog.ru/agency/studio_2112 | phone | +7(499)409-70-04 / +7(916)015-51-00 |
+| Studio First | ивент агентство | https://eventcatalog.ru/agency/studio_first | phone | +7(495) 543-76-14 |
+| Studioevent | ивент агентство | https://eventcatalog.ru/agency/studioevent | phone | +7(495) 664-68-90 / +7(390) 557-01-56 |
 | STUDIOHALLЗал №10 | лофт | https://www.loft2rent.ru/loft/712/164610 | phone | +79263705050 |
 | STUDIOHALLЗал №13 (450м2) | лофт | https://www.loft2rent.ru/loft/712/723 | phone | +7 495 223-10-71 |
 | STUDIOHALLЗал №14 (750м2) | лофт | https://www.loft2rent.ru/loft/712/742 | phone | +7 495 223-10-71 |
 | STUDIOHALLЗал №15 (500 м2) | лофт | https://www.loft2rent.ru/loft/712/5918 | phone | +7 (495) 223-10-71 |
 | STUDIOHALLЗал №17 (160 м2) | лофт | https://www.loft2rent.ru/loft/712/5919 | phone | +7 (495) 223-10-71 |
+| Stunt Effects | ивент агентство | https://eventcatalog.ru/agency/stunt_effects | phone | +7(916)135-87-33 / +7(916)167-88-12 |
+| Style Party | ивент агентство | https://eventcatalog.ru/agency/style_party | phone | +7(495) 761-81-21 / +7(495) 773-72-62 |
+| Style Project | ивент агентство | https://eventcatalog.ru/agency/style_project | phone | +7(495)981-31-15 |
+| Subbox | ивент агентство | https://eventcatalog.ru/agency/subbox | phone | +7(812)927-82-75 / +7(921)424-48-82 |
+| SubCulture | ивент агентство | https://eventcatalog.ru/agency/subculture | phone | +7(495) 775-74-64 / +7(926) 677-38-41 |
+| SudOuestPassion | ивент агентство | http://www.sudouestpassion.ru | phone | +33(534)368-576 |
+| Summer | ивент агентство | https://eventcatalog.ru/agency/summer | phone | +7(3412) 912-575 / +7(3412) 908-365 |
+| SUN | ивент агентство | https://eventcatalog.ru/agency/sun | phone | +7(812) 326-60-17 |
 | Sun Loft на Бауманской с караоке и PS 4 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-53-72 |
 | Sunlight | ювелирная сеть | https://sunlight.net | phone | +7 (495) 668-65-80 |
 | Sunlight | ювелирная сеть | https://sunlight.net | social | https://ok.ru/sunlightbrilliant |
@@ -7272,11 +8703,21 @@
 | Sunlight | ювелирная сеть | https://sunlight.net | social | https://www.youtube.com/user/sunlightBrilliant |
 | Sunny Art LoftSunny Art Loft Кутузовский | лофт | https://www.loft2rent.ru/loft/6643/26858 | phone | +7 (919) 099-85-71 |
 | SUNRISE — ламповый лофт на Таганке, в 3 минутах от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
+| Sunshine Team | ивент агентство | https://eventcatalog.ru/agency/sunshine_team | phone | +7(495) 585-92-69 |
+| Super Star | ивент агентство | https://eventcatalog.ru/agency/super_star | phone | +7(908) 230-76-57 / +7(831) 430-35-35 |
+| Super-e | ивент агентство | https://eventcatalog.ru/agency/super-e | phone | +7(812)213-12-11 / +7(981)698-08-29 |
+| Superfest.by | ивент агентство | https://eventcatalog.ru/agency/superfest_by | phone | +375(25)933-21-71 / +375(44)555-60-00 |
+| SuperTeam | ивент агентство | http://www.superteam.ru | phone | +7(495)023-80-50 |
 | Surf House (Сёрф Хаус). Лофт с территорией под открытым небом | лофт | https://www.reveltime.ru/venue/3569923?eventtype=vecherinka | phone | +79910172413 |
 | Svet | лофт | https://www.loft2rent.ru/loft/153561 | phone | +74951084290 |
+| Sveti.Event | ивент агентство | https://eventcatalog.ru/agency/sveti_event | phone | +7(926)600-50-49 |
+| Svoy Group | ивент агентство | https://eventcatalog.ru/agency/svoy_group | phone | +7(495) 727-22-07 |
 | SVOY Хамовники | лофт | https://www.loft2rent.ru/loft/71700 | phone | +7 (909) 942-88-22 |
 | SVOY Яуза | лофт | https://www.loft2rent.ru/loft/71700 | phone | +79099428822 |
 | Swan loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Sweet Times | ивент агентство | https://eventcatalog.ru/agency/sweet_times | phone | +7(495) 740-37-99 / +7(495) 648-53-83 |
+| Sweet-art | ивент агентство | https://eventcatalog.ru/agency/sweet-art | phone | +380(63)376-11-54 / +380(48)233-15-10 |
+| Swist | ивент агентство | https://eventcatalog.ru/agency/swist | phone | +7(499) 499-04-13 |
 | Sаnsаra Lоft (Сансара Лофт). Зал BREEZE (Бриз) | лофт | https://www.reveltime.ru/venue/8731133?eventtype=vecherinka | phone | +79019317663 |
 | Sаnsаra Lоft (Сансара Лофт). Зал Glam (Гламур) | лофт | https://www.reveltime.ru/venue/8733270?eventtype=vecherinka | phone | +79019317663 |
 | Sаnsаra Lоft (Сансара Лофт). Зал Grand (Великий) | лофт | https://www.reveltime.ru/venue/8730934?eventtype=vecherinka | phone | +79019317663 |
@@ -7289,8 +8730,11 @@
 | T-Bank | банк | https://www.tbank.ru | social | https://ok.ru/tbank |
 | T-Bank | банк | https://www.tbank.ru | social | https://t.me/tbank |
 | T-Bank | банк | https://www.tbank.ru | social | https://vk.com/tbank |
+| T.E.G. | ивент агентство | https://eventcatalog.ru/agency/t_e_g | phone | +7(913) 067-79-69 |
+| Tabakoff | ивент агентство | https://eventcatalog.ru/agency/tabakoff | phone | +7(495) 580-83-15 / +7(495) 690-35-96 |
 | TabooEvent venue | лофт | https://www.loft2rent.ru/loft/195213/195258 | phone | 89969799221 |
 | Tagankaroof_TOPTagankaRoof | лофт | https://www.loft2rent.ru/loft/77436/77460 | phone | +79774854878 |
+| Taganova Pr Group | ивент агентство | https://eventcatalog.ru/agency/taganova_pr_group | phone | +7(988) 244-33-00 |
 | Talent Concert International | концертное агентство | https://tci.ru | email | account@tci.ru |
 | Talent Concert International | концертное агентство | https://tci.ru | email | ed@tci.ru |
 | Talent Concert International | концертное агентство | https://tci.ru | email | email |
@@ -7311,10 +8755,14 @@
 | Talent Concert International | концертное агентство | https://tci.ru | social | social |
 | Talent Concert International | концертное агентство | https://tci.ru | social | social |
 | Talent Concert International | концертное агентство | https://tci.ru | social | social |
+| Talk Fusion | ивент агентство | https://eventcatalog.ru/agency/talk_fusion | phone | +7(900) 480-51-67 |
 | TANDOOR | лофт | https://www.loft2rent.ru/loft/190803/190805 | phone | 89254200006 |
 | Tangiers Lounge | лофт | https://www.loft2rent.ru/loft/194841/194860 | phone | 89259859699 |
+| Tash Tush Project | ивент агентство | https://eventcatalog.ru/agency/tash_tush_project | phone | +7(495)968-22-62 / +7(925)711-25-55 |
 | Taste&TalkУютный бар в Замоскворечье | лофт | https://www.loft2rent.ru/loft/134055/134224 | phone | +7995-113-03-43 |
+| TatiBox | ивент агентство | https://eventcatalog.ru/agency/tatibox | phone | +7(903)684-66-02 / +7(968)068-04-18 |
 | TAU | лофт | https://www.loft2rent.ru/loft/182281/182284 | phone | +7 (495) 255-10-08 |
+| Tavros Art Production | ивент агентство | https://eventcatalog.ru/agency/tavros_art_production | phone | +7(921)733-13-51 |
 | TCI (Touring Concert International) | концертный оператор | https://tci.ru | email | account@tci.ru |
 | TCI (Touring Concert International) | концертный оператор | https://tci.ru | email | ed@tci.ru |
 | TCI (Touring Concert International) | концертный оператор | https://tci.ru | email | email |
@@ -7340,9 +8788,18 @@
 | TCS Group (T-Bank) | организация | https://www.tbank.ru | social | https://ok.ru/tbank |
 | TCS Group (T-Bank) | организация | https://www.tbank.ru | social | https://t.me/tbank |
 | TCS Group (T-Bank) | организация | https://www.tbank.ru | social | https://vk.com/tbank |
+| TDP Group | ивент агентство | https://eventcatalog.ru/agency/tdp_group | phone | +7(495) 364-64-63 |
+| TE Concept Studio | ивент агентство | https://eventcatalog.ru/agency/te_concept_studio | phone | +7(812) 715-45-09 / +7(911) 954-00-19 |
+| TEAM agency | ивент агентство | https://eventcatalog.ru/agency/team_agency | phone | +_(495)797-6310 |
 | Team Films | продакшн-студия | https://teamfilms.ru | email | assistant.teamfilms@gmail.com |
 | Team Films | продакшн-студия | https://teamfilms.ru | email | pr@teamfilms.ru |
 | Team Films | продакшн-студия | https://teamfilms.ru | phone | +7 (925) 618-49-89 |
+| Team For Dream | ивент агентство | https://eventcatalog.ru/agency/team_for_dream | phone | +7(812)331-33-51 |
+| Team Master | ивент агентство | https://eventcatalog.ru/agency/team_master | phone | +380(44)332-03-00 / +380(95)011-66-60 |
+| Team Systems | ивент агентство | https://eventcatalog.ru/agency/team_systems | phone | +7(495)663-91-13 |
+| Teamatica | ивент агентство | https://eventcatalog.ru/agency/teamatica | phone | +7(495)507-39-83 / +7(916)753-64-92 |
+| Teambuiling Pro | ивент агентство | https://eventcatalog.ru/agency/teambuiling_pro | phone | +7(918)245-60-63 |
+| TeamLand | ивент агентство | https://eventcatalog.ru/agency/teamland | phone | +7(499)110-10-45 |
 | Teamфотостудия / помещение свободного назначения | лофт | https://www.loft2rent.ru/loft/67998/105856 | phone | 89992777978 |
 | Teamфотостудия / помещение свободного назначения | лофт | https://www.loft2rent.ru/loft/67998/105857 | phone | 89992777978 |
 | TechInsider | tech-медиа | https://techinsider.ru | email | a.bakanova@imedia.ru |
@@ -7358,15 +8815,19 @@
 | TechInsider | tech-медиа | https://techinsider.ru | email | v.gubailovsky@imedia.ru |
 | TechInsider | tech-медиа | https://techinsider.ru | email | web@imedia.ru |
 | TechInsider | tech-медиа | https://techinsider.ru | phone | +7 (495) 252-09-99 |
+| Technoevent | ивент агентство | https://eventcatalog.ru/agency/technoevent | phone | +7(928)966-63-59 / +7(928)296-47-34 |
 | TelePort360° (ТелеПорт360°). Лофт | лофт | https://www.reveltime.ru/venue/2231681?eventtype=vecherinka | phone | +79584974331 |
 | TelePort360° (ТелеПорт360°). Лофт в торговом центре | лофт | https://www.reveltime.ru/venue/2661440?eventtype=vecherinka | phone | +79584611054 |
 | TelePort360° (ТелеПорт360°). Лофт-студия в ТЦ | лофт | https://www.reveltime.ru/venue/3101788?eventtype=vecherinka | phone | +79584974160 |
 | Telesport | спортивный маркетинг | https://telesport.ru | email | info@livesport.ru |
+| TEMA - True Event Management Agency | ивент агентство | https://eventcatalog.ru/agency/tema_-_true_event_management_agency | phone | +7(812) 926-22-22 / +7(812) 222-86-33 |
 | Tematika food&wine bar | лофт | https://www.loft2rent.ru/loft/191486/191500 | phone | +79165032327 |
 | TERRA loft | лофт | https://www.loft2rent.ru/loft/65325 | phone | +7 909 989-99-33 |
+| Territory business & travel | ивент агентство | https://eventcatalog.ru/agency/territory_business_and_travel | phone | +7(495)215-00-33 |
 | The art soul | лофт | https://www.loft2rent.ru/loft/199886/199888 | phone | +79154831438 |
 | The Bix Bar | бар | https://thebix.bar/ | phone | +74952521091 |
 | The Corner Boxing Gym | лофт | https://www.loft2rent.ru/loft/67196/67208 | phone | +79258400409 |
+| The Event | ивент агентство | https://eventcatalog.ru/agency/the_event | phone | +7(495) 772-87-21 |
 | The Event Hall | лофт | https://www.loft2rent.ru/loft/95215/95219 | phone | 88129935054 |
 | The Family partyThe Family party | лофт | https://www.loft2rent.ru/loft/113695/113697 | phone | +7 (916) 085-12-22 |
 | The Gallery Loft (Лофт Галерея) | лофт | https://www.reveltime.ru/venue/8733987?eventtype=vecherinka | phone | +79584974228 |
@@ -7374,12 +8835,15 @@
 | THE HOOK AREA | лофт | https://www.loft2rent.ru/loft/209225/209229 | phone | +79163500044 |
 | The Last BarКонцептуальный лофт/бар на Маросейке | лофт | https://www.loft2rent.ru/loft/169865/170280 | phone | +7 (962) 753-14-14 |
 | The Lobbiest | лофт | https://www.loft2rent.ru/loft/199380 | phone | +79999917444 |
+| the ONE | ивент агентство | https://eventcatalog.ru/agency/the_one | phone | +7(4212)20-48-08 |
 | The Party | лофт | https://www.loft2rent.ru/loft/169756/169798 | phone | +79080760055 |
 | THE RING OF FUNBABY LOFT с городом профессий | лофт | https://www.loft2rent.ru/loft/57152/61351 | phone | +74950216696 |
 | THE RING OF FUNLOFT с ретро-автомобилем | лофт | https://www.loft2rent.ru/loft/57152/57208 | phone | +74950216696 |
 | THE RING OF FUNMINI LOFT | лофт | https://www.loft2rent.ru/loft/57152/144204 | phone | +74950216696 |
 | THE RING OF FUNNEON c игровыми приставками | лофт | https://www.loft2rent.ru/loft/57152/71264 | phone | +74950216696 |
 | THE RING OF FUNДиско Лофт с яркой фотозоной и светомузыкой | лофт | https://www.loft2rent.ru/loft/57152/191161 | phone | +74950216696 |
+| The Seven Agency | ивент агентство | https://eventcatalog.ru/agency/the_seven_agency | phone | +62(877)799-97-725 |
+| The Tailormade | ивент агентство | https://eventcatalog.ru/agency/the_tailormade | phone | +212(544)36-54-57 |
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | email | a.astakhova@imedia.ru |
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | email | a.kondratieva@imedia.ru |
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | email | abuse@imweb.ru |
@@ -7404,9 +8868,12 @@
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | email | web@imedia.ru |
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | email | y.markovskaya@imedia.ru |
 | The VOICE | lifestyle-медиа | https://thevoicemag.ru | phone | +7 (495) 252-09-99 |
+| Thirteen | ивент агентство | https://eventcatalog.ru/agency/event_marketing_agentstvo_thirteen | phone | +7(727)328-91-24 / +7(701)731-66-91 |
 | THON HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
 | Time Club (Клуб Времени) Гнездо. Зал Лаунж | лофт | https://www.reveltime.ru/venue/8694069?eventtype=vecherinka | phone | +79584055346 |
 | Time Club (Клуб Времени) Камин. Кинозал | лофт | https://www.reveltime.ru/venue/8694133?eventtype=vecherinka | phone | +79584055346 |
+| Time For Event | ивент агентство | https://eventcatalog.ru/agency/time_for_event | phone | +7(926) 586-95-46 / +7(495) 766-97-76 |
+| TimMusic Pro | ивент агентство | https://eventcatalog.ru/agency/timmusic_pro | phone | +7(495) 585-68-64 / +7(926) 812-28-60 |
 | Tinkoff | fintech / банк | https://www.tinkoff.ru | email | ivan@domain.ru |
 | Tinkoff | fintech / банк | https://www.tinkoff.ru | phone | +7 (800) 333-33-33 |
 | Tinkoff | fintech / банк | https://www.tinkoff.ru | social | https://ok.ru/tbank |
@@ -7430,6 +8897,9 @@
 | TIU_WED КСЕНИЯ ТЮТИНА | свадебное агентство | https://top100awards.ru/tiu-wed-kseniya-tyutina | phone | +7 (985) 347-51-01 |
 | TIU_WED КСЕНИЯ ТЮТИНА | свадебное агентство | https://top100awards.ru/tiu-wed-kseniya-tyutina | social | https://t.me/TiuWed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20TIU_WED.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | TIU_WED КСЕНИЯ ТЮТИНА | свадебное агентство | https://top100awards.ru/tiu-wed-kseniya-tyutina | social | https://www.instagram.com/tiu_wed |
+| Tj-Team | ивент агентство | https://eventcatalog.ru/agency/tj-team | phone | +7(749) 970-57-51 / +7(812) 424-35-45 |
+| TM-project | ивент агентство | https://eventcatalog.ru/agency/tm-project | phone | +7(495)518-09-10 |
+| tMotion | ивент агентство | https://eventcatalog.ru/agency/tmotion | phone | +7(495) 665-00-70 / +7(926) 233-77-25 |
 | TNT | телеканал | https://tnt-online.ru | email | crp@gpm-rtv.ru |
 | TNT | телеканал | https://tnt-online.ru | email | info@tnt-tv.ru |
 | TNT | телеканал | https://tnt-online.ru | email | o.nagornaya@gazprom-media.ru |
@@ -7442,6 +8912,8 @@
 | TNT | телеканал | https://tnt-online.ru | social | https://rutube.ru/channel/23463954 |
 | TNT | телеканал | https://tnt-online.ru | social | https://t.me/TNT_television |
 | TNT | телеканал | https://tnt-online.ru | social | https://vk.com/tnt |
+| To Create | ивент агентство | https://eventcatalog.ru/agency/to_create | phone | +7(495)661-71-91 |
+| Tobeevent | ивент агентство | https://eventcatalog.ru/agency/tobeevent | phone | +7(911)023-19-89 |
 | Today Loft | лофт | https://www.loft2rent.ru/loft/124701/124703 | phone | +7 9688627255 |
 | Today LoftGrafiti Loft | лофт | https://www.loft2rent.ru/loft/124701/168296 | phone | +7 9688627255 |
 | Today LoftПространство для мастер-классов | лофт | https://www.loft2rent.ru/loft/124701/189204 | phone | 89688627255 |
@@ -7450,14 +8922,21 @@
 | TOK EVENT AGENCY | event-агентство | https://top100awards.ru/tok-event-agency | social | https://www.instagram.com/tok_event_agency |
 | Tokyo Night Club - лофт в японском киберпанк стиле c караоке и PS 5 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +74991101614 |
 | Tokyo Sushi | ресторан / бар | http://tokyosushibar.ru/ | phone | +74951815222 |
+| TOMS | ивент агентство | https://eventcatalog.ru/agency/toms | phone | +7(909) 164-64-96 / +7(903) 191-64-12 |
+| Top Event | ивент агентство | https://eventcatalog.ru/agency/top_event | phone | +7(701)116-63-76 / +7(705)116-74-00 |
+| Topconcert | ивент агентство | https://eventcatalog.ru/agency/topconcert | phone | +7(499)322-84-24 |
+| Topevent | ивент агентство | https://eventcatalog.ru/agency/topevent | phone | +7(495) 911-18-83 / +7(495) 505-32-30 |
 | TopView.citySky level 29 | лофт | https://www.loft2rent.ru/loft/174907/174909 | phone | 89916272075 |
 | TopView.citySky Level 52 | лофт | https://www.loft2rent.ru/loft/174907/175333 | phone | 89916272075 |
 | TopView.citySky Level 54 | лофт | https://www.loft2rent.ru/loft/174907/175335 | phone | 89916272075 |
+| Tormashka | ивент агентство | https://eventcatalog.ru/agency/tormashka | phone | +7(929)501-15-21 |
 | toshasbarKaraoke King Voice | лофт | https://www.loft2rent.ru/loft/172412/172414 | phone | +79213217111 |
 | toshasbarTosha'S Bar | лофт | https://www.loft2rent.ru/loft/172412/172938 | phone | +79213217111 |
 | toshasbarБар СМБ | лофт | https://www.loft2rent.ru/loft/172412/173099 | phone | +79213217111 |
+| Total Production | ивент агентство | https://eventcatalog.ru/agency/total_production | phone | +7(812)748-18-19 |
 | Tottori | ресторан / бар | https://tottori.ru/ | phone | +74996780866 |
 | Touch на Садовнической набережнойРесторан TOUCH | лофт | https://www.loft2rent.ru/loft/53531/177780 | phone | +7 495 782 77 52 |
+| Touch2event | ивент агентство | https://eventcatalog.ru/agency/touch2event | phone | +7(499)390-15-16 / +7(915)273-64-40 |
 | TOWN | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
 | Transform.StudioContent | лофт | https://www.loft2rent.ru/loft/110107/125841 | phone | +7 926 759 62 69 |
 | Transform.StudioDark | лофт | https://www.loft2rent.ru/loft/110107/125889 | phone | +7 926 759 62 69 |
@@ -7476,6 +8955,10 @@
 | Transneft Trading | организация | https://www.transneft.ru | social | https://rutube.ru/channel/24671057 |
 | Transneft Trading | организация | https://www.transneft.ru | social | https://rutube.ru/channel/24671057/videos |
 | Transneft Trading | организация | https://www.transneft.ru | social | https://t.me/transneftofficial |
+| Trava | ивент агентство | https://eventcatalog.ru/agency/trava | phone | +7(921) 437-17-80 |
+| Travel promotions Georgia | ивент агентство | https://eventcatalog.ru/agency/travel_promotions_georgia | phone | +995(595)321-100 / +995(595)119-024 |
+| Travelmart | ивент агентство | https://eventcatalog.ru/agency/travelmart | phone | +7(495) 935-83-36 / +7(903) 003-74-46 |
+| Travelscope | ивент агентство | https://eventcatalog.ru/agency/travelscope | phone | +7(495) 937-56-90 / +7(985) 442-25-42 |
 | TREFF8 | лофт | https://www.loft2rent.ru/loft/139542 | phone | +7 (926) 574-05-11 |
 | Treff8 Club (Трефф8 Клуб). Двухуровневый клуб под закрытие | лофт | https://www.reveltime.ru/venue/6494840?eventtype=vecherinka | phone | +79584974331 |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | email | arenda@profis-realty.ru |
@@ -7513,6 +8996,7 @@
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | phone | +7 (989) 599-94-44 |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | phone | +749579512692 |
 | Trekhgorka creative district | креативный кластер | https://trekhgorka.ru | social | https://t.me/trekhgorkaru |
+| Trend Event | ивент агентство | https://eventcatalog.ru/agency/trend_event | phone | +7(495)215-23-26 / +7(926)453-02-05 |
 | TrendFox | marketing / event agency | https://trendfox.ru | email | ask@trendfox.ru |
 | TrendFox | marketing / event agency | https://trendfox.ru | email | email |
 | TrendFox | marketing / event agency | https://trendfox.ru | email | email |
@@ -7529,8 +9013,13 @@
 | TrendFox | marketing / event agency | https://trendfox.ru | social | social |
 | TrendFox | marketing / event agency | https://trendfox.ru | social | social |
 | TrendFox | marketing / event agency | https://trendfox.ru | social | social |
+| Trendy Events | ивент агентство | https://eventcatalog.ru/agency/trendy_events | phone | +7(495)761-23-35 |
 | TRENERSKAYA | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
+| Trio Lux | ивент агентство | https://eventcatalog.ru/agency/trio_lux | phone | +49(171)653-73-27 |
 | Trite Studio | киностудия | https://trite.ru | email | info@trite.ru |
+| Triumf Top Event | ивент агентство | https://eventcatalog.ru/agency/triumf_top_event | phone | +7(495) 621-68-31 / +7(926) 521-07-31 |
+| Triza production | ивент агентство | https://eventcatalog.ru/agency/triza_production | phone | +7(495) 545-85-16 |
+| Trust Marketing | ивент агентство | https://eventcatalog.ru/agency/trust_marketing | phone | +7(3822)20-07-27 / +7(953)910-62-13 |
 | TRY Bar | лофт | https://www.loft2rent.ru/loft/193928/193933 | phone | +7 (999) 988-19-45 |
 | TT Events | event-агентство | https://ttevents.ru | email | email |
 | TT Events | event-агентство | https://ttevents.ru | email | mail@ttevents.ru |
@@ -7548,6 +9037,7 @@
 | Turandot | ресторан | https://turandot-palace.ru | social | https://t.me/dellos |
 | Turandot | ресторан | https://turandot-palace.ru | social | https://vk.com/turandot.palace |
 | Turandot | ресторан | https://turandot-palace.ru | social | https://www.facebook.com/turandot.palace |
+| Turkish Club | ивент агентство | https://eventcatalog.ru/agency/turkish_club | phone | +7(916) 681-95-51 / +7(926) 331 26 86 |
 | TV3 Russia | телеканал | https://tv3.ru | email | info@tv3.ru |
 | TV3 Russia | телеканал | https://tv3.ru | phone | +7 (495) 937-40-39 |
 | TV3 Russia | телеканал | https://tv3.ru | social | https://dzen.ru/telekanaltv3 |
@@ -7576,19 +9066,34 @@
 | Twins Garden | ресторан | https://twinsgarden.ru | phone | +7 (499) 112-33-00 |
 | Twins Garden | ресторан | https://twinsgarden.ru | phone | +7 (499) 112-33-11 |
 | Twins Garden | ресторан | https://twinsgarden.ru | social | https://t.me/twinsgardenmoscow |
+| Twins Model Management | ивент агентство | https://eventcatalog.ru/agency/twins_model_management | phone | +7(495) 500-28-06 / +7(495) 380-31-82 |
+| U-Media Promotion Group | ивент агентство | https://eventcatalog.ru/agency/u-media_promotion_group | phone | +7(499)553-08-19 |
+| Ufa-wedding-dj | ивент агентство | https://eventcatalog.ru/agency/ufa-wedding-dj | phone | +7(917) 421-04-76 |
+| Ukrpromevent | ивент агентство | https://eventcatalog.ru/agency/ukrpromevent | phone | +7(38050) 545-40-89 / +7(38044) 227-90-79 |
 | Umberto | лофт | https://www.loft2rent.ru/loft/200502 | phone | +7 (495) 660-53-53 |
+| Umlaut | ивент агентство | https://eventcatalog.ru/agency/umlaut | phone | +7(495)798-75-77 |
+| Un Decor Flori | ивент агентство | https://eventcatalog.ru/agency/un_decor_flori | phone | +7(916)602-57-92 |
+| UNC Media | ивент агентство | http://www.uncmedia.com | phone | +7(921)444-00-20 / +7(812)999-90-57 |
 | Under (Под). Лаундж пространство | лофт | https://www.reveltime.ru/venue/4854211?eventtype=vecherinka | phone | +79019397094 |
 | Under (Под). Отдельный зал в лофте | лофт | https://www.reveltime.ru/venue/4626506?eventtype=vecherinka | phone | +79346657019 |
 | UNDR BAR на ТаганскойБар на Таганской UNDR BAR | лофт | https://www.loft2rent.ru/loft/40392/40394 | phone | +7 985 767-55-35 |
 | Uni Space | лофт | https://www.loft2rent.ru/loft/169629/169631 | phone | +79959808091 |
+| Unickom | ивент агентство | https://eventcatalog.ru/agency/unickom | phone | +7(495) 694-48-12 |
+| UNIQUE group | ивент агентство | https://eventcatalog.ru/agency/unique_group | phone | +7(499) 272-48-70 |
 | UNIQULTURA | культурный / event project | http://uniqultura.ru | social | https://www.instagram.com/uniqultura |
 | UNIQULTURA | культурный / event project | http://uniqultura.ru | social | social |
 | UNIQULTURA | культурный / event project | http://uniqultura.ru | phone | +7 (920) 628-88-55 |
 | UNIQULTURA | культурный / event project | http://uniqultura.ru | social | https://t.me/uniqultura?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20UNIQULTURA.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | UNIQULTURA | культурный / event project | http://uniqultura.ru | social | https://www.instagram.com/uniqultura |
+| Universal | ивент агентство | https://eventcatalog.ru/agency/universal | phone | +7(38095) 817-05-67 / +7(38097) 908-43-48 |
+| Universal Events | ивент агентство | https://eventcatalog.ru/agency/universal_events | phone | +7(800)700-71-89 |
 | UNIVERSUM | event / multimedia production | https://universumcom.ru | phone | +7 495 772-12-90 |
+| Unlimited Company | ивент агентство | https://eventcatalog.ru/agency/unlimited_company | phone | +7(495) 651-82-36 / +7(916) 996-45-56 |
+| Upmyday | ивент агентство | https://eventcatalog.ru/agency/upmyday | phone | +7(909)913-29-94 / +7(926)550-93-47 |
 | URANIUM - светлый лофт с большим количеством окон, 7 минут от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
 | URBAN | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
+| URD | ивент агентство | https://eventcatalog.ru/agency/urd | phone | +7(800)500-25-17 / +7(925)925-92-51 |
+| USM agency | ивент агентство | https://eventcatalog.ru/agency/usm_agency | phone | +7(916) 261-95-60 / +7(926) 213-71-97 |
 | USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | phone | +7 (966) 144-45-55 |
 | USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | phone | phone |
 | USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://t.me/daria_ustimova1 |
@@ -7602,8 +9107,18 @@
 | USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | phone | +7 (966) 144-45-55 |
 | USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://t.me/ustimova_wedding1?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Ustimova.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | USTIMOVA WEDDING | свадебное агентство | http://ustimova-wedding.ru | social | https://www.instagram.com/ustimova_wedding |
+| UTS | ивент агентство | https://eventcatalog.ru/agency/uts | phone | +7(800)707-07-24 |
+| V&B: creative partnership | ивент агентство | https://eventcatalog.ru/agency/vandb_creative_partnership | phone | +7(921)376-76-50 |
+| V&K | ивент агентство | https://eventcatalog.ru/agency/vandk | phone | +7(495)997-83-81 / +7(903)736-92-10 |
+| V-agency | ивент агентство | https://eventcatalog.ru/agency/v-agency | phone | +7(495) 984-76-81 |
+| V-events | ивент агентство | https://eventcatalog.ru/agency/v-events | phone | +7(812)924-63-26 |
+| V-party | ивент агентство | https://eventcatalog.ru/agency/v-party | phone | +7(495)792-69-54 |
 | Vadvare | ресторан | https://alfa.me/db1OAY | phone | +74959907223 |
+| Valion Group | ивент агентство | https://eventcatalog.ru/agency/valion_group | phone | +7(495)908-59-93 |
 | Valkirye.loftValkirye.lounge | лофт | https://www.loft2rent.ru/loft/70359/70363 | phone | 89379441488 |
+| VALTO conference | ивент агентство | https://eventcatalog.ru/agency/valto_conference | phone | +7(044) 362-94-22 / +7(050) 355-08-02 |
+| Vanilla | ивент агентство | https://eventcatalog.ru/agency/vanilla | phone | +7(495)642-41-90 |
+| Vatel | ивент агентство | https://eventcatalog.ru/agency/vatel | phone | +7(499) 255-59-23 / +7(926) 586-80-03 |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | deal@cmtt.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | moderation@vc.ru |
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | platform@cmtt.ru |
@@ -7620,6 +9135,9 @@
 | VC.ru | бизнес / tech-медиа | https://vc.ru | email | u003esupport@vc.ru |
 | VechesVeches \ | Динамо | лофт | https://www.loft2rent.ru/loft/179058/179067 | phone |
 | Vega Loft - покерный стол, вид на арт-пространство | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Vegas Group | ивент агентство | https://eventcatalog.ru/agency/vegas_group | phone | +7(395) 260-11-01 |
+| Vein Technologies | ивент агентство | https://eventcatalog.ru/agency/vein_technologies | phone | +7(495) 783-87-67 |
+| VEK | ивент агентство | https://eventcatalog.ru/agency/vek | phone | +7(727)237-93-50 / +7(702)245-64-62 |
 | Veladora | бар | http://veladora.ru/ | phone | +74953578548 |
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | email |
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | email | email |
@@ -7635,12 +9153,17 @@
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
 | Velvet Music Events | музыкальный продакшн / events | https://velvetmusic.ru | social | social |
+| Venice Luxury Events | ивент агентство | https://eventcatalog.ru/agency/venice_luxury_events | phone | +32(747)248-86_ |
+| VenturEvents | ивент агентство | https://eventcatalog.ru/agency/venturevents | phone | +7(812)924-82-26 / +7(911)949-16-34 |
 | Veraloft Shodnya | лофт | https://www.loft2rent.ru/loft/121209/121223 | phone | +79169486628 |
 | Verde Loft (Верде Лофт) | лофт | https://www.reveltime.ru/venue/8671627?eventtype=vecherinka | phone | +79584974084 |
 | Verde Loft двухуровневый лофт в центре с небольшой верандой (chill & sit зона) | лофт | https://www.loft2rent.ru/loft/136868 | phone | +79933450544 |
 | VERO_LOFTVERO_LOFT&KARAOKE / ИСТИНА_ЛОФТиКАРАОКЕ | лофт | https://www.loft2rent.ru/loft/205597/206697 | phone | +79057373648 |
+| Very Special Events Ltd. | ивент агентство | https://eventcatalog.ru/agency/very_special_events_ltd | phone | +7(911) 924-91-00 |
+| Veselim.pro | ивент агентство | https://eventcatalog.ru/agency/veselim_pro | phone | +7(925) 310-02-71 |
 | Vesna Hall | лофт | https://vesna-hall.ru | phone | +7 (916) 442-42-46 |
 | VESNA Novaya Riga | лофт | https://www.loft2rent.ru/loft/85684/85686 | phone | +7 495 280-38-98 |
+| Vesna Pro | ивент агентство | https://eventcatalog.ru/agency/vesna_pro | phone | +7(495)774-51-19 |
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | email | email |
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | email | info@vesna.wedding |
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | phone | +7 (977) 425-80-96 |
@@ -7658,6 +9181,7 @@
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | phone | +7 (916) 145-14-67 |
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://t.me/vesnaagency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vesna.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | VESNA WEDDING | свадебное агентство | http://vesna.wedding | social | https://www.instagram.com/vesna__wedding |
+| Veventy | ивент агентство | https://eventcatalog.ru/agency/veventy | phone | +7(495) 223-35-62 |
 | VG Studios Светлый зал в скандинавском стиле | лофт | https://www.reveltime.ru/venue/1368765?eventtype=vecherinka | phone | +79661277115 |
 | VIBE STUDIOThe Creator | лофт | https://www.loft2rent.ru/loft/153507/153509 | phone | +79919898808 |
 | VibesLoft (ВайбсЛофт) | лофт | https://www.reveltime.ru/venue/6557986?eventtype=vecherinka | phone | +79019397046 |
@@ -7666,6 +9190,7 @@
 | VibesLoft (ВайбсЛофт). Лофт Луна | лофт | https://www.reveltime.ru/venue/6350795?eventtype=vecherinka | phone | +79584974167 |
 | VibesLoft (ВайбсЛофт). Розовый лофт-зал | лофт | https://www.reveltime.ru/venue/6350992?eventtype=vecherinka | phone | +79584974150 |
 | Vida loft | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Vidi Event | ивент агентство | https://eventcatalog.ru/agency/vidi_event | phone | +7(968)763-89-09 / +7(926)722-33-47 |
 | VILLA MR. PINKY | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 (495) 120-19-05 |
 | VINOTEKA | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
 | Vintage - атмосферный лофт в винтажном стиле | лофт | https://www.loft2rent.ru/loft/167313 | phone | 89031292578 |
@@ -7676,17 +9201,32 @@
 | Vinylloft- Кристалл с зоной барбекю | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
 | Viola Left (Виола Левый лофт). Уникальное пространство для мероприятий | лофт | https://www.reveltime.ru/venue/7734623?eventtype=vecherinka | phone | +79676928674 |
 | Viola Loft (Виола Лофт). Просторный и светлый лофт с панорамным видом в парк | лофт | https://www.reveltime.ru/venue/7735174?eventtype=vecherinka | phone | +79586097164 |
+| Violet Entertainment | ивент агентство | https://eventcatalog.ru/agency/violet_entertainment | phone | +7(499) 502-94-40 |
+| Vip Event | ивент агентство | https://eventcatalog.ru/agency/vip_event | phone | +7(902) 376-18-16 / +7(927) 891-06-02 |
+| VIP Life | ивент агентство | https://eventcatalog.ru/agency/vip_life | phone | +7(495) 697-04-66 / +7(926) 530-03-34 |
 | VIP LUX апартаменты в Москва-СитиThe Element №1 | лофт | https://www.loft2rent.ru/loft/175184/175188 | phone | +79801239715 |
 | VIP LUX апартаменты в Москва-СитиThe Element №2 | лофт | https://www.loft2rent.ru/loft/175184/175193 | phone | +79801239715 |
 | VIP LUX апартаменты в Москва-СитиThe Element №3 | лофт | https://www.loft2rent.ru/loft/175184/175198 | phone | +79801239715 |
 | VIP LUX апартаменты в Москва-СитиThe Element №4 | лофт | https://www.loft2rent.ru/loft/175184/175223 | phone | +79801239715 |
+| Vip Show | ивент агентство | https://eventcatalog.ru/agency/vip_show | phone | +7(910) 749-87-88 / +7(473) 262-27-27 |
+| VIP Zona | ивент агентство | https://eventcatalog.ru/agency/vip_zona | phone | +7(812)332-01-53 / +7(911)935-67-08 |
 | VIP апартаменты в башнях Москва-СитиIvory dreams №1 | лофт | https://www.loft2rent.ru/loft/175171/175181 | phone | +79252042927 |
 | VIP апартаменты в башнях Москва-СитиIvory dreams №2 | лофт | https://www.loft2rent.ru/loft/175171/175221 | phone | +79252042927 |
 | VIP апартаменты в башнях Москва-СитиIvory dreams №3 | лофт | https://www.loft2rent.ru/loft/175171/175230 | phone | +79252042927 |
+| VIP вечеринки | ивент агентство | https://eventcatalog.ru/agency/vip_vecherinki | phone | +7(495)585-81-01 / +7(925)091-05-31 |
+| VIP Праздники | ивент агентство | https://eventcatalog.ru/agency/vip_prazdniki | phone | +7(910)407-28-99 |
+| Vip Шоу | ивент агентство | https://eventcatalog.ru/agency/vip_shou | phone | +7(473) 262-27-27 / +7(910) 749-87-88 |
+| VIP-Media | ивент агентство | https://eventcatalog.ru/agency/vip-media | phone | +7(916) 146-68-82 |
+| Vip-Stars | ивент агентство | https://eventcatalog.ru/agency/vip-stars | phone | +7(495) 543-54-27 |
 | VIP-зал караоке №1 на Новослободской | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
+| Vipzone | ивент агентство | https://eventcatalog.ru/agency/vipzone | phone | +7(905) 127-83-36 |
+| Virtus Travel | ивент агентство | https://eventcatalog.ru/agency/virtus_travel | phone | +3(85)528-169-55 |
 | VIVA DANCE / Вива Дэнс | лофт | https://www.loft2rent.ru/loft/133564/133571 | phone | +7 (968) 948-90-58 |
 | VIVA DANCEBLACK GOLD  / Черное золото | лофт | https://www.loft2rent.ru/loft/133564/174901 | phone | +7 (968) 948-90-58 |
 | VIVA DANCEЗал в стиле "КУБА" | лофт | https://www.loft2rent.ru/loft/133564/186842 | phone | +7 (968) 948-90-58 |
+| ViVA events | ивент агентство | https://eventcatalog.ru/agency/viva_events | phone | +7(495) 210-72-07 / +7(906) 712-08-32 |
+| Viva Promo | ивент агентство | https://eventcatalog.ru/agency/viva_promo | phone | +7(4832)77-75-07 / +7(4832)77-75-10 |
+| Viva Show | ивент агентство | https://eventcatalog.ru/agency/viva_show | phone | +7(926)920-00-88 |
 | VK | IT / social network company | https://vk.com | email | 85d71a895e71448591e0e0b21fa9e7af@stacks.vk |
 | VK | IT / social network company | https://vk.com | social | https://api.vk.com |
 | VK | IT / social network company | https://vk.com | social | https://login.vk.com |
@@ -7974,9 +9514,13 @@
 | Vkusno i Tochka | сеть ресторанов быстрого питания | https://vkusnoitochka.ru | phone | +7 (800) 600-07-70 |
 | Vkusno i Tochka | сеть ресторанов быстрого питания | https://vkusnoitochka.ru | social | https://t.me/vit_russia |
 | Vkusno i Tochka | сеть ресторанов быстрого питания | https://vkusnoitochka.ru | social | https://vk.com/vkusno_itochka |
+| VM agency | ивент агентство | https://eventcatalog.ru/agency/vm_agency | phone | +7(916)105-00-41 / +7(903)007-24-27 |
+| VNV | ивент агентство | http://www.vnvpro.com | phone | +7(916)106-84-46 |
+| Vodan First | ивент агентство | https://eventcatalog.ru/agency/vodan_first | phone | +7(495) 632-11-85 / +7(495) 721-05-57 |
 | Vodorod Film Company | кинокомпания | https://vodorodfilm.ru | email | hi@vodorodfilm.com |
 | Vodorod Film Company | кинокомпания | https://vodorodfilm.ru | email | ial@vodorodfilm.com |
 | Vodorod Film Company | кинокомпания | https://vodorodfilm.ru | email | ideas@vodorodfilm.com |
+| Voice Art Group | ивент агентство | https://eventcatalog.ru/agency/voice_art_group | phone | +7(985)994-17-17 |
 | VOID HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | email | anastasiya.komarovskaya@shkulev.ru |
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | email | artem.rezakov@shkulev.ru |
@@ -7995,12 +9539,14 @@
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | social | https://ok.ru/vokrugsvetaru |
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | social | https://t.me/vokrugsveta1861 |
 | Vokrug Sveta | медиа / ресторанный проект | https://www.vokrugsveta.ru | social | https://vk.com/vokrugsveta_vk |
+| Volden | ивент агентство | https://eventcatalog.ru/agency/volden | phone | +7(495)740-86-61 / +7(915)462-02-37 |
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | email | career@volga-volga.com |
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | email | info@volga-volga.com |
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | phone | +7 (800) 707-76-61 |
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | phone | +7 (812) 679-68-77 |
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | social | https://t.me/vvbiagency |
 | Volga-Volga | ресторан / event venue | https://volga-volga.com | social | https://vk.com/vvbiagency |
+| Volkova | ивент агентство | https://eventcatalog.ru/agency/volkova | phone | +7(999)915-77-45 |
 | Voltage | лофт | https://www.loft2rent.ru/loft/167313 | phone | 89031292578 |
 | Voronin Loft (Воронин Лофт). Лофт-особняк | лофт | https://www.reveltime.ru/venue/3971131?eventtype=vecherinka | phone | +79346642952 |
 | Voronin Loft (Воронин Лофт). Стильный лофт | лофт | https://www.reveltime.ru/venue/6498017?eventtype=vecherinka | phone | +79584974331 |
@@ -8018,6 +9564,7 @@
 | VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | phone | +7 (903) 977-61-95 |
 | VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://t.me/vozdukhweddings?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Vozdukh%20weddings.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | VOZDUKH WEDDINGS | свадебное агентство | http://vozdukh-weddings.ru | social | https://www.instagram.com/vozdukh_weddings |
+| VR Event Group | ивент агентство | https://eventcatalog.ru/agency/vr_event_group | phone | +7(913)666-66-99 / +7(968)913-15-51 |
 | Vr Home (Вр Хоум). Лофт | лофт | https://www.reveltime.ru/venue/3325310?eventtype=vecherinka | phone | +79852491213 |
 | VR Home АвтозаводскаяLOUNGE с караоке и кальяном в VR HOME на Автозаводской | лофт | https://www.loft2rent.ru/loft/37779/39265 | phone | +79852491213 |
 | VR Home АвтозаводскаяУютный лофт на Автозаводской | лофт | https://www.loft2rent.ru/loft/37779/155892 | phone | +79852491213 |
@@ -8031,6 +9578,7 @@
 | VR Home Эксклюзивный уютный лофт с виртуальной реальностью | лофт | https://www.reveltime.ru/venue/1872981?eventtype=vecherinka | phone | +79852491213 |
 | VR клуб | лофт | https://www.reveltime.ru/venue/3601962?eventtype=vecherinka | phone | +79652301835 |
 | VseSvoi | лофт | https://www.loft2rent.ru/loft/79147 | phone | +79137774230 |
+| VSP company | ивент агентство | https://eventcatalog.ru/agency/vsp_company | phone | +375(29)397-68-82 |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-20 |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-22 |
 | VTB Arena Events | event operator | https://vtb-arena.com | phone | +7 (495) 122-42-26 |
@@ -8055,22 +9603,43 @@
 | VTB Arena Events | event operator | https://vtb-arena.com | social | social |
 | VV&AКрасносельская | лофт | https://www.loft2rent.ru/loft/196833/196838 | phone | 89104284751 |
 | VМЕСТЕЛофт со сценой и фотозонами Вместе | лофт | https://www.loft2rent.ru/loft/123755/123759 | phone | +79265913185 |
+| W Record | ивент агентство | https://eventcatalog.ru/agency/w_record | phone | +7(499) 272-72-77 |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | email | wa-garden@wrf.su |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | phone | +7 (903) 108-88-78 |
 | WA Garden | ресторан | https://wa-garden.com/?utm_source=greatlist.com&utm_medium=partner | social | https://t.me/wa_garden |
 | WA Garden | ресторан | https://wa-garden.com/ | phone | +79031088878 |
 | Wave Studio( Студия Волна). Зал Гранд | лофт | https://www.reveltime.ru/venue/5655174?eventtype=vecherinka | phone | +79893636021 |
 | Wave.studio / Вэйв студияКвартира | лофт | https://www.loft2rent.ru/loft/116807/122975 | phone | +79150127722 |
+| We Can Group | ивент агентство | https://eventcatalog.ru/agency/we_can_group | phone | +7(495) 232-00-88 |
+| We Do | ивент агентство | https://eventcatalog.ru/agency/we_do | phone | +7916 548 6585 / +7926 382 6174 |
+| Wealthy Entertainment | ивент агентство | https://eventcatalog.ru/agency/wealthy_entertainment | phone | +7(495)998-64-54 |
+| Wedding & Decor | ивент агентство | https://eventcatalog.ru/agency/wedding_and_decor | phone | +7(911)166-54-44 |
+| Wedding Bells | ивент агентство | https://eventcatalog.ru/agency/wedding_bells | phone | +7(495)381-40-01 / +7(926)513-42-40 |
+| Wedding City Pro | ивент агентство | https://eventcatalog.ru/agency/wedding_city_pro | phone | +7(925)194-07-75 |
+| Wedding Expert | ивент агентство | https://eventcatalog.ru/agency/wedding_expert | phone | +7(969)712-00-12 |
+| Wedding Expert Irkutsk | ивент агентство | https://eventcatalog.ru/agency/wedding_expert_irkutsk | phone | +7(950)089-61-76 |
+| Wedding is | ивент агентство | https://eventcatalog.ru/agency/wedding_is | phone | +7(499)394-37-58 / +7(925)342-46-58 |
 | WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | phone | +7 (916) 532-91-33 |
 | WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | social | https://t.me/wed_pie?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20Wedding%20pie.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | WEDDING PIE | свадебное агентство | https://top100awards.ru/wedding-pie | social | https://www.instagram.com/wedding_pie |
+| Wedding Pro | ивент агентство | https://eventcatalog.ru/agency/wedding_pro | phone | +7(918)245-60-63 |
+| Wedding PROduction | ивент агентство | https://eventcatalog.ru/agency/wedding_production | phone | +7(985) 231-01-42 |
+| WeddItaly | ивент агентство | https://eventcatalog.ru/agency/wedditaly | phone | +39(389)1592-979 / +7(921)351-84-58 |
+| Weekend Event | ивент агентство | https://eventcatalog.ru/agency/weekend_event | phone | +7(960)048-96-64 / +7(843)258-96-64 |
+| Welcome Krasnodar | ивент агентство | https://eventcatalog.ru/agency/welcome_krasnodar | phone | +7(918)028-72-10 |
+| WelcomEvents | ивент агентство | https://eventcatalog.ru/agency/welcomevents | phone | +7(916)563-06-33 / +7(917)550-25-29 |
+| Well Done Event | ивент агентство | https://welldonevent.ru | phone | +7(495)233-19-99 / +7(985)233-19-99 |
+| Wendy House | ивент агентство | https://eventcatalog.ru/agency/wendy_house | phone | +375(17)200-47-32 / +375(33)393-64-86 |
 | West Loft (Вест лофт). Многофункциональный арт-лофт | лофт | https://www.reveltime.ru/venue/4058729?eventtype=vecherinka | phone | +79584974150 |
 | WEST SIDE LOFT на Белорусской с караоке и PS 5 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-52-98 |
 | WEST SIDE VIP на Белорусской с караоке и PS5 ! | лофт | https://www.loft2rent.ru/loft/66644 | phone | +7 (499) 302-52-98 |
+| Westcom | ивент агентство | https://eventcatalog.ru/agency/westcom | phone | +7(495) 926-84-30 |
 | Western loft - просторный лофт в стиле дикого запада | лофт | https://www.loft2rent.ru/loft/60562 | phone | 8 916 380 97 57 |
 | WHITE | лофт | https://www.loft2rent.ru/loft/1926 | phone | +7 (495) 032-36-35 |
 | WHITE HALL | лофт | https://www.loft2rent.ru/loft/5338 | phone | 8 (812) 317-12-20 |
+| White Happy Rabbit | ивент агентство | https://eventcatalog.ru/agency/white_happy_rabbit | phone | +7(926) 614-83-71 |
 | White House Лофт | лофт | https://www.loft2rent.ru/loft/123833/123840 | phone | +7 (977) 423-77-09 |
+| White Line | ивент агентство | https://eventcatalog.ru/agency/white_line | phone | +7(926)933-85-43 |
 | White Loft | лофт | https://www.loft2rent.ru/loft/177148/177150 | phone | 8-952-284-13-97 |
 | WHITE LOFT | лофт | https://www.loft2rent.ru/loft/177716/177719 | phone | 89215770757 |
 | White Loft | лофт | https://www.loft2rent.ru/loft/30979 | phone | +79936053121 |
@@ -8078,6 +9647,7 @@
 | White Mare - апартаменты | лофт | https://www.loft2rent.ru/loft/76631 | phone | +79218888879 |
 | White Mare - дом на воде | лофт | https://www.loft2rent.ru/loft/76631 | phone | +7 (921) 888-88-79 |
 | White Mare - лофт на воде | лофт | https://www.loft2rent.ru/loft/76631 | phone | +79218888879 |
+| White Orchid Weding | ивент агентство | https://eventcatalog.ru/agency/white_orchid_weding | phone | +7(925)841-87-27 |
 | White Rabbit | ресторан | https://whiterabbitmoscow.ru | email | banquet.whiterabbit@wrf.su |
 | White Rabbit | ресторан | https://whiterabbitmoscow.ru | email | example@mail.ru |
 | White Rabbit | ресторан | https://whiterabbitmoscow.ru | email | vladimir.mukhin@wrf.su |
@@ -8129,6 +9699,9 @@
 | White Rabbit Chef’s Table | ресторан | https://whiterabbitfamily.ru | social | https://www.instagram.com/white_rabbit_family |
 | Whitefox на НагатинскойЗал с циклорамой / Вайт Фокс | лофт | https://www.loft2rent.ru/loft/157199/157207 | phone | +79653246648 |
 | Whitefox на НагатинскойИнтерьерный зал / Вайт Фокс | лофт | https://www.loft2rent.ru/loft/157199/157201 | phone | +79653246648 |
+| Whocares happening co-op. | ивент агентство | https://eventcatalog.ru/agency/whocares_happening_co-op | phone | +7(903) 221-24-95 |
+| Why Not Event | ивент агентство | https://eventcatalog.ru/agency/why_not_event | phone | +7(499)136-11-61 / +7(926)789-55-89 |
+| Wind4Tune | ивент агентство | https://eventcatalog.ru/agency/wind4tune | phone | +7(919)722-87-70 |
 | Wine & Crab | ресторан | https://winecrab.ru | email | info@winecrab.ru |
 | Wine & Crab | ресторан | https://winecrab.ru | phone | +7 (495) 139-00-41 |
 | Wine & Crab | ресторан | https://winecrab.ru | phone | +7 (495) 139-00-42 |
@@ -8176,6 +9749,7 @@
 | Winzavod | арт-кластер | https://winzavod.ru | social | social |
 | Winzavod | арт-кластер | https://winzavod.ru | social | social |
 | Winzavod | арт-кластер | https://winzavod.ru | social | social |
+| Wit | ивент агентство | https://eventcatalog.ru/agency/wit | phone | +7(495)203-12-21 / +7(926)743-61-06 |
 | Woman.ru (Shkulev) | организация | https://www.woman.ru | email | admin@woman.ru |
 | Woman.ru (Shkulev) | организация | https://www.woman.ru | email | woman@woman.ru |
 | Woman.ru (Shkulev) | организация | https://www.woman.ru | social | https://ok.ru/womanru |
@@ -8185,6 +9759,7 @@
 | Woman.ru (Shkulev) | организация | https://www.woman.ru | social | https://www.youtube.com/channel/UCgNUAkGSMB2-9VpAI7kB5Rw |
 | WOOD | лофт | https://www.loft2rent.ru/loft/5338 | phone | +7 495 120-19-05 |
 | Wood. Вуд. Яркий и уютный лофт | лофт | https://www.reveltime.ru/venue/4951857?eventtype=vecherinka | phone | +79584974215 |
+| WoodBind | ивент агентство | https://eventcatalog.ru/agency/woodbind | phone | +7(977)468-46-13 |
 | Work Shop Loft (Воркшоп Лофт). Зал 1 с верандой | лофт | https://www.reveltime.ru/venue/3187614?eventtype=vecherinka | phone | +79584974089 |
 | Work Shop Loft (Воркшоп Лофт). Зал 10 | лофт | https://www.reveltime.ru/venue/729268?eventtype=vecherinka | phone | +79584974228 |
 | Work Shop Loft (Воркшоп Лофт). Зал 11 | лофт | https://www.reveltime.ru/venue/540417?eventtype=vecherinka | phone | +79346695974 |
@@ -8199,7 +9774,12 @@
 | World Class | фитнес-сеть | https://www.worldclass.ru | social | https://vk.com/worldclassclubs |
 | World Class | фитнес-сеть | https://www.worldclass.ru | social | https://www.tiktok.com/@worldclassclubs |
 | World Class | фитнес-сеть | https://www.worldclass.ru | social | https://www.youtube.com/user/WorldClassRussia |
+| World Stars | ивент агентство | https://eventcatalog.ru/agency/world_stars | phone | +7(812)424-47-37 / +7(495)134-48-04 |
+| Worlds | ивент агентство | https://wrlds.ru | phone | +7(495)225-73-21 |
+| Wow Event | ивент агентство | https://eventcatalog.ru/agency/wow_event | phone | +7(499) 391-59-11 |
+| Wow Kids Party | ивент агентство | https://eventcatalog.ru/agency/wow_kids_party | phone | +7(926)008-27-75 / +7(499)347-78-91 |
 | WOW Land | лофт | https://www.loft2rent.ru/loft/178603 | phone | +79999255575 |
+| Wow Production! | ивент агентство | https://eventcatalog.ru/agency/wow_production | phone | +7(495) 798-86-71 |
 | WOW — камерный лофт с караоке в центре, 8 минут от метро | лофт | https://www.loft2rent.ru/loft/loftaviator | phone | +7 958 578 23 62 |
 | X-Fit Club (сеть) | ивент-спейс | https://xfit.ru | email | 3612191@mail.ru |
 | X-Fit Club (сеть) | ивент-спейс | https://xfit.ru | email | akb-manager@xfit.ru |
@@ -8473,21 +10053,31 @@
 | X-Fit Premium | ивент-спейс | https://www.xfit.ru | social | https://t.me/xfitofficialclubs |
 | X-Fit Premium | ивент-спейс | https://www.xfit.ru | social | https://vm.tiktok.com/ZSJ1hUeDG |
 | X-Fit Premium | ивент-спейс | https://www.xfit.ru | social | https://www.youtube.com/user/XFitRussia |
+| X-styleshow | ивент агентство | https://eventcatalog.ru/agency/x-styleshow | phone | +7(358) 401-44-48 |
 | X5 Group | retail holding | https://www.x5.ru | phone | +7 (495) 662-88-88 |
 | X5 Group | retail holding | https://www.x5.ru | phone | +7 (495) 789-95-95 |
 | X5 Group | retail holding | https://www.x5.ru | social | https://t.me/x5_telega |
 | X5 Group | retail holding | https://www.x5.ru | social | https://vk.com/x5group |
+| Xarizma Group | ивент агентство | https://eventcatalog.ru/agency/xarizma_group | phone | +7(925)232-14-22 / +7(916)869-98-79 |
+| XDay | ивент агентство | https://eventcatalog.ru/agency/xday | phone | +7(495)369-15-19 / +7(968)775-50-00 |
+| XIII Event | ивент агентство | https://eventcatalog.ru/agency/xiii_event | phone | +7(903)275-07-22 |
+| XL agency | ивент агентство | https://eventcatalog.ru/agency/xl_agency | phone | +7(812)958-08-13 |
+| Xxl | ивент агентство | https://eventcatalog.ru/agency/xxl | phone | +7(347) 266-90-08 |
 | Ya-cafe 1 | лофт | https://www.loft2rent.ru/loft/97970 | phone | 89057975744 |
 | YA-cafe 2 | лофт | https://www.loft2rent.ru/loft/97970 | phone | 8-905-797-57-44 |
 | YA-cafe 3 | лофт | https://www.loft2rent.ru/loft/97970 | phone | 8-905-797-57-44 |
 | Ya-Loft 1 | лофт | https://www.loft2rent.ru/loft/97970 | phone | 89057975744 |
 | Ya-Loft 2 | лофт | https://www.loft2rent.ru/loft/97970 | phone | 89057975744 |
+| YakovlevGroup | ивент агентство | https://eventcatalog.ru/agency/yakovlevgroup | phone | +7(903)136-62-66 / +7(495)230-54-12 |
+| Yappi Club | ивент агентство | https://eventcatalog.ru/agency/yappi_club | phone | +7(495) 629-43-40 / +7(916) 779-31-44 |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | email | banket@yar-restoran.ru |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | email | order@yar-restoran.ru |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | phone | +7 (495) 960-20-04 |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | phone | +7 (903) 114-88-42 |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | social | https://www.instagram.com/restoran.yar/?hl=ru |
 | Yar Restaurant | ресторан | https://yar-restoran.ru | social | https://www.youtube.com/embed/M28yUklyYAA |
+| Yellow Project | ивент агентство | https://eventcatalog.ru/agency/yellow_project | phone | +7(953)827-22-28 |
+| YES group | ивент агентство | https://eventcatalog.ru/agency/yes_group | phone | +7(4872)70-43-01 |
 | YES&MESS | creative / event agency | http://yesandmess.com | email | email |
 | YES&MESS | creative / event agency | http://yesandmess.com | email | weddvalerie@gmail.com |
 | YES&MESS | creative / event agency | http://yesandmess.com | social | http://t.me/+79096607972 |
@@ -8499,12 +10089,23 @@
 | YES&MESS | creative / event agency | http://yesandmess.com | phone | +7 (909) 660-79-72 |
 | YES&MESS | creative / event agency | http://yesandmess.com | social | https://t.me/YESANDMESS?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20YES%26MESS.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | YES&MESS | creative / event agency | http://yesandmess.com | social | https://www.instagram.com/yesandmess.event |
+| Yogurt Event | ивент агентство | https://eventcatalog.ru/agency/yogurt_event | phone | +7(841) 299-77-91 / +7(841) 229-87-70 |
 | Yota | телеком-компания | https://www.yota.ru | social | https://t.me/yota_official_bot |
 | Yota | телеком-компания | https://www.yota.ru | social | https://t.me/yotarussia |
 | Yota | телеком-компания | https://www.yota.ru | social | https://vk.com/yota |
 | You Working | лофт | https://www.loft2rent.ru/loft/121029/121539 | phone | 89259998499 |
 | You Working Измайловский | лофт | https://www.loft2rent.ru/loft/121029 | phone | +79259998499 |
+| Your Day | ивент агентство | https://eventcatalog.ru/agency/your_day | phone | +7(926)969-77-96 |
+| Your events | ивент агентство | https://eventcatalog.ru/agency/your_events | phone | +7(985)557-20-09 |
+| Your Exclusive Story | ивент агентство | https://eventcatalog.ru/agency/your_exclusive_story | phone | +7(495) 789-01-96 |
+| Your Style | ивент агентство | https://eventcatalog.ru/agency/your_style | phone | +7(495) 507-29-39 |
+| Yours Event | ивент агентство | https://eventcatalog.ru/agency/yours_event | phone | +7(705)550-74-36 / +7(727)354-55-98 |
+| YoZo | ивент агентство | https://eventcatalog.ru/agency/yozo | phone | +7(495)798-76-06 |
+| Z Team | ивент агентство | https://eventcatalog.ru/agency/z_team | phone | +7(862)291-72-17 |
+| Z-orange | ивент агентство | https://eventcatalog.ru/agency/z-orange | phone | +7(495) 953-73-37 / +7(495) 502-43-05 |
+| Z-orb | ивент агентство | https://eventcatalog.ru/agency/z-orb | phone | +7(909)160-56-41 |
 | Zafferano Loft | лофт | https://www.loft2rent.ru/loft/108473/108495 | phone | 8 499 490 29 99 |
+| Zavas-Event | ивент агентство | https://eventcatalog.ru/agency/zavas-event | phone | +7(966)005-02-35 / +7(495)128-29-77 |
 | Zavidovo | resort / golf club | https://zavidovo.com | email | booking@zavidovo-golf.ru |
 | Zavidovo | resort / golf club | https://zavidovo.com | email | info@zavidovo.com |
 | Zavidovo | resort / golf club | https://zavidovo.com | email | info@zavidovospavillage.com |
@@ -8518,6 +10119,10 @@
 | Zavidovo | resort / golf club | https://zavidovo.com | social | https://t.me/Zavidovoresort |
 | Zavidovo | resort / golf club | https://zavidovo.com | social | https://vk.com/zavidovocom |
 | Zavidovo | resort / golf club | https://zavidovo.com | social | https://www.youtube.com/channel/UC250aTqSegYi4fd7eHLNUMw |
+| Zavod | ивент агентство | https://eventcatalog.ru/agency/zavod | phone | +7(978)077-20-27 |
+| Zconcert | ивент агентство | https://eventcatalog.ru/agency/zconcert | phone | +7(911)929-19-20 |
+| Zebra | ивент агентство | https://eventcatalog.ru/agency/zebra | phone | +7(814) 278-22-00 / +7(911) 400-46-36 |
+| Zebra Teambuilding | ивент агентство | https://eventcatalog.ru/agency/zebra_teambuilding | phone | +7(8142) 78-22-00 / +7(911) 400-46-36 |
 | Zetta Insurance | страховая компания | https://www.zettains.ru | email | customer@zettains.ru |
 | Zetta Insurance | страховая компания | https://www.zettains.ru | email | info@zettains.ru |
 | Zetta Insurance | страховая компания | https://www.zettains.ru | email | medpult@zettains.ru |
@@ -8527,6 +10132,12 @@
 | Zetta Insurance | страховая компания | https://www.zettains.ru | social | http://ok.ru/zettains |
 | Zetta Insurance | страховая компания | https://www.zettains.ru | social | https://t.me/zettains_group |
 | Zetta Insurance | страховая компания | https://www.zettains.ru | social | https://vk.com/zetta_ins |
+| Zhivago production | ивент агентство | https://eventcatalog.ru/agency/zhivago_production | phone | +7(909)659-18-47 / +7(977)832-61-06 |
+| Zima | ивент агентство | https://eventcatalog.ru/agency/zima | phone | +7(343)253-26-27 |
+| Zoom marketing group | ивент агентство | https://eventcatalog.ru/agency/zoom_marketing_group | phone | +7(495) 983-00-09 / +7(926) 200-11-77 |
+| Zshow | ивент агентство | https://eventcatalog.ru/agency/zshow | phone | +7(928) 290-95-95 |
+| Zubrinov | ивент агентство | https://eventcatalog.ru/agency/ochenj_siljnoe_agentstvo_pavla_zubrinova | phone | +7(910)435-34-69 |
+| Zucker Studio | ивент агентство | https://eventcatalog.ru/agency/zucker_studio | phone | +7(965)177-78-14 |
 | Zvezda TV | телеканал | https://tvzvezda.ru | email | a.kharkov@caredstar.ru |
 | Zvezda TV | телеканал | https://tvzvezda.ru | email | aydina@zvezdamedia.ru |
 | Zvezda TV | телеканал | https://tvzvezda.ru | email | eivanova@zvezdamedia.ru |
@@ -8576,9 +10187,20 @@
 | ÁMURA | ресторан | http://amuraevent.ru | social | https://t.me/maria_amura_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%C3%81mura.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ÁMURA | ресторан | http://amuraevent.ru | social | https://www.instagram.com/amura.event |
 | Úность | лофт | https://www.loft2rent.ru/loft/162570/162604 | phone | +7 (925) 602-06-07 |
+| А.Т.О.М. | ивент агентство | https://eventcatalog.ru/agency/a_t_o_m | phone | +7(812) 341-76-80 / +7(812) 926-60-04 |
+| А1 | ивент агентство | https://eventcatalog.ru/agency/a1 | phone | +7(383) 263-42-22 |
 | А53: Secret Gallery (Секретная галерея) | лофт | https://www.reveltime.ru/venue/6482549?eventtype=vecherinka | phone | +79910172113 |
+| АRT-Proekt | ивент агентство | https://eventcatalog.ru/agency/art-proekt | phone | +7(495) 518-83-04 |
+| АБВ Шоу Про | ивент агентство | https://eventcatalog.ru/agency/abv_shou_pro | phone | +7(499) 929-53-10 / +7(495) 663-74-47 |
+| АБР | ивент агентство | https://eventcatalog.ru/agency/abr | phone | +7(495)025-00-11 |
 | Абракадабра | лофт | https://www.loft2rent.ru/loft/129279 | phone | +79671853333 |
+| Абрикосовый лев | ивент агентство | https://eventcatalog.ru/agency/abrikosovyy_lev | phone | +7(495) 792-40-54 |
+| Абсолют Pro | ивент агентство | https://eventcatalog.ru/agency/absolyut_pro | phone | +7(351) 247-58-93 |
+| Абсолют Арт Гранд | ивент агентство | https://eventcatalog.ru/agency/absolyut_art_grand | phone | +7(926) 113-49-59 / +7(910) 461-78-80 |
+| Авангард Центр | ивент агентство | https://eventcatalog.ru/agency/avangard_centr | phone | +7(495) 927-02-47 |
 | Авангард. Яркий зал с авторским дизайном | лофт | https://www.reveltime.ru/venue/3316621?eventtype=vecherinka | phone | +79346608162 |
+| Авантаж | ивент агентство | https://eventcatalog.ru/agency/avantazh | phone | +7(499) 762-73-01 |
+| Авентура Омск | ивент агентство | https://eventcatalog.ru/agency/aventura_omsk | phone | +7(3812)66-40-40 / +7(800)200-69-99 |
 | Авиатор | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
 | Авиатор | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Авито Банк | банк | https://avitobank.ru | email | avtolombard116@inbox.ru |
@@ -8588,6 +10210,7 @@
 | Авито Банк | банк | https://avitobank.ru | social | https://vk.ru/avtobankkazan |
 | Авито Банк | банк | https://avitobank.ru | social | https://wa.me/79376152620?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D1%8F%20%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0 |
 | Авито Банк | банк | https://avitobank.ru | social | https://wa.me/79376152620?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D1%8F%20%D1%81%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%83%20%D0%B7%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0 |
+| Аврора | ивент агентство | https://eventcatalog.ru/agency/avrora | phone | +7(3952)25-10-15 / +7(902)511-74-27 |
 | АвтоВАЗ (офисы МСК) | организация | https://www.lada.ru | phone | +7 (800) 700-52-32 |
 | АвтоВАЗ (офисы МСК) | организация | https://www.lada.ru | social | https://ok.ru/lada |
 | АвтоВАЗ (офисы МСК) | организация | https://www.lada.ru | social | https://t.me/lada_rf |
@@ -8904,6 +10527,10 @@
 | Авторский Отель Паррадоссо | отель | https://ostrovok.ru/hotel/russia/moscow/mid9716237/avtorskij_hotel_parradosso | address | Настасьинский переулок, д. 8/1, Москва |
 | Агава лофт | лофт | https://www.loft2rent.ru/loft/144719 | phone | +7 (958) 521-27-15 |
 | АгартаЗал 62м | лофт | https://www.loft2rent.ru/loft/146099/146101 | phone | +79269091991 |
+| Агентства | ивент агентство | http://orphus.ru | social | https://eventcatalog.ru/agency/sole_verde |
+| Агентства | ивент агентство | http://orphus.ru | social | https://eventcatalog.ru/agency/byuro_schastjya |
+| Агентство Бизнес Культуры | ивент агентство | https://eventcatalog.ru/agency/agentstvo_biznes_kuljtury | phone | +7(343)361-34-90 |
+| Агентство Вызова Улыбок | ивент агентство | https://eventcatalog.ru/agency/agentstvo_vyzova_ulybok | phone | +7(495) 618-76-60 / +7(495) 500-76-46 |
 | АГЕНТСТВО ДАРЬИ ТЕРЕНТЬЕВОЙ / TERENTEVA EVENT | event-агентство | http://terenteva-event.ru | email | email |
 | АГЕНТСТВО ДАРЬИ ТЕРЕНТЬЕВОЙ / TERENTEVA EVENT | event-агентство | http://terenteva-event.ru | email | terentevaevent@gmail.com |
 | АГЕНТСТВО ДАРЬИ ТЕРЕНТЬЕВОЙ / TERENTEVA EVENT | event-агентство | http://terenteva-event.ru | phone | +7 (903) 147-33-99 |
@@ -8922,6 +10549,15 @@
 | АГЕНТСТВО ДИАНЫ БЕЗМЫЛОВОЙ | event-агентство | https://top100awards.ru/bezmylova | phone | +7 (926) 689-24-14 |
 | АГЕНТСТВО ДИАНЫ БЕЗМЫЛОВОЙ | event-агентство | https://top100awards.ru/bezmylova | social | https://t.me/diana_bezmylova?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE%20%D0%94%D0%B8%D0%B0%D0%BD%D1%8B%20%D0%91%D0%B5%D0%B7%D0%BC%D1%8B%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | АГЕНТСТВО ДИАНЫ БЕЗМЫЛОВОЙ | event-агентство | https://top100awards.ru/bezmylova | social | https://www.instagram.com/di_wed_family |
+| Агентство креативных праздников | ивент агентство | https://eventcatalog.ru/agency/agentstvo_kreativnyh_prazdnikov | phone | +7(903) 138-83-41 / +7(903) 137-83-89 |
+| Агентство Праздник | ивент агентство | https://eventcatalog.ru/agency/agentstvo_prazdnik | phone | +7(495) 925-05-94 |
+| Агентство Разработки Рекламы | ивент агентство | https://eventcatalog.ru/agency/agentstvo_razrabotki_reklamy | phone | +7(831) 433-36-71 |
+| Агентство специальных проектов | ивент агентство | https://eventcatalog.ru/agency/agentstvo_specialjnyh_proektov | phone | +7(495) 782-77-10 / +7(495) 723-02-23 |
+| Агентство стратегических программ | ивент агентство | https://eventcatalog.ru/agency/agentstvo_strategicheskih_programm | phone | +7(495)679-82-07 / +7(495)679-82-09 |
+| Агентство Торжественных Событий | ивент агентство | https://eventcatalog.ru/agency/agentstvo_torzhestvennyh_sobytiy | phone | +7(844) 250-10-05 |
+| Агентство №1 | ивент агентство | https://eventcatalog.ru/agency/agentstvo_1 | phone | +7(913) 946-68-00 |
+| Агенттура | ивент агентство | https://eventcatalog.ru/agency/agenttura | phone | +7(495) 510-68-53 |
+| Агис плюс | ивент агентство | https://eventcatalog.ru/agency/agis_plyus | phone | +7(916) 264-36-13 / +7(985) 779-28-09 |
 | Агора Лофт | лофт | https://www.loft2rent.ru/loft/199087/199151 | phone | +7 (925) 221-02-65 |
 | Агророс | организация | https://agroros.ru | email | bank@agroros.ru |
 | Агророс | организация | https://agroros.ru | phone | +7 (800) 222-44-19 |
@@ -8929,7 +10565,16 @@
 | Агророс | организация | https://agroros.ru | social | https://t.me/club_AB |
 | Агророс | организация | https://agroros.ru | social | https://vk.com/agrorosbank |
 | Адам - Площадка для мероприятий | лофт | https://www.loft2rent.ru/loft/181228/181234 | phone | +7 993 980 7979 |
+| Адамант | ивент агентство | https://eventcatalog.ru/agency/adamant | phone | +7(963)978-87-78 / +7(925)118-93-11 |
+| Адекват | ивент агентство | https://eventcatalog.ru/agency/adekvat-1 | phone | +7(863) 231-09-27 / +7(918) 522-66-46 |
+| Адекват | ивент агентство | https://eventcatalog.ru/agency/adekvat | phone | +7(863) 231-09-27 / +7(918) 522-66-46 |
+| Аделс Медиа | ивент агентство | https://eventcatalog.ru/agency/adels_media | phone | +7(495)644-88-60 / +7(915)217-72-74 |
 | Адорнос Пространство премиум-класса на Улице 1905 года | лофт | https://www.reveltime.ru/venue/4608778?eventtype=vecherinka | phone | +78004444491 |
+| Адреналиновое варенье | ивент агентство | https://eventcatalog.ru/agency/adrenalinovoe_varenje | phone | +7(906)082-46-06 |
+| Ажур-Ивент | ивент агентство | https://eventcatalog.ru/agency/azhur-ivent | phone | +7(926)080-09-00 / +7(495)971-75-71 |
+| Азбука праздника | ивент агентство | https://eventcatalog.ru/agency/azbuka_prazdnika | phone | +7(908) 237-11-09 / +7(831) 413-08-63 |
+| Азбука развелечений | ивент агентство | https://eventcatalog.ru/agency/azbuka_razvelecheniy | phone | +7(495) 942-96-26 / +7(916) 657-97-58 |
+| Азбука свадьбы | ивент агентство | https://eventcatalog.ru/agency/azbuka_svadjby | phone | +7(925)350-75-00 |
 | Азиатско-Тихоокеанский Банк | банк | https://atb.su | phone | +7 (416) 222-23-33 |
 | Азиатско-Тихоокеанский Банк | банк | https://atb.su | phone | +7 (800) 775-80-80 |
 | Азиатско-Тихоокеанский Банк | банк | https://atb.su | phone | +7 (800) 775-88-88 |
@@ -8942,8 +10587,13 @@
 | Айна | ресторан | https://ainarest.ru/ | phone | +74951031023 |
 | Академия Be ProЗал для конференций | лофт | https://www.loft2rent.ru/loft/104965/104967 | phone | +79912843123 |
 | Академия Be ProЗал для лекций и семинаров | лофт | https://www.loft2rent.ru/loft/104965/104971 | phone | +79912843123 |
+| Академия дель Густо | ивент агентство | https://eventcatalog.ru/agency/akademiya_delj_gusto | phone | +7(903)968-67-88 / +7(495)968-67-88 |
+| Академия Праздника | ивент агентство | https://eventcatalog.ru/agency/akademiya_prazdnika | phone | +7(909)999-56-27 / +7(916)577-71-41 |
+| Академия Приключений | ивент агентство | https://eventcatalog.ru/agency/akademiya_priklyucheniy | phone | +7(499)685-45-48 |
 | Академия ПСБ | лофт | https://www.loft2rent.ru/loft/187927/188114 | phone | 84951981999 |
 | Аквамарин | лофт | https://www.loft2rent.ru/loft/44815 | phone | +7-916-496-11-91 |
+| Акварель | ивент агентство | https://eventcatalog.ru/agency/akvarelj | phone | +7(915) 299-14-74 / +7(905) 516-46-97 |
+| Акватория Счастья | ивент агентство | https://eventcatalog.ru/agency/akvatoriya_schastjya | phone | +7(495) 650-17-40 / +7(495) 650-92-56 |
 | АКИ.лаб | лофт | https://www.loft2rent.ru/loft/141269/141640 | phone | +7 915 064 42 24 |
 | Аккредитованное Образовательное Частное учреждение Высшего Образования «Московский Финансово-Юридический Университет Мфюа» | организация | https://www.mfua.ru | email | career@mfua.ru |
 | Аккредитованное Образовательное Частное учреждение Высшего Образования «Московский Финансово-Юридический Университет Мфюа» | организация | https://www.mfua.ru | email | odnookno@mfua.ru |
@@ -8961,8 +10611,17 @@
 | Аккредитованное Образовательное Частное учреждение Высшего Образования «Московский Финансово-Юридический Университет Мфюа» | организация | https://www.mfua.ru | social | https://vk.com/mfua_mos |
 | Аккредитованное Образовательное Частное учреждение Высшего Образования «Московский Финансово-Юридический Университет Мфюа» | организация | https://www.mfua.ru | social | https://vk.com/mfua_mos?roistat_visit=4576484 |
 | Аккредитованное Образовательное Частное учреждение Высшего Образования «Московский Финансово-Юридический Университет Мфюа» | организация | https://www.mfua.ru | social | https://vk.com/mfua_mos?w=wall-4292_8579 |
+| Акрукс | ивент агентство | https://eventcatalog.ru/agency/akruks | phone | +7(495) 749-42-46 |
+| АКТМ | ивент агентство | https://eventcatalog.ru/agency/aktm | phone | +7(911) 935-35-00 |
+| Аладдин | ивент агентство | https://eventcatalog.ru/agency/aladdin | phone | +7(916) 383-00-83 |
+| Алалай | ивент агентство | https://eventcatalog.ru/agency/alalay | phone | 8-800-775-26-50 |
 | Алан | лофт | https://www.loft2rent.ru/loft/116807 | phone | +79150127722 |
+| Алена | ивент агентство | https://eventcatalog.ru/agency/alena | phone | +7(495) 728-44-01 / +7(903) 526-03-04 |
+| Алена Сахно | ивент агентство | https://eventcatalog.ru/agency/alena_sahno | phone | +380(95)559-97-78 / +380(71)559-97-78 |
 | Алиби Лофт | лофт | https://www.reveltime.ru/venue/4488361?eventtype=vecherinka | phone | +79150528083 |
+| Алиса | ивент агентство | https://eventcatalog.ru/agency/alisa | phone | +7(912)888-32-38 |
+| Аллегро | ивент агентство | https://eventcatalog.ru/agency/allegro | phone | +7(930) 830-02-86 / +7(492) 260-02-86 |
+| Алмаз | ивент агентство | https://eventcatalog.ru/agency/almaz | phone | +7(495)984-83-36 |
 | Алмазный фонд | музей | https://www.gokhran.ru | email | gokhran@gokhran.ru |
 | Алмазэргиэнбанк | организация | https://albank.ru | email | bank@albank.ru |
 | Алмазэргиэнбанк | организация | https://albank.ru | email | ethics@albank.ru |
@@ -8984,10 +10643,23 @@
 | АЛХИМИЯ | event / creative agency | http://alchemywed.ru | phone | +7 (903) 528-04-01 |
 | АЛХИМИЯ | event / creative agency | http://alchemywed.ru | social | https://t.me/YuliaBaklanova1983?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%90%D0%BB%D1%85%D0%B8%D0%BC%D0%B8%D1%8F.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | АЛХИМИЯ | event / creative agency | http://alchemywed.ru | social | https://www.instagram.com/alchemywed.ru |
+| Альберт шоу | ивент агентство | https://eventcatalog.ru/agency/aljbert_shou | phone | +7(918)460-65-34 / +7(961)530-47-68 |
+| Альгеро | ивент агентство | https://eventcatalog.ru/agency/aljgero | phone | +7(812)970-57-59 |
 | Альма | лофт | https://www.loft2rent.ru/loft/97743 | phone | +79055733733 |
 | Альтернатива. Неоновый лофт-зал | лофт | https://www.reveltime.ru/venue/4512046?eventtype=vecherinka | phone | +79584974215 |
 | Альтернатива. Светлый игровой зал | лофт | https://www.reveltime.ru/venue/5935975?eventtype=vecherinka | phone | +79584974331 |
+| Альянс Медиа | ивент агентство | https://eventcatalog.ru/agency/aljyans_media | phone | +7(495) 502-39-90 |
+| Алёна Ангилопова | ивент агентство | https://eventcatalog.ru/agency/alena_angilopova | phone | +7(985)744-82-84 |
+| Амантера | ивент агентство | https://eventcatalog.ru/agency/amantera | phone | +7(903)518-06-03 / +7(926)484-23-24 |
+| Амбер Групп | ивент агентство | https://eventcatalog.ru/agency/amber_grupp | phone | +7(3452) 63-27-81 |
+| Аметис | ивент агентство | https://eventcatalog.ru/agency/ametis | phone | +7(380) 654-26-00 / +7(067) 653-45-21 |
+| Аметист | ивент агентство | https://eventcatalog.ru/agency/ametist | phone | +7(985) 990-30-51 |
+| Амнезия | ивент агентство | https://eventcatalog.ru/agency/amneziya | phone | +7(923)143-04-04 |
 | АМПЕР | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
+| АМР | ивент агентство | https://eventcatalog.ru/agency/amr | phone | +7(916) 262-14-79 |
+| Амур | ивент агентство | https://eventcatalog.ru/agency/amur | phone | +7(953)699-99-77 |
+| Амфион | ивент агентство | https://eventcatalog.ru/agency/amfion | phone | +7(495) 623-49-71 / +7(495) 623-49-74 |
+| Ананас | ивент агентство | https://eventcatalog.ru/agency/ananas | phone | +7(921)780-71-78 |
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | email | email |
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | email | event@nesterova1.ru |
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | phone | +7 (916) 423-90-83 |
@@ -9003,10 +10675,15 @@
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | phone | +7 (916) 423-90-83 |
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | social | https://t.me/anastasia_nesterova7?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | АНАСТАСИЯ НЕСТЕРОВА | wedding planner | http://nesterovawedding.ru | social | https://www.instagram.com/nesterova__wedding |
+| Ангелы Мегаполиса | ивент агентство | https://eventcatalog.ru/agency/angely_megapolisa | phone | +7(926)215-84-50 / +7(926)205-05-77 |
+| Ангелы Свадьбы | ивент агентство | https://eventcatalog.ru/agency/angely_svadjby | phone | +7(495)989-83-86 / +7(967)276-73-76 |
+| Анилэнд | ивент агентство | https://eventcatalog.ru/agency/anilend | phone | +7(964)394-69-72 / +7(812)309-34-35 |
 | АННА БОГОМОЛОВА | wedding planner | https://vkvideo.ru/video_ext.php?oid=-236339319&id=456239017&hd=2 | phone | +7 (914) 384-70-38 |
 | АННА БОГОМОЛОВА | wedding planner | https://vkvideo.ru/video_ext.php?oid=-236339319&id=456239017&hd=2 | social | https://t.me/nuta_event?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%90%D0%BD%D0%BD%D0%B0.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | АННА БОГОМОЛОВА | wedding planner | https://vkvideo.ru/video_ext.php?oid=-236339319&id=456239017&hd=2 | social | https://www.instagram.com/bogomolova.event |
 | АНО ДПО "ЛРКТ"Общество развития мышления | лофт | https://www.loft2rent.ru/loft/207711/208571 | phone | 89255575745 |
+| Антарес Ивент | ивент агентство | http://www.antares-event.ru | phone | +7(495)782-71-12 |
+| Антенна | ивент агентство | https://eventcatalog.ru/agency/antenna | phone | +7(812)909-59-38 |
 | Антикафе "Code505"Erker Loft / Эркер лофт | лофт | https://www.loft2rent.ru/loft/69071/81355 | phone | +79319645467 |
 | Антикафе "Code505"Светлый лофт с панорамным видом | лофт | https://www.loft2rent.ru/loft/69071/69460 | phone | +79319645467 |
 | Антикафе Fun-time | лофт | https://www.loft2rent.ru/loft/70637/70742 | phone | +79607854421 |
@@ -9015,9 +10692,14 @@
 | Антикафе Соколиная НораБольшая комната | лофт | https://www.loft2rent.ru/loft/126596/126690 | phone | +7 995 920 78 60 |
 | Антикафе Соколиная НораМягкая комната | лофт | https://www.loft2rent.ru/loft/126596/126688 | phone | +7 995 920 78 60 |
 | Антикафе Соколиная НораОбщий зал | лофт | https://www.loft2rent.ru/loft/126596/126601 | phone | +7 995 920 78 60 |
+| Антонина Шоу | ивент агентство | https://eventcatalog.ru/agency/antonina_shou | phone | +7(495) 728-44-59 |
+| Антонов Шоу | ивент агентство | https://eventcatalog.ru/agency/antonov_shou | phone | +7(495) 795-92-81 |
+| Антреприза | ивент агентство | https://eventcatalog.ru/agency/antrepriza | phone | +7(911) 232-59-60 |
 | Антресоль | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | Антресоль фотостудии PROSTRANSTVO | лофт | https://www.loft2rent.ru/loft/31821 | phone | +74992887790 |
 | Антуражный кирпичный лофт | лофт | https://www.loft2rent.ru/loft/27053 | phone | +79937772233 |
+| Ануш Ивент Дизайн | ивент агентство | https://anushevent.ru | phone | +7(925)518-87-79 |
+| Аншлаг | ивент агентство | https://eventcatalog.ru/agency/anshlag | phone | +7(495) 514-38-65 |
 | АО «3м Россия» | организация | https://3m-shop.su | email | alexander.ali@unitedconsulting.ru |
 | АО «3м Россия» | организация | https://3m-shop.su | email | service@3m-shop.su |
 | АО «3м Россия» | организация | https://3m-shop.su | phone | +7 (495) 789-39-29 |
@@ -11924,9 +13606,16 @@
 | Апартаменты МоскваВеликолепные апартаменты Москва-Сити | лофт | https://www.loft2rent.ru/loft/174341/175253 | phone | +79852388407 |
 | Апартаменты МоскваМосква-сити апартаменты с видом на башни | лофт | https://www.loft2rent.ru/loft/174341/175276 | phone | +79852388407 |
 | Апартаменты с видом на Москву | лофт | https://www.reveltime.ru/venue/4992890?eventtype=vecherinka | phone | +74954324143 |
+| Апельсин | ивент агентство | https://eventcatalog.ru/agency/apeljsin | phone | +7(812) 579-48-04 / +7(812) 940-14-00 |
+| Апипяй | ивент агентство | https://eventcatalog.ru/agency/apipyay | phone | +7(843)510-55-55 |
+| Апипяй event agency | ивент агентство | https://eventcatalog.ru/agency/apipyay_event_agency | phone | +7(987)000-05-55 |
+| Апрель | ивент агентство | https://eventcatalog.ru/agency/aprelj | phone | +7(499) 269-06-21 / +7(495) 749-89-28 |
 | Арарат Парк Хаятт Москва | отель | https://ostrovok.ru/hotel/russia/moscow/mid7599730/ararat_park_khaiatt | address | Неглинная ул., 4, Москва, Москва |
 | Арбат HallАрбат холл (Arbat hall) | лофт | https://www.loft2rent.ru/loft/207597/207760 | phone | +7 (996) 902-34-50 |
+| АрбуzZ | ивент агентство | http://www.arbuz48.ru | phone | +7(920)242-45-55 |
+| Арбуз шоу | ивент агентство | https://eventcatalog.ru/agency/arbuz_shou | phone | +7(495) 505-10-17 |
 | Аргентина | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Арго Ивент | ивент агентство | https://eventcatalog.ru/agency/argo_ivent | phone | +7(495)589-22-99 |
 | Аренда антикафе полностью на Тверской | лофт | https://www.loft2rent.ru/loft/104695 | phone | 89262851313 |
 | Аренда арт-пространства Фонтанта Ланта (ex. Том Сойер) | лофт | https://www.loft2rent.ru/loft/112114 | phone | 89623199742 |
 | Аренда беседок-иглу | лофт | https://www.loft2rent.ru/loft/177097 | phone | +79162411919 |
@@ -11942,18 +13631,46 @@
 | Аренда Светлицы для проведения детских мероприятий | лофт | https://www.loft2rent.ru/loft/177097 | phone | +79162411919 |
 | Аренда Шатра для проведения детских выпускных | лофт | https://www.loft2rent.ru/loft/177097 | phone | +79162411919 |
 | Аристократ | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
+| Арктур шоу | ивент агентство | https://eventcatalog.ru/agency/arktur_shou | phone | +7(495) 740-14-52 / +7(926) 236-38-30 |
+| Арлекино СПБ | ивент агентство | https://eventcatalog.ru/agency/arlekino_spb | phone | +7(812)980-87-85 / +7(812)923-17-26 |
 | Арма Лофт. Лофт с верандой | лофт | https://www.reveltime.ru/venue/6472314?eventtype=vecherinka | phone | +79584974089 |
 | Арма Лофт. Светлый лофт-зал | лофт | https://www.reveltime.ru/venue/7139447?eventtype=vecherinka | phone | +79019317643 |
 | Арма Лофт. Уютный кинозал | лофт | https://www.reveltime.ru/venue/6472635?eventtype=vecherinka | phone | +79584974206 |
+| АрсПро | ивент агентство | https://eventcatalog.ru/agency/arspro | phone | +7(383) 213-11-31 / +7(383) 204-92-92 |
+| Арт Альянс | ивент агентство | https://eventcatalog.ru/agency/art_aljyans | phone | +7(499)110-10-27 / +7(499)909-99-99 |
+| Арт Атмосфера | ивент агентство | https://eventcatalog.ru/agency/art_atmosfera | phone | +7(495)532-47-23 / +7(925)321-41-48 |
+| Арт Бизнес | ивент агентство | https://eventcatalog.ru/agency/art_biznes | phone | +7(861) 278-23-51 / +7(961) 508-99-24 |
 | АРТ Буffет | лофт | https://www.loft2rent.ru/loft/161079/165045 | phone | +7 (985) 991-77-66 |
+| Арт Бюро pro | ивент агентство | https://eventcatalog.ru/agency/art_byuro_pro | phone | +7(906) 257-32-79 |
+| Арт Лайф Виктори | ивент агентство | https://eventcatalog.ru/agency/art_layf_viktori | phone | +7(495) 779-66-40 / +7(495) 719-01-29 |
 | Арт Лофт А53 на "Красном Октябре" | лофт | https://www.loft2rent.ru/loft/115632 | phone | +79851098054 |
+| АРТ Мафия | ивент агентство | https://eventcatalog.ru/agency/art_mafiya | phone | +7(062) 208-33-03 |
+| Арт Мегаполис | ивент агентство | https://eventcatalog.ru/agency/art_megapolis | phone | +7(499)707-79-88 / +7(906)644-94-39 |
+| Арт Нева | ивент агентство | https://eventcatalog.ru/agency/art_neva | phone | +7(812)922-15-91 / +7(812)987-25-57 |
+| Арт Премиум | ивент агентство | https://eventcatalog.ru/agency/art_premium | phone | +7(831)217-11-03 |
 | Арт Пространство "Тайная" с камином террасой и отдельным входом | лофт | https://www.loft2rent.ru/loft/85351 | phone | +7 926 999-59-48 |
 | Арт пространство Грин Тайм для проведения мероприятий. Студия компании "Солнечный я" - детские праздникиАрт пространство Грин Тайм для проведения мероприятий. Студия компании "Солнечный я" - детские праздники | лофт | https://www.loft2rent.ru/loft/127110/127114 | phone | +79089210504 |
+| Арт Собрание | ивент агентство | https://eventcatalog.ru/agency/art_sobranie | phone | +7(812)369-17-76 / +7(921)740-07-83 |
+| Арт Фьюжн Мастерская | ивент агентство | https://eventcatalog.ru/agency/art_fjyuzhn_masterskaya | phone | +7(903)588-97-62 / +7(906)674-43-15 |
 | Арт холл «Президент» | лофт | https://www.loft2rent.ru/loft/37496/37517 | phone | +79250106304 |
+| Арт Шедевр | ивент агентство | https://eventcatalog.ru/agency/art_shedevr | phone | +7(812) 244-20-50 / +7(812) 954-34-03 |
+| Арт Экстрим Клуб | ивент агентство | https://eventcatalog.ru/agency/art_ekstrim_klub | phone | +7(495) 748-71-32 |
+| Арт Юнион | ивент агентство | https://eventcatalog.ru/agency/art_yunion | phone | +7(495) 625-60-15 / +7(495) 212-15-03 |
+| Арт-бюро событий | ивент агентство | https://eventcatalog.ru/agency/art-byuro_sobytiy | phone | +7(343)310-24-29 / +7(912)232-79-93 |
+| Арт-Взгляд | ивент агентство | https://eventcatalog.ru/agency/art-vzglyad | phone | +7(495) 518-28-36 |
+| Арт-Галактика | ивент агентство | https://eventcatalog.ru/agency/art-galaktika | phone | +7(916) 370-73-79 |
+| АРТ-Галактика_ | ивент агентство | https://eventcatalog.ru/agency/art-galaktika-1 | phone | +7(473) 239-53-10 / +7(904) 210-36-18 |
+| Арт-Гармония | ивент агентство | https://eventcatalog.ru/agency/art-garmoniya | phone | +7(495) 544-82-80 / +7(495) 222-65-84 |
+| Арт-группа Апельсин | ивент агентство | https://eventcatalog.ru/agency/art-gruppa_apeljsin | phone | +7(910) 584-14-87 |
+| Арт-диско | ивент агентство | https://eventcatalog.ru/agency/art-disko | phone | +7(495) 507-83-92 / +7(495) 507-83-95 |
+| Арт-инициатива | ивент агентство | https://eventcatalog.ru/agency/art-iniciativa | phone | +7(910)410-54-54 / +7(916)633-37-37 |
 | Арт-квартира | лофт | https://www.loft2rent.ru/loft/40532 | phone | +79969805056 |
 | Арт-Клуб DUSHA | лофт | https://www.loft2rent.ru/loft/160753 | phone | 89812500025 |
+| Арт-корп ОКО | ивент агентство | https://eventcatalog.ru/agency/art-korp_oko | phone | +7(499)579-90-10 / +7(985)761-44-75 |
 | арт-оранжерея "ЛюбаПетя"ЛюбаПетя на Лесопарковой 5к2 | лофт | https://www.loft2rent.ru/loft/137096/168233 | phone | 89026185600 |
 | арт-оранжерея "ЛюбаПетя"ЛюбаПетя на Свободы 2к5 | лофт | https://www.loft2rent.ru/loft/137096/137104 | phone | 89026185600 |
+| Арт-Пикник | ивент агентство | https://eventcatalog.ru/agency/art-piknik | phone | +7(846) 211-00-03 |
+| Арт-Премьер | ивент агентство | https://eventcatalog.ru/agency/art-premjer | phone | +7(3412) 45-06-66 |
 | Арт-пространство «Кристофер»Просторный зал на 1905г | лофт | https://www.loft2rent.ru/loft/37250/37346 | phone | +7 925 780-35-35 |
 | Арт-пространство «Кристофер»Уютный коворкинг на 1905г(Библиотека) | лофт | https://www.loft2rent.ru/loft/37250/37343 | phone | +7 925 780-35-35 |
 | Арт-пространство «Кристофер»Уютный Лофт на 1905г | лофт | https://www.loft2rent.ru/loft/37250/37267 | phone | +7 925 780-35-35 |
@@ -11965,11 +13682,33 @@
 | Арт-пространство Тайная:Променад для ваших событий, 170 кв.м, с отдельным входом,  в парке на набережной | лофт | https://www.loft2rent.ru/loft/85351 | phone | +7 (926) 999-59-48 |
 | Арт-пространство, лофт для взрослыхМузей любви "Точка G" | лофт | https://www.loft2rent.ru/loft/181897/181899 | phone | +79999776524 |
 | Арт-резиденция «Русская дача»Арт-резиденция | лофт | https://www.loft2rent.ru/loft/199074/199076 | phone | +79255047077 |
+| АРТ-Ресурс | ивент агентство | https://eventcatalog.ru/agency/art-resurs | phone | +7(921) 900-02-76 / +7(812) 438-33-08 |
+| Арт-Студия Премьер | ивент агентство | https://eventcatalog.ru/agency/art-studiya_premjer | phone | +7(495) 506-39-80 / +7(495) 545-73-76 |
 | Арт-студия Сфера | лофт | https://www.loft2rent.ru/loft/87373/87377 | phone | +7(977)537-86-00 |
+| АРТ-Формула | ивент агентство | https://eventcatalog.ru/agency/art-formula | phone | +7(495)617-39-46 |
 | Арт-холл Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Арт-центр ИЛА | лофт | https://www.loft2rent.ru/loft/95845/97609 | phone | 89218715942 |
 | Арт-центр ИСИ Арт-центр ИСИ | лофт | https://www.loft2rent.ru/loft/185798/185800 | phone | +7 (909) 963-94-78 |
+| Артvisit | ивент агентство | https://eventcatalog.ru/agency/artvisit | phone | +7(919)722-02-76 / +7(495)923-70-10 |
+| Арта | ивент агентство | https://eventcatalog.ru/agency/arta | phone | +7(812) 954-36-90 / +7(812) 928-87-87 |
+| АртАктив | ивент агентство | https://eventcatalog.ru/agency/artaktiv | phone | +7(812) 993-30-64 |
+| АртВегас | ивент агентство | https://eventcatalog.ru/agency/artvegas | phone | +7(495) 766-04-89 / +7(915) 314-30-14 |
+| Артель-Медиа | ивент агентство | https://eventcatalog.ru/agency/artelj-media | phone | +7(861)274-77-96 / +7(900)264-55-64 |
+| АртеФакТ | ивент агентство | https://eventcatalog.ru/agency/artefakt | phone | +7(812) 923-75-37 |
 | Артико Холл | лофт | https://www.loft2rent.ru/loft/193063/193071 | phone | 89363166867 |
+| Артист | ивент агентство | https://eventcatalog.ru/agency/artist | phone | +7(495) 725-97-73 |
+| Артисты из Беларуси | ивент агентство | https://eventcatalog.ru/agency/artisty_iz_belarusi | phone | +375(29)679-78-53 |
+| АРТиШОК | ивент агентство | https://eventcatalog.ru/agency/artishok-2 | phone | +7(911) 920-63-92 |
+| АртКантора | ивент агентство | https://eventcatalog.ru/agency/artkantora | phone | +7(029) 259-73-25 / +7(044) 596-39-58 |
+| АртЛандия | ивент агентство | https://eventcatalog.ru/agency/artlandiya | phone | +7(812) 983-64-32 / +7(911) 231-39-41 |
+| АртПаб | ивент агентство | https://eventcatalog.ru/agency/artpab | phone | +7(495)124-84-94 |
+| АртПир | ивент агентство | https://eventcatalog.ru/agency/artpir | phone | +7(499)755-63-16 |
+| АртПраздник | ивент агентство | https://eventcatalog.ru/agency/artprazdnik | phone | +7(926) 848-43-08 |
+| АртСделка | ивент агентство | https://eventcatalog.ru/agency/artsdelka | phone | +7(918)253-28-43 / +886-1242-2303 |
+| Артфест | ивент агентство | https://eventcatalog.ru/agency/artfest | phone | +7(916)687-02-89 / +7(495)255-34-35 |
+| Артфиеста | ивент агентство | https://eventcatalog.ru/agency/artfiesta | phone | +7(495) 764 95 22 / +7(910) 456 08 80 |
+| Артъ Праздник | ивент агентство | https://eventcatalog.ru/agency/art_prazdnik | phone | +7(916) 393-24-16 / +7(931) 244-90-20 |
+| Артэ Компани | ивент агентство | https://eventcatalog.ru/agency/arte_kompani | phone | +7(495) 729-98-31 / +7(495) 235-29-46 |
 | Архангельское | ивент-спейс | https://arhangelskoe.su | email | dir@arhangelskoe.su |
 | Архангельское | ивент-спейс | https://arhangelskoe.su | email | goronesko.mn@arhangelskoe.su |
 | Архангельское | ивент-спейс | https://arhangelskoe.su | email | grineva.lv@arhangelskoe.su |
@@ -11985,7 +13724,16 @@
 | Архангельское | ивент-спейс | https://arhangelskoe.su | social | https://vk.com/public96891566 |
 | Архангельское | ивент-спейс | https://arhangelskoe.su | social | https://www.facebook.com/arhmuseum |
 | Архангельское | ивент-спейс | https://arhangelskoe.su | social | https://www.instagram.com/arhangelskoe |
+| Архдиалог | ивент агентство | https://eventcatalog.ru/agency/arhdialog | phone | +7(905)707-15-85 / +7(926)659-82-30 |
+| Архимедиа | ивент агентство | https://eventcatalog.ru/agency/arhimedia | phone | +7(495)532-65-36 |
+| Архитектоника | ивент агентство | https://eventcatalog.ru/agency/arhitektonika | phone | +7(995)508-15-86 |
+| Арчер | ивент агентство | https://eventcatalog.ru/agency/archer | phone | +7(495) 660-51-56 |
+| АС Парад | ивент агентство | https://eventcatalog.ru/agency/as_parad | phone | +7(4212)75-88-95 / +7(4212)93-80-66 |
+| АС Студио | ивент агентство | https://eventcatalog.ru/agency/as_studio | phone | +7(495) 656-22-09 / +7(495) 411-32-66 |
+| АС-маркетинг | ивент агентство | https://eventcatalog.ru/agency/as-marketing | phone | +7(384) 244-15-55 / +7(384) 244-15-41 |
+| Ассамблея | ивент агентство | https://eventcatalog.ru/agency/assambleya | phone | +7(812) 313-26-16 / +7(921) 341-50-44 |
 | Ассоциация Врачей Авиационной Медицины | организация | https://avam-avia.ru | social | https://t.me/avam_avia |
+| АСТА Трэвел | ивент агентство | https://eventcatalog.ru/agency/asta_trevel | phone | +7(812)303-88-88 |
 | Ателье Благородная Гниль | лофт | https://www.loft2rent.ru/loft/168932 | phone | +7 (921) 428-94-91 |
 | Атлант | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | АТМОквестDrevo лофт на закрытой территории! / Древо лофт | лофт | https://www.loft2rent.ru/loft/67266/47552 | phone | 89160106636 |
@@ -12045,8 +13793,14 @@
 | АФК «Система» | инвестиционный холдинг | https://www.sistema.ru | phone | +7 (495) 730-03-30 |
 | АФК «Система» | инвестиционный холдинг | https://www.sistema.ru | phone | +7 (495) 737-01-01 |
 | Африка | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Аффинити | ивент агентство | https://eventcatalog.ru/agency/affiniti | phone | +7(902)506-88-54 / +7(902)506-88-53 |
 | Ацтеки | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| АЭРгрупп | ивент агентство | https://eventcatalog.ru/agency/aergrupp | phone | +7(495) 545-35-16 / +7(495) 544-54-58 |
+| Аэро Клуб Тур | ивент агентство | https://eventcatalog.ru/agency/aero_klub_tur | phone | +7(495)744-11-70 / +7(495)744-11-66 |
+| Аэробус | ивент агентство | https://eventcatalog.ru/agency/aerobus | phone | +7(351) 235-62-24 / +7(351) 235-80-47 |
 | АэродинамикаThe Base | лофт | https://www.loft2rent.ru/loft/122928/122932 | phone | +79164125699 |
+| Аэроплан | ивент агентство | https://eventcatalog.ru/agency/aeroplan | phone | +7(833) 237-52-33 / +7(833) 237-52-17 |
+| Аэросервис-Пермь | ивент агентство | https://eventcatalog.ru/agency/aeroservis-permj | phone | +7(906) 888-86-78 |
 | Бабл-гам | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | База отдыха ЗаветноеАктовый зал с деревянным покрытием | лофт | https://www.loft2rent.ru/loft/161069/161186 | phone | +781232348535 |
 | База отдыха ЗаветноеУчебный класс для тренингов и семинаров | лофт | https://www.loft2rent.ru/loft/161069/161203 | phone | +781232348535 |
@@ -12172,22 +13926,30 @@
 | Барное - творческое пространство ИНСАЙД | лофт | https://www.loft2rent.ru/loft/94069 | phone | 89112793938 |
 | Барный кластер в АТС на Некрасова | лофт | https://www.loft2rent.ru/loft/166206/166208 | phone | +79222688548 |
 | Барокко. Элегантный лофт | лофт | https://www.reveltime.ru/venue/9217519?eventtype=vecherinka | phone | +79346699837 |
+| Бастики | ивент агентство | https://eventcatalog.ru/agency/bastiki | phone | +7(848) 268-54-75 / +7(848) 271-85-00 |
+| Бастэт | ивент агентство | https://eventcatalog.ru/agency/bastet | phone | +7(495) 629-81-70 / +7(495) 502-29-60 |
 | БАХРУШИНЪ LOFT. Лофт с арочными окнами | лофт | https://www.reveltime.ru/venue/635946?eventtype=vecherinka | phone | +79168359422 |
 | БАХРУШИНЪ LOFT. Светлый лофт премиум-класса | лофт | https://www.reveltime.ru/venue/635877?eventtype=vecherinka | phone | +79168359422 |
 | БАХРУШИНЪ LOFTСветлый зал на Алексеевской с верандой и барбекю | лофт | https://www.loft2rent.ru/loft/1248/1249 | phone | +79168359422 |
 | БАХРУШИНЪ LOFTТёмный зал на Алексеевской с верандой и барбекю | лофт | https://www.loft2rent.ru/loft/1248/1252 | phone | +79168359422 |
+| БАШ праздник | ивент агентство | https://eventcatalog.ru/agency/bash_prazdnik | phone | +7(917) 737-07-00 |
 | Башня Старка | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | ББР Банк | банк | https://bbr.ru | email | post@bbr.ru |
 | ББР Банк | банк | https://bbr.ru | phone | +7 (495) 363-91-62 |
 | ББР Банк | банк | https://bbr.ru | phone | +7 (800) 220-40-00 |
 | ББР Банк | банк | https://bbr.ru | social | https://t.me/bbrbank |
 | ББР Банк | банк | https://bbr.ru | social | https://vk.com/bbrbank |
+| Без Баяна | ивент агентство | https://eventcatalog.ru/agency/bez_bayana | phone | +7(964)704-51-01 |
+| Без ума от счастья | ивент агентство | https://eventcatalog.ru/agency/bez_uma_ot_schastjya | phone | +7(812) 983-58-84 |
 | Безумное чаепитие | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Белая Ворона Москва | ивент агентство | https://eventcatalog.ru/agency/belaya_vorona_moskva | phone | +7(926) 865-05-72 |
 | БелККа на Белорусской. | лофт | https://www.loft2rent.ru/loft/77474 | phone | +79264661718 |
+| БелПремьер | ивент агентство | https://eventcatalog.ru/agency/belpremjer | phone | +7(904)530-70-00 |
 | Белуга | ресторан | http://belugamoscow.ru/ | phone | +74959010336 |
 | Белый зал | лофт | https://www.loft2rent.ru/loft/44815 | phone | +7 (916) 496-11-91 |
 | Белый зал | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
 | Белый Зал/Белый лофт/White HallБелый Зал/Белый лофт/White Hall | лофт | https://www.loft2rent.ru/loft/188049/188053 | phone | +79169291659 |
+| Белый карандаш | ивент агентство | https://eventcatalog.ru/agency/belyy_karandash | phone | +7(495) 646-00-42 |
 | БЕЛЫЙ ЛОФТ | лофт | https://www.loft2rent.ru/loft/126318 | phone | 89965349615 |
 | Белый лофт | лофт | https://www.reveltime.ru/venue/462823?eventtype=vecherinka | phone | +79346644195 |
 | Белый Лофт в парке Сокольники | лофт | https://www.loft2rent.ru/loft/1145/26543 | phone | 8 (916) 796-86-82 |
@@ -12218,6 +13980,15 @@
 | Библиотека №166 им. 1-го МаяБиблиотека №166 им. 1-го Мая - Большой зал | лофт | https://www.loft2rent.ru/loft/48357/48361 | phone | 8-495-682-42-22 (доб. 2685) |
 | Библиотека №166 им. 1-го МаяБиблиотека №166 им. 1-го Мая - Малый зал | лофт | https://www.loft2rent.ru/loft/48357/173044 | phone | 8-495-682-42-22 (доб. 2685) |
 | Библиотека №1Библиотека №1 | лофт | https://www.loft2rent.ru/loft/210633/210635 | phone | 89060496233 |
+| Биг Виллидж | ивент агентство | https://eventcatalog.ru/agency/big_villidzh | phone | +7(3812)66-18-58 / +7(3812)66-18-59 |
+| Биг Джек | ивент агентство | http://bigjack24.ru | phone | +7(985)760-08-01 |
+| Биг Джек | ивент агентство | http://bigjack24.ru | social | https://www.instagram.com/big.jack.team |
+| Биг Джек | ивент агентство | http://bigjack24.ru | social | https://vk.com/big.jack.team |
+| Бизнес Диалог | ивент агентство | https://eventcatalog.ru/agency/biznes_dialog | phone | +7(495) 988-28-01 / +7(495) 988-18-00 |
+| Бизнес Ивент Ту Бизнес | ивент агентство | https://eventcatalog.ru/agency/biznes_ivent_tu_biznes | phone | +7(812)449-36-21 |
+| Бизнес класс | ивент агентство | https://eventcatalog.ru/agency/biznes_klass | phone | +7(812) 438-22-48 |
+| Бизнес Решение | ивент агентство | https://eventcatalog.ru/agency/biznes_reshenie | phone | +7(910)525-24-53 / +7(4842)40-09-50 |
+| Бизнес Спорт | ивент агентство | https://eventcatalog.ru/agency/biznes_sport | phone | +7(986) 107-73-23 |
 | бизнес-отель "Россо Рива"Библиотека | лофт | https://www.loft2rent.ru/loft/42712/42716 | phone | +74957952444 |
 | бизнес-отель "Россо Рива"Венеция | лофт | https://www.loft2rent.ru/loft/42712/42714 | phone | +74957952444 |
 | бизнес-отель "Россо Рива"Милан | лофт | https://www.loft2rent.ru/loft/42712/42718 | phone | +74957952444 |
@@ -12236,6 +14007,7 @@
 | Биологический музей Тимирязева | музей | https://www.gbmt.ru | social | https://ok.ru/biomuseum |
 | Биологический музей Тимирязева | музей | https://www.gbmt.ru | social | https://t.me/biomuseum |
 | Биркрафт Бар | лофт | https://www.loft2rent.ru/loft/89397/89403 | phone | +79104423061 |
+| БисКонцерт | ивент агентство | https://eventcatalog.ru/agency/biskoncert | phone | +7(841) 229-87-70 |
 | БК клуб | лофт | https://www.loft2rent.ru/loft/198987/198997 | phone | 8(499)3402808 |
 | Благородная гнильДворец Олимпия | лофт | https://www.loft2rent.ru/loft/141287/141289 | phone | +79219089980 |
 | Благородная гнильМьюзик-бар Литейный 14 | лофт | https://www.loft2rent.ru/loft/141287/173216 | phone | +79219089980 |
@@ -12243,8 +14015,12 @@
 | Благотворительный Культурный Фонд «Новые Русские сезоны» | организация | https://russian-seasons.com | social | https://t.me/russianseasons_project |
 | Благотворительный Культурный Фонд «Новые Русские сезоны» | организация | https://russian-seasons.com | social | https://vk.com |
 | Благотворительный Культурный Фонд «Новые Русские сезоны» | организация | https://russian-seasons.com | social | https://vk.com/russianseasons_project |
+| Блэк Милк Эвент | ивент агентство | https://eventcatalog.ru/agency/blek_milk_event | phone | +7(812)922-55-95 |
+| Бобр Добр | ивент агентство | https://eventcatalog.ru/agency/bobr_dobr | phone | +7(925)849-32-57 |
 | Богема | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Богема | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Большая Медведица | ивент агентство | https://eventcatalog.ru/agency/boljshaya_medvedica | phone | +7(4812) 405-152 / +7(920) 666-66-99 |
+| Большое событие | ивент агентство | https://eventcatalog.ru/agency/boljshoe_sobytie | phone | +7(495)587-41-23 / +7(925)664-55-74 |
 | БОЛЬШОЙ | лофт | https://www.loft2rent.ru/loft/15054 | phone | +79035558942 |
 | Большой зал | лофт | https://www.loft2rent.ru/loft/142338 | phone | +7 (812) 240-78-80 |
 | Большой зал для мероприятий | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
@@ -12253,17 +14029,33 @@
 | Большой конференц-зал в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | БОЛЬШОЙ ЛОФТ 100М2 С БИЛЬЯРДОМ, ПРОЕКТОРОМ, НАСТОЛЬНЫМ ТЕННИСОМ И ДАРТС! | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | БОЛЬШОЙ ФИОЛЕТОВЫЙ ЗАЛ | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
+| Бомба | ивент агентство | https://eventcatalog.ru/agency/bomba | phone | +7(861)253-79-95 |
 | Боулинг-отель Новые Горки | отель | https://ostrovok.ru/hotel/russia/moscow/mid7709714/boulingotel_novye_gorki | address | мкр. Первомайский, ул. Мира д. 37, Королёв |
 | Бохо | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Брайт! | ивент агентство | https://eventcatalog.ru/agency/brayt | phone | +7(343) 310-03-00 |
+| Братья Райт | ивент агентство | https://eventcatalog.ru/agency/bratjya_rayt | phone | +7(921) 438-03-71 |
 | Браун | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Брачо | ивент агентство | https://eventcatalog.ru/agency/bracho | phone | +7(938)470-33-35 |
 | БРАШ (BRASH) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
+| Бременские музыканты | ивент агентство | https://eventcatalog.ru/agency/bremenskie_muzykanty | phone | +7(495) 921-30-85 |
 | БРИЗ (BREEZE) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
+| Бриллиант | ивент агентство | https://eventcatalog.ru/agency/brilliant | phone | +7(351)230-85-59 / +7(351)248-57-18 |
+| Бритва | ивент агентство | https://eventcatalog.ru/agency/britva | phone | +7(000)000-00-00 |
 | БРОСКО ЛОФТ | лофт | https://www.loft2rent.ru/loft/126318 | phone | 89965349615 |
 | Бруклин | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Брусилов | ивент агентство | https://eventcatalog.ru/agency/brusilov | phone | +7(495) 640-25-77 / +7(985) 238-74-61 |
+| Брусника | ивент агентство | https://eventcatalog.ru/agency/brusnika | phone | +7(937)151-22-41 |
 | Брусницын Лофт Брусницын Лофт | лофт | https://www.loft2rent.ru/loft/140258/140263 | phone | +7 (953) 410-22-76 |
 | БСА Конф Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
+| БСК АПЕКС | ивент агентство | https://eventcatalog.ru/agency/bsk_apeks | phone | +7(812)716-70-09 / +7(812)612-40-45 |
+| Будет Весело | ивент агентство | https://eventcatalog.ru/agency/budet_veselo | phone | +7(495) 741-16-25 |
+| Бумажный Самолет | ивент агентство | https://eventcatalog.ru/agency/bumazhnyy_samolet | phone | +7(988)242-42-97 |
+| Бумфетти | ивент агентство | https://eventcatalog.ru/agency/bumfetti | phone | +7(927)692-59-27 / +7(937)986-93-11 |
+| Бурлеск | ивент агентство | https://eventcatalog.ru/agency/burlesk | phone | +7(843) 200-96-84 |
 | Бутик в БутикеПространство для камерных мероприятий Бутик в Бутике | лофт | https://www.loft2rent.ru/loft/202669/202673 | phone | +7 (999) 460-44-50 |
+| Бутик Идей | ивент агентство | https://eventcatalog.ru/agency/butik_idey | phone | +7(495) 638-54-39 |
 | Бутик Отель Брайтон | отель | https://ostrovok.ru/hotel/russia/moscow/mid7400924/brighton_hotel | address | Петровско-Разумовский проезд, д.29, Москва |
+| Бутик Праздников | ивент агентство | https://eventcatalog.ru/agency/butik_prazdnikov | phone | +7(495) 729-98-72 |
 | Бутик-отель Axis.Moscow Heritage | отель | https://ostrovok.ru/hotel/russia/moscow/mid11292139/axismoscow_heritage_aparthotel | address | улица Покровка, д. 10, стр. 1, Москва |
 | Бутик-Отель Loft | отель | https://ostrovok.ru/hotel/russia/moscow/mid8871248/loft_boutique_hotel_2 | address | улица Академика Легостаева, д.13, Королёв |
 | Бутик-отель PR Myasnitsky | отель | https://ostrovok.ru/hotel/russia/moscow/mid8753290/pr_myasnitsky_boutique_hotel | address | улица Мясницкая, д.13/3, Москва |
@@ -12288,18 +14080,29 @@
 | БЦ STROTSKISПереговорная WEST | лофт | https://www.loft2rent.ru/loft/110939/110952 | phone | +79645119243 |
 | БЦ STROTSKISРесторан-Караоке COSMO | лофт | https://www.loft2rent.ru/loft/110939/114066 | phone | +79645119243 |
 | Бывший ресторан Demi (Деми). Пространство с панорамными окнами | лофт | https://www.reveltime.ru/venue/8240012?eventtype=vecherinka | phone | +79346642952 |
+| Былина | ивент агентство | https://eventcatalog.ru/agency/bylina | phone | +7(812)954-09-35 / +7(931)381-51-93 |
 | БыстроБанк | банк | https://bystrobank.ru | phone | +7 (800) 333-22-65 |
 | Бэкстейдж лофт на Красном Октябре с караоке и камином | лофт | https://www.loft2rent.ru/loft/66644 | phone | +79165699364 |
 | Бэтмен | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Бюро Горбунова Учебный класс Бюро Горбунова | лофт | https://www.loft2rent.ru/loft/189623/189626 | phone | +79256566293 |
+| Бюро Креативных Событий | ивент агентство | https://eventcatalog.ru/agency/byuro_kreativnyh_sobytiy | phone | +7(495) 728-28-82 |
+| Бюро путешествий и экскурсий | ивент агентство | https://eventcatalog.ru/agency/byuro_puteshestviy_i_ekskursiy | phone | +7(903)484-74-61 / +7(8672)99-40-04 |
+| Бюро Технологий Развития | ивент агентство | https://eventcatalog.ru/agency/byuro_tehnologiy_razvitiya | phone | +7(495) 517-62-83 |
 | БЮРО хороших событий. Лофт Олив | лофт | https://www.reveltime.ru/venue/8620742?eventtype=vecherinka | phone | +79893636021 |
+| В гостях у Шляпника | ивент агентство | https://eventcatalog.ru/agency/v_gostyah_u_shlyapnika | phone | +7(928)103-01-75 |
 | Вагнер | лофт | https://www.loft2rent.ru/loft/2518 | phone | +79689739030 |
 | Вайлдберриз Банк | организация | https://wb-bank.ru | email | info@wb-bank.ru |
 | Вайлдберриз Банк | организация | https://wb-bank.ru | email | name@domain.ru |
 | Вайлдберриз Банк | организация | https://wb-bank.ru | email | pr@wildberries.ru |
 | Вайлдберриз Банк | организация | https://wb-bank.ru | email | u003epr@wildberries.ru |
+| ВалентиноС | ивент агентство | https://eventcatalog.ru/agency/valentinos | phone | +38(067)960-70-07 / +38(067)314-01-95 |
+| Валерий Князев | ивент агентство | https://eventcatalog.ru/agency/valeriy_knyazev | phone | +7(495) 509-22-55 / +7(903) 648-89-78 |
 | Ван Гог - Светлый лофт в центре Москвы | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Варенье | ивент агентство | https://eventcatalog.ru/agency/varenje | phone | +7(926)136-92-70 |
+| Вартекс | ивент агентство | https://eventcatalog.ru/agency/varteks | phone | +7(905) 269-65-55 / +7(812) 334-88-97 |
 | ВАТТ | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
+| Вау Агентство | ивент агентство | https://eventcatalog.ru/agency/vau_agentstvo | phone | +7(499)490-70-88 |
+| ВашиПчёлки | ивент агентство | https://eventcatalog.ru/agency/vashipchelki | phone | +7(812) 454-70-71 |
 | ВБРР | организация | https://vbrr.ru | email | bank@vbrr.ru |
 | ВБРР | организация | https://vbrr.ru | phone | +7 (495) 662-81-54 |
 | ВБРР | организация | https://vbrr.ru | phone | +7 (495) 933-03-43 |
@@ -12427,18 +14230,37 @@
 | ВДНХ (музейный комплекс) | ивент-спейс | https://vdnh.ru | social | https://t.me/share/url?url=http://vdnh.ru/contacts/&text=Контакты |
 | ВДНХ (музейный комплекс) | ивент-спейс | https://vdnh.ru | social | https://vk.com/share.php?url=http://vdnh.ru/contacts |
 | ВДНХ (музейный комплекс) | ивент-спейс | https://vdnh.ru | social | https://vk.com/vdnh |
+| Вдохновение | ивент агентство | https://eventcatalog.ru/agency/vdohnovenie | phone | +380(96)954-53-75 / +380(63)134-42-50 |
 | Вебинарная комната для работы за компьютером | лофт | https://www.loft2rent.ru/loft/157491 | phone | 89898415534 |
 | Вегас | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Вегас. Атмосферный лофт с акцентным дизайном | лофт | https://www.reveltime.ru/venue/9093134?eventtype=vecherinka | phone | +79584611054 |
+| Вездеход | ивент агентство | https://eventcatalog.ru/agency/vezdehod | phone | +7(495) 545-41-00 |
+| Вектор развития | ивент агентство | https://eventcatalog.ru/agency/vektor_razvitiya | phone | +7(401) 237-35-90 / +7(401) 237-37-90 |
+| Велес | ивент агентство | https://eventcatalog.ru/agency/veles | phone | +7(495) 997-94-56 |
 | Велетный причал | лофт | https://www.loft2rent.ru/loft/180659 | phone | +79858003339 |
+| Венчание | ивент агентство | https://eventcatalog.ru/agency/venchanie | phone | +7(844)250-23-28 / +7(960)885-26-48 |
 | Веранда гриль | лофт | https://www.loft2rent.ru/loft/88837/88842 | phone | 89152288949 |
 | Веранда Крылатские холмы | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Веранда Лофт "Комнаты" аренда под мероприятия | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Веранда на ВДНХ | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Веранда на крыше винного бара Do | лофт | https://www.loft2rent.ru/loft/141917 | phone | +79819869826 |
+| Вери Пупери | ивент агентство | https://eventcatalog.ru/agency/veri_puperi | phone | +7(952)621-72-72 |
 | Версаль. Элегантный лофт с караоке и атмосферой роскоши. | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
+| Вертикаль | ивент агентство | https://eventcatalog.ru/agency/vertikalj | phone | +7(4872) 38-42-50 / +7(4872) 70-17-71 |
 | Вершина стиля в Москва сити лофт на 83 этаже | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Веселая Гуляночка | ивент агентство | https://eventcatalog.ru/agency/veselaya_gulyanochka | phone | +7(067) 394-39-91 / +7(044) 544-17-97 |
+| Веселая Компания | ивент агентство | https://eventcatalog.ru/agency/veselaya_kompaniya | phone | +7(495) 979-02-92 / +7(495) 510-78-08 |
+| Веселушки | ивент агентство | https://eventcatalog.ru/agency/veselushki | phone | +7(383) 375-10-92 / +7(923) 775-10-92 |
+| Веселье детям | ивент агентство | https://eventcatalog.ru/agency/veselje_detyam | phone | +7(926)081-14-43 |
+| Веснушка | ивент агентство | https://eventcatalog.ru/agency/vesnushka | phone | +7 (495) 5180729 |
+| Весёлая затея | ивент агентство | https://eventcatalog.ru/agency/veselaya_zateya | phone | +7(351) 270-22-20 |
+| Весёлый Ослик | ивент агентство | https://eventcatalog.ru/agency/veselyy_oslik | phone | +7(916)208-22-23 / +7(914)673-75-40 |
+| Весёлый Шурик | ивент агентство | https://eventcatalog.ru/agency/veselyy_shurik | phone | +7(495) 729-98-72 / +7(495) 589-56-60 |
+| Вечеринка 80 | ивент агентство | https://eventcatalog.ru/agency/vecherinka_80 | phone | +7(495)178-26-20 |
+| Взгляни на мир по-другому | ивент агентство | https://eventcatalog.ru/agency/vzglyani_na_mir_po-drugomu | phone | +7(963)699-36-83 |
+| Взрослые игры | ивент агентство | https://eventcatalog.ru/agency/vzroslye_igry | phone | +7(38044) 272-41-3 / +7(38067) 402-79-08 |
 | Видеостудия "Послушай Сюда!"Темный и Светлый залы | лофт | https://www.loft2rent.ru/loft/177563/177565 | phone | +79266055515 |
+| Виктория Премиум | ивент агентство | https://eventcatalog.ru/agency/viktoriya_premium | phone | +7(495) 721-81-41 |
 | Вилла дель Венто/Villa del Vento | лофт | https://www.loft2rent.ru/loft/94920 | phone | +7 952 214 34 18 |
 | Винил | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Винил лофт с верандой рядом с метро | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
@@ -12450,20 +14272,40 @@
 | ВИП комната с ps до 10 гостей | лофт | https://www.loft2rent.ru/loft/62564 | phone | 8-977-333-22-18 |
 | Вип-зал в УСЗ "Дружба" в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Вип-зал №4 на Новослободской | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
+| ВИП-Концерт | ивент агентство | https://eventcatalog.ru/agency/vip-koncert | phone | +7(495) 973-40-40 / +7(963) 753-32-31 |
 | Вип-ложа Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | ВИП-ЛОФТ С МЯГКОЙ МЕБЕЛЬЮ ОТ 7200Р | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
+| Витязь | ивент агентство | https://eventcatalog.ru/agency/vityazj | phone | +7(4872)39-57-01 |
+| ВКН | ивент агентство | https://eventcatalog.ru/agency/vkn | phone | +7(495) 510-73-51 |
 | Вкус & ЦветЗал Космос | лофт | https://www.loft2rent.ru/loft/69354/69358 | phone | 8 (495) 278 11 24 |
+| Вместе | ивент агентство | https://eventcatalog.ru/agency/vmeste | phone | +7(916)537-55-00 / +7(913)370-00-10 |
+| Вместе Алтай | ивент агентство | https://eventcatalog.ru/agency/vmeste_altay | phone | +7(962)825-34-44 |
+| Вместе Красноярск | ивент агентство | https://eventcatalog.ru/agency/vmeste_krasnoyarsk | phone | +7(913)047-00-10 |
+| Вместе Новосибирск | ивент агентство | https://eventcatalog.ru/agency/vmeste_novosibirsk | phone | +7(913)370-00-10 |
 | Водно-спортивная база "ГАЛС"Большой шатер Антлантик | лофт | https://www.loft2rent.ru/loft/177580/177603 | phone | +79588085751 |
 | Водно-спортивная база "ГАЛС"Верхний шатер IBIZA | лофт | https://www.loft2rent.ru/loft/177580/177600 | phone | +79588085751 |
 | Водно-спортивная база "ГАЛС"Шатер у воды MONACO | лофт | https://www.loft2rent.ru/loft/177580/177602 | phone | +79588085751 |
+| Воздух | ивент агентство | https://eventcatalog.ru/agency/vozduh | phone | +7(383)381-92-50 |
 | Воздушный лофт для девичников и гендер-пати (лофт Классик) | лофт | https://www.loft2rent.ru/loft/1564 | phone | 8 (939)888-00-08 |
 | Волна (Циклорама) | лофт | https://www.loft2rent.ru/loft/116807 | phone | +79150127722 |
+| Волшебная история | ивент агентство | https://eventcatalog.ru/agency/volshebnaya_istoriya | phone | +7(495)790-99-29 |
+| Волшебная сказка | ивент агентство | https://eventcatalog.ru/agency/volshebnaya_skazka | phone | +7(812)989-16-42 |
+| Волшебник | ивент агентство | https://eventcatalog.ru/agency/volshebnik | phone | +7(495)935-77-53 / +7(495)509-90-70 |
+| Вольный Сокол | ивент агентство | https://eventcatalog.ru/agency/voljnyy_sokol | phone | +7(920) 477-49-90 |
 | Вольт | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | Вольта | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | Вольта | лофт | https://www.loft2rent.ru/loft/92780 | phone | +79935905884 |
 | Воробьевы Холл | лофт | https://www.loft2rent.ru/loft/150971/150983 | phone | +7(495) 161-67-47 |
 | Восточный экспресс 1 и 2 | лофт | https://www.loft2rent.ru/loft/200502 | phone | +7 (495) 660-53-53 |
+| Вот Здорово! | ивент агентство | https://eventcatalog.ru/agency/vot_zdorovo | phone | +7(495) 721-09-41 / +7(903) 726-54-10 |
+| Время Веселья | ивент агентство | https://eventcatalog.ru/agency/vremya_veseljya | phone | +7(499)502-25-50 |
+| Время праздника | ивент агентство | https://eventcatalog.ru/agency/vremya_prazdnika | phone | +7(495) 542-73-92 / +7(926) 245-09-97 |
+| Время Событий.РФ | ивент агентство | https://eventcatalog.ru/agency/vremya_sobytiy_rf | phone | +7(495) 543-28-56 |
 | Врубель - Купольное пространство в парке "Сокольники" | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Вручение.ру | ивент агентство | https://eventcatalog.ru/agency/vruchenie_ru | phone | +7(495) 744-44-77 |
+| Всегда праздник | ивент агентство | https://eventcatalog.ru/agency/vsegda_prazdnik | phone | +7(499) 390-57-86 / +7(926) 848-43-08 |
+| Всероссийский центр организации мероприятий | ивент агентство | https://eventcatalog.ru/agency/vserossiyskiy_centr_organizacii_meropriyatiy | phone | +7(800)200-61-30 |
+| Всякий случай | ивент агентство | https://eventcatalog.ru/agency/vsyakiy_sluchay | phone | +7(495)790-03-90 / +7(499)277-79-14 |
 | ВТБ | банк | https://vtb.ru | phone | +7 (495) 739-77-99 |
 | ВТБ | банк | https://vtb.ru | phone | +7 (495) 785-53-05 |
 | ВТБ | банк | https://vtb.ru | phone | +7 (495) 785-53-70 |
@@ -12475,11 +14317,16 @@
 | ВТБ | банк | https://vtb.ru | social | https://t.me/bankvtb |
 | ВТБ | банк | https://vtb.ru | social | https://vk.com/im?sel=-22749457 |
 | ВТБ | банк | https://vtb.ru | social | https://vk.com/vtb |
+| Вуаля | ивент агентство | https://eventcatalog.ru/agency/vualya | phone | +7(910)223-33-09 |
 | ВУД (WOOD) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
+| Вхороводе | ивент агентство | https://eventcatalog.ru/agency/vhorovode | phone | +7(495)776-37-79 / +7(985)776-37-79 |
+| Высокие Развлечения | ивент агентство | https://eventcatalog.ru/agency/vysokie_razvlecheniya | phone | +7(926) 206-83-32 / +7(901) 532-74-24 |
 | Высота 5642 | ресторан / бар | http://vysota5642.moscow/ | phone | +74956249321 |
 | Высота 57 Lounge | лофт | https://www.loft2rent.ru/loft/203654/203656 | phone | +79851305757 |
 | ВЫСОТА ЛОФТ | лофт | https://www.loft2rent.ru/loft/126318 | phone | +79233388212 |
 | Выставка. Просторный лофт в светлых тонах | лофт | https://www.reveltime.ru/venue/8219292?eventtype=vecherinka | phone | +79813347290 |
+| Выход | ивент агентство | https://eventcatalog.ru/agency/vyhod | phone | +7(812) 925-21-41 |
+| Выход Уфа | ивент агентство | https://eventcatalog.ru/agency/vyhod_ufa | phone | +7(347)266-60-47 |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | email | info@veb.ru |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | phone | +7 (495) 604-63-63 |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | social | https://dzen.ru/vebrf |
@@ -12487,6 +14334,7 @@
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | social | https://rutube.ru/channel/23870435 |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | social | https://t.me/razvivaemrf |
 | ВЭБ.РФ | государственная корпорация развития | https://www.veb.ru | social | https://vk.com/vebrf |
+| Вэлкам! | ивент агентство | https://eventcatalog.ru/agency/velkam | phone | +7(4852) 90-92-93 / +7(4852) 94-17-90 |
 | Гавайи | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Гавайи Лофт - двухэтажный большой лофт на Бауманской | лофт | https://www.loft2rent.ru/loft/42016 | phone | +7 (931) 111-81-02 |
 | ГАЗ Группа | организация | https://azgaz.ru | email | pr@info.st.tech |
@@ -12602,13 +14450,17 @@
 | Газпромбанк Инвестиции | организация | https://gazprombank.ru | social | https://ok.ru/gazprombank |
 | Газпромбанк Инвестиции | организация | https://gazprombank.ru | social | https://t.me/gazprombank |
 | Газпромбанк Инвестиции | организация | https://gazprombank.ru | social | https://vk.com/gazprombank |
+| Галактика | ивент агентство | https://eventcatalog.ru/agency/galaktika | phone | +7(499) 145-65-03 |
 | Галерея "Колокольников,17" | лофт | https://www.loft2rent.ru/loft/102466/102470 | phone | +7 964 763 59 89 |
 | Галерея дизайна | лофт | https://www.loft2rent.ru/loft/119138/119149 | phone | +79266507747 |
 | галерея Другое Дело | лофт | https://www.loft2rent.ru/loft/75602/75660 | phone | 89262312885 |
 | Галерея Лофт | лофт | https://www.loft2rent.ru/loft/179457 | phone | +79268244318 |
 | Галерея М - антикафе | лофт | https://www.loft2rent.ru/loft/191451 | phone | +79636936248 |
+| Галерея Праздников | ивент агентство | https://eventcatalog.ru/agency/galereya_prazdnikov | phone | +7(4872) 25-17-62 / +7(903) 697-27-62 |
 | Галерея Ретро Лофт! Новое пространство / Мid-Cеntury / Bаuhаus / Vinyl | лофт | https://www.loft2rent.ru/loft/204507 | phone | 89166784019 |
+| Галерея Событий | ивент агентство | https://eventcatalog.ru/agency/galereya_sobytiy | phone | +7(495) 749-74-89 |
 | Галерея. Стильный светлый лофт в голубых тонах | лофт | https://www.reveltime.ru/venue/6829095?eventtype=vecherinka | phone | +79386989873 |
+| Гамма | ивент агентство | https://eventcatalog.ru/agency/gamma-1 | phone | +7(499) 347-32-49 |
 | Гарри Поттер. Лофт в классическом стиле с выходом на крышу | лофт | https://www.reveltime.ru/venue/4505269?eventtype=vecherinka | phone | +79584974215 |
 | Гастробар Open People | лофт | https://www.loft2rent.ru/loft/136559/136561 | phone | 88123807838 |
 | Гастрономическая улица strEATБалкон у сцены | лофт | https://www.loft2rent.ru/loft/84302/84616 | phone | 8(985)228-66-33 |
@@ -12621,18 +14473,26 @@
 | Геолофт | лофт | https://www.loft2rent.ru/loft/2003 | phone | +74951355450 |
 | ГЕРЦ | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
 | Герцег лофт аренда под мероприятия | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Гефест Event Новосибирск | ивент агентство | http://www.gefestevent.ru | phone | +7(383)235-90-90 |
+| Гильдия мастеров | ивент агентство | https://eventcatalog.ru/agency/giljdiya_masterov | phone | +7(812) 333-25-41 / +7(812) 600-00-69 |
+| ГК Event PRO | ивент агентство | https://eventcatalog.ru/agency/gk_event_pro | phone | +7(988)246-45-54 |
+| ГК Indigo | ивент агентство | https://eventcatalog.ru/agency/gk_indigo | phone | +7(383) 362-90-70 / +7(983) 121-19-14 |
+| ГК Реклама Сочи | ивент агентство | https://eventcatalog.ru/agency/gk_reklama_sochi | phone | +7(862) 298-58-63 |
 | ГК ФСК | организация | https://fsk.ru | email | info@anlider.info |
 | ГК ФСК | организация | https://fsk.ru | phone | +7 (495) 032-45-20 |
 | ГК ФСК | организация | https://fsk.ru | social | https://t.me/gk_fsk |
 | ГК ФСК | организация | https://fsk.ru | social | https://vk.com/gk_fsk |
 | ГК ФСК | организация | https://fsk.ru | social | https://www.youtube.com/@GK_FSK |
 | Гламур | лофт | https://www.loft2rent.ru/loft/155834/155836 | phone | 7 915 210 34 51 |
+| Глобус | ивент агентство | https://eventcatalog.ru/agency/globus | phone | +7(968)033-30-00 |
 | ГЛУБИНА | creative studio / cultural project | http://glubinawedding.ru | phone | +7 (925) 779-23-77 |
 | ГЛУБИНА | creative studio / cultural project | http://glubinawedding.ru | social | https://t.me/glubinawedding?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%93%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ГЛУБИНА | creative studio / cultural project | http://glubinawedding.ru | social | https://www.instagram.com/glubinawedding |
+| Глубинка Holiday | ивент агентство | https://eventcatalog.ru/agency/glubinka_holiday | phone | +7(8162) 94-88-44 / +7(921) 707-55-18 |
 | ГНЕЗДО Африка - камерный афро-лофт 35 м² | лофт | https://www.loft2rent.ru/loft/16584 | phone | +7 (958) 827 71 73 |
 | ГНЕЗДО Дом — двухэтажный лофт-квартира 65 м² | лофт | https://www.loft2rent.ru/loft/16584 | phone | +7 (958) 827 71 73 |
 | Голден - тусовочный лофт с диско-шаром, фотозоной и караоке! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
+| Голливуд | ивент агентство | https://eventcatalog.ru/agency/gollivud | phone | +7(987)825-29-33 / +7(987)736-89-83 |
 | Голливуд. Элегантный лофт в зелено-бежевых оттенках | лофт | https://www.reveltime.ru/venue/9093123?eventtype=vecherinka | phone | +79584610759 |
 | Гольф Центр на Красном Октябре | лофт | https://www.loft2rent.ru/loft/76600/76828 | phone | +74997500505 |
 | Гольф-клуб «Тайгер» | гольф-клуб | http://golfclub-tiger.ru | email | club-tiger@mail.ru |
@@ -12652,8 +14512,11 @@
 | Горки Ленинские | музей-заповедник | https://mgorki.ru | social | https://ok.ru/muzeyzapovednik.gorkileninskie/statuses |
 | Горки Ленинские | музей-заповедник | https://mgorki.ru | social | https://t.me/museumGorki |
 | Горки Ленинские | музей-заповедник | https://mgorki.ru | social | https://vk.com/gorkilenpublic |
+| Город мечты Москва | ивент агентство | https://eventcatalog.ru/agency/gorod_mechty_moskva | phone | +7(495)664-98-44 / +7(985)729-12-34 |
+| Город Праздников | ивент агентство | http://www.artgorodprazdnik.ru | phone | +7(916)591-79-32 |
 | ГОРПАБ 10/05 | лофт | https://www.loft2rent.ru/loft/146917/152954 | phone | +78432034554 |
 | Горыныч | ресторан | https://gorynich.com/ | phone | +74959373811 |
+| ГорячО | ивент агентство | https://eventcatalog.ru/agency/goryacho | phone | +7(902) 717-16-12 / +7(845) 290-79-79 |
 | Гостиная | лофт | https://www.loft2rent.ru/loft/100720/100722 | phone | +7 (999) 062-33-53 |
 | Гостиная для друзей с террасой | лофт | https://www.loft2rent.ru/loft/107715 | phone | +79360019650 |
 | Гостиная №9 | лофт | https://www.loft2rent.ru/loft/115019 | phone | +7 (926)769-99-90 |
@@ -12725,13 +14588,18 @@
 | Гранд Лес | лофт | https://www.loft2rent.ru/loft/125499 | phone | 89250520976 |
 | Гранд-холл Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Гранель | девелопер | https://granelle.ru | email | press@granelle.com |
+| Грани | ивент агентство | https://eventcatalog.ru/agency/grani | phone | +7(915)144-04-31 / +7(926)206-85-37 |
 | Графит | лофт | https://www.loft2rent.ru/loft/124114/124244 | phone | +79099071169 |
+| Графит | ивент агентство | https://eventcatalog.ru/agency/grafit | phone | +7(961)539-75-65 |
+| Грильяж | ивент агентство | https://eventcatalog.ru/agency/griljyazh | phone | +7(926)467-13-07 |
 | Гримёрка. VIP-комната | лофт | https://www.reveltime.ru/venue/8786280?eventtype=vecherinka | phone | +79346642952 |
 | Гримёрка. Купол на крыше | лофт | https://www.reveltime.ru/venue/8786419?eventtype=vecherinka | phone | +79346642952 |
 | Гримёрка. Стильный караоке-зал | лофт | https://www.reveltime.ru/venue/8783829?eventtype=vecherinka | phone | +79346642952 |
 | Гринвуд Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid7624861/melior_greenwood_hotel | address | МКАД, 72, бизнес-центр «Гринвуд», строение 24, Москва |
 | Гринвуд. Мраморный лофт-зал | лофт | https://www.reveltime.ru/venue/4758573?eventtype=vecherinka | phone | +74992888034 |
 | Гриндей - свежий лофт с диско-шаром, караоке и приставкой! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
+| Группа компаний Праздник | ивент агентство | https://eventcatalog.ru/agency/gruppa_kompaniy_prazdnik | phone | +7(391) 211-61-91 / +7(391) 220-64-82 |
+| Группа Компаний Тера Эвент | ивент агентство | https://eventcatalog.ru/agency/gruppa_kompaniy_tera_event | phone | +7(495) 749-04-98 |
 | Группа ЛСР | девелопер | https://www.lsrgroup.ru | email | mail@lsrgroup.ru |
 | Группа ЛСР | девелопер | https://www.lsrgroup.ru | phone | +7 (800) 770-75-77 |
 | Группа ЛСР | девелопер | https://www.lsrgroup.ru | social | https://ok.ru/lsrgroup |
@@ -12743,6 +14611,8 @@
 | Группа Эталон (Москва офис) | организация | https://www.etalongroup.com | email | mariya.bevzyuk@etalongroup.com |
 | Группа Эталон (Москва офис) | организация | https://www.etalongroup.com | email | pressa@etalongroup.com |
 | Группа Эталон (Москва офис) | организация | https://www.etalongroup.com | phone | +7 (812) 439-80-00 |
+| Груши Project | ивент агентство | https://eventcatalog.ru/agency/grushi_project | phone | +7(923)430-34-32 |
+| Гуд Бренд | ивент агентство | https://eventcatalog.ru/agency/gud_brend | phone | +7(831)414-28-40 |
 | ГУП города Москвы «Московская социальная гарантия» | организация | https://dszn.ru/department/subordinate/1729 | email | antiscam-dtszn@mos.ru |
 | ГУП города Москвы «Московская социальная гарантия» | организация | https://dszn.ru/department/subordinate/1729 | email | dszn@mos.ru |
 | ГУП города Москвы «Московская социальная гарантия» | организация | https://dszn.ru/department/subordinate/1729 | email | dtszn-press@mos.ru |
@@ -12802,9 +14672,13 @@
 | Гэтсби | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Гэтсби | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Гэтсби - cтильный тематический лофт в черно-золотых цветах с караоке, светомузыкой и фотозоной! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
+| Д.С.Компания развлечений | ивент агентство | https://eventcatalog.ru/agency/d_s_kompaniya_razvlecheniy | phone | +7(495) 688-11-38 |
 | Давид | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Дали - Уютный лофт в стиле прованс | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Даллас и Партнеры | ивент агентство | https://eventcatalog.ru/agency/dallas_i_partnery | phone | +7(800)500-94-43 |
+| Дана | ивент агентство | https://eventcatalog.ru/agency/dana | phone | +7(383)299-11-91 / +7(383)201-08-63 |
 | Даниловский Холл | лофт | https://www.loft2rent.ru/loft/28030 | phone | +7 (495) 798-51-81 |
+| Дарбис | ивент агентство | https://eventcatalog.ru/agency/darbis | phone | +7(495) 524-96-00 / +7(926) 845-02-12 |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | email | info@darwinmuseum.ru |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | email | museumdarvin@culture.mos.ru |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | social | http://www.youtube.com/user/darwinmuseumofficial |
@@ -12813,6 +14687,7 @@
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | social | https://t.me/statedarwinmuseum |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | social | https://vk.com/darwinmuseum |
 | Дарвиновский музей | музей | https://www.darwinmuseum.ru | social | https://www.tiktok.com/@darwinmuseum |
+| Дари | ивент агентство | https://eventcatalog.ru/agency/dari | phone | +7(861)292-23-51 / +7(905)401-88-99 |
 | Дарк | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://top100awards.ru/darya-galeckaya | phone | +7 (985) 301-41-03 |
 | ДАРЬЯ ГАЛЕЦКАЯ | wedding planner / event producer | https://top100awards.ru/darya-galeckaya | social | https://t.me/galetskaya?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%94%D0%B0%D1%80%D1%8C%D1%8F.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
@@ -12874,6 +14749,7 @@
 | Два Дивана Шоу МоскваБольшая студия + банкетная зона Два Дивана | лофт | https://www.loft2rent.ru/loft/139515/139524 | phone | +7 495 877-49-55 |
 | Два Дивана Шоу МоскваМалая Студия Два Дивана | лофт | https://www.loft2rent.ru/loft/139515/139521 | phone | +7 495 877-49-55 |
 | Два Дивана Шоу МоскваПереговорная / лаундж зона Два Дивана | лофт | https://www.loft2rent.ru/loft/139515/139518 | phone | +7 495 877-49-55 |
+| Два Товарища | ивент агентство | https://eventcatalog.ru/agency/dva_tovariwa | phone | +380(57)700-03-09 / +380(95)564-51-87 |
 | Две комнатыДве Комнаты Светлая комната | лофт | https://www.loft2rent.ru/loft/168102/168120 | phone | 89771553073 |
 | Две комнатыДве комнаты. Темная комната | лофт | https://www.loft2rent.ru/loft/168102/168116 | phone | 89771553073 |
 | Двойной зал на Калашном | лофт | https://www.loft2rent.ru/loft/54442 | phone | +7 495 255 2522 |
@@ -12893,8 +14769,15 @@
 | Двухъярусное лофт-пространство | лофт | https://www.reveltime.ru/venue/2470164?eventtype=vecherinka | phone | +79693467396 |
 | Двухэтажный лофт в историческом здании | лофт | https://www.reveltime.ru/venue/2626584?eventtype=vecherinka | phone | +79035501844 |
 | ДВУХЭТАЖНЫЙ ЛОФТ С КАРАОКЕ СО СКИДКОЙ ОТ 10000Р | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
+| Де Жа Вю | ивент агентство | https://eventcatalog.ru/agency/de_zha_vyu | phone | +7(495) 799-66-62 / +7(906) 051-51-15 |
+| Дежа Вю | ивент агентство | https://eventcatalog.ru/agency/dezha_vyu | phone | +7(495)177-14-32 / +7(903) 281-12-30 |
+| Действие | ивент агентство | http://liveactiongame.ru | phone | +7(812)313-29-87 / +7(911)201-42-42 |
+| Деловая среда | ивент агентство | https://eventcatalog.ru/agency/delovaya_sreda | phone | +7(901)708-60-40 |
 | Деловой центр К29Большой зал Делового центра К29 | лофт | https://www.loft2rent.ru/loft/86350/86366 | phone | +7-925-4944162 |
 | Деловой центр К29Паркетный зал Делового центра К29 | лофт | https://www.loft2rent.ru/loft/86350/89017 | phone | +7-925-4944162 |
+| Дельфин | ивент агентство | https://eventcatalog.ru/agency/deljfin | phone | +7(950)905-57-03 / +7(953)973-11-00 |
+| День Варенья.RU | ивент агентство | https://eventcatalog.ru/agency/denj_varenjya_ru | phone | +7(495) 532-80-04 |
+| День Х | ивент агентство | https://eventcatalog.ru/agency/denj_h | phone | +7(843)250-15-35 / +7(950)329-74-84 |
 | Департамент культуры Москвы | государственная организация | https://culture.mos.ru | social | https://t.me/CulturMoscow |
 | Департамент культуры Москвы | государственная организация | https://culture.mos.ru | social | https://t.me/moscow_culture |
 | Департамент культуры Москвы | государственная организация | https://culture.mos.ru | social | social |
@@ -12917,6 +14800,8 @@
 | Депо | гастрономическое пространство / food mall | https://depomoscow.ru | phone | +7 (495) 788-88-33 |
 | Депо | гастрономическое пространство / food mall | https://depomoscow.ru | social | https://t.me/depomos |
 | Депо | гастрономическое пространство / food mall | https://depomoscow.ru | social | https://vk.com/depo__moscow |
+| Дерево Сказок | ивент агентство | https://eventcatalog.ru/agency/derevo_skazok | phone | +7(926)709-29-90 |
+| Детские праздники | ивент агентство | https://eventcatalog.ru/agency/detskie_prazdniki | phone | +7(952)095-41-00 / +7(999)525-80-00 |
 | Детский и семейный лофт в Новосибирске \ | ПингвиЛофт | лофт | https://www.loft2rent.ru/loft/150257/150259 | phone |
 | Детский лофт "мяу"Детский лофт МЯУ | лофт | https://www.loft2rent.ru/loft/164268/164270 | phone | +79030020918 |
 | Детский лофт с верандой в парке | лофт | https://www.loft2rent.ru/loft/58317 | phone | +79013551562 |
@@ -12934,13 +14819,20 @@
 | Джаз | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Джаз | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | ДЖАЗ (JAZZ) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
+| Джей Кей Ивент | ивент агентство | https://eventcatalog.ru/agency/dzhey_key_ivent | phone | +7(846) 231-39-91 / +7(927) 002-63-45 |
+| Джей Комм | ивент агентство | https://eventcatalog.ru/agency/dzhey_komm | phone | +7(495)766-51-65 |
 | Джентльмены | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
+| Джулия | ивент агентство | https://eventcatalog.ru/agency/dzhuliya | phone | +7(495) 763-25-49 / +7(916) 681-00-81 |
 | Джуманджи | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
 | Джунгли | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Джунгли. Танцевальный лофт со стильной фотозоной, барной стойкой, неоном и всех необходимой техникой | лофт | https://www.reveltime.ru/venue/8461284?eventtype=vecherinka | phone | +79584974084 |
+| Диал | ивент агентство | https://eventcatalog.ru/agency/dial | phone | +7(921) 375-44-17 / +7(812) 325-12-74 |
+| Дива | ивент агентство | https://eventcatalog.ru/agency/diva | phone | +7(495) 661-71-91 / +7(495) 978-87-19 |
+| Дивербиум | ивент агентство | https://eventcatalog.ru/agency/diverbium | phone | +7(926)039-63-72 / +7(985)957-21-00 |
 | Дизайн-отель СтандАрт | отель | https://ostrovok.ru/hotel/russia/moscow/mid6783512/standart_hotel_moscow | address | бульвар Страстной, д.2, Москва |
 | Дизайнерский лофт Гараж с караоке и игровой в 2-х минутах от метро | лофт | https://www.loft2rent.ru/loft/1665 | phone | +7 9932617652 |
 | Дизайнерский лофт с панорамными окнами и кухней | лофт | https://www.reveltime.ru/venue/3287091?eventtype=vecherinka | phone | +79777137848 |
+| Дикие сказки | ивент агентство | https://eventcatalog.ru/agency/dikie_skazki | phone | +7(916)266-92-57 |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | email | action@dixy.ru |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | email | compliance@dixy.ru |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | email | dostavka@dixy.ru |
@@ -12956,6 +14848,8 @@
 | Дикси (Moscow HQ) | организация | https://dixy.ru | social | https://t.me/dixy_russia |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | social | https://vk.com/dixyclub |
 | Дикси (Moscow HQ) | организация | https://dixy.ru | social | https://www.youtube.com/user/DixyChannel |
+| Димакс | ивент агентство | https://eventcatalog.ru/agency/dimaks | phone | +7(4912) 296-696 / +7(920) 985-33-30 |
+| ДиМарт | ивент агентство | https://eventcatalog.ru/agency/dimart | phone | +7(495) 755-32-72 / +7(495) 316-33-85 |
 | Динамо Арена | спортивная арена | https://fcdm.ru | email | office@fcdynamo.ru |
 | Динамо Арена | спортивная арена | https://fcdm.ru | social | https://dzen.ru/fcdynamo |
 | Динамо Арена | спортивная арена | https://fcdm.ru | social | https://ok.ru/fcdynamo |
@@ -12967,6 +14861,10 @@
 | Динамо Арена | спортивная арена | https://fcdm.ru | social | https://www.tiktok.com/@fcdynamo |
 | Динамо Арена | спортивная арена | https://fcdm.ru | social | https://www.youtube.com/@fcdynamo |
 | Динамо Арена | спортивная арена | https://fcdm.ru | social | https://www.youtube.com/fcdynamo |
+| Династия | ивент агентство | https://eventcatalog.ru/agency/dinastiya | phone | +7(926)625-37-05 / +7(968)793-77-35 |
+| Дипломат Сервис | ивент агентство | https://eventcatalog.ru/agency/diplomat_servis | phone | +7(38044) 495-28-58 / +7(38044) 496-59-19 |
+| Директория | ивент агентство | https://eventcatalog.ru/agency/direktoriya | phone | +7(812)677-55-90 |
+| ДИС | ивент агентство | https://eventcatalog.ru/agency/dis | phone | +7(812) 974-89-07 / +7(962) 707-08-69 |
 | Диско | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Диско | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Диско | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
@@ -12974,6 +14872,7 @@
 | ДК КироваХолл | лофт | https://www.loft2rent.ru/loft/134314/165610 | phone | +7 (981) 109 66 99 |
 | ДК КРИСТАЛЛ клуб-лофт, концертный зал | лофт | https://www.loft2rent.ru/loft/97591 | phone | ++79585410041 |
 | ДК Рассвет | лофт | https://www.loft2rent.ru/loft/52227/52236 | phone | wa.me/79164754824 |
+| Добрый Квест | ивент агентство | https://eventcatalog.ru/agency/dobryy_kvest | phone | +7(981)735-37-53 |
 | Долинск | организация | https://bankdolinsk.ru | phone | +7 (800) 250-99-55 |
 | Долинск | организация | https://bankdolinsk.ru | social | https://t.me/bank_dolinsk |
 | Дом Business SpeechЗал Мансарда | лофт | https://www.loft2rent.ru/loft/2758/38066 | phone | +7 (495) 680-57-88 |
@@ -12988,6 +14887,7 @@
 | ДОМ ВИНТАЖНОЙ МУЗЫКИ: БОЛЬШАЯ СЦЕНА | лофт | https://www.loft2rent.ru/loft/133379 | phone | +79169328983 |
 | ДОМ ВИНТАЖНОЙ МУЗЫКИ: МАЛАЯ СЦЕНА | лофт | https://www.loft2rent.ru/loft/133379 | phone | +79169328983 |
 | Дом Гарри Поттера | лофт | https://www.loft2rent.ru/loft/39148 | phone | +7 (901) 333-77-31 |
+| Дом Главной Виктории | ивент агентство | https://eventcatalog.ru/agency/dom_glavnoy_viktorii | phone | +7(903)008-59-53 |
 | Дом Дизайна | лофт | https://www.loft2rent.ru/loft/202484/202488 | phone | 89057410694 |
 | Дом Зелено | лофт | https://www.loft2rent.ru/loft/177429/177431 | phone | 89168651859 |
 | Дом Культуры | лофт | https://www.loft2rent.ru/loft/77612 | phone | +7(925) 448-13-73 |
@@ -13071,12 +14971,19 @@
 | Дом-музей Чехова | ивент-спейс | https://chekhovmuseum.com | social | https://t.me/teatropro |
 | Дом-музей Чехова | ивент-спейс | https://chekhovmuseum.com | social | https://t.me/trisestrii |
 | Дом-музей Чехова | ивент-спейс | https://chekhovmuseum.com | social | https://vk.com/chekhovmuseum |
+| Доминанта | ивент агентство | https://eventcatalog.ru/agency/dominanta | phone | +7(38044) 288-27-26 / +7(38068) 599-93-66 |
+| Доминанта 35 | ивент агентство | https://eventcatalog.ru/agency/dominanta_35 | phone | +7(921) 143-67-26 / +7(921) 127-32-62 |
+| Доминика | ивент агентство | https://eventcatalog.ru/agency/dominika | phone | +7(499) 619-85-28 |
 | Донстрой | девелопер | https://donstroy.com | phone | +7 (495) 925-47-47 |
 | Дрепин ЛофтДрепин Дача | лофт | https://www.loft2rent.ru/loft/98969/107997 | phone | +79660758366 |
 | Дрепин ЛофтДрепин Лофт | лофт | https://www.loft2rent.ru/loft/98969/98973 | phone | 89154868833 |
+| Дрим Про | ивент агентство | https://eventcatalog.ru/agency/drim_pro | phone | +7(4852)42-77-39 |
 | Дримс - клубный лофт с караоке с отличной акустикой для любимых хитов, фотозоной с неоновым оформлением и диско‑шаром! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
 | Дробь 8 | лофт | https://www.loft2rent.ru/loft/159284/159307 | phone | 8991 233 3175 |
+| Другое агентство | ивент агентство | https://eventcatalog.ru/agency/drugoe_agentstvo | phone | +7(911)748-66-97 |
+| Друзья Холдинг | ивент агентство | https://eventcatalog.ru/agency/druzjya_holding | phone | +7(922)111-40-99 |
 | Дубай | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Душа компании | ивент агентство | https://eventcatalog.ru/agency/dusha_kompanii | phone | +7(903) 726-89-32 / +7(926) 406-55-06 |
 | ДУШУ НАРУЖУ | лофт | https://www.loft2rent.ru/loft/104858/104866 | phone | 89936299657 |
 | Дэнс - яркий и современный лофт с фотозоной с неоном, караоке и диско-шаром! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
 | Еврейский музей и центр толерантности | музей / культурный центр | https://www.jewish-museum.ru | email | info@jewish-museum.ru |
@@ -13088,6 +14995,7 @@
 | Еврейский музей и центр толерантности | музей / культурный центр | https://www.jewish-museum.ru | social | https://t.me/jewishmuseum |
 | Еврейский музей и центр толерантности | музей / культурный центр | https://www.jewish-museum.ru | social | https://vk.com/j_museum |
 | Еврейский музей и центр толерантности | музей / культурный центр | https://www.jewish-museum.ru | social | https://www.youtube.com/user/jewishmuseummsk |
+| Евро Холдинг | ивент агентство | https://eventcatalog.ru/agency/evro_holding | phone | +7(861)251-04-62 / +7(905)470-70-30 |
 | Европа Плюс (ЕМГ) | организация | https://emg.fm | email | reklama@emg.fm |
 | Европа Плюс (ЕМГ) | организация | https://emg.fm | phone | +7 (495) 799-97-97 |
 | Европа Плюс (ЕМГ) | организация | https://emg.fm | social | http://t.me/EMG_Reklama |
@@ -13098,15 +15006,33 @@
 | ЕвроХим | химическая компания | https://www.eurochem.ru | social | https://t.me/eurochemofficial |
 | ЕвроХим | химическая компания | https://www.eurochem.ru | social | https://vk.com/eurochemgroup |
 | ЕвроХим | химическая компания | https://www.eurochem.ru | social | https://www.youtube.com/channel/UCHz4Z9AAQzvivQZ8u6smS_g |
+| Енот | ивент агентство | https://eventcatalog.ru/agency/enot | phone | +7(343)351-72-81 |
+| Есть Повод | ивент агентство | https://eventcatalog.ru/agency/estj_povod | phone | +7(495) 507-47-17 / +7(903) 615-51-50 |
+| ЕЦБР | ивент агентство | https://eventcatalog.ru/agency/ecbr | phone | +7(343) 290-26-21 / +7(343) 286-02-16 |
 | Жажда крови | ресторан | https://zhazhdakrovy.ru | phone | +74994954493 |
+| Жар-птица | ивент агентство | https://eventcatalog.ru/agency/zhar-ptica | phone | +7(929)503-31-30 |
 | Желтый ДомБар Желтый Дом | лофт | https://www.loft2rent.ru/loft/168238/168873 | phone | +7 9684508760 |
 | Жемчуг | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Живая Сцена | ивент агентство | https://eventcatalog.ru/agency/zhivaya_scena | social | https://eventcatalog.ru/agency/zhivaya_scena |
+| Живое дело | ивент агентство | https://eventcatalog.ru/agency/zhivoe_delo | phone | +7(38044) 418-62-82 |
 | Живописный лофт Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Жизнь прекрасна | ивент агентство | https://eventcatalog.ru/agency/zhiznj_prekrasna | phone | +7(913)112-22-12 |
+| Жиксан | ивент агентство | https://eventcatalog.ru/agency/zhiksan | phone | +7(495) 452-49-23 / +7(903) 710-45-85 |
+| Жили Были | ивент агентство | https://eventcatalog.ru/agency/zhili_byli | phone | +7(916)599-10-01 |
+| Жираф | ивент агентство | https://eventcatalog.ru/agency/zhiraf | phone | +7(917)042-56-33 |
 | За крышей | ресторан | https://www.instagram.com/marat_nakryshe | phone | +74959970799 |
 | За Нарисованным Очагом | лофт | https://www.loft2rent.ru/loft/81543 | phone | +79811682250 |
+| Забава продакшн | ивент агентство | https://eventcatalog.ru/agency/zabava_prodakshn | phone | +7(499)390-06-46 / +7(925)390-06-46 |
+| Заводной апельсин | ивент агентство | https://eventcatalog.ru/agency/zavodnoy_apeljsin | phone | +7(916)302-58-93 / +7(916)829-67-70 |
+| Заводной мандарин | ивент агентство | https://eventcatalog.ru/agency/zavodnoy_mandarin | phone | +7(812) 956-51-80 / +7(812) 363-24-27 |
+| Заводные Выходные | ивент агентство | https://eventcatalog.ru/agency/zavodnye_vyhodnye | phone | +7(499)955-43-17 / +7(904)055-55-51 |
+| Завтра Праздник | ивент агентство | https://eventcatalog.ru/agency/zavtra-prazdnik | phone | +7(495)642-42-17 / +7(915)383-98-85 |
 | Загородный банкетный комплекс "ТЕПЛИЦА-ПАРК"ТЕПЛИЦА-ПАРК | лофт | https://www.loft2rent.ru/loft/181035/181040 | phone | +7 (926) 127 25 22 |
 | Загородный комплекс Art Village Club | отель | https://ostrovok.ru/hotel/russia/moscow/mid10161324/art_villge_club_hotel | address | улица Рябиновая, д.1а, Химки |
+| Зажигай.ру | ивент агентство | https://eventcatalog.ru/agency/zazhigay_ru | phone | +7(495) 585-05-05 / +7(495) 740-16-31 |
 | Зазеркалье | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Зазеркалье | ивент агентство | https://eventcatalog.ru/agency/zazerkalje | phone | +7(921)574-84-85 |
+| Заказать корпоратив | ивент агентство | https://eventcatalog.ru/agency/zakazatj_korporativ | phone | +7(988)558-44-56 |
 | Зал "Барный" для новогоднего корпоратива | лофт | https://www.loft2rent.ru/loft/109505 | phone | +7 (900) 649-02-29 |
 | Зал "Вознесенский" | лофт | https://www.loft2rent.ru/loft/114505 | phone | +7 958 538-65-47 |
 | Зал "Гарда" | лофт | https://www.loft2rent.ru/loft/172081 | phone | +79255165332 |
@@ -13379,17 +15305,22 @@
 | Зарядье медиацентр | ивент-спейс | https://zaryadyepark.ru | social | https://ok.ru/zaryadyepark |
 | Зарядье медиацентр | ивент-спейс | https://zaryadyepark.ru | social | https://t.me/zaryadye_official |
 | Зарядье медиацентр | ивент-спейс | https://zaryadyepark.ru | social | https://vk.com/zaryadyepark |
+| Затейка | ивент агентство | https://eventcatalog.ru/agency/zateyka | phone | +7(927)109-01-59 / +7(8452)25-41-07 |
 | Захарово | ивент-спейс | https://pushkinmuseum.ru | email | info@a-s-pushkinmus.ru |
 | Захарово | ивент-спейс | https://pushkinmuseum.ru | email | pushkinmus@culture.mos.ru |
 | Захарово | ивент-спейс | https://pushkinmuseum.ru | social | https://t.me/pushkin_museum |
 | Захарово | ивент-спейс | https://pushkinmuseum.ru | social | https://vk.com/club41276547 |
 | Захарово | ивент-спейс | https://pushkinmuseum.ru | social | https://www.youtube.com/user/PushkinMuseum |
 | Звезда смерти | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Звездный город | ивент агентство | https://eventcatalog.ru/agency/zvezdnyy_gorod | phone | +7(927)032-23-19 / +7(843)526-55-65 |
 | Звездный разрушитель | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Звездочка | ивент агентство | https://eventcatalog.ru/agency/zvezdochka | phone | +7(495) 669-99-31 |
+| Звезды XXI века | ивент агентство | https://eventcatalog.ru/agency/zvezdy_xxi_veka | phone | +7(495) 626-22-99 / +7(495) 792-77-31 |
 | ЗвёздныйЗал 1 | лофт | https://www.loft2rent.ru/loft/171649/171651 | phone | +79162336147 |
 | Зеленая мансарда на Чистых прудах М-24 | лофт | https://www.loft2rent.ru/loft/69466 | phone | +79150624544 |
 | Зеленый дом | лофт | https://www.loft2rent.ru/loft/141243/141247 | phone | 89175324309 |
 | Зеленый зал | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
+| Зеленый театр | ивент агентство | https://eventcatalog.ru/agency/zelenyy_teatr | phone | +7(915) 123-35-33 / +7(985) 316-33-55 |
 | Зеленый. Атмосферный лофт с караоке, большим экраном, фотозоной и светомузыкой | лофт | https://www.reveltime.ru/venue/6829728?eventtype=vecherinka | phone | +79346642952 |
 | Зелёный театр Парка Горького | концертная площадка | https://park-gorkogo.ru | email | parkgorkogo@culture.mos.ru |
 | Зелёный театр Парка Горького | концертная площадка | https://park-gorkogo.ru | social | https://maps.vk.com |
@@ -13400,7 +15331,9 @@
 | ЗЕФИРКА | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
 | Зион лофт | лофт | https://www.loft2rent.ru/loft/134158 | phone | +79035848913 |
 | Зойка | бар | http://zoykarest.ru/ | phone | +74951031003 |
+| Золотая Антилопа | ивент агентство | https://eventcatalog.ru/agency/zolotaya_antilopa | phone | +7(909)019-32-19 |
 | Золотое кольцо ТеатрGolden Stage | лофт | https://www.loft2rent.ru/loft/130948/130953 | phone | 89686007912 |
+| Золотое решение | ивент агентство | https://eventcatalog.ru/agency/zolotoe_reshenie | phone | +7(920)287-71-91 |
 | Золотой зал | лофт | https://www.loft2rent.ru/loft/44815 | phone | +7 (916) 496-11-91 |
 | Зона Комфорта | лофт | https://www.loft2rent.ru/loft/171391/171393 | phone | 89679769636 |
 | Зонтик/Umbrella | лофт | https://www.loft2rent.ru/loft/177789/177796 | phone | 89119316282 |
@@ -13409,10 +15342,19 @@
 | Зоологический музей МГУ | музей | https://zmmu.msu.ru | social | https://rutube.ru/channel/75440711 |
 | Зоологический музей МГУ | музей | https://zmmu.msu.ru | social | https://t.me/zmmumsu |
 | Зоологический музей МГУ | музей | https://zmmu.msu.ru | social | https://vk.com/clubzmmu |
+| ИDEЯ Fix | ивент агентство | https://eventcatalog.ru/agency/ideya_fix | phone | +7(351) 245-30-51 / +7(351) 772-81-98 |
+| ИDЕЯ-FIX | ивент агентство | https://eventcatalog.ru/agency/ideya-fix | phone | +7(913) 007-19-28 |
 | Ибица | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
+| Иваси | ивент агентство | https://eventcatalog.ru/agency/event-byuro_ivasi | phone | +7(917)794-6999 |
+| Ивенемент | ивент агентство | https://eventcatalog.ru/agency/ivenement | phone | +7(982)694-69-03 |
+| Ивент Академия | ивент агентство | https://eventcatalog.ru/agency/ivent_akademiya | phone | +7(093) 330-94-83 / +7(050) 152-72-27 |
+| Ивент Дизайн | ивент агентство | https://eventcatalog.ru/agency/ivent_dizayn | phone | +7(38044) 503-37-81 / +7(38044) 502-87-05 |
+| Ивент Маркетинг | ивент агентство | https://eventcatalog.ru/agency/ivent_marketing | phone | +7(495) 913-21-50 / +7(495) 782-48-34 |
 | Ивент-пространство Музея Гаража особого назначенияVip-зал AURUS | лофт | https://www.loft2rent.ru/loft/160275/160981 | phone | +7 916 566‑19‑87‬ |
 | Ивент-пространство Музея Гаража особого назначенияМузей Гараж - Банкетный Зал | лофт | https://www.loft2rent.ru/loft/160275/160975 | phone | +7 916 566‑19‑87‬ |
 | Ивент-пространство Музея Гаража особого назначенияРесторан Разгон | лофт | https://www.loft2rent.ru/loft/160275/160988 | phone | +7 916 566‑19‑87‬ |
+| Ивент-Фарма | ивент агентство | https://eventcatalog.ru/agency/ivent-farma | phone | +7(093) 741-00-47 / +7(067) 697-89-74 |
+| Ивентис | ивент агентство | https://eventcatalog.ru/agency/iventis | phone | +7(496) 524-14-22 |
 | ИГЛУ Большая | лофт | https://www.loft2rent.ru/loft/194243 | phone | 89933426897 |
 | Иглу маленькая | лофт | https://www.loft2rent.ru/loft/194243 | phone | 89933426897 |
 | ИглуБар. Bad girl. Тёмный лофт-зал в красных оттенках | лофт | https://www.reveltime.ru/venue/4505214?eventtype=vecherinka | phone | +79584974226 |
@@ -13428,9 +15370,20 @@
 | ИглуЛофт. Нео Классик. Стильный лофт-зал | лофт | https://www.reveltime.ru/venue/3759834?eventtype=vecherinka | phone | +79910173255 |
 | ИглуЛофт. Панорама. Чёрный лофт-зал | лофт | https://www.reveltime.ru/venue/3482958?eventtype=vecherinka | phone | +79910172413 |
 | ИглуЛофт. Шэдоулофт. Премиальный лофт-зал | лофт | https://www.reveltime.ru/venue/6055753?eventtype=vecherinka | phone | +79346691548 |
+| Игра | ивент агентство | https://eventcatalog.ru/agency/igra | phone | +7(495) 506-32-73 |
 | Игра Престолов | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Игровая с PS5 до 6 гостей на Тверской | лофт | https://www.loft2rent.ru/loft/104695 | phone | 89262851313 |
+| Игрокс | ивент агентство | https://eventcatalog.ru/agency/igroks | phone | +7(495)589-54-08 |
+| Игротека | ивент агентство | https://eventcatalog.ru/agency/igroteka | phone | +7(347) 292-15-73 / +7(347) 292-15-24 |
+| Идеал | ивент агентство | https://eventcatalog.ru/agency/ideal | phone | +7(415) 828-8 |
+| Идеальная свадьба | ивент агентство | https://eventcatalog.ru/agency/idealjnaya_svadjba | phone | +7(908)148-40-01 |
+| Идеальное торжество | ивент агентство | https://eventcatalog.ru/agency/idealjnoe_torzhestvo | phone | +7(951)184-90-84 / +7(3842)67-12-57 |
+| Идеальный праздник | ивент агентство | https://eventcatalog.ru/agency/idealjnyy_prazdnik | phone | +7(495) 632-01-68 / +7(905) 777-00-04 |
+| Идеи Ивента | ивент агентство | https://eventcatalog.ru/agency/idei_iventa | phone | +7(831) 423-44-71 / +7(831) 278-95-66 |
+| Идея Икс | ивент агентство | https://eventcatalog.ru/agency/ideya_iks | phone | +7(499)110-21-92 |
+| Идея Калуга | ивент агентство | https://eventcatalog.ru/agency/ideya_kaluga | phone | +7(4842)55-10-21 / +7(953)313-99-99 |
 | Изостудия Дом Художника в Измайлово. Арт-пространство с высокими потолками | лофт | https://www.reveltime.ru/venue/3699065?eventtype=vecherinka | phone | +79346608162 |
+| Изюм _ | ивент агентство | https://eventcatalog.ru/agency/izyum-1 | phone | +7(351) 776-85-00 / +7(351) 263-54-07 |
 | Икша Кантри Клаб | лофт | https://www.loft2rent.ru/loft/69187/69189 | phone | +74995055031 |
 | Икша Кантри КлабДача 100 м² на участке 10 соток | лофт | https://www.loft2rent.ru/loft/69187/112222 | phone | +74995055031 |
 | Икша Кантри КлабДомик Олимпийская деревня Коралловый | лофт | https://www.loft2rent.ru/loft/69187/137626 | phone | +74995055031 |
@@ -13439,7 +15392,19 @@
 | Икша Кантри КлабТаунхаус 100 м² на участке 10 сот. Таунхаус 100 м² на участке 10 соток | лофт | https://www.loft2rent.ru/loft/69187/112256 | phone | +74995055031 |
 | Икша Кантри КлабТаунхаус 50 м² на участке 10 сот. | лофт | https://www.loft2rent.ru/loft/69187/111578 | phone | +74995055031 |
 | Икша Кантри КлабШале 70 м | лофт | https://www.loft2rent.ru/loft/69187/112194 | phone | +74995055031 |
+| Иллюзион | ивент агентство | https://eventcatalog.ru/agency/illyuzion | phone | +7(812) 394-56-62 |
+| Имена Production | ивент агентство | https://eventcatalog.ru/agency/imena_production | phone | +7(495) 544-80-17 |
+| Империя Звезд | ивент агентство | https://eventcatalog.ru/agency/imperiya_zvezd | phone | +7(495)231-01-42 / +7(495)227-32-77 |
+| Империя Праздника | ивент агентство | https://eventcatalog.ru/agency/imperiya_prazdnika | phone | +7(495) 648-64-15 / +7(962) 999-33-66 |
+| Империя Праздников | ивент агентство | https://eventcatalog.ru/agency/imperiya_prazdnikov | phone | +7(925)561-18-27 |
+| Империя Развлечений | ивент агентство | https://eventcatalog.ru/agency/imperiya_razvlecheniy | phone | +7(863) 240-30-70 / +7(863) 240-30-78 |
+| Империя Развлечений _ | ивент агентство | https://eventcatalog.ru/agency/imperiya_razvlecheniy-1 | phone | +7(495) 762-02-01 / +7(916) 679-02-01 |
 | Империя Скай Лофт | лофт | https://www.loft2rent.ru/loft/10755/26531 | phone | 84999385501 |
+| Империя Сочи | ивент агентство | https://eventcatalog.ru/agency/imperiya_sochi | phone | +7(918)909-85-00 / +7(862)271-02-42 |
+| Империя шоу | ивент агентство | https://eventcatalog.ru/agency/imperiya_shou | phone | +7(495) 662-96-30 / +7(926) 526-33-35 |
+| Империя шоу_ | ивент агентство | https://eventcatalog.ru/agency/imperiya_shou-1 | phone | +7(495) 741-80-01 / +7(495) 662-96-30 |
+| Импресарио | ивент агентство | https://eventcatalog.ru/agency/impresario | phone | +7(929)523-48-47 / +7(987)410-57-83 |
+| Импрессо | ивент агентство | https://eventcatalog.ru/agency/impresso | phone | +7(495) 229-30-76 / +7(495) 643-33-75 |
 | Импульс | лофт | https://www.loft2rent.ru/loft/92780 | phone | +7 993 590-58-84 |
 | Инвестиционный Потребительский Кооператив «Кнокей. Арендная Недвижимость» | организация | https://www.tbank.ru/travel/hotels/new/hotels/2642990 | email | hotels_web_errorhub@error-hub.tbank.ru |
 | Инвестиционный Потребительский Кооператив «Кнокей. Арендная Недвижимость» | организация | https://www.tbank.ru/travel/hotels/new/hotels/2642990 | email | support@knokey.com |
@@ -13469,7 +15434,13 @@
 | Ингосстрах Банк | организация | https://ingobank.ru | social | https://t.me/tg_IngoBank_bot |
 | Ингосстрах Банк | организация | https://ingobank.ru | social | https://vk.com/ingobank |
 | Индиго | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Индустрия Праздника | ивент агентство | https://eventcatalog.ru/agency/industriya_prazdnika | phone | +7(495) 611-61-34 / +7(495) 611-61-62 |
+| Индустрия Событий | ивент агентство | https://eventcatalog.ru/agency/industriya_sobytiy | phone | +7(903) 062-11-57 |
+| Инженеры События | ивент агентство | https://eventcatalog.ru/agency/inzhenery_sobytiya | phone | +7(904)513-17-73 / +7(911)212-83-75 |
+| Инкапри | ивент агентство | https://eventcatalog.ru/agency/inkapri | phone | +7(922)155-86-59 / +7(916)544-58-68 |
+| ИнПраздник | ивент агентство | https://eventcatalog.ru/agency/inprazdnik | phone | +7(915) 200-57-57 |
 | ИНСАЙД 2.0 | лофт | https://www.loft2rent.ru/loft/94069 | phone | 89112793938 |
+| ИнтелСпорт | ивент агентство | https://eventcatalog.ru/agency/intelsport | phone | +7(495) 514-42-32 / +7(926) 530-91-70 |
 | Интер РАО | энергетическая компания | https://www.interrao.ru | email | ir.interrao@ya.ru |
 | Интер РАО | энергетическая компания | https://www.interrao.ru | email | norenko_ea@interrao.ru |
 | Интер РАО | энергетическая компания | https://www.interrao.ru | email | office@interrao.ru |
@@ -13509,15 +15480,20 @@
 | Интерфакс | информационное агентство | https://interfax.ru | phone | +7 (800) 222-44-14 |
 | Интерфакс | информационное агентство | https://interfax.ru | social | https://dzen.ru/interfax?favid=1114 |
 | Интерфакс | информационное агентство | https://interfax.ru | social | https://t.me/interfaxonline |
+| Интершоу | ивент агентство | https://eventcatalog.ru/agency/intershou | phone | +7(343)222-00-55 / +7(343)222-00-99 |
 | Интерьерная студия для творчества и вечеринок | лофт | https://www.reveltime.ru/venue/2783203?eventtype=vecherinka | phone | +79687397476 |
 | Интра Лофт | лофт | https://www.loft2rent.ru/loft/92492/92495 | phone | 89956973260 |
 | Интра ЛофтЛоки Лофт | лофт | https://www.loft2rent.ru/loft/92492/117415 | phone | +7 995 697 32 60 |
 | Интра ЛофтЛофт Ронго | лофт | https://www.loft2rent.ru/loft/92492/135308 | phone | 79956973260 |
 | Интра ЛофтРати Лофт | лофт | https://www.loft2rent.ru/loft/92492/134378 | phone | 79956973260 |
 | ИнтриганыТеатральное пространство | лофт | https://www.loft2rent.ru/loft/206070/206077 | phone | 89161717969 |
+| Инфест | ивент агентство | https://eventcatalog.ru/agency/infest | phone | +7(495) 495-50-78 |
 | ИпСдвижков | лофт | https://www.loft2rent.ru/loft/210458/210483 | phone | 89777752726 |
 | ИскраХоллБанкетный зал ИскраХолл | лофт | https://www.loft2rent.ru/loft/154327/158133 | phone | +79055472820 |
 | ИскраХоллКонференц-зал ИскраХолл | лофт | https://www.loft2rent.ru/loft/154327/171717 | phone | +79055472820 |
+| Искусство праздника | ивент агентство | https://eventcatalog.ru/agency/iskusstvo_prazdnika | phone | +7(909) 306-00-17 / +7(903) 306-57-37 |
+| Искусство событий | ивент агентство | https://eventcatalog.ru/agency/iskusstvo_sobytiy | phone | +7(495) 766-39-31 |
+| Исполнители желаний | ивент агентство | https://eventcatalog.ru/agency/ispolniteli_zhelaniy | phone | +7(495) 226-77-32 / +7(926) 984-90-10 |
 | Исторический музей | музей | https://shm.ru | email | add-to-calendar-button@2.js |
 | Исторический музей | музей | https://shm.ru | email | rating@mail.ru |
 | Исторический музей | музей | https://shm.ru | email | tula.visitor@shm.ru |
@@ -13554,8 +15530,12 @@
 | Кабинет психолога №25 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
 | Кабинет психолога №26 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
 | Кабинет Эви | лофт | https://www.loft2rent.ru/loft/155206 | phone | +79160876137 |
+| Кавалери | ивент агентство | https://eventcatalog.ru/agency/kavaleri | phone | +7(845) 233-81-39 |
+| Каврус | ивент агентство | https://eventcatalog.ru/agency/kavrus | phone | +7(495)201-52-43 |
 | Казбек | ресторан | https://www.mykazbek.ru/ | phone | +74956518100 |
 | КайросСмоленский бульвар 22/14 | лофт | https://www.loft2rent.ru/loft/198471/198474 | phone | 89670696835 |
+| Какие Люди | ивент агентство | https://eventcatalog.ru/agency/kakie_lyudi | phone | +7(3532)45-63-11 / +7(922)864-74-84 |
+| Какнадо | ивент агентство | https://eventcatalog.ru/agency/kaknado | phone | +7(812) 911-40-80 / +7(921) 916-22-63 |
 | Кальянная ПОЧИЛИМ | лофт | https://www.loft2rent.ru/loft/195455 | phone | 89026984414 |
 | КАМАЗ (офис МСК) | организация | https://kamaz.ru | email | callcentre@kamaz.org |
 | КАМАЗ (офис МСК) | организация | https://kamaz.ru | email | export@kamaz.ru |
@@ -13572,8 +15552,11 @@
 | Камерная площадка в стиле лофт на Большой Никиктской | лофт | https://www.loft2rent.ru/loft/188222 | phone | +7 985 197-80-01 |
 | Камерный зал винного бара | лофт | https://www.loft2rent.ru/loft/141917 | phone | +79819869826 |
 | Камерный лофт Life со сценой и красивым видом из окна | лофт | https://www.loft2rent.ru/loft/97467 | phone | +7 985 219 8400 |
+| Камертон Art Event | ивент агентство | https://eventcatalog.ru/agency/kamerton_art_event | phone | +7(968)913-72-87 |
 | Кандинский - Уютный лофт мансарда, лекторий с амфитеатром | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | Каппо Хироки Аракава | ресторан | https://www.hiroki.ru/ | phone | +79670009808 |
+| Карамель | ивент агентство | https://eventcatalog.ru/agency/karamelj | phone | +7(910)487-24-25 |
+| Карамель _ | ивент агентство | https://eventcatalog.ru/agency/karamelj-1 | phone | +7(38066) 142-61-01 / +7(38050) 832-34-85 |
 | Караоке "Bonnie&Clyde" | лофт | https://www.loft2rent.ru/loft/93765/93771 | phone | +79119257643 |
 | Караоке клуб Трели | лофт | https://www.loft2rent.ru/loft/127613/127615 | phone | +79036295353 |
 | Караоке Соловей Караоке Соловей | лофт | https://www.loft2rent.ru/loft/166272/166274 | phone | +7 (999) 882-08-68 |
@@ -13582,6 +15565,14 @@
 | Караоке-ЛофтЭхоЗал Лагуна | лофт | https://www.loft2rent.ru/loft/114708/119270 | phone | +7 (929) 934-77-33 |
 | Караоке-ЛофтЭхоЗал Тропики | лофт | https://www.loft2rent.ru/loft/114708/119264 | phone | +7 (929) 934-77-33 |
 | Караоке-ЛофтЭхоЗал Эйфория | лофт | https://www.loft2rent.ru/loft/114708/119280 | phone | +7 (929) 934-77-33 |
+| Карнавал | ивент агентство | https://eventcatalog.ru/agency/karnaval | phone | +7(343) 964-32-52 |
+| КАРП | ивент агентство | https://eventcatalog.ru/agency/karp | phone | +7(951)098-49-49 / +7(8422)27-79-79 |
+| Карусель | ивент агентство | https://eventcatalog.ru/agency/karuselj | phone | +7(985)999-30-07 |
+| Карусель | ивент агентство | https://eventcatalog.ru/agency/karuselj-3 | phone | +7(499) 755-68-47 / +7(925) 700-17-72 |
+| Карусель Желаний | ивент агентство | https://eventcatalog.ru/agency/karuselj_zhelaniy | phone | +7(908) 633-65-51 |
+| Карусель Праздника | ивент агентство | https://eventcatalog.ru/agency/karuselj_prazdnika | phone | +7(499)390-28-40 |
+| Карусель СПб | ивент агентство | https://eventcatalog.ru/agency/karuselj_spb | phone | +7(812) 902-36-00 |
+| Карусель-арт | ивент агентство | https://eventcatalog.ru/agency/karuselj-art | phone | +7(925) 700-17-72 |
 | Каток | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | Кафе под закрытие в советском стиле | лофт | https://www.reveltime.ru/venue/3170777?eventtype=vecherinka | phone | +79199964838 |
 | Кафе Пушкинъ | ресторан | https://cafe-pushkin.ru | phone | +74957390033 |
@@ -13589,7 +15580,10 @@
 | Кафе ТочкаКАФЕ ТОЧКА | лофт | https://www.loft2rent.ru/loft/206054/206100 | phone | 89067116660 |
 | Кафе Утренник. Кафе под закрытие в самом центре Москвы | лофт | https://www.reveltime.ru/venue/7769700?eventtype=vecherinka | phone | +79893636021 |
 | КафеРоза ВЕТРОВ | лофт | https://www.loft2rent.ru/loft/186174/187845 | phone | 89261825584 |
+| Каша | ивент агентство | https://eventcatalog.ru/agency/kasha | phone | +7(846) 207-10-87 |
+| Кашт-сервис | ивент агентство | https://eventcatalog.ru/agency/kasht-servis | phone | +7(38044) 353-44-4 |
 | Квант | лофт | https://www.loft2rent.ru/loft/92780 | phone | +79162981998 |
+| Квартет | ивент агентство | https://eventcatalog.ru/agency/kvartet | phone | +7(495) 258-06-38 |
 | Квартира №9 | лофт | https://www.loft2rent.ru/loft/160743/160745 | phone | +7 993 339-19-39 |
 | Квартира №9Квартира №9 VIP | лофт | https://www.loft2rent.ru/loft/160743/163087 | phone | +7 993 339-19-39 |
 | Кварц | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
@@ -13597,18 +15591,25 @@
 | Квестаун partyLOFT А1 | лофт | https://www.loft2rent.ru/loft/33582/145414 | phone | +7 (916) 107-65-53 |
 | Квестаун partyГолубой лофт | лофт | https://www.loft2rent.ru/loft/33582/73598 | phone | +7 (977) 520-21-27 |
 | Квестаун partyЗеленый лофт | лофт | https://www.loft2rent.ru/loft/33582/45711 | phone | +7 (977) 520-21-27 |
+| КГрупп | ивент агентство | https://eventcatalog.ru/agency/kgrupp | phone | +7(495)233-70-20 |
 | Кедр Зайцево | лофт | https://www.loft2rent.ru/loft/183501/183503 | phone | +7 (495) 274-53-54 |
+| Кекс | ивент агентство | https://eventcatalog.ru/agency/keks | phone | +7(930)353-03-07 |
 | Кенди- милый лофт с диско-шаром, караоке и приставкой! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
 | Кентукки | лофт | https://www.loft2rent.ru/loft/115047 | phone | +73433630042 |
 | КиберКлуб YouPlay (Ты играешь). Клуб компьютерных и консольных игр | лофт | https://www.reveltime.ru/venue/2840766?eventtype=vecherinka | phone | +79676928564 |
 | КиберКлуб Youplay (Юплей). Кибер-лофт с консолями, рулями, VR и ПК | лофт | https://www.reveltime.ru/venue/7591289?eventtype=vecherinka | phone | +79584974228 |
 | КиберКлуб на праздник / КиберКлуб на праздникКибер-Клуб | лофт | https://www.loft2rent.ru/loft/169049/171682 | phone | 89663220805 |
 | Киберпанк | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
+| Кивалл | ивент агентство | https://eventcatalog.ru/agency/kivall | phone | +7(495) 762-36-88 / +7(909) 996-96-96 |
+| КидсПраздник | ивент агентство | https://eventcatalog.ru/agency/kidsprazdnik | phone | +7(495)227-58-55 |
 | КидсТаунЛофт - игровая КидсТаун , детский центр | лофт | https://www.loft2rent.ru/loft/198921/199771 | phone | +79015203025 |
 | Киндер Лофт | лофт | https://www.loft2rent.ru/loft/66611 | phone | +7 (915) 397-54-32 |
+| Киндермакс | ивент агентство | https://eventcatalog.ru/agency/kindermaks | phone | +7(495)229-31-71 / +7(495)722-81-24 |
 | Кинобар на крыше | лофт | https://www.loft2rent.ru/loft/194243 | phone | 89933426897 |
+| КиноЛюбовь | ивент агентство | https://eventcatalog.ru/agency/kinolyubovj | phone | +7(916) 714-32-65 |
 | Киностудия ТвоёКино | лофт | https://www.loft2rent.ru/loft/9768/44321 | phone | +7 (499) 113-10-95 |
 | Киото. Светлый зал с кухней | лофт | https://www.reveltime.ru/venue/9157812?eventtype=vecherinka | phone | +79910172413 |
+| КировПраздник | ивент агентство | https://eventcatalog.ru/agency/kirovprazdnik | phone | +7(8332)42-62-11 / +7(953)670-53-81 |
 | Китай | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Китайский Летчик Джао ДаГостиная Лётчика | лофт | https://www.loft2rent.ru/loft/205810/206021 | phone | +74956245611 |
 | Классик | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
@@ -13635,6 +15636,9 @@
 | Клубная система ОреховоКонцертный зал | лофт | https://www.loft2rent.ru/loft/136619/136621 | phone | +74956824222 доб. 3751,3754 |
 | Клубный лофт ЮМЕЙКЕР на Красном октябре | лофт | https://www.loft2rent.ru/loft/183656 | phone | +79770002153 |
 | Клуэдо | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Клюква | ивент агентство | https://eventcatalog.ru/agency/klyukva | phone | +7(495) 933-21-13 / +7(495) 543-34-22 |
+| КнязевЪ | ивент агентство | https://eventcatalog.ru/agency/knyazev | phone | +7(495) 739-29-93 |
+| Князевъ Спб | ивент агентство | https://eventcatalog.ru/agency/knyazev_spb | phone | +7(812) 309-27-31 / +7(921) 784-57-23 |
 | Коворкинг RIDGE | лофт | https://www.loft2rent.ru/loft/95630/95649 | phone | 89213609300 |
 | Коворкинг Smart Yard2-х этажный лофт вместимость до 30 человек | лофт | https://www.loft2rent.ru/loft/57408/201262 | phone | +7 9645136167 |
 | Коворкинг Smart YardКоворкинг Практик | лофт | https://www.loft2rent.ru/loft/57408/57410 | phone | +7 9645136167 |
@@ -13645,7 +15649,15 @@
 | Коворкинг-Центр "Fабрика"Коворкинг-Центр | лофт | https://www.loft2rent.ru/loft/109232/109234 | phone | +7 926 133-11-91 |
 | Коворкинг-центр Люди Учат | лофт | https://www.loft2rent.ru/loft/199953/202140 | phone | +7 985 340 8131 |
 | Койот Бар ГадкийБар Гадкий Койот | лофт | https://www.loft2rent.ru/loft/184693/184696 | phone | +79063269129 |
+| Колесница судеб | ивент агентство | https://eventcatalog.ru/agency/kolesnica_sudeb | phone | +7(900)212-99-77 / +7(912)241-59-27 |
+| Колесо | ивент агентство | https://eventcatalog.ru/agency/koleso | phone | +7(495) 795-88-60 |
+| Колибри | ивент агентство | https://eventcatalog.ru/agency/kolibri | phone | +7(495) 763-21-46 |
+| Колизей Моделс | ивент агентство | https://eventcatalog.ru/agency/kolizey_models | phone | +380(93)660-95-55 |
 | Колизей холл | лофт | https://www.loft2rent.ru/loft/207950/207952 | phone | 84955183030 |
+| Колор Дэй | ивент агентство | https://eventcatalog.ru/agency/kolor_dey | phone | +7(495) 506-91-68 / +7(495) 506-91-43 |
+| Команданте | ивент агентство | https://eventcatalog.ru/agency/komandante | phone | +7(495)765-69-05 / +7(901)795-48-43 |
+| Комильфо | ивент агентство | https://eventcatalog.ru/agency/komiljfo-1 | phone | +7(097)931-91-18 |
+| Комильфо _ | ивент агентство | https://eventcatalog.ru/agency/komiljfo | phone | +7(495) 930-30-20 / +7(495) 749-79-41 |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | email | club@kommersant.ru |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | email | conference@kommersant.ru |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | email | info@kommersant.fm |
@@ -13673,10 +15685,13 @@
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | social | https://rutube.ru/channel/23923011 |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | social | https://t.me/kommersant |
 | Коммерсантъ | издательский дом | https://www.kommersant.ru | social | https://vk.com/widget_community.php?act=a_subscribe_box&oid=-23482909&state=1 |
+| Коммуникационная группа А.М. | ивент агентство | https://eventcatalog.ru/agency/kommunikacionnaya_gruppa_a_m | phone | +7(495)956-31-16 |
 | Компас зал 120 Quattro Space | лофт | https://www.loft2rent.ru/loft/120842 | phone | +7 (499) 444-19-08 |
+| Кому Артист | ивент агентство | https://eventcatalog.ru/agency/komu_artist | phone | +7(925)477-17-00 |
 | Комфортный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Комфортный лофт | лофт | https://www.reveltime.ru/venue/6930239?eventtype=vecherinka | phone | +79584973975 |
 | Комфортный, стильный, просторный лофт «BRONZA»  в центре Москвы, 10 мин. от метро | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
+| Конгресс Визит Бюро Сочи | ивент агентство | https://eventcatalog.ru/agency/kongress_vizit_byuro_sochi | phone | +7(925)999-28-23 / +7(988)231-96-14 |
 | Конгресс-КейтерингЛофт "Серый" | лофт | https://www.loft2rent.ru/loft/197027/197029 | phone | +79031609009 |
 | Консерватория им. Чайковского | музыкальный вуз | https://www.mosconsv.ru | email | document@mosconsv.ru |
 | Консерватория им. Чайковского | музыкальный вуз | https://www.mosconsv.ru | social | https://rutube.ru/channel/6037893 |
@@ -13685,6 +15700,8 @@
 | Консерватория им. Чайковского | музыкальный вуз | https://www.mosconsv.ru | social | https://vk.com/concerts_mgk |
 | Консерватория им. Чайковского | музыкальный вуз | https://www.mosconsv.ru | social | https://vk.com/mosconsv |
 | Консерватория им. Чайковского | музыкальный вуз | https://www.mosconsv.ru | social | https://www.youtube.com/user/MoscowConservatory |
+| Конструктор Праздника | ивент агентство | https://eventcatalog.ru/agency/konstruktor_prazdnika | phone | +7(926) 133-06-63 |
+| Контора Ангелов | ивент агентство | https://eventcatalog.ru/agency/kontora_angelov | phone | +7(495)771-57-51 |
 | Контраст лофтКонтраст лофт  / Контраст лофт | лофт | https://www.loft2rent.ru/loft/128824/128826 | phone | 8-953-343-82-00 |
 | Конференц зал | лофт | https://www.loft2rent.ru/loft/150682 | phone | +7 (812) 441-29-42 |
 | Конференц-зал | лофт | https://www.loft2rent.ru/loft/99859 | phone | + 9313784778 |
@@ -13698,7 +15715,9 @@
 | Конференц-зал и Лофт Волга | лофт | https://www.loft2rent.ru/loft/41174/41176 | phone | +79262082079 |
 | Конференц-зал с балконом во Дворце тенниса Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Конференц-зал УСЗ Дружба в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
+| Конфорум | ивент агентство | https://eventcatalog.ru/agency/konforum | phone | +7(985)279-88-26 / +7(931)588-26-36 |
 | Концептуальный лофт/бар на МаросейкеThe Last Bar | лофт | https://www.loft2rent.ru/loft/166332/166334 | phone | 89153422339 |
+| Концерт Сервис | ивент агентство | https://eventcatalog.ru/agency/koncert_servis | phone | +7(495)220-66-11 / +7(919)777-22-50 |
 | Концертная площадка с панорамными окнами | лофт | https://www.reveltime.ru/venue/4104387?eventtype=vecherinka | phone | +79584974206 |
 | Концертно-репетиционный лофт ТРИТОНТритон | лофт | https://www.loft2rent.ru/loft/171022/171024 | phone | +79778333192 |
 | Концертный зал Зарядье | концертный зал | https://zaryadyehall.ru | email | concert@zaryadyehall.ru |
@@ -13733,12 +15752,26 @@
 | Корабль Илона Маска | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Коробок | бар | https://korobokmoscow.ru/ | phone | +74992770007 |
 | Королева. Стильный лофт с караоке и светомузыкой | лофт | https://www.reveltime.ru/venue/6829637?eventtype=vecherinka | phone | +79346692796 |
+| Королевская эпоха | ивент агентство | https://eventcatalog.ru/agency/korolevskaya_epoha | phone | +7(926) 659-34-95 / +7(499) 347-43-53 |
+| Королевский двор | ивент агентство | https://eventcatalog.ru/agency/korolevskiy_dvor | phone | +7(985)380-80-40 |
+| Королевство Улыбок | ивент агентство | https://eventcatalog.ru/agency/korolevstvo_ulybok | phone | +7(929)619-19-55 |
+| Корпоратив | ивент агентство | https://eventcatalog.ru/agency/korporativ | phone | +7(495)777-22-36 |
+| Корпоратив Близко | ивент агентство | https://eventcatalog.ru/agency/korporativ_blizko | phone | +7(499)394-45-30 |
+| Корпоратив.kz | ивент агентство | https://eventcatalog.ru/agency/korporativ_kz | phone | +7(727) 329-65-82 / +7(701) 493-60-59 |
+| Корпоративный театр | ивент агентство | http://www.corporatetheatre.ru | phone | +7(495)108-12-14 |
+| Корпорация Праздников | ивент агентство | https://eventcatalog.ru/agency/korporaciya_prazdnikov | phone | +7(937)225-41-07 |
+| Корпорация праздников Омск | ивент агентство | https://eventcatalog.ru/agency/korporaciya_prazdnikov_omsk | phone | +7(908)800-40-66 / +7(923)766-50-44 |
+| Корпорация событий | ивент агентство | https://eventcatalog.ru/agency/korporaciya_sobytiy | phone | +7(424) 277-32-74 / +7(424) 272-31-50 |
+| Корпорация Событий СПб | ивент агентство | https://eventcatalog.ru/agency/korporaciya_sobytiy_spb | phone | +7(812) 972-03-70 / +7(812) 331-06-90 |
 | Космо Кидс Символ | лофт | https://www.loft2rent.ru/loft/203892/203894 | phone | +79260330440 |
 | Космополитен. Розовый лофт-зал | лофт | https://www.reveltime.ru/venue/4890611?eventtype=vecherinka | phone | +79019397094 |
 | Космос | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Космос | лофт | https://www.loft2rent.ru/loft/125195 | phone | +79990071109 |
 | КОСМОС | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
 | Космос | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
+| Космос | ивент агентство | https://eventcatalog.ru/agency/kosmos | phone | +7(499) 579-90-34 |
+| Кот событий | ивент агентство | https://eventcatalog.ru/agency/kot_sobytiy | phone | +7 (910) 431-84-34 |
+| КотБегемот | ивент агентство | https://eventcatalog.ru/agency/kotbegemot | phone | +7(391) 294-37-96 |
 | Котельная | лофт | https://www.loft2rent.ru/loft/115019 | phone | +7 (926)769-99-90 |
 | кофейня "не плачь, пей кофе" на Красноказарменной | лофт | https://www.loft2rent.ru/loft/157378 | phone | https://t.me/m/cSIjbHo_Zjgy |
 | Кофемания | ресторан | https://coffeemania.ru | phone | +74994951554 |
@@ -13749,13 +15782,22 @@
 | Кошелев-Банк | организация | https://koshelev-bank.ru | social | https://vk.com/kvbank |
 | Коэффициент притяжения. Уютный лофт в центре | лофт | https://www.reveltime.ru/venue/5014234?eventtype=vecherinka | phone | +79774941734 |
 | Коэффициент тепла | лофт | https://www.loft2rent.ru/loft/92780 | phone | +7 993 590-58-84 |
+| Кракатук | ивент агентство | https://eventcatalog.ru/agency/krakatuk | phone | +7(383)286-35-99 / +7(913)007-35-99 |
 | Красивый Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Красивый лофт «BALANCE». Включено -караоке, светомузыка, мебель, PS4.  3 минуты от метро | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
 | Красивый лофт с верандой и грилем MULTIROOM | лофт | https://www.loft2rent.ru/loft/41462 | phone | +79099060421 |
+| Краски | ивент агентство | https://eventcatalog.ru/agency/kraski | phone | +7(347) 257-81-87 / +7(989) 959-99-60 |
 | Красный зал | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
 | Красный Октябрь | арт-кластер / event space | https://redoctober.moscow | phone | +7 (495) 172-68-63 |
 | Красный Октябрь | арт-кластер / event space | https://redoctober.moscow | phone | +7 (495) 280-00-28 |
 | Красный Октябрь | арт-кластер / event space | https://redoctober.moscow | social | https://t.me/redoctober_moscow |
+| Креатив | ивент агентство | https://eventcatalog.ru/agency/kreativ | phone | +7(900)016-68-98 |
+| Креатив Арт Шоу | ивент агентство | https://eventcatalog.ru/agency/kreativ_art_shou | phone | +7(495) 220-30-63 / +7(926) 595-07-55 |
+| Креатив Индустрия | ивент агентство | https://eventcatalog.ru/agency/kreativ_industriya | phone | +7(495) 643-96-70 |
+| Креатив Медиа | ивент агентство | https://eventcatalog.ru/agency/kreativ_media | phone | +7(495) 220-44-24 |
+| Креатив центр | ивент агентство | https://eventcatalog.ru/agency/kreativ_centr | phone | +7(926) 476-00-06 / +7(915) 091-06-31 |
+| Креатив-Бюро Ильюшино | ивент агентство | https://eventcatalog.ru/agency/kreativ-byuro_iljyushino | phone | +7(928) 279-66-69 / +7(863) 246-63-62 |
+| Креативное агентство 495 | ивент агентство | https://eventcatalog.ru/agency/kreativnoe_agentstvo_495 | social | https://eventcatalog.ru/agency/kreativnoe_agentstvo_495 |
 | Креативное пространство Центр дизайн-мышленияКомната для воркшопов | лофт | https://www.loft2rent.ru/loft/108042/108126 | phone | 8 999 333 50 31 |
 | Креативное пространство Центр дизайн-мышленияКомната эмпатии | лофт | https://www.loft2rent.ru/loft/108042/108136 | phone | 8 999 333 50 31 |
 | Креативное пространство Центр дизайн-мышленияКонференц-зал | лофт | https://www.loft2rent.ru/loft/108042/108048 | phone | 8 999 333 50 31 |
@@ -13795,6 +15837,8 @@
 | Кредит Европа Банк | организация | https://crediteurope.ru | phone | +7 (991) 875-77-57 |
 | Кредит Европа Банк | организация | https://crediteurope.ru | social | https://t.me/crediteuropebank_official |
 | Кредит Европа Банк | организация | https://crediteurope.ru | social | https://vk.com/crediteurope |
+| Крем Рекордс | ивент агентство | https://eventcatalog.ru/agency/krem_rekords | phone | +7(495) 788-77-58 / +7(495) 518-52-88 |
+| Кремль | ивент агентство | https://eventcatalog.ru/agency/kremlj | phone | + 7 985 435 22 61 |
 | Кремлёвская Кухня. Кулинарная студия в башне | лофт | https://www.reveltime.ru/venue/2710801?eventtype=vecherinka | phone | +79584630738 |
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | email | bilet@gkdkreml.ru |
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | email | kremlinballet@list.ru |
@@ -13807,15 +15851,18 @@
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | social | https://dzen.ru/kremlinpalace |
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | social | https://t.me/kremlinpalace |
 | Кремлёвский дворец | концертная площадка | https://kremlinpalace.org | social | https://vk.com/kremlinpalace |
+| Крианта | ивент агентство | https://eventcatalog.ru/agency/krianta | phone | +7(499)391-11-10 / +7(925)428-70-53 |
 | Криминальное Чтиво | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Кристалл | лофт | https://www.loft2rent.ru/loft/154278 | phone | 89999798783 |
 | Кристофер. Лофт-пространство | лофт | https://www.reveltime.ru/venue/3276192?eventtype=vecherinka | phone | +79257803535 |
+| Крылья | ивент агентство | https://eventcatalog.ru/agency/kryljya | phone | +7(978)849-77-07 / +7(978)783-50-61 |
 | КРЫМ terrace Moscow | лофт | https://www.loft2rent.ru/loft/189235/189240 | phone | +74953084959 |
 | Крыша Лофт | лофт | https://www.loft2rent.ru/loft/141021 | phone | 8(925)-253-83-93 |
 | Крыша на Красном Октябре | лофт | https://www.loft2rent.ru/loft/208949 | phone | +79955932808 |
 | крыша Руфтоп 921 | лофт | https://www.loft2rent.ru/loft/142489 | phone | +79031164834 Жанна |
 | Куб | лофт | https://www.loft2rent.ru/loft/3318 | phone | +74952080038 |
 | Куб | лофт | https://www.loft2rent.ru/loft/85879 | phone | +79267395955 |
+| Куба | ивент агентство | http://www.kubagroup.ru | phone | +7(342)204-30-14 / +7(342)215-05-40 |
 | Кубань Кредит | организация | https://kk.bank | phone | +7 (800) 555-25-18 |
 | Кубань Кредит | организация | https://kk.bank | social | https://connect.ok.ru/offer?url=https%3A%2F%2Fkk.ru%2Fabout%2Fnews%2Fsobytiya%2Fkuban-kredit-vklyuchen-v-chislo-samykh-nadezhnykh-bankov-rossii%2F&title=%C2%AB%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C%20%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%C2%BB%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%20%D0%B2%20%D1%87%D0%B8%D1%81%D0%BB%D0%BE%20%D1%81%D0%B0%D0%BC%D1%8B%D1%85%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D1%85%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8 |
 | Кубань Кредит | организация | https://kk.bank | social | https://ok.ru/kubankredit |
@@ -13824,7 +15871,13 @@
 | Кубань Кредит | организация | https://kk.bank | social | https://vk.com/kubankredit |
 | Кубань Кредит | организация | https://kk.bank | social | https://vk.com/share.php?act=share_url&url=https%3A%2F%2Fkk.ru%2Fabout%2Fnews%2Fsobytiya%2Fkuban-kredit-vklyuchen-v-chislo-samykh-nadezhnykh-bankov-rossii%2F&title=%C2%AB%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C%20%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%C2%BB%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%20%D0%B2%20%D1%87%D0%B8%D1%81%D0%BB%D0%BE%20%D1%81%D0%B0%D0%BC%D1%8B%D1%85%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D1%85%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8 |
 | Кубань Кредит | организация | https://kk.bank | social | https://wa.me/?text=%C2%AB%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C%20%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%C2%BB%20%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%20%D0%B2%20%D1%87%D0%B8%D1%81%D0%BB%D0%BE%20%D1%81%D0%B0%D0%BC%D1%8B%D1%85%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D1%85%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20https%3A%2F%2Fkk.ru%2Fabout%2Fnews%2Fsobytiya%2Fkuban-kredit-vklyuchen-v-chislo-samykh-nadezhnykh-bankov-rossii%2F |
+| КубаньЭкспо | ивент агентство | https://eventcatalog.ru/agency/kubanjekspo | phone | +7(861) 274-22-73 / +7(861) 274-22-70 |
+| Кубинский гость | ивент агентство | https://eventcatalog.ru/agency/kubinskiy_gostj | phone | +7(812) 702-56-86 / +7(921) 936-66-78 |
 | Кудри и ЦветыКудри и цветы | лофт | https://www.loft2rent.ru/loft/123968/123970 | phone | 89231230911 |
+| Кудрявцев Друг | ивент агентство | https://eventcatalog.ru/agency/kudryavcev_drug | phone | +7(925) 506-29-61 / +7(901) 545-45-35 |
+| Кудрявцев друг | ивент агентство | https://eventcatalog.ru/agency/kudryavcev_drug-1 | phone | +78(495)363-42-23 / +78(901)545-45-35 |
+| Кузня Миров | ивент агентство | https://eventcatalog.ru/agency/kuznya_mirov | phone | +7(921)347-70-11 / +7(911)033-20-28 |
+| Кузьменков и Партнеры | ивент агентство | https://eventcatalog.ru/agency/kuzjmenkov_i_partnery | phone | +7(499)579-80-95 |
 | КукLabаудитория 2 | лофт | https://www.loft2rent.ru/loft/100104/100279 | phone | +7 (985) 920 05 25 |
 | КукLabАудитория №3 | лофт | https://www.loft2rent.ru/loft/100104/100136 | phone | +7 (985) 920 05 25 |
 | КукLabбольшая мастерская | лофт | https://www.loft2rent.ru/loft/100104/100455 | phone | +7 (985) 920 05 25 |
@@ -13833,14 +15886,17 @@
 | КукLabЛаб1 Аэропорт | лофт | https://www.loft2rent.ru/loft/100104/149640 | phone | +7 (985) 920 05 25 |
 | КукLabмалая мастерская смоленская | лофт | https://www.loft2rent.ru/loft/100104/100448 | phone | +7 (985) 920 05 25 |
 | КукLabСмоленская Зал | лофт | https://www.loft2rent.ru/loft/100104/102886 | phone | +7 (985) 920 05 25 |
+| Кукарача | ивент агентство | https://eventcatalog.ru/agency/kukaracha | phone | +7(965)767-59-17 / +7(953)159-75-92 |
 | Кулинарная студия | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
 | Кулинарная Студия Clever | лофт | https://www.loft2rent.ru/loft/5834/26847 | phone | +(495) 191-33-45 |
+| Кулинарная Студия Clever | ивент агентство | https://eventcatalog.ru/agency/kulinarnaya_studiya_clever | phone | +7(495)278-02-20 |
 | Кулинарная студия Кремлевская Кухня | лофт | https://www.loft2rent.ru/loft/21195/26729 | phone | +79777719201 |
 | Кулинарная студия Лофт 17 | лофт | https://www.loft2rent.ru/loft/150535/150539 | phone | +7 (917) 517-97-77 |
 | Кулинарная студия Юлии ВысоцкойСтудия на Молодежной | лофт | https://www.loft2rent.ru/loft/197591/197597 | phone | +7 (495) 021 63 65 |
 | Кулинарная студия Юлии ВысоцкойСтудия на Молодежной (малая) | лофт | https://www.loft2rent.ru/loft/197591/197607 | phone | +7 (495) 021 63 65 |
 | Кулинарная студия/ЛОФТ | лофт | https://www.loft2rent.ru/loft/117304/117860 | phone | +79104444951 |
 | Кулинарная Школа Чили ШоколадЗал Лофт | лофт | https://www.loft2rent.ru/loft/174665/174690 | phone | +79854215571 |
+| Культпросвет | ивент агентство | https://eventcatalog.ru/agency/kuljtprosvet | phone | +7(347) 292-98-78 / +7(347) 292-32-69 |
 | Культура | лофт | https://www.loft2rent.ru/loft/203539/203547 | phone | +79161474724 |
 | Культурный Центр "Строгино"Концертный зал и другие помещения | лофт | https://www.loft2rent.ru/loft/77854/77856 | phone | +7(495)198-65-36 |
 | Культурный центр СемимостьеЗал 95м | лофт | https://www.loft2rent.ru/loft/85818/85823 | phone | +79214220213 |
@@ -13860,23 +15916,46 @@
 | Кусково | ивент-спейс | https://kuskovo.ru | social | https://youtube.com/channel/UC8H0LdocE6jIWqpWCw5g2YA |
 | Кусь | лофт | https://www.loft2rent.ru/loft/128814/129168 | phone | +7 (977) 341-85-39 |
 | КУТУЗОВ ЛОФТ (ex ПОРТАЛ) | лофт | https://www.loft2rent.ru/loft/28030 | phone | +7 (495) 798-51-81 |
+| Кухня | ивент агентство | https://eventcatalog.ru/agency/kuhnya | phone | +7(962)686-92-55 |
+| Л.И.С. | ивент агентство | https://eventcatalog.ru/agency/l_i_s | phone | +7(916) 186-20-80 / +7(800) 775-13-97 |
+| Ла Ви | ивент агентство | https://eventcatalog.ru/agency/la_vi | phone | +7(495) 797-17-61 / +7(985) 969-24-32 |
 | Лаборатория | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
+| Лаборатория 316 | ивент агентство | https://eventcatalog.ru/agency/laboratoriya_316 | phone | +7(495)137-73-11 / +7(968)858-37-25 |
+| Лаборатория Art Field | ивент агентство | https://eventcatalog.ru/agency/laboratoriya_art_field | phone | +7(495) 772-05-47 |
+| Лаборатория идей Киры Пяткиной | ивент агентство | https://eventcatalog.ru/agency/laboratoriya_idey_kiry_pyatkinoy | phone | +7(903)268-44-77 / +7(926)464-81-23 |
+| Лаборатория Механик | ивент агентство | https://eventcatalog.ru/agency/laboratoriya_mehanik | phone | +7(915)230-36-08 |
+| Лаборатория музыки | ивент агентство | https://eventcatalog.ru/agency/laboratoriya_muzyki | phone | +7(937)201-21-01 / +7(986)958-32-57 |
+| Лавка Чудес | ивент агентство | https://eventcatalog.ru/agency/lavka_chudes | phone | +7(925)585-70-33 |
+| Лавстория | ивент агентство | https://eventcatalog.ru/agency/lavstoriya | phone | +7(913)417-91-63 / +7(951)591-76-80 |
+| Ладья | ивент агентство | https://eventcatalog.ru/agency/ladjya | phone | +7(915)152-41-24 |
+| Лазертаг Клуб | ивент агентство | https://eventcatalog.ru/agency/lazertag_klub | phone | +7(499)390-94-24 / +7(926)916-04-59 |
+| ЛаймЭвент | ивент агентство | https://eventcatalog.ru/agency/laymevent | phone | +7(911)922-55-01 / +7(951)653-57-53 |
 | Лампа лофт | лофт | https://www.reveltime.ru/venue/6185676?eventtype=vecherinka | phone | +79252118822 |
+| ЛарАн | ивент агентство | https://eventcatalog.ru/agency/laran | phone | +7(903)587-87-79 |
 | Лас-Вегас | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | ЛАСТОЧКА | лофт | https://www.loft2rent.ru/loft/90945 | phone | +7 (495) 765-11-01 |
 | Лаундж-бар на Трифоновской | лофт | https://www.loft2rent.ru/loft/121243 | phone | +7 926 824-43-18 |
 | Лаундж-пространство с кафе для детских мероприятий | лофт | https://www.reveltime.ru/venue/3639863?eventtype=vecherinka | phone | +79629959666 |
 | Лаунж-бар в тропическом стиле | лофт | https://www.reveltime.ru/venue/4036529?eventtype=vecherinka | phone | +79584974160 |
+| Левиафан | ивент агентство | https://eventcatalog.ru/agency/leviafan | phone | +7(995)890-75-50 / +7(929)106-73-87 |
+| Левый берег | ивент агентство | https://eventcatalog.ru/agency/levyy_bereg-1 | phone | +7(391) 2-963-981 |
+| Левый берег _ | ивент агентство | https://eventcatalog.ru/agency/levyy_bereg | phone | +7(391) 296-92-92 |
 | Легендарный отель Советский | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467335/sovetsky_historical_hotel | address | Ленинградский проспект, д.32/2, Москва |
 | Легион \ | Крылатское. Пространство праздников и активных развлечений. | лофт | https://www.loft2rent.ru/loft/182884 | phone |
+| Легко | ивент агентство | https://eventcatalog.ru/agency/legko | phone | +7(963)344-44-49 / +7(904)512-46-18 |
 | Легпромпарк Экспо | лофт | https://www.loft2rent.ru/loft/207134/207137 | phone | +79166521012 |
 | Лекторий | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
 | Лекторий 1 | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
+| ЛенАрт | ивент агентство | https://eventcatalog.ru/agency/lenart | phone | +7(812)925-25-20 / +7(812)925-25-94 |
+| ЛенКонцерт | ивент агентство | https://eventcatalog.ru/agency/lenkoncert | phone | +7(812) 703-18-87 |
 | ЛЕНЬ.ЛЕНЬ. | лофт | https://www.loft2rent.ru/loft/76940/76973 | phone | +79055296305 |
 | Лео Лофт Мск | лофт | https://www.loft2rent.ru/loft/100917/104078 | phone | 89670066399 |
 | Лео Лофт МскДинамика | лофт | https://www.loft2rent.ru/loft/100917/166494 | phone | 89850033387 |
+| Леонкавалло | ивент агентство | https://eventcatalog.ru/agency/leonkavallo | phone | +7(812) 323-23-21 |
 | Лес. Театральный лофт с верандой, сценой и вторым ярусом | лофт | https://www.reveltime.ru/venue/6650714?eventtype=vecherinka | phone | +79586097164 |
 | ЛЕСТеатральный лофт «ЛЕС» | лофт | https://www.loft2rent.ru/loft/52135/52137 | phone | +79999780977 |
+| Лестница | ивент агентство | https://eventcatalog.ru/agency/lestnica | phone | +7(495) 509-22-83 |
+| Летим | ивент агентство | https://leteam.moscow | phone | +7(499)302-01-19 |
 | Летний шатер Тиффани | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Летняя веранда ПригорокБелоснежный шатер | лофт | https://www.loft2rent.ru/loft/171193/172264 | phone | 9099093669 |
 | Летняя веранда ПригорокВеранда у пруда | лофт | https://www.loft2rent.ru/loft/171193/171368 | phone | 89099093669 |
@@ -13918,6 +15997,12 @@
 | Лефортово | ивент-спейс | https://mosmuseum.ru | social | https://vk.com/sadovoe_koltso_museum |
 | Лефортово | ивент-спейс | https://mosmuseum.ru | social | https://vk.com/zelmuseum |
 | Лефортово | ивент-спейс | https://mosmuseum.ru | social | ttps://t.me/gilyarovsky_center |
+| Лига событий | ивент агентство | https://eventcatalog.ru/agency/liga_sobytiy | phone | +7(495) 988-44-56 |
+| Лигал Энтертеймент Лайсенз | ивент агентство | https://eventcatalog.ru/agency/ligal_enterteyment_laysenz | phone | +7(495)661-61-89 |
+| Лимонад | ивент агентство | https://eventcatalog.ru/agency/limonad | phone | +7(916)718-05-70 |
+| Лимонад Харьков | ивент агентство | https://eventcatalog.ru/agency/limonad_harjkov | phone | +7(095) 188-71-50 / +7(093) 143-83-18 |
+| Линкор | ивент агентство | https://eventcatalog.ru/agency/linkor | phone | +7(903)799-28-50 |
+| Лира | ивент агентство | https://eventcatalog.ru/agency/lira | phone | +7(499)272-40-54 |
 | Литературная гостиная | лофт | https://www.loft2rent.ru/loft/110170 | phone | +79213544851 |
 | личноПоддворье | лофт | https://www.loft2rent.ru/loft/193047/193058 | phone | 89269818713 |
 | Ловушка. Яркая лофт-комната для мероприятий | лофт | https://www.reveltime.ru/venue/7493732?eventtype=vecherinka | phone | +79584973975 |
@@ -14487,11 +16572,17 @@
 | Луна | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | ЛУНА | лофт | https://www.loft2rent.ru/loft/185740 | phone | +79500081238 |
 | Луна 2077 | лофт | https://www.loft2rent.ru/loft/158576/158607 | phone | +79031078595 |
+| Лунный Свет | ивент агентство | https://eventcatalog.ru/agency/lunnyy_svet | phone | +7(812) 528-54-03 / +7(952) 399-91-13 |
+| Лусинэ Вартанова | ивент агентство | https://eventcatalog.ru/agency/lusine_vartanova | phone | +7(863)261-56-96 / +7(918)505-95-50 |
+| Лучшее | ивент агентство | https://eventcatalog.ru/agency/luchshee | phone | +7(981)919-20-18 / +7(921)654-57-31 |
+| Лучшее Время | ивент агентство | https://eventcatalog.ru/agency/luchshee_vremya | phone | +7(495) 741-92-93 |
 | Любовь | лофт | https://www.loft2rent.ru/loft/101001 | phone | +7 916 440 01 30 |
 | Люди ГородаЗал с Проектором. Зал Бруклин. | лофт | https://www.loft2rent.ru/loft/9937/65895 | phone | +7 (977) 4767984 |
 | Люди ГородаЗал с проектором. Зал Мельбурн | лофт | https://www.loft2rent.ru/loft/9937/128024 | phone | +7 (977) 4767984 |
 | Люди ГородаКабинет Психолога. Зал Мали | лофт | https://www.loft2rent.ru/loft/9937/65887 | phone | +7 (977) 4767984 |
 | Люди ГородаКабинет Психолога. Зал Ницца | лофт | https://www.loft2rent.ru/loft/9937/74200 | phone | +7 (977) 4767984 |
+| Люди и события | ивент агентство | https://eventcatalog.ru/agency/lyudi_i_sobytiya | phone | +7(495)795-11-36 / +7(903)795-11-36 |
+| Люди и события ивент | ивент агентство | https://eventcatalog.ru/agency/lyudi_i_sobytiya_ivent | phone | +7(495)144-14-25 |
 | Люкс апартаменты Москва-СитиThe Cloud Room №1 | лофт | https://www.loft2rent.ru/loft/174655/174659 | phone | +7(995) 557-39-68 |
 | Люкс апартаменты Москва-СитиThe Cloud Room №2 | лофт | https://www.loft2rent.ru/loft/174655/174671 | phone | +7(995) 557-39-68 |
 | Люкс апартаменты Москва-СитиThe Cloud Room №3 | лофт | https://www.loft2rent.ru/loft/174655/174674 | phone | +7(995) 557-39-68 |
@@ -14502,10 +16593,15 @@
 | Люмьер. Кинолофт с выходом на крышу | лофт | https://www.reveltime.ru/venue/5339840?eventtype=vecherinka | phone | +79676928674 |
 | Ля МузонКонцертный зал | лофт | https://www.loft2rent.ru/loft/186547/186554 | phone | +79857662030 |
 | Ля МузонХрустальный зал | лофт | https://www.loft2rent.ru/loft/186547/186549 | phone | +79857662030 |
+| Ля-Мур | ивент агентство | https://eventcatalog.ru/agency/lya-mur | phone | +7(918)860-90-37 |
 | ЛЁГКИЙ | лофт | https://www.loft2rent.ru/loft/15054 | phone | +79035558942 |
+| МiceLink | ивент агентство | https://eventcatalog.ru/agency/micelink | phone | +7(495) 509-28-61 |
+| Магнит | ивент агентство | https://eventcatalog.ru/agency/magnit | phone | +7(3842) 33-43-44 / +7(3842) 36-70-36 |
 | Магритт - Светлый лофт с настроением лета и большим арочным окном | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Мадам Кураж | ивент агентство | https://eventcatalog.ru/agency/madam_kurazh | phone | +7(495) 740-53-33 |
 | Майами | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Майами-Бич | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Майер | ивент агентство | https://eventcatalog.ru/agency/mayer | phone | +7(926) 539-23-27 |
 | Макет Москвы (ВДНХ) | ивент-спейс | https://maketmoskvy.ru | email | 1-square@2x.jpg |
 | Макет Москвы (ВДНХ) | ивент-спейс | https://maketmoskvy.ru | email | 1-square@3x.jpg |
 | Макет Москвы (ВДНХ) | ивент-спейс | https://maketmoskvy.ru | email | 1@2x.jpg |
@@ -14542,36 +16638,85 @@
 | Макет Москвы (ВДНХ) | ивент-спейс | https://maketmoskvy.ru | email | videoscreen@3x.jpg |
 | Макет Москвы (ВДНХ) | ивент-спейс | https://maketmoskvy.ru | phone | +7 (925) 237-37-28 |
 | Макет Москвы (ВДНХ) | ивент-спейс | https://maketmoskvy.ru | phone | +7 (925) 237-37-29 |
+| Макро ивент | ивент агентство | https://eventcatalog.ru/agency/makro_ivent | phone | +7(495) 504-22-09 |
+| Макс Шоу | ивент агентство | https://eventcatalog.ru/agency/maks_shou | phone | +7(495) 926-05-55 / +7(916) 150-54-43 |
 | МАКСВЕЛЛ | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
+| Максимум | ивент агентство | https://eventcatalog.ru/agency/maksimum | phone | +7(495) 797-11-13 |
+| Максимус | ивент агентство | https://eventcatalog.ru/agency/maksimus | phone | +7(495) 978-23-88 |
+| МаксРелакс | ивент агентство | https://eventcatalog.ru/agency/maksrelaks | phone | +7(495) 229-31-71 |
+| Малако | ивент агентство | https://eventcatalog.ru/agency/malako | phone | +7(812) 921-23-48 |
 | Малая Арена | лофт | https://www.loft2rent.ru/loft/129061 | phone | +7(916)838-31-34 |
 | Малевич - Уютный лофт в стиле супрематизм | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Малина | ивент агентство | https://eventcatalog.ru/agency/malina | phone | +7(918) 098-87-77 / +7(861) 259-56-09 |
 | Малый зал | лофт | https://www.loft2rent.ru/loft/142338 | phone | +7 (812) 240-78-80 |
 | МАЛЫЙ ЗАЛ | лофт | https://www.loft2rent.ru/loft/36344 | phone | +74956003606 |
 | Малый зал на Балтийской | лофт | https://www.loft2rent.ru/loft/144088 | phone | +78122408585 |
 | Малый Тронный Зал | лофт | https://www.loft2rent.ru/loft/81543 | phone | +7 (952) 373-58-70 |
+| Мамантёнок | ивент агентство | https://eventcatalog.ru/agency/mamantenok | phone | +7(925)894-64-31 |
+| Мандарин | ивент агентство | https://eventcatalog.ru/agency/mandarin | phone | +7(38056) 790-10-9 / +7(38067) 563-85-5 |
 | Мансарда | лофт | https://www.loft2rent.ru/loft/110170 | phone | +79213544851 |
 | Мансарда | лофт | https://www.loft2rent.ru/loft/94725 | phone | +79274923932 |
 | Мансардный лофт | лофт | https://www.reveltime.ru/venue/804143?eventtype=vecherinka | phone | +74991112578 |
+| Мануфактура | ивент агентство | https://eventcatalog.ru/agency/manufaktura | phone | +7(903)110-80-27 / +7(495)646-85-23 |
 | Манхэттен | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| МАО | ивент агентство | https://eventcatalog.ru/agency/mao | phone | +7(499) 253-49-01 / +7(916) 280-42-40 |
+| Марабу | ивент агентство | https://eventcatalog.ru/agency/marabu | phone | +7(931) 295-52-53 |
+| Марианна | ивент агентство | https://eventcatalog.ru/agency/marianna | phone | +7(495) 778-51-47 / +7(916) 393-23-07 |
+| Марина Румянцева | ивент агентство | https://eventcatalog.ru/agency/marina_rumyanceva | phone | +7(952) 202-20-80 |
+| Маркетинг Арм | ивент агентство | https://eventcatalog.ru/agency/marketing_arm | phone | +7(495)787-57-78 / +7(967)179-95-25 |
+| Маркетинг Сервис | ивент агентство | https://eventcatalog.ru/agency/marketing_servis | phone | +7(345) 260-16-26 |
+| Мармелад | ивент агентство | https://eventcatalog.ru/agency/marmelad | phone | +7(495)249-33-09 |
 | Марокко | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Март | ивент агентство | https://eventcatalog.ru/agency/mart | phone | +7(961)589-22-44 / +7(989)823-95-35 |
+| Мартовский Кот | ивент агентство | https://eventcatalog.ru/agency/martovskiy_kot | phone | +7(920)276-29-61 |
+| Маска | ивент агентство | https://eventcatalog.ru/agency/maska | phone | +7(846) 273-87-54 |
+| Маска33 | ивент агентство | https://eventcatalog.ru/agency/maska33 | phone | +7(904) 034-77-35 |
+| Массовик затейник | ивент агентство | https://eventcatalog.ru/agency/massovik_zateynik | phone | +7(495) 723-03-52 / +7(915) 466-40-97 |
+| Маст | ивент агентство | https://eventcatalog.ru/agency/mast | phone | +84-95-7661-290 |
+| Мастер События | ивент агентство | https://eventcatalog.ru/agency/master_sobytiya | phone | +7(495) 790-98-90 |
+| Мастер Шоу | ивент агентство | https://eventcatalog.ru/agency/master_shou | phone | +7(812) 921-04-70 / +7(921) 755-21-68 |
+| Мастера Настроений | ивент агентство | https://eventcatalog.ru/agency/mastera_nastroeniy | phone | +7(495) 509-66-82 / +7(903) 509-66-82 |
 | МастериумЛофт 230м² \ | Потолки 5м \ | Звук 1000Вт \ | Своя парковка \ | Метро 10 мин |
 | МастериумПереговорка 12 чел \ | 55" ЖК \ | Своя парковка \ | Метро 10 мин | лофт |
+| Мастерская | ивент агентство | https://eventcatalog.ru/agency/masterskaya | phone | +7(495)722-39-86 |
+| Мастерская PRаздников | ивент агентство | https://eventcatalog.ru/agency/masterskaya_prazdnikov | phone | +7(8452) 535-008 / +7(8452) 536-059 |
+| Мастерская Актульных Мероприятий | ивент агентство | https://eventcatalog.ru/agency/masterskaya_aktuljnyh_meropriyatiy | phone | +7(950) 031-46-93 / +7(812) 900-81-18 |
+| Мастерская Креатива | ивент агентство | https://eventcatalog.ru/agency/masterskaya_kreativa | phone | +7(495) 641-53-78 |
+| Мастерская Мгновений Евгении Алтынбаевой | ивент агентство | https://eventcatalog.ru/agency/masterskaya_mgnoveniy_evgenii_altynbaevoy | phone | +7(812) 982-30-57 / +7(981) 812-23-43 |
 | Мастерская на Кулишках | лофт | https://www.reveltime.ru/venue/482584?eventtype=vecherinka | phone | +79651473923 |
 | Мастерская на Кулишках. Атмосферный лофт | лофт | https://www.reveltime.ru/venue/463327?eventtype=vecherinka | phone | +79651473923 |
 | Мастерская на Кулишках. Творческий лофт | лофт | https://www.reveltime.ru/venue/471230?eventtype=vecherinka | phone | +79651473923 |
+| Мастерская праздника | ивент агентство | https://eventcatalog.ru/agency/masterskaya_prazdnika | phone | +7(495) 649-02-99 / +7(903) 610-46-00 |
+| Мастерская праздников Дарьи Сторожевой | ивент агентство | https://eventcatalog.ru/agency/masterskaya_prazdnikov_darji_storozhevoy | phone | +7(495) 643-98-89 / +7(926) 713-80-16 |
+| Мастерская свадеб | ивент агентство | https://eventcatalog.ru/agency/masterskaya_svadeb | phone | +7(4742)39-24-49 |
+| Мастерская Свадеб Сергиев-Посад | ивент агентство | https://eventcatalog.ru/agency/masterskaya_svadeb_sergiev-posad | phone | +7(926)379-69-34 / +7(968)435-68-59 |
+| Мастерская Сказок | ивент агентство | https://eventcatalog.ru/agency/masterskaya_skazok | phone | +7(495) 998-21-17 |
+| Мастерская Событий | ивент агентство | https://eventcatalog.ru/agency/masterskaya_sobytiy | phone | +7(923)293-25-23 |
+| Мастерская чудес _ | ивент агентство | https://eventcatalog.ru/agency/masterskaya_chudes-1 | phone | +7(863) 275-31-56 / +7(904) 448-93-60 |
+| Мастерская Ярких Событий | ивент агентство | https://eventcatalog.ru/agency/masterskaya_yarkih_sobytiy | phone | +7(351) 238-61-20 / +7(351) 233-61-20 |
 | Матрешка | ресторан | https://matryoshka-rest.ru/ | phone | +74950252565 |
+| Матрёшка | ивент агентство | https://eventcatalog.ru/agency/matreshka | phone | +7(916)372-74-82 / +7(964)646-72-56 |
+| Матрёшка Краснодар | ивент агентство | https://eventcatalog.ru/agency/matreshka_krasnodar | phone | +7(952)810-02-56 / +7(918)256-06-69 |
+| Матрёшки | ивент агентство | https://eventcatalog.ru/agency/matreshki | phone | +7(812)600-94-76 / +7(812)953-48-87 |
 | МаякDanceБольшой зал (2 танцкласс) | лофт | https://www.loft2rent.ru/loft/43338/108226 | phone | 89295879151 |
 | МаякDanceМалый зал (4 танцкласс) | лофт | https://www.loft2rent.ru/loft/43338/108512 | phone | 89295879151 |
 | МаякDanceСредний зал (3 танцзал) | лофт | https://www.loft2rent.ru/loft/43338/43340 | phone | 89295879151 |
 | МаякDanceЧерный зал(1 танцкласс) | лофт | https://www.loft2rent.ru/loft/43338/143821 | phone | 89295879151 |
+| Медведь | ивент агентство | http://www.medvedband.com | phone | +7(3812)63-53-93 / +7(913)644-84-02 |
+| Медиа Группа М8 | ивент агентство | https://eventcatalog.ru/agency/media_gruppa_m8 | phone | +7(965) 468-44-44 / +7(928) 446-90-20 |
 | Медицинское Частное учреждение Дополнительного Профессионального Образования «Нефросовет» | организация | https://nefrosovet.ru | email | info@nefrosovet.ru |
 | Медицинское Частное учреждение Дополнительного Профессионального Образования «Нефросовет» | организация | https://nefrosovet.ru | social | https://ok.ru/nefrosovet |
 | Медицинское Частное учреждение Дополнительного Профессионального Образования «Нефросовет» | организация | https://nefrosovet.ru | social | https://vk.com/club175750255 |
 | Медицинское Частное учреждение Дополнительного Профессионального Образования «Нефросовет» | организация | https://nefrosovet.ru | social | https://www.youtube.com/channel/UCpOs98C32mrYaXpr7lyDYEA |
+| Медор | ивент агентство | https://eventcatalog.ru/agency/medor | phone | +7(495)933-97-32 |
 | Международная Школа | лофт | https://www.loft2rent.ru/loft/189553/189558 | phone | 89037358355 |
 | Межпространственная лаборатория | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Мексика | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Мелодия праздника | ивент агентство | https://eventcatalog.ru/agency/melodiya_prazdnika | phone | +7(812) 923-51-31 / +7(812) 923-51-91 |
 | МелОк Лофт | лофт | https://www.loft2rent.ru/loft/120045/120947 | phone | +7 936 313 1606 |
+| Мелофон | ивент агентство | https://eventcatalog.ru/agency/melofon | phone | +7(495)772-55-05 / +7(495)988-20-10 |
+| Мельба | ивент агентство | https://eventcatalog.ru/agency/meljba | phone | +7(906)058-63-07 / +7(915)196-99-46 |
+| Мельница | ивент агентство | https://eventcatalog.ru/agency/meljnica | phone | +7(495) 649-45-48 / +7(495) 380-36-31 |
 | Мемори - танцевальный лофт с караоке, большим экраном, фотозоной с неоном и сценой! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
 | Мемори лофт. Versailles (Версаль). Элегантный лофт | лофт | https://www.reveltime.ru/venue/8307065?eventtype=vecherinka | phone | +79346608162 |
 | Мемори лофт. Гэтсби. Стильный тематический лофт в черно-золотых цветах | лофт | https://www.reveltime.ru/venue/6560186?eventtype=vecherinka | phone | +79019397085 |
@@ -14585,6 +16730,10 @@
 | Мемори лофт. Токио. Лофт в японском стиле с модным дизайном | лофт | https://www.reveltime.ru/venue/6560415?eventtype=vecherinka | phone | +79019397094 |
 | Мемори лофт. Хэппи. Светлый лофт | лофт | https://www.reveltime.ru/venue/6560202?eventtype=vecherinka | phone | +79019397085 |
 | Мемфис - дизайнерский лофт с отдельной кухней и отдельным входом в ЦАО | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Менеджмент Инноваций | ивент агентство | https://eventcatalog.ru/agency/menedzhment_innovaciy | phone | +7(495) 765-24-48 |
+| Меридеал | ивент агентство | https://eventcatalog.ru/agency/merideal | phone | +7(499)340-47-08 / +7(499)398-04-96 |
+| Мероприятие.ru | ивент агентство | https://eventcatalog.ru/agency/meropriyatie_ru | phone | +7(495)771-61-87 |
+| Местные | ивент агентство | https://eventcatalog.ru/agency/mestnye | phone | +7(301) 263-21-42 |
 | Место Встречи | лофт | https://www.loft2rent.ru/loft/202376/202378 | phone | 79912822728 |
 | Металлинвестбанк | банк | https://metallinvestbank.ru | email | metib@metib.ru |
 | Металлинвестбанк | банк | https://metallinvestbank.ru | phone | +7 (495) 727-97-97 |
@@ -14595,10 +16744,13 @@
 | Металлинвестбанк | банк | https://metallinvestbank.ru | social | https://ok.ru/group/61067058348176 |
 | Металлинвестбанк | банк | https://metallinvestbank.ru | social | https://t.me/metallinvestbank |
 | Металлинвестбанк | банк | https://metallinvestbank.ru | social | https://vk.com/metibank |
+| Мечты сбываются | ивент агентство | https://eventcatalog.ru/agency/mechty_sbyvayutsya | phone | +7(098) 598-29-29 |
 | Микеланджело - Лофт из белого кирпича с верандой с панорамным остеклением и камином | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | МИКС ЛОФТ | лофт | https://www.loft2rent.ru/loft/126318 | phone | +79117555688 |
 | МИЛК (MILK) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
+| МиллениуМ | ивент агентство | https://eventcatalog.ru/agency/millenium | phone | +7(961)251-75-54 |
 | Милый Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| МиМиДомик | ивент агентство | https://eventcatalog.ru/agency/mimidomik | phone | +7(495)729-68-18 |
 | Мини-лофт с кухней | лофт | https://www.reveltime.ru/venue/539567?eventtype=vecherinka | phone | +79150794620 |
 | Мини-отель "Таёжный"Банкетный зал | лофт | https://www.loft2rent.ru/loft/81868/81870 | phone | 7 495 134 34 64 |
 | Мини-отель "Таёжный"Деревянный Дом | лофт | https://www.loft2rent.ru/loft/81868/162285 | phone | 7 495 134 34 64 |
@@ -14609,9 +16761,18 @@
 | Мини-отель Фонда | отель | https://ostrovok.ru/hotel/russia/moscow/mid6388942/minihotel_fonda | address | улица Угрешская, д. 2, стр. 90, Москва |
 | МиниМания – Детская игровая комнатаМиниМания | лофт | https://www.loft2rent.ru/loft/152329/152369 | phone | +7(917)599-5654 |
 | МиниПати. Уютный лофт для небольшой компании, с караоке, большим экраном, диско-шаром, фотозоной с неоном и мощным звуком | лофт | https://www.reveltime.ru/venue/6829674?eventtype=vecherinka | phone | +79346691548 |
+| МиниПраздник | ивент агентство | https://eventcatalog.ru/agency/miniprazdnik | phone | +7(812) 945-15-94 |
 | Министерство лофт в Столешниковом переулке | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
+| Министерство Событий | ивент агентство | https://eventcatalog.ru/agency/ministerstvo_sobytiy | phone | +7(495) 410-61-90 |
 | МИР концертный зал | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Мир Праздника | ивент агентство | https://eventcatalog.ru/agency/mir_prazdnika | phone | +7(863) 269-85-46 / +7(928) 226-95-40 |
+| Мир праздника! | ивент агентство | https://eventcatalog.ru/agency/mir_prazdnika-1 | phone | +7(863) 262-70-68 / +7(863) 269-85-46 |
+| Мир Праздникоff | ивент агентство | https://eventcatalog.ru/agency/mir_prazdnikoff | phone | +7(918) 476-48-58 / +7(962) 859-49-39 |
+| Мир Событий | ивент агентство | https://eventcatalog.ru/agency/mir_sobytiy | phone | +7(495) 695-83-27 / +7(965) 173-86-07 |
+| Мир Торжеств | ивент агентство | https://eventcatalog.ru/agency/mir_torzhestv | phone | +7(925)391-57-92 |
+| Мир чудес | ивент агентство | https://eventcatalog.ru/agency/mir_chudes | phone | +7(812)984-30-12 |
 | Мира - атмосферный лофт в арт-пространстве с барами и кафе | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
+| Мираж-Медиа | ивент агентство | https://eventcatalog.ru/agency/mirazh-media | phone | +78 (3842) 33-01-61 / +78 (902) 983-01-61 |
 | Мираторг | организация | https://www.miratorg.ru | email | a.s.anciferov@agrohold.ru |
 | Мираторг | организация | https://www.miratorg.ru | email | d.trifonov@agrohold.ru |
 | Мираторг | организация | https://www.miratorg.ru | email | export@agrohold.ru |
@@ -14641,6 +16802,10 @@
 | Мираторг | организация | https://www.miratorg.ru | social | https://vk.com/miratorgru |
 | Мираторг | организация | https://www.miratorg.ru | social | https://www.youtube.com/c/MiratorgChannel |
 | МираХолл - площадка для любых мероприятий. | лофт | https://www.loft2rent.ru/loft/187684 | phone | 74951207719 |
+| МирОн-Праздник | ивент агентство | https://eventcatalog.ru/agency/miron-prazdnik | phone | +7(495) 670-90-64 / +7(495) 968-67-96 |
+| Мистер и миссис Шмидт | ивент агентство | https://eventcatalog.ru/agency/mister_i_missis_shmidt | phone | +7(815) 275-00-64 |
+| Мистер Праздник | ивент агентство | https://eventcatalog.ru/agency/mister_prazdnik | phone | +7(926)588-00-44 / +7(495)749-96-77 |
+| Мистерия Звука Украина | ивент агентство | https://eventcatalog.ru/agency/misteriya_zvuka_ukraina | phone | +7(050) 331-27-77 / +7(093) 426-06-34 |
 | Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | email |
 | Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | email |
 | Михайлов и Партнёры | PR-агентство | https://www.m-p.ru | email | hello@m-p.ru |
@@ -14677,6 +16842,8 @@
 | ММОМА (Московский музей современного искусства) | ивент-спейс | https://mmoma.ru | social | https://vk.com/mmoma_art |
 | Модильяни - Просторный светлый лофт с камином | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | МодникиБар Модники | лофт | https://www.loft2rent.ru/loft/119050/119662 | phone | +7 (915) 134-33-39 |
+| Мозгва | ивент агентство | https://eventcatalog.ru/agency/mozgva | phone | +7(495)211-42-42 / +7(977)148-90-60 |
+| МозгоИгры Квизиум | ивент агентство | https://eventcatalog.ru/agency/mozgoigry_kvizium | phone | +7(916)172-21-97 |
 | Молодежное пространствоЛофт Молодежное пространстов | лофт | https://www.loft2rent.ru/loft/198256/202532 | phone | 89268153040 |
 | Момент. Просторный светлый зал со сценой, светомузыкой и караоке | лофт | https://www.reveltime.ru/venue/8465977?eventtype=vecherinka | phone | +79584974215 |
 | Мондриан | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
@@ -14684,9 +16851,13 @@
 | Монмартр - 3-х этажный особняк | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | Монолит Холл | лофт | https://www.loft2rent.ru/loft/184686/184688 | phone | +79775068120 |
 | Монте Карло | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Море Радости | ивент агентство | https://eventcatalog.ru/agency/more_radosti | phone | +7(495)765-17-97 / +7(985)411-54-08 |
+| МореШоу | ивент агентство | https://eventcatalog.ru/agency/moreshou | phone | +7 (495) 799-01-47 / +7 (903) 799-01-47 |
+| Мориссот | ивент агентство | https://eventcatalog.ru/agency/morissot | phone | +7(925)506-01-49 |
 | Морская Площадь | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | Морская симфония | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Мос лофт | лофт | https://www.loft2rent.ru/loft/79730/80145 | phone | 89661116114 |
+| Мосгорпраздник | ивент агентство | https://eventcatalog.ru/agency/mosgorprazdnik | phone | +7(495)749-67-77 |
 | Москва-Сити апартаментыМосква-Сити | лофт | https://www.loft2rent.ru/loft/175285/175291 | phone | 79111886754 |
 | Москва-Сити апартаментыПремиум апартаменты Москва-Сити | лофт | https://www.loft2rent.ru/loft/175285/175299 | phone | 79111886754 |
 | Москва-Сити апартаментыПремиум апартаменты Москва-Сити | лофт | https://www.loft2rent.ru/loft/175285/175321 | phone | 79111886754 |
@@ -14713,18 +16884,25 @@
 | Московская биржа | биржа | https://www.moex.com | social | https://t.me/MoscowExchangeOfficial |
 | Московская биржа | биржа | https://www.moex.com | social | https://t.me/repo_moex |
 | Московская биржа | биржа | https://www.moex.com | social | https://vk.com/moscow_exchange |
+| Московская корпорация услуг | ивент агентство | http://moscorus.rosfirm.ru | phone | +7(963)638-23-68 / +7(909)650-54-00 |
+| Московский бал | ивент агентство | https://eventcatalog.ru/agency/moskovskiy_bal | phone | +7(915)296-05-23 / +7(499)391-97-74 |
+| Московский Банкетный Флот | ивент агентство | https://eventcatalog.ru/agency/moskovskiy_banketnyy_flot | phone | +7(495) 744-00-06 |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | phone | +7 (495) 221-76-90 |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://dzen.ru/planetarium_moscow |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://ok.ru/group/68812454953013 |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://t.me/planetarium_mos |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://vk.com/planetarium_mos |
 | Московский планетарий | музей / планетарий | https://www.planetarium-moscow.ru | social | https://www.youtube.com/user/mosplanetarium |
+| Московский Союз Концертных Деятелей | ивент агентство | https://eventcatalog.ru/agency/moskovskiy_soyuz_koncertnyh_deyateley | phone | +7(903) 172-77-20 / +7(925) 589-80-14 |
+| Московское Городское Бюро Путешествий | ивент агентство | https://eventcatalog.ru/agency/moskovskoe_gorodskoe_byuro_puteshestviy | phone | +7(495)502-11-33 / +7(495)502-11-31 |
 | Москоу Кантри Клаб | отель | https://ostrovok.ru/hotel/russia/moscow/mid7807955/moscow_country_club_8 | address | Московская область, Красногорский район, Нахабино |
+| Мост Ивент | ивент агентство | https://eventcatalog.ru/agency/most_ivent | phone | +7(863)221-84-09 |
 | Мост семейный центрМОСТ | лофт | https://www.loft2rent.ru/loft/173599/173605 | phone | +79117700408 |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://rutube.ru/channel/24846301 |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://t.me/mosenergo_news |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://vk.com/mosenergo_official |
 | Мосэнерго | энергетическая компания | https://www.mosenergo.ru | social | https://www.youtube.com/c/Mosenergo_official |
+| Моц-Арт | ивент агентство | https://eventcatalog.ru/agency/moc-art | phone | +7(921)940-40-73 |
 | МОЭК | энергетическая компания | https://www.moek.ru | social | https://rutube.ru/channel/24955882 |
 | МОЭК | энергетическая компания | https://www.moek.ru | social | https://rutube.ru/video/90cf7162a7b3c4ee341ab052fb5ffc34 |
 | МОЭК | энергетическая компания | https://www.moek.ru | social | https://rutube.ru/video/9ff75dc68c8cd1091a2cbe2a75af91cb |
@@ -14755,6 +16933,7 @@
 | МСЛВЕРАНДА-Лофт | лофт | https://www.loft2rent.ru/loft/87538/87568 | phone | +79855635615 |
 | МСЛКОНГА-Лофт | лофт | https://www.loft2rent.ru/loft/87538/100853 | phone | +79937772233 |
 | МСЛЛофт-МОЖЖЕВЕЛЬНИК | лофт | https://www.loft2rent.ru/loft/87538/129164 | phone | +79855635615 |
+| МТG | ивент агентство | https://eventcatalog.ru/agency/mtg | phone | +7(846) 276-07-52 / +7(846) 276-07-90 |
 | МТС Банк | банк | https://mtsbank.ru | email | info@mtsbank.ru |
 | МТС Банк | банк | https://mtsbank.ru | social | https://ok.ru/group/54564585799926 |
 | МТС Банк | банк | https://mtsbank.ru | social | https://t.me/+7yZm_64TkeYxMDQy |
@@ -14997,9 +17176,13 @@
 | Музей эмоций | ивент-спейс | https://museumofemotions.ru | social | https://wa.me/79958877788?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%D0%AF%20%D1%85%D0%BE%D1%87%D1%83%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%B2%20%D0%9C%D1%83%D0%B7%D0%B5%D0%B9 |
 | Музей эмоций | ивент-спейс | https://museumofemotions.ru | social | https://www.instagram.com/museumofemotions |
 | Музыкальная студия | лофт | https://www.loft2rent.ru/loft/80704 | phone | 89937738586 |
+| Музыкальная Телеграмма | ивент агентство | https://eventcatalog.ru/agency/muzykaljnaya_telegramma | phone | +7(926)865-16-16 / +7(915)304-25-55 |
 | Музыкальный караоке лофт ПарусМузыкальный лаунж караоке Парус | лофт | https://www.loft2rent.ru/loft/29021/31149 | phone | +7(985) 617-48-34 |
 | Музыкальный лофт | лофт | https://www.loft2rent.ru/loft/72825 | phone | +7 (921) 857-75-44 |
 | Музыкальный лофт на Тульской | лофт | https://www.reveltime.ru/venue/4122307?eventtype=vecherinka | phone | +79218577544 |
+| Мулен Руж | ивент агентство | https://eventcatalog.ru/agency/mulen_ruzh | phone | +7(905)258-99-33 |
+| Мульти Ландия | ивент агентство | https://eventcatalog.ru/agency/muljti_landiya | phone | +7(985)827-13-91 |
+| Мульти-Пульти | ивент агентство | https://eventcatalog.ru/agency/muljti-puljti | phone | +7(495)545-12-73 / +7(495)774-00-46 |
 | Мультивселенная | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Мультикультура | ресторан / бар | https://multicultura.ru/ | phone | +74991130977 |
 | Мультимедиа Арт Музей (МАММ) | ивент-спейс | https://mamm-mdf.ru | email | event@mdf.ru |
@@ -15014,8 +17197,11 @@
 | Мультимедиа Арт Музей (МАММ) | ивент-спейс | https://mamm-mdf.ru | social | https://vk.com/mamm_mdf |
 | Мультимедийное пространство LUMIONМультимедийное пространство LUMION | лофт | https://www.loft2rent.ru/loft/146054/146061 | phone | +79211811188 |
 | Мультиформатный лофт-зал | лофт | https://www.reveltime.ru/venue/6748625?eventtype=vecherinka | phone | +79584974084 |
+| Мун Лайт | ивент агентство | https://eventcatalog.ru/agency/mun_layt | phone | +7(38044) 332-8-33 / +7(38063) 138-9-81 |
 | Мун-светлый лофт с луной, высокими потолками и караоке! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
+| Муниципальный продюссерский центр | ивент агентство | https://eventcatalog.ru/agency/municipaljnyy_prodyusserskiy_centr | phone | +7(950) 803-11-11 / +7(950) 807-17-50 |
 | МункMunk | лофт | https://www.loft2rent.ru/loft/84338/84380 | phone | +7 (999) 5587889 |
+| МУР | ивент агентство | https://eventcatalog.ru/agency/mur | phone | +7(495)532-62-12 |
 | Мураново | ивент-спейс | https://muranovo-museum.ru | email | mk_muranovo@mosreg.ru |
 | Мураново | ивент-спейс | https://muranovo-museum.ru | phone | +7 (496) 585-46-28 |
 | Мураново | ивент-спейс | https://muranovo-museum.ru | phone | +7 (916) 554-60-40 |
@@ -15027,14 +17213,20 @@
 | Мураново | ивент-спейс | https://muranovo-museum.ru | social | https://t.me/muranovo_museum |
 | Мураново | ивент-спейс | https://muranovo-museum.ru | social | https://vk.com/muranovo_museum |
 | Муся и второе | ресторан / бар | https://www.instagram.com/musyalavka | phone | +74950556530 |
+| Мы | ивент агентство | https://eventcatalog.ru/agency/my | phone | +7(495)975-79-27 |
+| Мы делаем движ | ивент агентство | https://eventcatalog.ru/agency/my_delaem_dvizh | phone | +7(987)451-58-96 |
 | Мясницкий Бутик Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid9022928/myasnitskiy_boutique_hotel | address | улица Мясницкая, д.14/2 стр.1, Москва |
+| Мята | ивент агентство | https://eventcatalog.ru/agency/myata | phone | +7(906)142-20-89 / +7(8422)72-71-31 |
 | Мята PlatinumМята Platinum PS5 | лофт | https://www.loft2rent.ru/loft/169095/170471 | phone | +7 (996) 677-59-66 |
 | Мята PlatinumМята Platinum VIP | лофт | https://www.loft2rent.ru/loft/169095/170475 | phone | +7 (996) 677-59-66 |
 | Мятный лисМятный лис | лофт | https://www.loft2rent.ru/loft/68312/68315 | phone | 89952609094 |
 | МЯТНЫЙ ЛОФТ С ОТДЕЛЬНЫМ ВХОДОМ И КАРАОКЕ! | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
+| Мёд | ивент агентство | https://eventcatalog.ru/agency/med | phone | +7(846)275-02-28 / +7(908)393-36-62 |
 | На Берегу | лофт | https://www.loft2rent.ru/loft/125499 | phone | 8 925 052-09-76 |
+| На Волне | ивент агентство | https://eventcatalog.ru/agency/na_volne | phone | +7(495)137-85-75 |
 | На Охте | лофт | https://www.loft2rent.ru/loft/100712/100714 | phone | +7(999)062-19-39 |
 | На Тульской | лофт | https://www.loft2rent.ru/loft/27053 | phone | +79937772233 |
+| На100ящий праздник | ивент агентство | https://eventcatalog.ru/agency/na100yawiy_prazdnik | phone | +7(928)270-22-05 / +7(928)270-67-11 |
 | Набережная Севкабель Порта | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | НаВысоте | лофт | https://www.loft2rent.ru/loft/186080/187537 | phone | +79629723232 |
 | Назаров Студио. Лофт с музыкальным оборудованием | лофт | https://www.reveltime.ru/venue/4199777?eventtype=vecherinka | phone | +79346692796 |
@@ -15049,15 +17241,23 @@
 | НАО «ТК «Сибкабель» | организация | https://sibkabel.ru | phone | +7 (909) 700-66-30 |
 | НАО «ТК «Сибкабель» | организация | https://sibkabel.ru | social | https://vk.com/holdcable |
 | НАО «ТК «Сибкабель» | организация | https://sibkabel.ru | social | https://www.youtube.com/channel/UCFZI-61-AWtiztCtds_qXRg |
+| Настоящее Прошлое | ивент агентство | https://eventcatalog.ru/agency/nastoyawee_proshloe | phone | +7(495)227-76-65 |
+| Настроение | ивент агентство | https://eventcatalog.ru/agency/nastroenie | phone | +7(926)975-96-11 |
 | Настроение Лофт | лофт | https://www.loft2rent.ru/loft/122672/124158 | phone | +79999917766 |
+| Наташа + | ивент агентство | https://eventcatalog.ru/agency/natasha | phone | +7(951) 795-70-61 |
 | Наутилус | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Наутилус Наутилус | лофт | https://www.loft2rent.ru/loft/100716/100718 | phone | +79626842654 |
 | Национальная Медиа Группа | медиахолдинг | http://www.nmg.ru | email | designstudio@ctcmedia.ru |
+| Национальная Музыкальная Корпорация | ивент агентство | https://eventcatalog.ru/agency/nacionaljnaya_muzykaljnaya_korporaciya | phone | +7(921) 948-55-10 |
 | Национальный Резервный Банк | организация | https://nrb.ru | email | info@nrb.ru |
 | Национальный Стандарт | организация | https://ns-bank.ru | email | dbo@ns-bank.ru |
 | Национальный Стандарт | организация | https://ns-bank.ru | email | info@ns-bank.ru |
 | Национальный Стандарт | организация | https://ns-bank.ru | email | teliseeva@ns-bank.ru |
 | Национальный Стандарт | организация | https://ns-bank.ru | email | webmaster@ns-bank.ru |
+| Наша команда | ивент агентство | https://eventcatalog.ru/agency/nasha_komanda | phone | +7(495) 937-23-17 / +7(495) 769-79-47 |
+| Наша Лига | ивент агентство | https://eventcatalog.ru/agency/nasha_liga | phone | +7(499)322-30-50 |
+| Наша Медиа | ивент агентство | https://eventcatalog.ru/agency/nasha_media | phone | +7(926) 324-09-05 |
+| Наши хлопоты | ивент агентство | https://eventcatalog.ru/agency/nashi_hlopoty | phone | +7(495)201-10-85 |
 | НАЯВУ | creative / event production | http://ivory-story.ru | email | email |
 | НАЯВУ | creative / event production | http://ivory-story.ru | email | email |
 | НАЯВУ | creative / event production | http://ivory-story.ru | email | iv.st.agency@gmail.com |
@@ -15076,20 +17276,31 @@
 | НАЯВУ | creative / event production | http://ivory-story.ru | phone | +7 (999) 994-92-40 |
 | НАЯВУ | creative / event production | http://ivory-story.ru | social | https://t.me/yana_nayavu?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9D%D0%B0%D1%8F%D0%B2%D1%83.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | НАЯВУ | creative / event production | http://ivory-story.ru | social | https://www.instagram.com/nayavu_wed |
+| НБИ | ивент агентство | https://eventcatalog.ru/agency/nbi | phone | +7(812)315-11-40 |
+| НД Про | ивент агентство | https://eventcatalog.ru/agency/nd_pro | phone | +7(921)919-11-79 |
+| Не Скучай | ивент агентство | https://eventcatalog.ru/agency/ne_skuchay | phone | +7(926) 621-35-54 / +7(926) 335-35-85 |
 | НЕ ТОТ ЦИРК | лофт | https://www.loft2rent.ru/loft/53281/53283 | phone | 89253195678 |
 | Небеса | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Небеса | ивент агентство | https://eventcatalog.ru/agency/nebesa | phone | +7(916) 547-79-55 |
 | Небо | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | Небо Сахары / Sahara Sky | лофт | https://www.loft2rent.ru/loft/10420 | phone | +7 (925) 240-52-42 |
 | НЕБОЛЬШОЙ ДВУХЭТАЖНЫЙ ЛОФТ ОТ 6000Р | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | НЕБОЛЬШОЙ ЛОФТ АМПИР С КАРАОКЕ ЗА 7200 | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | Небольшой уютный лофт, рядом с М Курская | лофт | https://www.loft2rent.ru/loft/122172 | phone | 89250545290 |
+| Нева Энтертейнмент | ивент агентство | https://eventcatalog.ru/agency/neva_enterteynment | phone | +7(812)908-78-05 / +7(812)642-08-05 |
 | Невероятной красоты лофт в башне Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Невероятный лофт в Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Невероятный лофт Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Невская Феерия | ивент агентство | https://eventcatalog.ru/agency/nevskaya_feeriya | phone | +7(812)702-71-87 |
 | Нежный лофт "Дримзон" с диско-шаром, фотозоной и караоке / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
+| Неизведанный мир | ивент агентство | https://eventcatalog.ru/agency/neizvedannyy_mir | phone | +7(812) 703-32-17 |
+| Неко | ивент агентство | https://eventcatalog.ru/agency/neko | phone | +7(843) 277-23-42 / +7(927) 415-15-28 |
 | Необычная Веранда | лофт | https://www.loft2rent.ru/loft/3318 | phone | +74952080038 |
 | Неоновый лофт Гламур | лофт | https://www.reveltime.ru/venue/5653088?eventtype=vecherinka | phone | +79893636021 |
 | неорюмочная "Мама Тата" | лофт | https://www.loft2rent.ru/loft/95637/95639 | phone | +7 911 258 23-76 |
+| Нескучная компания | ивент агентство | https://eventcatalog.ru/agency/neskuchnaya_kompaniya | phone | +7(906)761-98-12 |
+| Нет Предела | ивент агентство | https://eventcatalog.ru/agency/net_predela | phone | +7(812)702-76-66 / +7(911)999-48-30 |
+| Никулина Ольга | ивент агентство | https://eventcatalog.ru/agency/nikulina_oljga | phone | +7(908)908-25-67 |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | andreev_dn@nlmk.com |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | bulashov_io@nlmk.com |
 | НЛМК | металлургическая компания | https://www.nlmk.com | email | chechenev_de@nlmk.com |
@@ -15134,6 +17345,7 @@
 | НЛМК | металлургическая компания | https://www.nlmk.com | social | https://vk.com/wall-19033391_32287 |
 | НЛМК | металлургическая компания | https://www.nlmk.com | social | https://vk.com/wall-19033391_32289 |
 | Нобель | лофт | https://www.loft2rent.ru/loft/92780 | phone | +7 993 590-58-84 |
+| Нобилис | ивент агентство | https://eventcatalog.ru/agency/nobilis | phone | +7(495) 500-71-15 / +7(499) 143-95-30 |
 | НОВА ХОЛЛ - большая светлая площадка под разные мероприятия | лофт | https://www.loft2rent.ru/loft/203236 | phone | +7 9505677787 |
 | НОВАТЭК | нефтегазовая компания | https://www.novatek.ru | email | ir@novatek.ru |
 | НОВАТЭК | нефтегазовая компания | https://www.novatek.ru | email | novatek@novatek.ru |
@@ -15154,11 +17366,17 @@
 | Новикомбанк | банк | https://novikom.ru | phone | +7 (800) 250-70-07 |
 | Новикомбанк | банк | https://novikom.ru | social | https://t.me/novikombank_official |
 | Новикомбанк | банк | https://novikom.ru | social | https://vk.com/club232477455 |
+| Новое время | ивент агентство | https://eventcatalog.ru/agency/novoe_vremya | phone | +7(495) 514-80-82 / +7(495) 723-50-90 |
 | НОВОЕ и единственное пространство в аренду в АкадемеНОВОЕ и единственное пространство в аренду в Академе | лофт | https://www.loft2rent.ru/loft/135494/135496 | phone | +79697778485 |
+| Новые Эмоции | ивент агентство | https://eventcatalog.ru/agency/novye_emocii | phone | +7(499) 408-63-96 / +7(903) 799-99-13 |
+| Новый Формат | ивент агентство | https://eventcatalog.ru/agency/novyy_format | phone | +7(950)787-05-15 / +7(3812)48-55-00 |
+| Ноги в руки | ивент агентство | https://eventcatalog.ru/agency/nogi_v_ruki | phone | +7(926) 775-84-83 / +7(926) 048-40-44 |
+| Нон Стоп | ивент агентство | https://eventcatalog.ru/agency/non_stop | phone | +7(842) 267-47-18 |
 | Нора | лофт | https://www.loft2rent.ru/loft/186858/186862 | phone | 89586348677 |
 | Нора - уютный лофт в центре Москвы на Комсомольской / Бауманской | лофт | https://www.loft2rent.ru/loft/176575 | phone | 79163954428 |
 | Нотно-музыкальная библиотека №17 им. П.И.ЮргенсонаВыставочный зал | лофт | https://www.loft2rent.ru/loft/157349/157353 | phone | 84959112289 |
 | Нотно-музыкальная библиотека №17 им. П.И.ЮргенсонаМузыкальная гостиная | лофт | https://www.loft2rent.ru/loft/157349/157352 | phone | 84959112289 |
+| Ноу Хау | ивент агентство | https://eventcatalog.ru/agency/nou_hau | phone | +7(8452) 76-76-46 / +7(8452) 76-76-56 |
 | Ночной клуб SistersПлощадка под мероприятия (до 600 чел) | лофт | https://www.loft2rent.ru/loft/103728/103735 | phone | 7 905 569-69-86 |
 | Ночной Клуб Zall | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Ночной клуб ZANOZA | лофт | https://www.loft2rent.ru/loft/190306/190484 | phone | 79256147616 |
@@ -15184,9 +17402,12 @@
 | НТВ Кино | продакшн-студия | https://ntv.ru | social | https://t.me/ntvnews |
 | НТВ Кино | продакшн-студия | https://ntv.ru | social | https://vk.com/ntv |
 | Нуар | лофт | https://www.loft2rent.ru/loft/164165 | phone | +7 (391) 989-86-33 |
+| Нью Арт | ивент агентство | https://eventcatalog.ru/agency/njyu_art | phone | +375(29)337-13-35 / +375(17)236-61-61 |
 | Нью Йорк | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | НЮД (NUDE) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
 | О ЛюбвиО.Любви – свадебная оранжерея в лесу | лофт | https://www.loft2rent.ru/loft/127578/127582 | phone | 8-993-895-10-03 |
+| О-ля-ля! | ивент агентство | https://eventcatalog.ru/agency/o-lya-lya | phone | +7(903) 623-75-11 |
+| О`Мега Арс | ивент агентство | https://eventcatalog.ru/agency/o_mega_ars | phone | +7(812) 493-53-11 / +7(812) 970-40-70 |
 | ОАК (Объединённая авиастроительная корп.) | организация | https://www.uacrussia.ru | email | office@uacrussia.ru |
 | ОАК (Объединённая авиастроительная корп.) | организация | https://www.uacrussia.ru | email | tsepkov1971@yandex.ru |
 | ОАК (Объединённая авиастроительная корп.) | организация | https://www.uacrussia.ru | social | http://vk.com/share.php?url=https%3A%2F%2Fuacrussia.ru%2Fru%2Fcorporation%2Fcontacts%2F&text=%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B |
@@ -15209,13 +17430,20 @@
 | ОАО «РЖД» | организация | https://www.rzd.ru | social | https://ok.ru/group/52571620376641 |
 | ОАО «РЖД» | организация | https://www.rzd.ru | social | https://t.me/telerzd |
 | ОАО «РЖД» | организация | https://www.rzd.ru | social | https://vk.com/rzd_official |
+| Облако | ивент агентство | https://eventcatalog.ru/agency/oblako | phone | +7(926)563-27-27 |
 | ОблакоOBLAKO | лофт | https://www.loft2rent.ru/loft/177376/177384 | phone | 8 (499) 113-01-53 |
 | Образовательный центр Refformat Education | лофт | https://www.loft2rent.ru/loft/177654/177660 | phone | 79260001090 |
+| Обрий | ивент агентство | https://eventcatalog.ru/agency/obriy | phone | +7(38044) 587-61-53 |
 | Общая гостиная | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Общий зал караоке на Новослободской | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
 | Объект47 | лофт | https://www.loft2rent.ru/loft/96044/96046 | phone | +7 9167569159 |
 | Объект47. Двухэтажный лофт | лофт | https://vk.ru/object47 | phone | +79959017418 |
+| Обьединённые медиасистемы | ивент агентство | https://eventcatalog.ru/agency/objedinennye_mediasistemy | phone | +7(920) 686-09-58 / +7(4822) 50-98-87 |
+| Огни Города | ивент агентство | https://eventcatalog.ru/agency/ogni_goroda | phone | +7(495)978-93-45 / +7(916)905-90-06 |
 | Огромное пространство для событий | лофт | https://www.reveltime.ru/venue/631962?eventtype=vecherinka | phone | +79019317588 |
+| Одва | ивент агентство | https://eventcatalog.ru/agency/odva | phone | +7(916) 787-65-25 / +7(499) 390-51-08 |
+| Одиссей | ивент агентство | https://eventcatalog.ru/agency/odissey | phone | +7(925) 033-46-49 |
+| Одиссея | ивент агентство | https://eventcatalog.ru/agency/odisseya | social | https://eventcatalog.ru/agency/odisseya |
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | email | info@uecrus.com |
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | email | press@uecrus.com |
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | phone | +7 (495) 232-55-02 |
@@ -15227,12 +17455,17 @@
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | social | https://vk.com/video-52845383_456239729 |
 | ОДК | двигателестроительная корпорация | https://www.uecrus.com | social | https://vk.com/video-52845383_456239730 |
 | Однажды в Голливуде | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Однажды... | ивент агентство | https://eventcatalog.ru/agency/odnazhdy | phone | +7(4922) 32-56-35 / +7(903) 645-34-11 |
 | Ой, всё! Content Studio 24/7«Ой, всё!» | лофт | https://www.loft2rent.ru/loft/162087/162090 | phone | 89260150090 |
 | Океан | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Оле Лукойе | ивент агентство | https://eventcatalog.ru/agency/ole_lukoye | phone | +7(495) 648-88-37 / +7(495) 645-77-88 |
+| Оле-Лукойе | ивент агентство | https://eventcatalog.ru/agency/ole-lukoye | phone | +7(8452) 90-11-93 |
 | Оливка. Пространство с большими окнами | лофт | https://www.reveltime.ru/venue/6253266?eventtype=vecherinka | phone | +79584974160 |
 | Оливка. Современный дизайнерский лофт с барной стойкой, караоке, светомузыкой и удобным зонированием | лофт | https://www.reveltime.ru/venue/8460866?eventtype=vecherinka | phone | +79584974226 |
+| Оливье | ивент агентство | https://eventcatalog.ru/agency/olivje | phone | +7(995)789-22-79 |
 | Олимп | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | ОМ | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
+| ОМГ | ивент агентство | https://eventcatalog.ru/agency/omg | phone | +7(495)374-61-77 / +7(495)374-61-56 |
 | Омега | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | ОМК | промышленный холдинг | https://omk.ru | email | atz@atz.ru |
 | ОМК | промышленный холдинг | https://omk.ru | email | dt@omk.ru |
@@ -23501,12 +25734,18 @@
 | ООО ТК «Софийская» | организация | https://www.rusprofile.ru/id/7618025 | email | viktor@2x.jpg |
 | ООО ТК «Софийская» | организация | https://www.rusprofile.ru/id/7618025 | email | viktor@3x.jpg |
 | ООО ТК «Софийская» | организация | https://www.rusprofile.ru/id/7618025 | email | viktor@4x.jpg |
+| Оперативная компания | ивент агентство | https://eventcatalog.ru/agency/operativnaya_kompaniya | phone | +7(846)300-43-25 / +7(960)816-43-64 |
 | ОптимистыОптимисты | лофт | https://www.loft2rent.ru/loft/98810/98920 | phone | 89917403191 |
+| Оранжевый Круг | ивент агентство | https://eventcatalog.ru/agency/oranzhevyy_krug | phone | +7(383)223-58-55 / +7(383)218-76-70 |
+| Организатор | ивент агентство | https://eventcatalog.ru/agency/organizator | phone | +7(905)801-31-01 / +7(343)273-77-43 |
+| Оргмастер | ивент агентство | https://eventcatalog.ru/agency/orgmaster | phone | +7(916) 222-33-01 / +7(985) 222-16-20 |
 | ОрденАнтарес | лофт | https://www.loft2rent.ru/loft/88187/116614 | phone | +79099991836 |
 | ОрденОРДЕН | лофт | https://www.loft2rent.ru/loft/88187/88191 | phone | +79099991836 |
 | Орлеан | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Оружейный лофт КАРБОН | лофт | https://www.reveltime.ru/venue/8500393?eventtype=vecherinka | phone | +79584973975 |
 | Оружейный лофт КАРБОН с аэрохоккеем | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
+| Оскар | ивент агентство | https://eventcatalog.ru/agency/oskar | phone | +7(495) 999-78-07 / +7(925) 999-88-77 |
+| Оскар _ | ивент агентство | https://eventcatalog.ru/agency/oskar-1 | phone | +7(38062) 345-89-05 / +7(38050) 347-73-05 |
 | ОсноваОсноваLOFT | лофт | https://www.loft2rent.ru/loft/163461/163463 | phone | 89221563034 |
 | Основной зал | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
 | Особняк 400 м² для частных мероприятий на Чистых прудах | лофт | https://www.loft2rent.ru/loft/74665 | phone | 89175091916 |
@@ -23534,6 +25773,8 @@
 | Остафьево | ивент-спейс | https://ostafyevomuseum.ru | social | https://rutube.ru/channel/25112203 |
 | Остафьево | ивент-спейс | https://ostafyevomuseum.ru | social | https://t.me/ostafyevo |
 | Остафьево | ивент-спейс | https://ostafyevomuseum.ru | social | https://vk.com/ostafyevomuseum |
+| Остров детства | ивент агентство | https://eventcatalog.ru/agency/ostrov_detstva | phone | +7(473) 269-50-70 / +7(473) 261-46-14 |
+| От и До | ивент агентство | https://eventcatalog.ru/agency/ot_i_do | phone | +7(953)515-77-99 |
 | Отдельный VIP-зал караоке №1 Semenov в Столешниковом переулке | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
 | Отдельный VIP-зал караоке №1 на Пресне | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
 | Отдельный VIP-зал караоке №1 на Цветном | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
@@ -23553,10 +25794,12 @@
 | Отдельный VIP-зал караоке №6 на Новослободской | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
 | Отдельный VIP-зал караоке №7 на Новослободской | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
 | Отдельный VIP-зал караоке №8 на Новослободской | лофт | https://www.loft2rent.ru/loft/103317 | phone | +74991163697 |
+| Отдохни по звездному | ивент агентство | https://eventcatalog.ru/agency/otdohni_po_zvezdnomu | phone | +7(915) 228-84-51 / +7(985) 284-91-54 |
 | Отдых в МосквеРетро лофт на тургеневской | лофт | https://www.loft2rent.ru/loft/141007/141148 | phone | +7 977 838 0164 |
 | Отдых на воде АэлитаАренда лаундж зоны в Подмосковье | лофт | https://www.loft2rent.ru/loft/199967/199986 | phone | +79031885655 |
 | Отдых на воде АэлитаАренда лофта с баней ПарХод | лофт | https://www.loft2rent.ru/loft/199967/201078 | phone | +79031885655 |
 | Отдых на воде АэлитаПлощадка для свадьбы у воды Порт пяти морей | лофт | https://www.loft2rent.ru/loft/199967/199973 | phone | +79031885655 |
+| Отдых по-русски | ивент агентство | https://eventcatalog.ru/agency/otdyh_po-russki | phone | +7(495) 724-79-93 |
 | Отель "40-й меридиан Яхт-Клуб" | лофт | https://www.loft2rent.ru/loft/107724/108112 | phone | +7 (496) 615-20-27 |
 | Отель "40-й меридиан Яхт-Клуб"Зал "Адмиральский" | лофт | https://www.loft2rent.ru/loft/107724/108117 | phone | +7 (496) 615-20-27 |
 | Отель "40-й меридиан Яхт-Клуб"Зал "Речной" | лофт | https://www.loft2rent.ru/loft/107724/108119 | phone | +7 (496) 615-20-27 |
@@ -23713,13 +25956,21 @@
 | Отель Холидей Таганский | отель | https://ostrovok.ru/hotel/russia/moscow/mid7467389/kholidei_inn_moskva_simonovskii | address | ул. Симоновский Вал, 2, Москва |
 | Отель Чайковский | отель | https://ostrovok.ru/hotel/russia/moscow/mid8733261/tchaikovsky_hotel | address | улица Большая Никитская, д.24/1 стр.6, Москва |
 | Отель Яхт-Клуб Новый Берег | отель | https://ostrovok.ru/hotel/russia/moscow/mid7383057/oteliakhtklub_novyi_bereg | address | ул. Туристическая 10, Болтино |
+| Открытая коммуникационная группа | ивент агентство | https://eventcatalog.ru/agency/otkrytaya_kommunikacionnaya_gruppa | phone | +7(916)227-50-15 / +7(495)223-89-74 |
+| Открытый мир | ивент агентство | https://eventcatalog.ru/agency/otkrytyy_mir | phone | +7(812) 325-64-70 |
+| Отраслевые форумы | ивент агентство | https://eventcatalog.ru/agency/otraslevye_forumy | phone | +7(37517) 385-61-16 / +7(37517) 385-61-17 |
 | ОТСЕБЯлофт на Арбате | лофт | https://www.loft2rent.ru/loft/209596/209598 | phone | 89773149423 |
 | Офис | лофт | https://www.loft2rent.ru/loft/86306 | phone | +74952042861 |
 | Офис на Красном Октябре | лофт | https://www.loft2rent.ru/loft/129904/129926 | phone | +7 977 669 03 00 |
 | ОфЛайнОфЛайн коворкинг | лофт | https://www.loft2rent.ru/loft/64361/64374 | phone | 8 (906) 776 85 55 |
+| Ох Уж Эти Детки | ивент агентство | https://eventcatalog.ru/agency/oh_uzh_eti_detki | phone | +7(909)997-81-86 |
 | ПАЛАТИУМ-ЛОФТ - ПРОСТОРНЫЙ ЗАЛ С ПРОЕКТОРОМ И АКУСТИЧЕСКОЙ СИСТЕМОЙ, ИДЕАЛЬНО ДЛЯ ТРЕНИНГОВ И БОЛЬШИХ ВЕЧЕРИНОК! | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
 | ПалаццоИсторический особняк на набережной | лофт | https://www.loft2rent.ru/loft/96611/96977 | phone | +79219337016 |
+| Палитра | ивент агентство | https://eventcatalog.ru/agency/palitra | phone | +7(495) 782-20-53 |
+| Палитра Сочи | ивент агентство | https://eventcatalog.ru/agency/palitra_sochi | phone | +7(918)449-74-76 / +7(967)317-06-03 |
 | палитра чувств | лофт | https://www.loft2rent.ru/loft/126748/126750 | phone | +79779097925 |
+| ПАМ Studio | ивент агентство | https://eventcatalog.ru/agency/pam_studio | phone | +7(495) 979-23-83 |
+| Пан и Параваев | ивент агентство | https://eventcatalog.ru/agency/pan_i_paravaev | phone | +7(4212)20-03-23 |
 | Пандора \ | Выхино. Пространство праздников и активных развлечений | лофт | https://www.loft2rent.ru/loft/182884 | phone |
 | Панорама | лофт | https://www.loft2rent.ru/loft/99182 | phone | +7 (812) 984-43-54 |
 | Панорама-холл Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
@@ -23900,11 +26151,17 @@
 | ПАО «ФСК ЕЭС» | организация | https://www.fsk-ees.ru | social | https://vk.com/rosseti.fskees |
 | ПАО «ФСК ЕЭС» | организация | https://www.fsk-ees.ru | social | https://www.facebook.com/pages/ФСК-ЕЭС/182048348497105 |
 | ПАО «ФСК ЕЭС» | организация | https://www.fsk-ees.ru | social | https://www.youtube.com/user/fskeesinfo |
+| ПапаДоволен | ивент агентство | https://eventcatalog.ru/agency/papadovolen | phone | +7(926) 348-87-42 / +7(495) 529-93-56 |
+| Парад | ивент агентство | https://eventcatalog.ru/agency/parad | phone | +7(846) 244-11-01 / +7(846) 373-85-25 |
 | Парадайз | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Парадайз Медиа | ивент агентство | https://eventcatalog.ru/agency/paradayz_media | phone | +7(474) 237-58-88 |
 | Парадайс / ПарадайсРИЗЗ / РИЗЗ | лофт | https://www.loft2rent.ru/loft/180043/187835 | phone | +79254200006 |
+| Парадиз | ивент агентство | https://eventcatalog.ru/agency/paradiz | phone | +7(4942)36-04-04 |
 | Парадная | лофт | https://www.loft2rent.ru/loft/191214/191364 | phone | 89853810192 |
 | Парадная. Пространство на мансардном этаже | лофт | https://www.reveltime.ru/venue/8259964?eventtype=vecherinka | phone | +79346692796 |
+| Парапапарам | ивент агентство | https://eventcatalog.ru/agency/parapaparam | phone | +7(926)133-05-85 / +7(926)198-00-28 |
 | ПАРИЖ - PROSPECT | лофт | https://www.loft2rent.ru/loft/83754 | phone | 89120829050 |
+| Паритет | ивент агентство | https://eventcatalog.ru/agency/paritet | phone | +7(812)324-16-44 / +7(921)410-21-21 |
 | Парк виртуальной реальности WARPOINTWarpoint Vegas | лофт | https://www.loft2rent.ru/loft/134894/134919 | phone | 89031032447 |
 | Парк Горького | парк / культурное пространство | https://park-gorkogo.ru | email | email |
 | Парк Горького | парк / культурное пространство | https://park-gorkogo.ru | email | parkgorkogo@culture.mos.ru |
@@ -23920,12 +26177,21 @@
 | Парк-отель "Медвежья гора"Ресторан "Мейд ин Раша" | лофт | https://www.loft2rent.ru/loft/132459/132467 | phone | +7 (812) 408-88-88 |
 | Парк-Отель Орловский | отель | https://ostrovok.ru/hotel/russia/moscow/mid7700514/gostinichnyi_kompleks_orlovskii | address | Орловский проезд, строение 12, Богданиха |
 | Парк-Отель Юдино | отель | https://ostrovok.ru/hotel/russia/moscow/mid8732812/yudino_parkhotel | address | Одинцовский р-н, с.Юдино, 1б, Москва |
+| Партнер Событий | ивент агентство | https://eventcatalog.ru/agency/partner_sobytiy | phone | +7(499)990-10-41 |
+| Пасифик медиа | ивент агентство | https://eventcatalog.ru/agency/pasifik_media | phone | +7(423)230-08-76 / +7(423)230-22-77 |
 | Паста и Вино | лофт | https://www.loft2rent.ru/loft/170615 | phone | +79112389747 |
+| Пастила | ивент агентство | https://eventcatalog.ru/agency/pastila | phone | +7(910)480-38-98 |
+| Патилэнд | ивент агентство | https://eventcatalog.ru/agency/patilend | phone | +7(861)274-75-85 / +7(988)242-98-90 |
 | Пафос | ресторан | https://pafos.rest/ | phone | +74951201116 |
 | Пафосный апартамент Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | ПенкаЛофт | лофт | https://www.loft2rent.ru/loft/147486/147492 | phone | 89262270222 |
 | Пентхаус c панорамным видом на Москву | лофт | https://www.loft2rent.ru/loft/171365 | phone | 8 (985) 439-38-38 |
 | Пентхаус-формат на 64 этаже: оникс, подсветка, панорамные окна Уникальный вид на башни и город | лофт | https://www.loft2rent.ru/loft/171815 | phone | +79958998202 |
+| Пеппи Играет | ивент агентство | https://eventcatalog.ru/agency/peppi_igraet | phone | +7(351)261-71-28 / +7(906)892-96-97 |
+| Первая Праздничная Компания | ивент агентство | https://eventcatalog.ru/agency/pervaya_prazdnichnaya_kompaniya | phone | +7(926) 105-99-73 |
+| Первое event-агентство Серпухова | ивент агентство | https://eventcatalog.ru/agency/pervoe_event-agentstvo_serpuhova | phone | +7(496) 776-29-77 / +7(903) 525-50-35 |
+| Первое Агентство Развлечений | ивент агентство | https://eventcatalog.ru/agency/pervoe_agentstvo_razvlecheniy | phone | +7(495) 775-99-87 |
+| Первое Русское Фолк-Event-Агентство | ивент агентство | https://eventcatalog.ru/agency/pervoe_russkoe_folk-event-agentstvo | phone | +7(925)506-60-32 |
 | Первый канал | телеканал | https://www.1tv.ru | social | https://ok.ru/1tv |
 | Первый канал | телеканал | https://www.1tv.ru | social | https://t.me/ChannelOne_official |
 | Первый канал | телеканал | https://www.1tv.ru | social | https://vk.ru/1tv |
@@ -23942,9 +26208,18 @@
 | Переговорная комната у Ресторана до 12 человек | лофт | https://www.loft2rent.ru/loft/199576 | phone | 8 980 430 08 88 |
 | Переговорная комната №29 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
 | Переговорная комната №5 | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
+| Перемена | ивент агентство | https://eventcatalog.ru/agency/peremena | phone | +7(812) 922-49-39 / +7(812) 982-90-32 |
 | Персия | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Персона Грата | ивент агентство | https://eventcatalog.ru/agency/persona_grata | phone | +7(380) 322-61-15 |
+| ПерсонаГрата | ивент агентство | https://eventcatalog.ru/agency/personagrata | phone | +7(803) 226-11-56 |
+| Персонаж | ивент агентство | https://eventcatalog.ru/agency/personazh | phone | +7(495)961-36-03 |
+| Петербургские зори-4 | ивент агентство | https://eventcatalog.ru/agency/peterburgskie_zori-4 | phone | +7(911)921-05-60 / +7(812)641-05-61 |
+| Петерсарт | ивент агентство | https://eventcatalog.ru/agency/petersart | phone | +7(812) 316-56-21 / +7(812) 316-08-75 |
+| Петрушка | ивент агентство | https://eventcatalog.ru/agency/petrushka | phone | +7(812) 744-37-68 / +7(812) 716-69-44 |
 | ПЕШИ | лофт | https://www.loft2rent.ru/loft/179994 | phone | +79256444401 |
+| ПИАРТ | ивент агентство | https://eventcatalog.ru/agency/piart | phone | +7(812) 332-16-76 |
 | Пикассо - Светлый лофт в стиле Бохо | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Пикник | ивент агентство | https://eventcatalog.ru/agency/piknik | phone | +7(900)266-37-00 / +7(953)069-06-83 |
 | Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | foodcourt@afisha.ru |
 | Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | market.picnic@afisha.ru |
 | Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | email | partnership.picnic@afisha.ru |
@@ -23953,7 +26228,10 @@
 | Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | social | https://t.me/picnic_afishy |
 | Пикник Афиши | музыкальный фестиваль | https://picnic.afisha.ru | social | https://vk.com/afishapicnic |
 | ПИНК ШИК | лофт | https://www.loft2rent.ru/loft/198212/198214 | phone | +79852179198 |
+| Пион | ивент агентство | https://eventcatalog.ru/agency/pion | phone | +7(929)017-78-24 |
+| Пироги | ивент агентство | https://eventcatalog.ru/agency/pirogi | phone | +7(8442) 50-34-75 / +7(8442) 26-40-45 |
 | Пирс | лофт | https://www.loft2rent.ru/loft/2518 | phone | +79689739030 |
+| Питерцы | ивент агентство | https://eventcatalog.ru/agency/pitercy | phone | +7(812)917-49-77 |
 | ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | email | email |
 | ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | email | hello@planevent.ru |
 | ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | phone | +7 (499) 957-85-37 |
@@ -23966,6 +26244,11 @@
 | ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | phone | +7 (903) 618-43-92 |
 | ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | https://t.me/plan_agency?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9F%D0%9B%D0%90%D0%9D.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ПЛАН ИВЕНТ-АГЕНТСТВО | event-агентство | http://planevent.ru | social | https://www.instagram.com/plan.eventagency |
+| Планета Holiday | ивент агентство | https://eventcatalog.ru/agency/planeta_holiday | phone | +7(3122) 756-185 / +7(3122) 251-121 |
+| Планета Людей | ивент агентство | https://eventcatalog.ru/agency/planeta_lyudey | phone | +7(915) 221-27-26 |
+| Планета Праздников | ивент агентство | https://eventcatalog.ru/agency/planeta_prazdnikov | phone | +7(4922)46-10-91 |
+| Планета Сервис | ивент агентство | https://eventcatalog.ru/agency/planeta_servis | phone | +7(495)509-66-86 |
+| Планета Хохотака | ивент агентство | https://eventcatalog.ru/agency/planeta_hohotaka | phone | +7(495) 669-41-64 |
 | Площадка "Шатер у озера" | лофт | https://www.loft2rent.ru/loft/125499 | phone | 89250520976 |
 | Площадка для безнес-мероприятий на Якиманской набережнойВ самом центре Москвы | лофт | https://www.loft2rent.ru/loft/102616/102687 | phone | +79851125955 |
 | Площадка для мастер-классов и мероприятий | лофт | https://www.loft2rent.ru/loft/78182 | phone | 89850553888 |
@@ -23983,10 +26266,19 @@
 | Площадки в разном стиле под мероприятияСтудия с морским песком и водопадом | лофт | https://www.loft2rent.ru/loft/14228/17291 | phone | +7(916)242-10-22 |
 | Плэйс Лофт. Prisma Loft (Призма Лофт) | лофт | https://www.reveltime.ru/venue/5952237?eventtype=vecherinka | phone | +79386982643 |
 | Повод ЕстьПространство Повод Есть | лофт | https://www.loft2rent.ru/loft/127212/127215 | phone | 8 929 628 94 38 |
+| Погостите | ивент агентство | https://eventcatalog.ru/agency/pogostite | phone | +7(495)737-47-55 / +7(800)777-01-24 |
+| Подiя | ивент агентство | https://eventcatalog.ru/agency/podiya | phone | +7(056) 790-35-83 / +7(067) 630-01-24 |
 | Подземелье Тёмного Лорда | лофт | https://www.loft2rent.ru/loft/140849/140852 | phone | 89251935330 |
 | Подземелье Тёмного ЛордаДом Гарри | лофт | https://www.loft2rent.ru/loft/140849/145212 | phone | 89251935330 |
+| Подъёжики Спб | ивент агентство | https://eventcatalog.ru/agency/podezhiki_spb | phone | +7(812) 363-16-36 |
+| Поздравлялки.ру | ивент агентство | https://eventcatalog.ru/agency/pozdravlyalki_ru | phone | +7(925) 070-50-07 |
+| Позитиff СПб | ивент агентство | https://eventcatalog.ru/agency/pozitiff_spb | phone | +7(812)528-96-33 / +7(812)933-29-45 |
+| Позитифф | ивент агентство | https://eventcatalog.ru/agency/pozitiff | phone | +7(812) 933-29-45 / +7(812) 914-69-94 |
+| Пойди-Пройди | ивент агентство | https://eventcatalog.ru/agency/poydi-proydi | phone | +7(906)777-41-99 |
 | ПОКРОВКА ЛАБ | лофт | https://www.loft2rent.ru/loft/206913/206969 | phone | 8 (903) 892 66 91 |
 | Поле и Пляж | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
+| Полигон | ивент агентство | https://eventcatalog.ru/agency/poligon | phone | +7(812)386-64-40 |
+| Полилог | ивент агентство | https://eventcatalog.ru/agency/polilog | phone | +7(495)258-20-45 |
 | Политех | лофт | https://www.loft2rent.ru/loft/154774/154785 | phone | +79660111741 |
 | Политехнический музей | музей | https://polymus.ru | email | chz@polytech.one |
 | Политехнический музей | музей | https://polymus.ru | email | info@polytech.one |
@@ -24004,8 +26296,17 @@
 | Помещение в отеле "Софит" | лофт | https://www.loft2rent.ru/loft/159296/159299 | phone | 89157800260 |
 | Помещение до 500 человек вместимостью и 450м² | лофт | https://www.loft2rent.ru/loft/88592/88600 | phone | 89151956806 |
 | Поп-арт | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Попкорн | ивент агентство | https://eventcatalog.ru/agency/popkorn | phone | +7(903)118-92-50 |
+| Пора в дорогу | ивент агентство | https://eventcatalog.ru/agency/pora_v_dorogu | phone | +7(044) 592-10-44 / +7(044) 228-38-28 |
+| Порадуем | ивент агентство | https://eventcatalog.ru/agency/poraduem | phone | +7(863) 259-03-40 / +7(918) 569-26-04 |
+| Порт | ивент агентство | https://eventcatalog.ru/agency/port | phone | +7(351) 721-74-87 |
+| Порт Верный | ивент агентство | https://eventcatalog.ru/agency/port_vernyy | phone | +7(495) 508-50-28 / +7(495) 518-18-08 |
 | Посольство ГипербореиГАЛЕРЕЯ 153 | лофт | https://www.loft2rent.ru/loft/100626/163901 | phone | +78124080989 |
 | Посольство ГипербореиУникальная мультимедийная площадка в Москва Сити | лофт | https://www.loft2rent.ru/loft/100626/100639 | phone | +7 495 476-59-76 |
+| Посольство праздника | ивент агентство | https://eventcatalog.ru/agency/posoljstvo_prazdnika | phone | +7(812)665-51-06 |
+| Посольство стиля | ивент агентство | https://eventcatalog.ru/agency/posoljstvo_stilya | phone | +7(909) 900-76-76 / +7(495) 948-17-94 |
+| Поставщики эмоций | ивент агентство | https://eventcatalog.ru/agency/postavwiki_emociy | phone | +7(985)520-76-20 / +7(915)071-01-55 |
+| Потехи Час | ивент агентство | https://eventcatalog.ru/agency/potehi_chas | phone | +7(495) 518-69-96 |
 | Почта Банк | банк | https://pochtabank.ru | phone | +7 (495) 785-53-05 |
 | Почта Банк | банк | https://pochtabank.ru | phone | +7 (800) 100-24-24 |
 | Почта Банк | банк | https://pochtabank.ru | phone | +7 (800) 301-46-30 |
@@ -24015,11 +26316,52 @@
 | Почта Банк | банк | https://pochtabank.ru | social | https://vk.com/im?sel=-22749457 |
 | Почта Банк | банк | https://pochtabank.ru | social | https://vk.com/vtb |
 | Поэт и котПОЭТ И КОТ | лофт | https://www.loft2rent.ru/loft/183349/183367 | phone | +79232288435 |
+| Пп | ивент агентство | https://eventcatalog.ru/agency/pp | phone | +7(812)981-44-06 |
+| Правда | ивент агентство | https://eventcatalog.ru/agency/pravda | phone | +7(812) 982-11-37 / +7(968) 181-69-06 |
 | Правительство Москвы | государственная организация | https://www.mos.ru | email | email |
 | Правительство Москвы | государственная организация | https://www.mos.ru | email | press-service@mos.ru |
 | Правительство Москвы | государственная организация | https://www.mos.ru | phone | +7 (495) 620-27-17 |
 | Правительство Москвы | государственная организация | https://www.mos.ru | phone | phone |
 | Прадо - 3-х этажный особняк | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| ПраздниК | ивент агентство | https://eventcatalog.ru/agency/prazdnik | phone | +7(495) 925-05-94 |
+| Праздник 77 | ивент агентство | https://eventcatalog.ru/agency/prazdnik_77 | phone | +7(495) 734-99-13 |
+| Праздник _ | ивент агентство | https://eventcatalog.ru/agency/prazdnik-8 | phone | +7(499) 409-75-03 |
+| Праздник Pro Sib | ивент агентство | https://eventcatalog.ru/agency/prazdnik_pro_sib | phone | +7(983)403-05-70 |
+| Праздник XXI века | ивент агентство | https://eventcatalog.ru/agency/prazdnik_xxi_veka | phone | +7(495) 669-92-13 / +7(926) 831-72-23 |
+| Праздник без хлопот | ивент агентство | https://eventcatalog.ru/agency/prazdnik_bez_hlopot | phone | +7(916) 883-12-91 |
+| Праздник в стиле Шок | ивент агентство | https://eventcatalog.ru/agency/prazdnik_v_stile_shok | phone | +7(495)517-27-93 |
+| Праздник высокого полета | ивент агентство | https://eventcatalog.ru/agency/prazdnik_vysokogo_poleta | phone | +7(903) 309-09-30 / +7(846) 275-75-45 |
+| Праздник детям | ивент агентство | https://eventcatalog.ru/agency/prazdnik_detyam | phone | +7(649) 549-88-56 |
+| Праздник для всех | ивент агентство | https://eventcatalog.ru/agency/prazdnik_dlya_vseh | phone | +7(38056) 370-57-27 / +7(38067) 562-84-74 |
+| Праздник Жизни | ивент агентство | https://eventcatalog.ru/agency/prazdnik_zhizni | phone | +7(495) 789-65-34 / +7(495) 734-99-13 |
+| Праздник Здесь | ивент агентство | https://eventcatalog.ru/agency/prazdnik_zdesj | phone | +7(843) 214-78-55 / +7(919) 635-70-94 |
+| Праздник Мечты | ивент агентство | https://eventcatalog.ru/agency/prazdnik_mechty | phone | +7(812) 954-31-36 |
+| Праздник на пороге | ивент агентство | https://eventcatalog.ru/agency/prazdnik_na_poroge | phone | +7(050) 936-97-42 / +7(066) 635-60-48 |
+| Праздник от Чеширского Кота | ивент агентство | https://eventcatalog.ru/agency/prazdnik_ot_cheshirskogo_kota | phone | +7(3462) 520-443 / +7(912) 818-50-66 |
+| Праздник Плюс | ивент агентство | https://eventcatalog.ru/agency/prazdnik_plyus | phone | +7(812) 232-43-82 / +7(901) 301-10-00 |
+| Праздник Праздником | ивент агентство | https://eventcatalog.ru/agency/prazdnik_prazdnikom | phone | +7(495)724-57-17 |
+| Праздник РВ | ивент агентство | https://eventcatalog.ru/agency/prazdnik_rv | phone | +7(812) 981-21-01 / +7(812) 981-31-01 |
+| Праздник РФ | ивент агентство | https://eventcatalog.ru/agency/prazdnik_rf | phone | +7(911) 939-75-10 / +7(812) 303-10-41 |
+| Праздник Сервис | ивент агентство | https://eventcatalog.ru/agency/prazdnik_servis | phone | +7(988)246-55-50 / +7(861)246-55-50 |
+| Праздник Сочи | ивент агентство | https://eventcatalog.ru/agency/prazdnik_sochi | phone | +7(862)233-59-53 |
+| Праздник&Веселье | ивент агентство | https://eventcatalog.ru/agency/prazdnikandveselje | phone | +7(495) 226-25-85 |
+| Праздник-Арт | ивент агентство | https://eventcatalog.ru/agency/prazdnik-art | phone | +7(909)978-09-67 / +7(926)677-06-45 |
+| Праздник-Пeрмь | ивент агентство | https://eventcatalog.ru/agency/prazdnik-permj | phone | +7(908)271-84-60 |
+| Праздники в Хабаровске | ивент агентство | https://eventcatalog.ru/agency/prazdniki_v_habarovske | phone | +7(962) 220-28-65 / +7(421) 260-28-65 |
+| Праздники для детей | ивент агентство | https://eventcatalog.ru/agency/prazdniki_dlya_detey | phone | +7(495) 662-96-30 / +7(495) 741-80-01 |
+| ПраздникРу | ивент агентство | https://eventcatalog.ru/agency/prazdnikru | phone | +7(905) 827-11-95 / +7(912) 818-81-77 |
+| Праздничное Агентство Карамеля | ивент агентство | https://eventcatalog.ru/agency/prazdnichnoe_agentstvo_karamelya | phone | +7(950)458-78-13 |
+| Праздничное агентство Краски | ивент агентство | https://eventcatalog.ru/agency/prazdnichnoe_agentstvo_kraski | phone | +7(495) 968-65-78 |
+| Праздничное Агентство Наталии Бочаровой | ивент агентство | https://eventcatalog.ru/agency/prazdnichnoe_agentstvo_natalii_bocharovoy | phone | +7(495)741-63-90 / +7(926)533-98-92 |
+| Праздничный бутик | ивент агентство | https://eventcatalog.ru/agency/prazdnichnyy_butik | phone | +7(495) 545-45-16 |
+| Праздничный Город | ивент агентство | https://eventcatalog.ru/agency/prazdnichnyy_gorod | phone | +7(905)208-55-54 / +7(905)207-29-80 |
+| Праздничный Дом 2000 | ивент агентство | https://eventcatalog.ru/agency/prazdnichnyy_dom_2000 | phone | +7(495) 970-33-24 / +7(905) 550-46-58 |
+| Праздничный кортеж | ивент агентство | https://eventcatalog.ru/agency/prazdnichnyy_kortezh | phone | +7(925) 805-84-48 |
+| Праздничный отдел | ивент агентство | https://eventcatalog.ru/agency/prazdnichnyy_otdel | phone | +7(495) 365-03-59 |
+| Праздничный Универмаг | ивент агентство | https://eventcatalog.ru/agency/prazdnichnyy_univermag | phone | +7(906) 723-23-91 |
+| Праздные Люди | ивент агентство | https://eventcatalog.ru/agency/prazdnye_lyudi | phone | +7(4852) 97-12-77 / +7(903) 646-05-41 |
+| Празникус | ивент агентство | https://eventcatalog.ru/agency/pr_praznikus | phone | +7(926)697-87-91 |
+| Президент Шоу | ивент агентство | https://eventcatalog.ru/agency/prezident_shou | phone | +7(926)237-90-92 / +7(916)196-84-53 |
 | Президент-СервисПомещение № 237 | лофт | https://www.loft2rent.ru/loft/37539/38153 | phone | 89267177279 |
 | Президент-СервисПомещение № 633 | лофт | https://www.loft2rent.ru/loft/37539/56935 | phone | 89267177279 |
 | Президентская ложа в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
@@ -24027,8 +26369,15 @@
 | Премиальный медный лофт Cuprum с летней верандой | лофт | https://www.loft2rent.ru/loft/22257 | phone | +7 (495) 432-01-36 |
 | Премиум Конференц-зал в Москва Сити на 58 этаже | лофт | https://www.loft2rent.ru/loft/187948/187950 | phone | 8 993 7050100 |
 | Премия Оскар | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| ПРЕМЬЕР | ивент агентство | https://eventcatalog.ru/agency/agentstvo_kommunikaciy_premjer | phone | +7(342)227-44-71 / +7(342)227-44-77 |
+| Премьер _ | ивент агентство | https://eventcatalog.ru/agency/premjer-4 | phone | +7(843) 248-68-98 / +7(843) 267-19-99 |
+| Премьер Тревел | ивент агентство | https://eventcatalog.ru/agency/premjer_trevel | phone | +7(925)517-92-29 |
 | Пресс-центр в УСЗ Дружба в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
+| Престиж | ивент агентство | https://eventcatalog.ru/agency/prestizh | phone | +7(347) 292-01-10 / +7(347) 225-88-10 |
 | Престижный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Привилегия | ивент агентство | https://eventcatalog.ru/agency/privilegiya | phone | +7(495) 971-25-29 / +7(916) 532-63-17 |
+| Привилегия new | ивент агентство | https://eventcatalog.ru/agency/privilegiya_new | phone | +7(495) 971-25-29 / +7(916) 532-63-17 |
+| Примеро | ивент агентство | https://eventcatalog.ru/agency/primero | phone | +7(495) 772-63-38 / +7(926) 901-89-21 |
 | Приморье | организация | https://primbank.ru | email | mail@primbank.ru |
 | Приморье | организация | https://primbank.ru | phone | +7 (423) 222-68-75 |
 | Приморье | организация | https://primbank.ru | phone | +7 (423) 226-06-00 |
@@ -24042,9 +26391,26 @@
 | Принц Парк Отель | отель | https://ostrovok.ru/hotel/russia/moscow/mid6458819/prince_park_hotel_ | address | Новоясеневский проспект, д.1 Б, корп. 1, Москва |
 | Природа | лофт | https://www.loft2rent.ru/loft/44815 | phone | +7-916-496-11-91 |
 | Притяжение | лофт | https://www.loft2rent.ru/loft/92780 | phone | +7 993 590-58-84 |
+| Про-линия | ивент агентство | https://eventcatalog.ru/agency/pro-liniya | phone | +7(4852)37-01-86 |
 | Прованс | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Продавец счастья | ивент агентство | http://www.happyseller.ru | phone | +7(4742)71-00-99 / +7(903)699-65-35 |
+| Продюсерская компания | ивент агентство | https://eventcatalog.ru/agency/prodyuserskaya_kompaniya | phone | +7(499) 248-81-01 |
+| Продюсерский центр | ивент агентство | https://eventcatalog.ru/agency/prodyuserskiy_centr | phone | +7(343) 268-99-66 / +7(922) 218-88-86 |
+| Продюсерский центр Игоря Сандлера | ивент агентство | https://eventcatalog.ru/agency/prodyuserskiy_centr_igorya_sandlera | phone | +7(926) 204-19-53 |
+| Продюсерский центр Эдуарда Соловьева | ивент агентство | https://eventcatalog.ru/agency/prodyuserskiy_centr_eduarda_solovjeva | phone | +7(985) 766-98-96 / +7(910) 458-24-42 |
+| Проект Show | ивент агентство | https://eventcatalog.ru/agency/proekt_show | phone | +7(903) 574-33-44 / +7(905) 533-17-01 |
+| Проект#1 | ивент агентство | https://eventcatalog.ru/agency/proekt_1 | phone | +7(846)989-13-18 |
+| Проект-Х | ивент агентство | https://eventcatalog.ru/agency/proekt-h | phone | +7(861)204-89-76 |
+| Проекта | ивент агентство | https://eventcatalog.ru/agency/proekta | phone | +7(495) 773-46-02 |
+| Проекты для вас | ивент агентство | https://eventcatalog.ru/agency/proekty_dlya_vas | phone | +7(912)265-71-45 |
+| Прожектор | ивент агентство | https://eventcatalog.ru/agency/prozhektor | phone | +7(4912)41-91-08 |
 | ПролессPROLess Loft | лофт | https://www.loft2rent.ru/loft/207040/207049 | phone | 89299888499 |
+| Прома | ивент агентство | https://eventcatalog.ru/agency/proma | phone | +7(343) 350-00-73 |
 | Промзона Коворкинг | лофт | https://www.loft2rent.ru/loft/65955/65957 | phone | +79057159236 |
+| Промо Юнит | ивент агентство | https://eventcatalog.ru/agency/promo_yunit | phone | +7(905)209-33-81 |
+| Промо-команда | ивент агентство | https://eventcatalog.ru/agency/promo-komanda | phone | +7(391)211-96-69 |
+| Промострана | ивент агентство | https://eventcatalog.ru/agency/promostrana | phone | +7(495)280-09-71 / +7(926)590-78-38 |
+| Промоушн ДВ | ивент агентство | https://eventcatalog.ru/agency/promoushn_dv | phone | +7(914)538-66-01 / +7(914)550-02-01 |
 | Промсвязьбанк | банк | https://psbank.ru | email | broker@psbank.ru |
 | Промсвязьбанк | банк | https://psbank.ru | email | corporate@psbank.ru |
 | Промсвязьбанк | банк | https://psbank.ru | email | iir@psbank.ru |
@@ -24060,6 +26426,9 @@
 | Промсвязьбанк | банк | https://psbank.ru | social | https://rutube.ru/channel/24734074 |
 | Промсвязьбанк | банк | https://psbank.ru | social | https://t.me/psbbank |
 | Промсвязьбанк | банк | https://psbank.ru | social | https://vk.com/psbank_ru |
+| ПромЭкспо | ивент агентство | https://eventcatalog.ru/agency/promekspo | phone | +7(495) 921-35-07 / +7(495) 662-53-15 |
+| Проспер | ивент агентство | https://eventcatalog.ru/agency/prosper | phone | +7(395) 294-12-51 / +7(395) 276-27-75 |
+| Просто | ивент агентство | https://eventcatalog.ru/agency/prosto | phone | +7(4212) 661-333 / +7(914) 182-87-84 |
 | Просторный двухуровневый зал для мероприятий | лофт | https://www.reveltime.ru/venue/9030250?eventtype=vecherinka | phone | +79346644195 |
 | Просторный зал 120 м² со сценой на Чистых прудах | лофт | https://www.loft2rent.ru/loft/74665 | phone | 89175091916 |
 | Просторный лофт  с двумя верандами и караоке | лофт | https://www.loft2rent.ru/loft/vinyl | phone | +7 9773592477 |
@@ -24085,6 +26454,8 @@
 | Пространство ВЕСНА | лофт | https://www.loft2rent.ru/loft/5676/6087 | phone | +7(929) 630-30-19 |
 | Пространство с большой террасой. | лофт | https://www.loft2rent.ru/loft/49928 | phone | 89031888081 |
 | ПРОСТРАНСТВОЛофт Пространство | лофт | https://www.loft2rent.ru/loft/171350/171353 | phone | +7 963 711-78-81 |
+| Простые люди | ивент агентство | https://eventcatalog.ru/agency/prostye_lyudi | phone | +7(906) 085-15-24 / +7(909) 903-70-70 |
+| Пруфикс | ивент агентство | https://eventcatalog.ru/agency/prufiks | phone | +7(499)350-01-94 |
 | Пряности & Радости | ресторан | https://ginza.ru/pryanosti | email | media@ginzaproject.com |
 | Пряности & Радости | ресторан | https://ginza.ru/pryanosti | email | service@ginzaproject.com |
 | Пряности & Радости | ресторан | https://ginza.ru/pryanosti | email | spb@ginzaproject.com |
@@ -24094,10 +26465,17 @@
 | Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | https://t.me/GinzaDS_Bot |
 | Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | https://t.me/spbginzaproject |
 | Пряности & Радости | ресторан | https://ginza.ru/pryanosti | social | https://vk.com/ginzaproject |
+| Прятки Event Studio | ивент агентство | https://eventcatalog.ru/agency/pryatki_event_studio | phone | +7(916)183-42-19 |
 | Псиклуб на Лесной 43304 кабинет | лофт | https://www.loft2rent.ru/loft/46249/109545 | phone | 89686078689 |
 | Псиклуб на Лесной 43421 кабинет / Псиклуб | лофт | https://www.loft2rent.ru/loft/46249/109547 | phone | 89686078689 |
 | Псиклуб на Лесной 43427 кабинет | лофт | https://www.loft2rent.ru/loft/46249/110506 | phone | 89686078689 |
 | Псиклуб на Лесной 43кабинет 441 | лофт | https://www.loft2rent.ru/loft/46249/46251 | phone | 89686078689 |
+| Птица в руке | ивент агентство | https://eventcatalog.ru/agency/ptica_v_ruke | phone | +7(495) 514-47-86 / +7(916) 665-75-92 |
+| Птички | ивент агентство | https://eventcatalog.ru/agency/ptichki | phone | +7(903)710-14-98 |
+| Пумба-Юмба | ивент агентство | https://eventcatalog.ru/agency/pumba-yumba | phone | +7(38096) 788-84-72 |
+| Пунш | ивент агентство | https://eventcatalog.ru/agency/punsh | phone | +7(056) 374-74-47 / +7(097) 961-65-99 |
+| Пунш! | ивент агентство | https://eventcatalog.ru/agency/punsh-1 | phone | +7(097) 961-65-99 |
+| Путешествие в Средневековье | ивент агентство | https://eventcatalog.ru/agency/puteshestvie_v_srednevekovje | phone | +7(032) 225-83-79 / +7(097) 701-50-51 |
 | ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://t.me/pushkina_polina |
 | ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://vk.com/pushkina.wedding |
 | ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://wa.me/79206146699?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%21%20%D0%A5%D0%BE%D1%82%D0%B5%D0%BB%D0%BE%D1%81%D1%8C%20%D0%B1%D1%8B%20%D0%BE%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C%20%D1%81%20%D0%B2%D0%B0%D0%BC%D0%B8%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E%20%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B |
@@ -24110,20 +26488,33 @@
 | ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://t.me/pushkina_polina?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ПУШКИНА ПОЛИНА | wedding planner / event producer | http://pushkina-wedding.ru | social | https://www.instagram.com/pushkina.wedding |
 | ПушкинскаяПомещение для мероприятий в центе Москвы  2 мин от метро | лофт | https://www.loft2rent.ru/loft/170771/170773 | phone | +79031303133 |
+| ПЦ Премьер | ивент агентство | https://eventcatalog.ru/agency/pc_premjer | phone | +7(343) 222-02-32 / +7(343) 264-83-69 |
 | Пчёлкилофт Пчелки | лофт | https://www.loft2rent.ru/loft/105464/105466 | phone | 8(916)508-03-15 |
+| Пэйнтлэнд Парк | ивент агентство | https://eventcatalog.ru/agency/peyntlend_park | phone | +7(495) 926-81-11 / +7(495) 741-20-88 |
+| Пять Звезд | ивент агентство | https://eventcatalog.ru/agency/pyatj_zvezd | phone | +7(495)744-11-50 |
 | Пёрпл - большой зал, цветочной фотозоной, громкой музыкой, диско-шаром и караоке! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
+| Рehome | ивент агентство | https://eventcatalog.ru/agency/rehome | phone | +7(812) 947-70-19 |
 | Рolygon EVENT / ПолигонАпартаменты | лофт | https://www.loft2rent.ru/loft/171856/171858 | phone | +79217739994 |
 | Рolygon EVENT / ПолигонМарокко | лофт | https://www.loft2rent.ru/loft/171856/171867 | phone | +79217739994 |
 | Рolygon EVENT / ПолигонРинг | лофт | https://www.loft2rent.ru/loft/171856/171862 | phone | +79217739994 |
 | Рolygon EVENT / ПолигонЭко-Лофт | лофт | https://www.loft2rent.ru/loft/171856/171864 | phone | +79217739994 |
+| РА Zoom | ивент агентство | https://eventcatalog.ru/agency/ra_zoom | phone | +7(495) 981-48-38 |
 | РавновесиеЗемля | лофт | https://www.loft2rent.ru/loft/198307/198312 | phone | 89858838552 |
 | РавновесиеЛуна | лофт | https://www.loft2rent.ru/loft/198307/198316 | phone | 89858838552 |
+| Радуга | ивент агентство | https://eventcatalog.ru/agency/raduga | phone | +7(351) 255-57-17 / +7(922) 697-81-88 |
+| Радуга _ | ивент агентство | https://eventcatalog.ru/agency/raduga-1 | phone | +7(916) 160-44-60 / +7(496) 644-49-28 |
+| Радуга Eventa | ивент агентство | https://eventcatalog.ru/agency/raduga_eventa | phone | +7(495) 507 56 99 / +7(495) 544-78-89 |
+| Радуга Желаний | ивент агентство | https://eventcatalog.ru/agency/raduga_zhelaniy | phone | +7(3952)93-23-22 / +7(904)155-98-87 |
+| Развеселим | ивент агентство | https://eventcatalog.ru/agency/razveselim | phone | +7(985) 255-25-59 / +7(915) 255-25-59 |
+| Разгуляй | ивент агентство | https://eventcatalog.ru/agency/razgulyay | phone | +7(495) 768-20-53 / +7(905) 568-33-05 |
 | РайзАпРайзАп | лофт | https://www.loft2rent.ru/loft/84685/84701 | phone | +7 9964160789 |
 | Райффайзенбанк | банк | https://raiffeisen.ru | phone | +7 (495) 777-17-17 |
 | Райффайзенбанк | банк | https://raiffeisen.ru | phone | +7 (800) 700-17-17 |
 | Райффайзенбанк | банк | https://raiffeisen.ru | social | http://t.me/Raiffeisenbankrus |
 | Райффайзенбанк | банк | https://raiffeisen.ru | social | https://t.me/Raiffeisenbankrus |
 | Райффайзенбанк | банк | https://raiffeisen.ru | social | https://vk.com/raiffeisenbankrus |
+| Распутин | ивент агентство | https://eventcatalog.ru/agency/rasputin | phone | +7(383) 269-28-45 / +7(923) 108-80-13 |
+| Ратоборцы | ивент агентство | https://eventcatalog.ru/agency/ratoborcy | phone | +7(495) 589-54-41 / +7(903) 220-62-00 |
 | Реактор \ | Тропарёво. Пространство праздников и активных развлечений. | лофт | https://www.loft2rent.ru/loft/182884 | phone |
 | Реалист Банк | организация | https://realistbank.ru | email | a.muzalevskaya@realistbank.ru |
 | Реалист Банк | организация | https://realistbank.ru | email | award-1@2x.png |
@@ -24146,7 +26537,13 @@
 | РЕД лофт | лофт | https://www.loft2rent.ru/loft/134158 | phone | +79035848913 |
 | Резиденция | лофт | https://www.loft2rent.ru/loft/44815 | phone | +79164961191 |
 | Резиденция | лофт | https://www.loft2rent.ru/loft/97743 | phone | +79055733733 |
+| Реинфо | ивент агентство | https://eventcatalog.ru/agency/reinfo | phone | +7(862)262-20-42 |
+| Рейтинг | ивент агентство | https://eventcatalog.ru/agency/reyting | phone | +7(831)419-53-24 / +7(831)419-77-20 |
+| Рекламафф | ивент агентство | https://eventcatalog.ru/agency/reklamaff | phone | +7(495) 998-17-03 / +7(916) 814-25-67 |
+| Рекламная группа Мы | ивент агентство | https://eventcatalog.ru/agency/reklamnaya_gruppa_my | phone | +7(911) 457-74-92 / +7(401) 221-32-03 |
 | Рент-Лофт. TangoMio (ТангоМио) | лофт | https://www.reveltime.ru/venue/1465312?eventtype=vecherinka | phone | +79019397046 |
+| Респектив | ивент агентство | https://eventcatalog.ru/agency/respektiv | phone | +7(487) 238-41-52 |
+| РЕСТ | ивент агентство | https://eventcatalog.ru/agency/rest | phone | +7(924)210-17-00 / +7(4212)61-12-03 |
 | Ресто-лаунж "Мятный Енот""Сакура" | лофт | https://www.loft2rent.ru/loft/157829/157872 | phone | 89100050014 |
 | Ресто-лаунж "Мятный Енот"Vip-комната "Ночь" | лофт | https://www.loft2rent.ru/loft/157829/157905 | phone | 89100050014 |
 | Ресто-лаунж "Мятный Енот"Вип-комната "День" | лофт | https://www.loft2rent.ru/loft/157829/157897 | phone | 89100050014 |
@@ -24199,7 +26596,9 @@
 | РИА Новости | информационное агентство | https://ria.ru | social | https://www.youtube.com/user/rianovosti |
 | РИА Новости | информационное агентство | https://ria.ru | social | https://x.com/riabreakingnews |
 | РИА Новости | информационное агентство | https://ria.ru | social | https://x.com/rianru |
+| РиМ | ивент агентство | https://eventcatalog.ru/agency/rim | phone | +7(495) 258-47-57 / +7(906) 729-23-11 |
 | Рихард | лофт | https://www.loft2rent.ru/loft/2518 | phone | +79689739030 |
+| Риц-Медиа | ивент агентство | https://eventcatalog.ru/agency/ric-media | phone | +7(342) 294-32-73 |
 | РК-19 | лофт | https://www.loft2rent.ru/loft/77474 | phone | +79264661718 |
 | РКК «Энергия» | организация | https://www.energia.ru | email | post@rsce.ru |
 | РКК «Энергия» | организация | https://www.energia.ru | social | https://dzen.ru/energia |
@@ -24214,6 +26613,9 @@
 | РНКБ | организация | https://rncb.ru | social | https://vk.com/im?sel=-22749457 |
 | РНКБ | организация | https://rncb.ru | social | https://vk.com/vtb |
 | Роден - Трехуровневый лофт в стиле Industrial | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
+| Родные Просторы | ивент агентство | https://eventcatalog.ru/agency/rodnye_prostory | phone | +7(495) 784-92-00 / +7(495) 643-89-12 |
+| Розовый слон | ивент агентство | https://eventcatalog.ru/agency/rozovyy_slon | phone | +7(906)058-27-64 / +7(916)567-59-07 |
+| Роксбери Клуб | ивент агентство | https://eventcatalog.ru/agency/roksberi_klub | phone | +7(901) 523-89-40 |
 | Романи | отель | https://ostrovok.ru/hotel/russia/moscow/mid8568856/_0x60fd4 | address | 5-я Парковая ул., д. 28, лит. А, Москва |
 | Романс | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Романтический лофт на 55 этаже Москва-Сити Neva Towers (Moscow city Neva Towers) | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
@@ -24247,10 +26649,14 @@
 | Росагролизинг | организация | https://www.rosagroleasing.ru | social | https://t.me/rosagroleasing |
 | Росагролизинг | организация | https://www.rosagroleasing.ru | social | https://vk.com/rosagroleasing |
 | Росагролизинг | организация | https://www.rosagroleasing.ru | social | https://www.youtube.com/ROSAGROLEASING |
+| Росарт групп | ивент агентство | https://eventcatalog.ru/agency/rosart_grupp | phone | +7(499) 978-11-34 |
 | Росбанк | банк | https://rosbank.ru | phone | +7 (800) 770-75-00 |
 | РосДорБанк | организация | https://rdb.ru | phone | +7 (495) 276-00-22 |
+| РосИвент | ивент агентство | https://eventcatalog.ru/agency/rosivent | phone | +7(963)755-10-55 / +7(925)003-76-71 |
+| РосКомПраздник | ивент агентство | https://eventcatalog.ru/agency/roskomprazdnik | phone | +7(863) 255-99-59 |
 | Роскошный апартамент в Москва сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Роскошный лофт в особняке Рокфеллер | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Росмедиа | ивент агентство | https://eventcatalog.ru/agency/rosmedia | phone | +7(495)778-10-09 |
 | Россельхозбанк | банк | https://rshb.ru | email | office@rshb.ru |
 | Россельхозбанк | банк | https://rshb.ru | email | u003eoffice@rshb.ru |
 | Россельхозбанк | банк | https://rshb.ru | phone | +7 (495) 787-77-87 |
@@ -24275,11 +26681,13 @@
 | Россети Московский регион | организация | https://rossetimr.ru | social | https://rutube.ru/channel/24148141 |
 | Россети Московский регион | организация | https://rossetimr.ru | social | https://t.me/rossetimr_ru |
 | Россети Московский регион | организация | https://rossetimr.ru | social | https://vk.com/rossetimr |
+| Российская Компания Событий | ивент агентство | https://eventcatalog.ru/agency/rossiyskaya_kompaniya_sobytiy | phone | +7(951) 592-79-05 |
 | Ростех | государственная корпорация | https://www.rostec.ru | email | info@rostec.ru |
 | Ростех | государственная корпорация | https://www.rostec.ru | email | pressa@rostec.ru |
 | Ростех | государственная корпорация | https://www.rostec.ru | phone | +7 (495) 287-25-25 |
 | Ростех | государственная корпорация | https://www.rostec.ru | social | https://rutube.ru/channel/23614912 |
 | Ростех | государственная корпорация | https://www.rostec.ru | social | https://vk.com/rostec_ru |
+| Рука и сердце | ивент агентство | https://eventcatalog.ru/agency/ruka_i_serdce | phone | +7(499)343-71-34 |
 | Русал | металлургическая компания | https://www.rusal.ru | email | documents@rusal.com |
 | Русал | металлургическая компания | https://www.rusal.ru | email | sales@rusal.com |
 | Русал | металлургическая компания | https://www.rusal.ru | email | signal@rusal.com |
@@ -24292,6 +26700,7 @@
 | Русал | металлургическая компания | https://www.rusal.ru | social | https://t.me/rusal_life |
 | Русал | металлургическая компания | https://www.rusal.ru | social | https://vk.com/ucrusal |
 | Русал | металлургическая компания | https://www.rusal.ru | social | https://www.youtube.com/RUSALGLOBALLEADER |
+| Русская Ивенторская Компания | ивент агентство | https://eventcatalog.ru/agency/russkaya_iventorskaya_kompaniya | phone | +7(915) 417-77-41 / +7(915) 410-00-41 |
 | Русская Медиагруппа | медиахолдинг | https://rmg.ru | email | adv@rr.ru |
 | Русская Медиагруппа | медиахолдинг | https://rmg.ru | email | marketing@rmg.ru |
 | Русская Медиагруппа | медиахолдинг | https://rmg.ru | email | music@rr.ru |
@@ -24300,26 +26709,40 @@
 | Русская Медиагруппа | медиахолдинг | https://rmg.ru | email | region@rr.ru |
 | Русская Медиагруппа | медиахолдинг | https://rmg.ru | email | rmg.support@rr.ru |
 | Русская Медиагруппа | медиахолдинг | https://rmg.ru | phone | +7 (499) 579-77-09 |
+| Русские Забавы | ивент агентство | https://eventcatalog.ru/agency/russkie_zabavy | phone | +7(964)579-59-59 |
+| Русский Ивент | ивент агентство | https://eventcatalog.ru/agency/russkiy_ivent | phone | +7(812) 921-26-00 / +7(906) 243-80-00 |
+| Русский праздник | ивент агентство | https://eventcatalog.ru/agency/russkiy_prazdnik | phone | +7(911)248-71-98 / +7(911)931-20-42 |
 | Русский Стандарт | банк | https://rsb.ru | phone | +7 (495) 748-07-48 |
 | Русский Стандарт | банк | https://rsb.ru | social | http://vk.com/rsb |
 | Русский Стандарт | банк | https://rsb.ru | social | http://www.ok.ru/rsb |
 | Русский Стандарт | банк | https://rsb.ru | social | https://rutube.ru/channel/30683510 |
 | Русский Стандарт | банк | https://rsb.ru | social | https://t.me/russianstandard_bank |
+| Русский стиль | ивент агентство | https://eventcatalog.ru/agency/russkiy_stilj | phone | +7(903) 736-34-45 |
 | Руссо - Камерный «Бали», большой и светлый лофт с настроением лета | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | Рыбторг | ресторан | https://rybtorg.moscow/ | phone | +79651769777 |
+| Рыжая ворона | ивент агентство | https://eventcatalog.ru/agency/ryzhaya_vorona | phone | +7(950) 476-47-47 / +7(902) 833-56-22 |
+| Рыжий Апельсин | ивент агентство | https://eventcatalog.ru/agency/ryzhiy_apeljsin | phone | +7(926)753-57-67 / +7(916)345-03-08 |
 | Рыцарский замок в Лисьем носу | лофт | https://www.loft2rent.ru/loft/144429/144523 | phone | +7 812 642 07 23 |
 | РЯБОВ ЛОФТ | лофт | https://www.loft2rent.ru/loft/28030 | phone | +7 (495) 798-51-81 |
 | Сад | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Саджива дрим | лофт | https://www.loft2rent.ru/loft/160136/160155 | phone | 89319930030 |
+| Саид Афра | ивент агентство | https://eventcatalog.ru/agency/said_afra | phone | +7(965) 305-28-35 / +7(926) 013-73-85 |
+| Саймон | ивент агентство | https://eventcatalog.ru/agency/saymon | phone | +7(914) 497-72-20 |
 | Сакура PlaceSakura Place | лофт | https://www.loft2rent.ru/loft/62922/202296 | phone | +7 (968) 525-40-90 |
 | Сакура PlaceДракон Сити | лофт | https://www.loft2rent.ru/loft/62922/63154 | phone | +7 (968) 525-40-90 |
 | Салем | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Салон изящных поздравлений Лидии Бушуевой | ивент агентство | https://eventcatalog.ru/agency/salon_izyawnyh_pozdravleniy_lidii_bushuevoy | phone | +7(926) 071-85-57 |
 | Салон Усачева "Система Ценностей" | лофт | https://www.loft2rent.ru/loft/171228/171230 | phone | +79039615585 |
+| Сам | ивент агентство | https://eventcatalog.ru/agency/sam | phone | +7(495)226-88-55 / +7(919)777-02-92 |
 | Самобранка ЛофтЛофт Самобранка | лофт | https://www.loft2rent.ru/loft/174602/174605 | phone | +79035281880 |
+| Сара | ивент агентство | https://eventcatalog.ru/agency/sara | phone | +7(495)776-32-27 / +7(985)776-32-27 |
 | Сафмар Аврора Люкс (бывший Марриотт Ройал Аврора) | отель | https://ostrovok.ru/hotel/russia/moscow/mid7597450/gostinitsa_marriott_roiial_avrora | address | улица Петровка, 11, Москва |
 | Сафмар Грандъ Москва (бывший Марриотт Гранд) | отель | https://ostrovok.ru/hotel/russia/moscow/mid11231733/safmar_grand_moscow_exmarriott_grand | address | ул. Тверская, 26/1, Москва |
 | Сахалин | ресторан | https://sakhalin-moscow.ru/ | phone | +74956476479 |
 | Сахли | ресторан / бар | http://sahli.ru/ | phone | +74956994503 |
+| Сачковский Хаус | ивент агентство | https://eventcatalog.ru/agency/sachkovskiy_haus | phone | +7(891) 275-99-55 |
+| СВ-Арт | ивент агентство | https://eventcatalog.ru/agency/sv-art | phone | +7(903)432-80-72 / +7(918)591-09-57 |
+| Свабный Гуру | ивент агентство | https://eventcatalog.ru/agency/svabnyy_guru | phone | +7(499)394-37-38 |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | +7 (915) 214-59-52 |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | phone |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://t.me/Kate_i_Leo |
@@ -24328,6 +26751,8 @@
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | phone | +7 (916) 394-37-85 |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://t.me/leo_organisation?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%A1%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | СВАДЕБНОЕ АГЕНТСТВО KATE&LEO | свадебное агентство | http://kate-i-leo.ru | social | https://www.instagram.com/kate.i.leo |
+| Свадебное агентство Гарика Шаповалова | ивент агентство | https://eventcatalog.ru/agency/svadebnoe_agentstvo_garika_shapovalova | phone | +7(499)755-81-36 |
+| Свадебное агентство Ксении Молокановой | ивент агентство | https://eventcatalog.ru/agency/svadebnoe_agentstvo_ksenii_molokanovoy | phone | +7(977)885-50-53 |
 | СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | email | email |
 | СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | email | light.wed@yandex.ru |
 | СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | phone | +7 (926) 654-34-39 |
@@ -24341,9 +26766,17 @@
 | СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | phone | +7 (926) 654-34-39 |
 | СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://t.me/lightwed?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%A1%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | СВАДЕБНОЕ АГЕНТСТВО “LIGHT WED” | свадебное агентство | http://light-wed.ru | social | https://www.instagram.com/light__wed |
+| Свадебные Инженеры | ивент агентство | https://eventcatalog.ru/agency/svadebnye_inzhenery | phone | +7(911)212-83-75 / +7(904)513-17-73 |
 | Свадебный Белый Лофт | лофт | https://www.loft2rent.ru/loft/5676 | phone | +7(929) 630-30-19 |
+| Свадьба TV | ивент агентство | https://eventcatalog.ru/agency/svadjba_tv | phone | +7(918) 463-55-90 |
+| Свадьба Мечты | ивент агентство | https://eventcatalog.ru/agency/svadjba_mechty | phone | +7(909) 974-74-40 |
+| Свадьба Петербург | ивент агентство | https://eventcatalog.ru/agency/svadjba_peterburg | phone | +7(911)925-47-22 |
+| Свадьбы ручной работы | ивент агентство | https://eventcatalog.ru/agency/svadjby_ruchnoy_raboty | phone | +7(495) 227-35-37 |
+| Сверхновая | ивент агентство | https://eventcatalog.ru/agency/sverhnovaya | phone | +7(831) 413-79-17 |
 | Свети Прима | лофт | https://www.loft2rent.ru/loft/156268 | phone | +79111207195 |
 | Светлая фотостудия для ваших мероприятий | лофт | https://www.reveltime.ru/venue/5684782?eventtype=vecherinka | phone | +79910172113 |
+| Светлые Головы | ивент агентство | https://eventcatalog.ru/agency/svetlye_golovy-1 | phone | +7(922) 728-40-24 / +7(952) 728-76-28 |
+| Светлые головы | ивент агентство | https://eventcatalog.ru/agency/svetlye_golovy | phone | +7(922) 728-40-24 / +7(952) 728-76-28 |
 | Светлый Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Светлый зал 33 м² на Чистых прудах для любых мероприятий | лофт | https://www.loft2rent.ru/loft/74665 | phone | 89175091916 |
 | Светлый и просторный лофт в Москва-Сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
@@ -24351,9 +26784,18 @@
 | Светлый Лофт Грейс в особняке на автозаводской | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Светлый лофт для мероприятий Gallery | лофт | https://www.loft2rent.ru/loft/151727 | phone | 89031959349 |
 | Светлый лофт-кондитерская MYSS на Ходынском поле | лофт | https://www.loft2rent.ru/loft/32748/32763 | phone | +7 9296319718 |
+| Светский | ивент агентство | https://eventcatalog.ru/agency/svetskiy | phone | +7(937)282-37-82 |
+| Светский раут | ивент агентство | https://eventcatalog.ru/agency/svetskiy_raut | phone | +7(499) 408-25-16 |
 | СВОБОДА | лофт | https://www.loft2rent.ru/loft/189037/189198 | phone | +79263427655 |
+| Свои люди | ивент агентство | https://eventcatalog.ru/agency/svoi_lyudi | phone | +7(343)288-26-42 |
+| Свои Люди Сочи | ивент агентство | https://eventcatalog.ru/agency/svoi_lyudi_sochi | phone | +7(985)417-65-54 / +7(862)233-25-30 |
+| Своя История | ивент агентство | https://eventcatalog.ru/agency/svoya_istoriya | phone | +7(961)631-00-31 |
 | Своё Поле | лофт | https://www.loft2rent.ru/loft/99752/99755 | phone | +7 915 024 3868 |
+| Свыше | ивент агентство | https://eventcatalog.ru/agency/svyshe | phone | +7(812)715-27-67 |
+| Связи | ивент агентство | https://eventcatalog.ru/agency/svyazi | phone | +7(495)198-91-89 |
 | Север | лофт | https://www.loft2rent.ru/loft/188668/188670 | phone | 89631422682 |
+| Северная Пальмира | ивент агентство | https://eventcatalog.ru/agency/severnaya_paljmira | phone | +7(812) 449-01-59 / +7(812) 448-36-27 |
+| Северное сияние | ивент агентство | https://eventcatalog.ru/agency/severnoe_siyanie | phone | +7(343) 222-00-55 / +7(343) 222-00-99 |
 | Северяне | ресторан | https://severyane.moscow/ | phone | +79771919116 |
 | Севилья. Уютный лофт с мебелью и светомузыкой. | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
 | Севкабель Порт | креативное пространство | https://sevcableport.ru | email | hey@sevcableport.ru |
@@ -24363,6 +26805,9 @@
 | Севкабель Порт | креативное пространство | https://sevcableport.ru | social | https://t.me/sevcableport |
 | Севкабель Порт | креативное пространство | https://sevcableport.ru | social | https://vk.com/sevcableport |
 | Севкабель Порт | креативное пространство | https://sevcableport.ru | social | https://www.youtube.com/channel/UCICIe5WMXtPN8sA00rxgLSQ |
+| Седора | ивент агентство | https://eventcatalog.ru/agency/sedora | phone | +7(495)778-95-53 |
+| Секрет успеха | ивент агентство | https://eventcatalog.ru/agency/sekret_uspeha | phone | +7(495) 364-10-20 / +7(915) 190-23-84 |
+| Сектор | ивент агентство | https://eventcatalog.ru/agency/sektor | phone | +7(495) 695-69-25 / +7(495) 691-71-21 |
 | Селфи Галерея | лофт | https://www.loft2rent.ru/loft/109523/115794 | phone | +7 929 909 4028 |
 | Семейный клуб РумикиСемейный лофт в Новых Химках | лофт | https://www.loft2rent.ru/loft/16185/34899 | phone | +79262776136 |
 | Семейный клуб РумикиСемейный лофт-клуб в Химках | лофт | https://www.loft2rent.ru/loft/16185/24251 | phone | +79262776136 |
@@ -24371,12 +26816,16 @@
 | Семейный лофт ВместеЛофт для бизнеса | лофт | https://www.loft2rent.ru/loft/130651/133530 | phone | +79852832090 |
 | Семейный лофт на Афонской 25 | лофт | https://www.loft2rent.ru/loft/80503 | phone | 509-60-13 (доп 1) |
 | Семейный лофт Сказочный Домик | лофт | https://www.loft2rent.ru/loft/177124/177126 | phone | +79932815458 |
+| Семицветик | ивент агентство | https://eventcatalog.ru/agency/semicvetik | phone | +7(903)277-72-03 |
+| Сервис Событий С4 | ивент агентство | https://eventcatalog.ru/agency/servis_sobytiy_s4 | phone | +7(495)544-51-33 |
 | Середниково | ивент-спейс | https://serednikovo.su | phone | +7 (925) 162-90-53 |
 | Середниково | ивент-спейс | https://serednikovo.su | phone | +7 (926) 680-66-90 |
 | Середниково | ивент-спейс | https://serednikovo.su | social | https://vk.com/club166267857 |
 | Середниково | ивент-спейс | https://serednikovo.su | social | https://vk.com/wall461629099_457 |
 | Середниково | ивент-спейс | https://serednikovo.su | social | https://www.facebook.com/usadba.serednikovo |
 | Середниково | ивент-спейс | https://serednikovo.su | social | https://www.instagram.com/serednikovo |
+| Серж и Барбара | ивент агентство | https://eventcatalog.ru/agency/serzh_i_barbara | phone | +7(861)292-01-14 |
+| Серпантин | ивент агентство | https://eventcatalog.ru/agency/serpantin | phone | +7(831) 413-87-67 / +7(951) 909-39-09 |
 | СЕРЫЙ | лофт | https://www.loft2rent.ru/loft/15054 | phone | +79035558942 |
 | Серый минималистичный лофт с кухней (лофт РАЛЬФ) | лофт | https://www.loft2rent.ru/loft/1564 | phone | 8 (939)888-00-08 |
 | Сеть офисных центров "Деловой"Переговорная комната в Омега плаза (Автозаводская) | лофт | https://www.loft2rent.ru/loft/46436/46759 | phone | +7 (495) 988-07-32 |
@@ -24405,6 +26854,7 @@
 | СИБУР Холдинг | нефтехимическая компания | https://www.sibur.ru | social | http://www.youtube.com/user/SiburHolding |
 | СИБУР Холдинг | нефтехимическая компания | https://www.sibur.ru | social | https://t.me/siburofficial |
 | СИБУР Холдинг | нефтехимическая компания | https://www.sibur.ru | social | https://vk.com/career.sibur |
+| Сильная Реклама | ивент агентство | https://eventcatalog.ru/agency/siljnaya_reklama | phone | +7(865) 251-07-07 / +7(865) 250-07-07 |
 | Символ | лофт | https://www.loft2rent.ru/loft/174146/174164 | phone | +79776811850 |
 | Синара Банк | банк | https://sinarabank.ru | email | a@61.ru |
 | СИНОБИ лофт | лофт | https://www.loft2rent.ru/loft/186117/186129 | phone | +7 (903) 589-53-00 |
@@ -24413,27 +26863,47 @@
 | Системный оператор ЕЭС | организация | https://so-ups.ru | social | https://rutube.ru/channel/24096838 |
 | Системный оператор ЕЭС | организация | https://so-ups.ru | social | https://t.me/so_ups_official |
 | Системный оператор ЕЭС | организация | https://so-ups.ru | social | https://vk.com/so_ups_official |
+| Сити Квест | ивент агентство | https://eventcatalog.ru/agency/siti_kvest | phone | +7(050) 333-69-27 / +7(044) 223-13-01 |
 | Сити Отель 1905 | отель | https://ostrovok.ru/hotel/russia/moscow/mid8869200/city_hotel_1905 | address | Шмитовский проезд, д. 3, строение 1, Москва |
+| СитиШоу | ивент агентство | https://eventcatalog.ru/agency/sitishou | phone | +7(351)731-70-51 / +7(904)800-87-94 |
 | Сицилия | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
+| Скажена Котяка | ивент агентство | https://eventcatalog.ru/agency/skazhena_kotyaka | phone | +7(044) 222-86-80 / +7(067) 353-66-55 |
 | Сказка | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Сказка | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Сказка | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
+| Сказка в гости | ивент агентство | https://eventcatalog.ru/agency/skazka_v_gosti | phone | +7(910)407-28-99 |
+| Сказочный город | ивент агентство | https://eventcatalog.ru/agency/skazochnyy_gorod | phone | +7(916)991-00-25 |
 | Сказочный лес | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
+| Сказочный праздник | ивент агентство | https://eventcatalog.ru/agency/skazochnyy_prazdnik | phone | +7(916)798-18-30 / +7(968)704-77-49 |
 | Скандинавское | лофт | https://www.loft2rent.ru/loft/30979 | phone | +7 9936053121 |
 | Скарфейс. Светлый лофт | лофт | https://www.reveltime.ru/venue/9034989?eventtype=vecherinka | phone | +79911714217 |
 | Скиния Спейс | лофт | https://www.loft2rent.ru/loft/201426/201447 | phone | +7 (916) 515-11-10 |
 | Склад №3 | лофт | https://www.loft2rent.ru/loft/165296/165298 | phone | 89100879032 |
 | Славия | организация | https://slaviabank.ru | phone | +7 (495) 787-33-33 |
 | Славия | организация | https://slaviabank.ru | phone | +7 (495) 969-24-15 |
+| Слон | ивент агентство | https://eventcatalog.ru/agency/slon | phone | +7(904) 641-92-02 / +7(812) 716-23-67 |
+| Слоновая кость | ивент агентство | https://eventcatalog.ru/agency/slonovaya_kostj | phone | +7(812)982-00-42 |
+| Смайл | ивент агентство | https://eventcatalog.ru/agency/smayl | phone | +7(925)800-83-42 |
+| Смайлик | ивент агентство | https://eventcatalog.ru/agency/smaylik | phone | +380(96)955-07-17 / +380(63)614-10-36 |
+| Смешарики | ивент агентство | https://eventcatalog.ru/agency/smeshariki | phone | +7(926) 009-24-77 / +7(916) 783-81-02 |
+| Смешинки | ивент агентство | https://eventcatalog.ru/agency/smeshinki | phone | +7(380) 443-60-10 |
 | Снежинский | организация | https://snbank.ru | email | infocenter@snbank.ru |
+| Событие | ивент агентство | https://eventcatalog.ru/agency/sobytie | phone | +7(812) 622-05-30 / +7(906) 252-66-20 |
+| Событие _ | ивент агентство | https://eventcatalog.ru/agency/sobytie-2 | phone | +7(4212) 60-26-06 / +7 (962) 2 202 606 |
+| Событие __ | ивент агентство | https://eventcatalog.ru/agency/sobytie-3 | phone | +7(843) 240-26-02 |
 | СобытИКо | лофт | https://www.loft2rent.ru/loft/183995/183997 | phone | 89253413314 |
+| СОВА | ивент агентство | https://eventcatalog.ru/agency/sova | phone | +7(926)338-49-33 |
 | Современное дизайнерское пространство | лофт | https://www.reveltime.ru/venue/5178304?eventtype=vecherinka | phone | +79952220259 |
 | Современный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | СОГЛАСИЕ HALL | лофт | https://www.loft2rent.ru/loft/74542/74547 | phone | 8 (495) 150-45-91 |
+| Содействие | ивент агентство | https://eventcatalog.ru/agency/sodeystvie | phone | +7(495) 504-25-17 |
+| Содружество московских музыкантов | ивент агентство | https://eventcatalog.ru/agency/sodruzhestvo_moskovskih_muzykantov | phone | +7(495) 180-21-48 / +7(495) 647-99-34 |
+| Созвездие АРТ | ивент агентство | https://eventcatalog.ru/agency/sozvezdie_art | phone | +7(905) 757-91-22 |
 | Соколиная Нора. Антикафе | лофт | https://www.reveltime.ru/venue/5997203?eventtype=vecherinka | phone | +79386989873 |
 | Соколиная Нора. Большая комната | лофт | https://www.reveltime.ru/venue/5998037?eventtype=vecherinka | phone | +79386989873 |
 | Соколиная Нора. Мягкая комната | лофт | https://www.reveltime.ru/venue/5997624?eventtype=vecherinka | phone | +79386989873 |
 | Сол х Магнето | лофт | https://www.loft2rent.ru/loft/20616/26722 | phone | +79264277701 |
+| Солдатовы-свадьбы | ивент агентство | https://eventcatalog.ru/agency/soldatovy-svadjby | phone | +7(908)286-22-23 / +7(910)717-06-20 |
 | Солид Банк | организация | https://solidbank.ru | email | bank@solidbank.ru |
 | Солид Банк | организация | https://solidbank.ru | email | ckp@solidbank.ru |
 | Солид Банк | организация | https://solidbank.ru | phone | +7 (495) 232-37-23 |
@@ -24444,20 +26914,30 @@
 | Соллерс | автопроизводитель | https://sollers-auto.com | email | info@sollers-auto.com |
 | Соллерс | автопроизводитель | https://sollers-auto.com | phone | +7 (495) 228-30-45 |
 | Соллерс | автопроизводитель | https://sollers-auto.com | social | https://vk.com/sollers_group |
+| Солнечный круг | ивент агентство | https://eventcatalog.ru/agency/solnechnyy_krug | phone | +7(38067) 624-29-4 |
+| Солнечный Смех | ивент агентство | https://eventcatalog.ru/agency/solnechnyy_smeh | phone | +7(916) 161-80-22 / +7(965) 288-77-28 |
 | Солнце Севера | лофт | https://www.loft2rent.ru/loft/181998/182000 | phone | 89119805145 |
 | СОЛТ (SOLT) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
 | Соул лофт - уютный домик со своим двором в парке Малютин сад - метро Бауманская | лофт | https://www.loft2rent.ru/loft/42016 | phone | +7 (931) 111-81-02 |
+| Сочи Арт | ивент агентство | https://eventcatalog.ru/agency/sochi_art | phone | +7(918) 400-87-11 |
+| Сочи-Адлер | ивент агентство | https://eventcatalog.ru/agency/sochi-adler | phone | +7(988)503-77-46 |
+| Сочинение | ивент агентство | https://eventcatalog.ru/agency/sochinenie | phone | +7(918)404-09-26 / +7(965)475-49-58 |
 | СОЮЗ ХОЛЛ БОЛЬШОЙ ЗАЛ | лофт | https://www.loft2rent.ru/loft/196155 | phone | 84950040477 |
 | СОЮЗ ХОЛЛ МАЛЫЙ ЗАЛ | лофт | https://www.loft2rent.ru/loft/196155 | phone | 84950040477 |
 | Спецборт | лофт | https://www.loft2rent.ru/loft/76631 | phone | +79218888879 |
+| СПОРТ В ТЕБЕ | ивент агентство | https://eventcatalog.ru/agency/sport_v_tebe | phone | +7(495)662-96-13 |
 | Спорт-холл Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Спортивный зал Эви | лофт | https://www.loft2rent.ru/loft/155206 | phone | +79160876137 |
+| Способный | ивент агентство | https://eventcatalog.ru/agency/sposobnyy | phone | +7(985)786-01-45 |
 | Спэйс | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | Средний зал | лофт | https://www.loft2rent.ru/loft/142338 | phone | +7 (812) 240-78-80 |
 | Средний Лофт | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | СССР | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | ССТ-Центр | лофт | https://www.loft2rent.ru/loft/168241/175248 | phone | 89990087848 |
+| Стандарту.нет | ивент агентство | https://eventcatalog.ru/agency/standartu_net | phone | +7(902)482-78-54 / +7(902)483-81-21 |
+| СтандартФарма | ивент агентство | https://eventcatalog.ru/agency/standartfarma | phone | +7(861) 945-55-45 / +7(861) 243-18-66 |
 | Старая корова | ресторан / бар | https://t.me/cooperativemeat | phone | +79037473445 |
+| СтарСити | ивент агентство | https://eventcatalog.ru/agency/starsiti | phone | +7(383)375-59-50 |
 | Старт ХабАудитория № 2 на Красном Октябре | лофт | https://www.loft2rent.ru/loft/45041/103969 | phone | +7 (499) 455-24-03 |
 | Старт ХабАудитория № 5 на Красном Октябре | лофт | https://www.loft2rent.ru/loft/45041/165387 | phone | +7 (499) 455-24-03 |
 | Старт ХабБар "Депо. Три вокзала" | лофт | https://www.loft2rent.ru/loft/45041/173082 | phone | +7 (499) 455-24-03 |
@@ -24468,6 +26948,7 @@
 | Старт ХабУчебная аудитория №1 на Красном Октябре | лофт | https://www.loft2rent.ru/loft/45041/45052 | phone | +7 (499) 455-24-03 |
 | Старт ХабУчебная аудитория №3 на Красном Октябре | лофт | https://www.loft2rent.ru/loft/45041/68295 | phone | +7 (499) 455-24-03 |
 | Старт ХабУчебная аудитория №4 на Красном Октябре | лофт | https://www.loft2rent.ru/loft/45041/68299 | phone | +7 (499) 455-24-03 |
+| Статус Лаб | ивент агентство | https://eventcatalog.ru/agency/status_lab | phone | +7(495)111-11-11 |
 | Статусный лофт МАВИ на Ордынке | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 999 405 0699 |
 | Стеклянный лофт "ВОЗДУХ" под мероприятия | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Стилизованный лофт с отдельным входом | лофт | https://www.reveltime.ru/venue/3021620?eventtype=vecherinka | phone | +79259575977 |
@@ -24477,6 +26958,7 @@
 | Стильный бар Бард Укулеле для вашего мероприятия! | лофт | https://www.loft2rent.ru/loft/140271 | phone | +79959196886 |
 | Стильный большой зал ДЮНА и Персид с стеклянным баром | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
 | Стильный зонированый зал ДЖАВАНДИ | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
+| Стильный каприз | ивент агентство | https://eventcatalog.ru/agency/stiljnyy_kapriz | phone | +7(343) 290-96-19 / +7(909) 00-11-919 |
 | Стильный лофт "Венеция" / Эстетика и уют / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | Стильный лофт "Гринвуд" с неоном и караоке / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
 | Стильный лофт ГЛАМУР | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
@@ -24489,8 +26971,11 @@
 | Стильный лофт-зал на Бауманской | лофт | https://www.reveltime.ru/venue/6778427?eventtype=vecherinka | phone | +79019317663 |
 | Стильный многофункциональный лофт | лофт | https://www.reveltime.ru/venue/7558312?eventtype=vecherinka | phone | +79584973975 |
 | Стильный уютный зал для вашего события рядом с метро Дмитровская | лофт | https://www.loft2rent.ru/loft/155206 | phone | +79160876137 |
+| СТО Конгресс | ивент агентство | https://eventcatalog.ru/agency/sto_kongress | phone | +7(495)646-01-55 |
 | Столица | лофт | https://www.loft2rent.ru/loft/176325/176327 | phone | +7 (953) 858-15-51 |
+| Столичная фабрика праздника | ивент агентство | https://eventcatalog.ru/agency/stolichnaya_fabrika_prazdnika | phone | +7(903) 228-00-45 / +7(926) 422-70-17 |
 | СТОУН (STONE) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
+| Страна OZ | ивент агентство | https://eventcatalog.ru/agency/strana_oz | phone | +7(912) 444-77-07 / +7(912) 856-88-55 |
 | Стрит-Арт | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | СТС Медиа | медиахолдинг | https://ctcmedia.ru | email | info@ctcmedia.ru |
 | СТС Медиа Production | организация | https://ctcmedia.ru | email | info@ctcmedia.ru |
@@ -24505,7 +26990,14 @@
 | Студия достижений ТУДАЗал для тренингов и семинаров | лофт | https://www.loft2rent.ru/loft/192425/192428 | phone | +79663164223 |
 | Студия йоги и женских практик Храм Женщин | лофт | https://www.loft2rent.ru/loft/169857/169861 | phone | 87991186986 |
 | Студия Парус. Музыкальный лаунж лофт | лофт | https://www.reveltime.ru/venue/3017747?eventtype=vecherinka | phone | +79346657019 |
+| Студия праздника Fiesta | ивент агентство | https://eventcatalog.ru/agency/studiya_prazdnika_fiesta | phone | +7(495)789-26-04 / +7(916)453-49-23 |
+| Студия Праздника Елены Фаенок | ивент агентство | https://eventcatalog.ru/agency/studiya_prazdnika_eleny_faenok | phone | +7(904) 308-52-92 / +7(351) 238-32-88 |
+| Студия Праздников | ивент агентство | https://eventcatalog.ru/agency/studiya_prazdnikov | phone | +7(926) 614-29-90 |
+| Студия РТ+ | ивент агентство | https://eventcatalog.ru/agency/studiya_rt | phone | +7(495) 682-47-72 / +7(495) 686-07-83 |
+| Студия Сюрприз | ивент агентство | https://eventcatalog.ru/agency/studiya_syurpriz | phone | +7(831)422-81-04 / +7(831)422-81-05 |
 | Студия Том Сойер | лофт | https://www.loft2rent.ru/loft/70039/70047 | phone | 89122932755 |
+| Студия Труфальдино | ивент агентство | https://eventcatalog.ru/agency/studiya_trufaljdino | phone | +7(495) 931-90-02 |
+| Студия хорошего настроения | ивент агентство | https://eventcatalog.ru/agency/studiya_horoshego_nastroeniya | phone | +7(495) 518-57-90 / +7(495) 597-23-24 |
 | СтудияСтудия НАТ | лофт | https://www.loft2rent.ru/loft/197636/197642 | phone | +79817464074 |
 | Супер скидки до 15 июня.Камерная площадка. Все под ключ. | лофт | https://www.loft2rent.ru/loft/128345 | phone | +7-985-034-53-30 |
 | Сургутнефтегазбанк | организация | https://sngb.ru | social | http://vk.com/surgutneftegasbank |
@@ -24514,9 +27006,14 @@
 | Сфера | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | сфера | лофт | https://www.loft2rent.ru/loft/172102/172109 | phone | +79269540354 |
 | СФЕРА | лофт | https://www.loft2rent.ru/loft/174187/174190 | phone | +79166399660 |
+| Сфера влияния | ивент агентство | https://eventcatalog.ru/agency/sfera_vliyaniya | phone | +7(812) 332-97-60 |
+| Сцена. Арт-агентство. | ивент агентство | https://eventcatalog.ru/agency/scena_art-agentstvo | phone | +7(495) 638-08-87 / +7(926) 523-19-68 |
+| Счастливы вместе | ивент агентство | https://eventcatalog.ru/agency/schastlivy_vmeste | phone | +7(938) 104-34-77 / +7(928) 177-87-99 |
 | Счастливые моменты | лофт | https://www.loft2rent.ru/loft/123787/123789 | phone | +79505502099 |
 | Счастливые моменты Dark | лофт | https://www.loft2rent.ru/loft/123787 | phone | +79505502099 |
 | Счастливые моменты Loft | лофт | https://www.loft2rent.ru/loft/123787 | phone | +79505502099 |
+| Счастливый Слон | ивент агентство | https://eventcatalog.ru/agency/schastlivyy_slon | phone | +7(914)899-29-97 / +7(902)171-92-61 |
+| Счастье | ивент агентство | https://eventcatalog.ru/agency/schastje | phone | +7(926)102-15-14 |
 | Сёрф лофт | лофт | https://www.loft2rent.ru/loft/42016 | phone | +7 (931) 111-81-02 |
 | Т Плюс | организация | https://tplusgroup.ru | email | admin@ms1.ru |
 | Т Плюс | организация | https://tplusgroup.ru | email | hotline@tplusgroup.ru |
@@ -24531,17 +27028,26 @@
 | Т-Банк | банк | https://tbank.ru | social | https://ok.ru/tbank |
 | Т-Банк | банк | https://tbank.ru | social | https://t.me/tbank |
 | Т-Банк | банк | https://tbank.ru | social | https://vk.com/tbank |
+| Т.Е.М.А. | ивент агентство | https://eventcatalog.ru/agency/t_e_m_a | phone | +7(926)520-61-40 |
 | Таверна «Гарцующий Пони» | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Таверна Белого Волка | лофт | https://www.loft2rent.ru/loft/75982 | phone | +7 (812) 200-78-18 |
 | Таганка лофт с верандой, караоке, Playstation 5 на Таганской | лофт | https://www.loft2rent.ru/loft/66644 | phone | 7 (499) 290-58-96 |
 | Таити | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Тайная комната в Столешниковом переулке | лофт | https://www.loft2rent.ru/loft/aviator | phone | +74998773459 |
+| Тангаж | ивент агентство | https://eventcatalog.ru/agency/tangazh | phone | +7(499) 734-05-71 / +7(495) 772-21-76 |
+| Тандем | ивент агентство | https://eventcatalog.ru/agency/tandem | phone | +7(343)379-58-77 / +7(912)293-38-87 |
+| Тандем Краснодар | ивент агентство | https://eventcatalog.ru/agency/tandem_krasnodar | phone | +7(918)435-92-96 / +7(928)272-77-96 |
+| Танец Цветов | ивент агентство | https://eventcatalog.ru/agency/tanec_cvetov | phone | +7(962)950-13-87 / +7(916)113-18-52 |
 | Танец ШивыЗал для телесных практик, йоги | лофт | https://www.loft2rent.ru/loft/129205/129391 | phone | +79015428118 |
 | Танцевальный зал "Англия" | лофт | https://www.loft2rent.ru/loft/55683 | phone | +7 (926) 272-72-20 |
 | Танцевальный зал "Греция" | лофт | https://www.loft2rent.ru/loft/55683 | phone | +7 (926) 272-72-20 |
 | Танцевальный зал "Испания" | лофт | https://www.loft2rent.ru/loft/55683 | phone | +7 (926) 272-72-20 |
 | Танцевальный зал "Калифорния" | лофт | https://www.loft2rent.ru/loft/55683 | phone | +7 (926) 272-72-20 |
+| Танцующий Город | ивент агентство | https://eventcatalog.ru/agency/tancuyuwiy_gorod | phone | +7(499) 390-93-63 / +7(903) 613-25-11 |
+| Творческая группа Люди Добрые | ивент агентство | https://eventcatalog.ru/agency/tvorcheskaya_gruppa_lyudi_dobrye | phone | +7(988)248-22-00 |
+| Творческая лаборатория Е5 | ивент агентство | https://eventcatalog.ru/agency/tvorcheskaya_laboratoriya_e5 | phone | +7(918)330-43-43 / +5__-_____ |
 | Творческая мастерская/лекторий/лофт | лофт | https://www.loft2rent.ru/loft/117140/117157 | phone | +79774621901 |
+| Творческая студия Оксаны Юровских | ивент агентство | https://eventcatalog.ru/agency/tvorcheskaya_studiya_oksany_yurovskih | phone | +7(343) 213-14-20 / +7(343) 287-06-24 |
 | творческий центр Букацудо | лофт | https://www.loft2rent.ru/loft/144394/144396 | phone | +79006336371 |
 | Творческое пространство "Берёза" | лофт | https://www.loft2rent.ru/loft/203648/203692 | phone | +79017042727 |
 | Твоя вина - лофт в старинном особняке в современном дизайне | лофт | https://www.loft2rent.ru/loft/30985 | phone | +7 (495)0080403 |
@@ -24584,30 +27090,42 @@
 | Театр don't playЗал для конференций | лофт | https://www.loft2rent.ru/loft/163426/163428 | phone | +79917245348 |
 | Театр «Легенда»концертный зал | лофт | https://www.loft2rent.ru/loft/78035/78734 | phone | +79112390417 |
 | Театр «Легенда»концертный зал | лофт | https://www.loft2rent.ru/loft/78035/78747 | phone | +79112390417 |
+| Театр Праздника | ивент агентство | https://eventcatalog.ru/agency/teatr_prazdnika | phone | +7(916)869-48-97 / +7(926)127-53-39 |
+| Театр Праздников | ивент агентство | https://eventcatalog.ru/agency/teatr_prazdnikov | phone | +7(495)778-33-33 / +7(495)950-55-41 |
 | Театральная компания ТрикстерTrickster Loft | лофт | https://www.loft2rent.ru/loft/197198/197206 | phone | +7 926 549-77-29 |
 | Театральная мастерская [CAMERA] | лофт | https://www.loft2rent.ru/loft/167963/192026 | phone | 89169193602 |
 | Театральный центр Комната 528 / Театральный центр Комната 528Зал со сценой для мастер-классов, семинаров, тренингов, конференций и выступлений в центре Москвы | лофт | https://www.loft2rent.ru/loft/174792/174804 | phone | +79161947274 |
+| Театромания | ивент агентство | https://eventcatalog.ru/agency/teatromaniya | phone | +7(495)105-97-12 |
 | Телеграф | лофт | https://www.loft2rent.ru/loft/208767 | phone | +79770897608 |
+| Тема | ивент агентство | https://eventcatalog.ru/agency/tema | phone | +7(904)288-19-90 |
+| Тень Чехова | ивент агентство | https://eventcatalog.ru/agency/tenj_chehova | phone | +7(917)246-53-05 / +7(987)274-91-32 |
 | ТЕПЛО | лофт | https://www.loft2rent.ru/loft/153056/153058 | phone | 89602358586 |
+| Тера Эвент | ивент агентство | https://eventcatalog.ru/agency/tera_event | phone | +7(495) 749-04-98 / +7(910) 606-02-23 |
+| Терем-праздник | ивент агентство | https://eventcatalog.ru/agency/terem-prazdnik | phone | +7(812)380-93-23 / +7(812)951-48-18 |
 | Терра. Лофт для тренингов и мероприятийЗал "АРИЗОНА" | лофт | https://www.loft2rent.ru/loft/108340/108386 | phone | +79132070014 |
 | Терра. Лофт для тренингов и мероприятийЗал "НЕВАДА" | лофт | https://www.loft2rent.ru/loft/108340/108364 | phone | +79132070014 |
 | Терра. Лофт для тренингов и мероприятийЗал "ОГАЙО" | лофт | https://www.loft2rent.ru/loft/108340/108424 | phone | +79132070014 |
 | Терра. Стилизованный двухэтажный лофт | лофт | https://www.reveltime.ru/venue/4189506?eventtype=vecherinka | phone | +79346691548 |
 | Терраса Cépage | лофт | https://www.loft2rent.ru/loft/199380 | phone | +79999917444 |
 | Территория Вквадрате | лофт | https://www.loft2rent.ru/loft/200197/202099 | phone | 89963046961 |
+| ТЕС | ивент агентство | https://eventcatalog.ru/agency/tes | phone | +7(911) 151-01-07 / +7(911) 845-97-92 |
 | Тесла | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | ТЕСЛА | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
+| Технология игр | ивент агентство | https://eventcatalog.ru/agency/tehnologiya_igr | phone | +7(495) 225 44 23 |
 | Техснабэкспорт (TENEX) | экспортёр ядерных технологий | https://www.tenex.ru | email | ignatova.e.v@tenex.ru |
 | Техснабэкспорт (TENEX) | экспортёр ядерных технологий | https://www.tenex.ru | email | medyakov.m.a@tenex.ru |
 | Техснабэкспорт (TENEX) | экспортёр ядерных технологий | https://www.tenex.ru | email | press@tenex.ru |
 | Техснабэкспорт (TENEX) | экспортёр ядерных технологий | https://www.tenex.ru | email | scd@tenex.ru |
 | Техснабэкспорт (TENEX) | экспортёр ядерных технологий | https://www.tenex.ru | email | tenex@tenex.ru |
+| Тим Билдинг Клуб | ивент агентство | https://eventcatalog.ru/agency/tim_bilding_klub | phone | +7(812)361-56-55 / +7(812)703-80-58 |
+| Тимлайнер | ивент агентство | https://eventcatalog.ru/agency/timlayner | phone | +7(495) 720-97-77 / +7(903) 210-12-12 |
 | Тинькофф Инвестиции | инвестиционный сервис | https://tinkoff.ru | email | ivan@domain.ru |
 | Тинькофф Инвестиции | инвестиционный сервис | https://tinkoff.ru | phone | +7 (800) 333-33-33 |
 | Тинькофф Инвестиции | инвестиционный сервис | https://tinkoff.ru | social | https://ok.ru/tbank |
 | Тинькофф Инвестиции | инвестиционный сервис | https://tinkoff.ru | social | https://t.me/tbank |
 | Тинькофф Инвестиции | инвестиционный сервис | https://tinkoff.ru | social | https://vk.com/tbank |
 | Титан | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
+| Титан | ивент агентство | https://eventcatalog.ru/agency/titan-1 | phone | +7(926) 204-07-88 |
 | Тиффани | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Тиффани - изысканный лофт с мебелью, светомузыкой, караоке и диско-шаром! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
 | Тиффани. Лофт с авторской мебелью | лофт | https://www.reveltime.ru/venue/3316656?eventtype=vecherinka | phone | +79584973975 |
@@ -24623,9 +27141,17 @@
 | ТНТ-Premier Production | организация | https://tnt-online.ru | social | https://rutube.ru/channel/23463954 |
 | ТНТ-Premier Production | организация | https://tnt-online.ru | social | https://t.me/TNT_television |
 | ТНТ-Premier Production | организация | https://tnt-online.ru | social | https://vk.com/tnt |
+| ТО КГБ | ивент агентство | https://eventcatalog.ru/agency/to_kgb | phone | +7(495)799-59-95 / +7(926)364-82-22 |
+| То что надо | ивент агентство | https://eventcatalog.ru/agency/to_chto_nado | phone | +7(495) 943-61-71 |
+| ТОК | ивент агентство | https://eventcatalog.ru/agency/tok | phone | +7(963)778-67-77 |
 | Токио | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Токио - лофт в японском стиле с модным дизайном, современным световым и звуковым оборудованием! | лофт | https://www.loft2rent.ru/loft/142644 | phone | +7 495 191 41 57 |
 | ТОМ1 | лофт | https://www.loft2rent.ru/loft/125883/125885 | phone | 89677786877 |
+| Тоника | ивент агентство | https://eventcatalog.ru/agency/tonika | phone | +7(812) 677-06-49 / +7(812) 677-06-39 |
+| Топотун | ивент агентство | https://eventcatalog.ru/agency/topotun | phone | +7(905) 708-44-29 |
+| Торжество | ивент агентство | https://eventcatalog.ru/agency/torzhestvo | phone | +7(495) 778-90-86 / +7(901) 578-90-86 |
+| Торжество DeLuxe | ивент агентство | https://eventcatalog.ru/agency/torzhestvo_deluxe | phone | +7(908)634-01-65 |
+| Точка | ивент агентство | https://eventcatalog.ru/agency/tochka | phone | +7(921)634-43-36 / +7(921)183-66-05 |
 | ТрансКапиталБанк | банк | https://tkbbank.ru | email | bank_about_new@2x.png |
 | ТрансКапиталБанк | банк | https://tkbbank.ru | email | bank_about_new@2x.webp |
 | ТрансКапиталБанк | банк | https://tkbbank.ru | email | bank_russia_logo@2x.png |
@@ -24706,8 +27232,17 @@
 | тренинг центр | лофт | https://www.loft2rent.ru/loft/182399/184157 | phone | +74957456789 |
 | Тренинг-центр на Пресне, малый зал 35 м2 | лофт | https://www.loft2rent.ru/loft/207105 | phone | +7 (495) 130-11-27 |
 | Третье место | лофт | https://www.reveltime.ru/venue/4437874?eventtype=vecherinka | phone | +79346657019 |
+| Три Человека | ивент агентство | https://eventcatalog.ru/agency/tri_cheloveka | phone | +7(963) 999-07-07 |
 | Тринити | лофт | https://www.loft2rent.ru/loft/92780 | phone | +79935905884 |
+| Триплан | ивент агентство | https://eventcatalog.ru/agency/triplan | phone | +7(495)605-26-73 / +7(916)659-68-45 |
+| Тритон | ивент агентство | https://eventcatalog.ru/agency/triton | phone | +7(495) 665-76-56 / +7(915) 422-78-89 |
+| Триумф | ивент агентство | https://eventcatalog.ru/agency/triumf | phone | +7(495) 225-95-77 |
+| Триумф. Статусные мероприятия | ивент агентство | https://eventcatalog.ru/agency/triumf_statusnye_meropriyatiya | phone | +7(343) 380-02-19 / +7(343) 219-53-53 |
+| Триэль | ивент агентство | https://eventcatalog.ru/agency/trielj | phone | +7(909) 957-57-76 |
 | Трудмос | лофт | https://www.loft2rent.ru/loft/198917/198919 | phone | 89150401164 |
+| Трудоголики | ивент агентство | http://www.tbtl.ru | phone | +7(343)213-73-39 |
+| Труффальдино | ивент агентство | https://eventcatalog.ru/agency/truffaljdino | phone | +7(495) 220-05-37 |
+| Туса на 5+ | ивент агентство | https://eventcatalog.ru/agency/tusa_na_5 | phone | +7(915) 553-75-55 / +7(915) 553-23-45 |
 | Тёплая купольная беседка с панорамной верандой | лофт | https://www.loft2rent.ru/loft/43392 | phone | +7(930)036-82-07 |
 | УБРиР | организация | https://ubrr.ru | phone | +7 (800) 100-02-00 |
 | УБРиР | организация | https://ubrr.ru | phone | +7 (800) 700-59-59 |
@@ -24742,16 +27277,22 @@
 | УКТ (Участок Кабельной Тары) | лофт | https://twitter.com/sevcableport | phone | +78122133202 |
 | Уличная площадка "Кристалл Плейс" Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Уличная площадка "ПОДМОСТОМ" Лужники | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
+| Улыбака | ивент агентство | https://eventcatalog.ru/agency/ulybaka | phone | +7(923)730-01-93 / +7(952)912-39-88 |
+| Улыбка | ивент агентство | https://eventcatalog.ru/agency/ulybka | phone | +7(495) 746-79-75 / +7(495) 953-37-98 |
+| Ульянов | ивент агентство | https://eventcatalog.ru/agency/uljyanov | phone | +7(38056) 401-51-5 |
+| Умный праздник | ивент агентство | https://eventcatalog.ru/agency/umnyy_prazdnik | phone | +7(499)391-06-14 / +7(925)391-06-14 |
 | Универсальный зал | лофт | https://www.loft2rent.ru/loft/65867 | phone | +79637687698 |
 | Универсальный спортивный зал Дружба в Лужниках | лофт | https://www.loft2rent.ru/loft/164090 | phone | +7 (495) 909−26−63 |
 | Уникальный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Унца УнцаУнца Унца Курская | лофт | https://www.loft2rent.ru/loft/40373/147337 | phone | +79852695016 |
 | Унца УнцаУнца Унца Пушкинская | лофт | https://www.loft2rent.ru/loft/40373/47173 | phone | +79852695016 |
+| Ура | ивент агентство | https://eventcatalog.ru/agency/agentstvo_sobytiy_ura | phone | +7(383)223-34-54 / +7(923)123-10-03 |
 | Уралсиб | банк | https://uralsib.ru | phone | +7 (800) 200-55-20 |
 | Уралсиб | банк | https://uralsib.ru | phone | +7 (800) 250-57-57 |
 | Уралсиб | банк | https://uralsib.ru | social | http://t.me/bankuralsibnews |
 | Уралсиб | банк | https://uralsib.ru | social | https://vk.com/bankuralsib |
 | Уралсиб | банк | https://uralsib.ru | social | https://x.com/BankUralsib |
+| Урафабрик | ивент агентство | https://eventcatalog.ru/agency/urafabrik | phone | +7(391) 274-61-06 / +7(391) 240-07-09 |
 | Урбан на Флаконе | лофт | https://www.loft2rent.ru/loft/74404/74406 | phone | +79263427655 |
 | Усадьба 19 века Шувалова | лофт | https://www.loft2rent.ru/loft/84230/84261 | phone | 89250639949 |
 | Усадьба 19 века ШуваловаТеатральный зал | лофт | https://www.loft2rent.ru/loft/84230/174886 | phone | 89250639949 |
@@ -24760,7 +27301,11 @@
 | Усадьба Остров для свадьбы | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Усадьба ШервудовУсадьба Шервудов - исторический особняк со своей территорией и современным пространством | лофт | https://www.loft2rent.ru/loft/142268/142270 | phone | 89631061670 |
 | УсачеваПлощадка для мероприятий | лофт | https://www.loft2rent.ru/loft/171238/171240 | phone | 89138515023 |
+| Успех | ивент агентство | https://eventcatalog.ru/agency/uspeh | phone | +7(495) 772-97-25 / +7(910) 426-66-58 |
+| Устинова Екатерина | ивент агентство | https://eventcatalog.ru/agency/ustinova_ekaterina | phone | +7(926) 781-46-68 / +7(926) 178-99-63 |
+| Устроим Праздник | ивент агентство | https://eventcatalog.ru/agency/ustroim_prazdnik | phone | +7(391) 272-48-20 |
 | УтренникВалетта | лофт | https://www.loft2rent.ru/loft/177770/177776 | phone | +79165827700 |
+| УчКом.рф | ивент агентство | https://eventcatalog.ru/agency/uchkom_rf | phone | +7(495) 643-55-76 |
 | Уютная Летняя терраса | лофт | https://www.loft2rent.ru/loft/208153 | phone | +79032143720 |
 | Уютная переговорная № 11 с круглым столом | лофт | https://www.loft2rent.ru/loft/118815 | phone | 89647264515 |
 | Уютное и камерное пространство для мероприятий | лофт | https://www.reveltime.ru/venue/3829933?eventtype=vecherinka | phone | +79584974208 |
@@ -24784,9 +27329,20 @@
 | Уютный ресторан на ВДНХ | лофт | https://www.loft2rent.ru/loft/101001 | phone | +79164400130 |
 | Уютный ретро лофт у метро с мощным звуком и караоке | лофт | https://www.loft2rent.ru/loft/207724 | phone | +79955046069 |
 | Уютный тропический лофт | лофт | https://www.reveltime.ru/venue/4145213?eventtype=vecherinka | phone | +79584974160 |
+| Фабрика грёз | ивент агентство | https://eventcatalog.ru/agency/fabrika_grez | phone | +7(926)526-38-20 |
+| Фабрика Детских Праздников | ивент агентство | https://eventcatalog.ru/agency/fabrika_detskih_prazdnikov | phone | +7(812)935-57-26 / +7(931)310-79-07 |
+| Фабрика Настроений | ивент агентство | https://eventcatalog.ru/agency/fabrika_nastroeniy | phone | +7(919) 644-66-33 / +7(843) 296-63-22 |
+| Фабрика настроения | ивент агентство | https://eventcatalog.ru/agency/fabrika_nastroeniya | phone | +7(351) 230-86-69 |
+| Фабрика Праздника | ивент агентство | https://eventcatalog.ru/agency/fabrika_prazdnika | phone | +7(922)614-39-80 / +7(343)213-88-86 |
+| Фабрика развлечений | ивент агентство | https://eventcatalog.ru/agency/fabrika_razvlecheniy | phone | +7(4942)36-04-04 / +7(4942)50-06-23 |
+| Фабрика Событий | ивент агентство | https://eventcatalog.ru/agency/fabrika_sobytiy | phone | +7(495)212-06-56 / +7(905)526-77-59 |
 | фазенда | лофт | https://www.loft2rent.ru/loft/27053 | phone | +79854311004 |
 | Фактура | лофт | https://www.loft2rent.ru/loft/126016/126018 | phone | +7 (495) 127-13-39 |
 | Фактурный лофт с барной стойкой и кухней (лофт ДУГЛАС) | лофт | https://www.loft2rent.ru/loft/1564 | phone | 8 (939)888-00-08 |
+| Фан-Клоунс | ивент агентство | https://eventcatalog.ru/agency/fan-klouns | phone | +7(916) 591-79-32 |
+| Фан-Тайм | ивент агентство | https://eventcatalog.ru/agency/fan-taym | phone | +7(495) 978-78-57 / +7(967) 159-11-54 |
+| ФанКомпот | ивент агентство | https://eventcatalog.ru/agency/fankompot | phone | +7(499) 202-06-61 / +7(916) 591-79-32 |
+| Фантазия | ивент агентство | https://eventcatalog.ru/agency/fantaziya | phone | +7(383) 216-01-66 / +7(383) 292-58-57 |
 | ФГУП «Росморпорт» | государственная транспортная компания | https://www.rusprofile.ru/id/315414 | email | card_1@2x.png |
 | ФГУП «Росморпорт» | государственная транспортная компания | https://www.rusprofile.ru/id/315414 | email | card_1@3x.png |
 | ФГУП «Росморпорт» | государственная транспортная компания | https://www.rusprofile.ru/id/315414 | email | card_1@4x.png |
@@ -24821,9 +27377,30 @@
 | ФГУП «Росморпорт» | государственная транспортная компания | https://www.rusprofile.ru/id/315414 | email | viktor@2x.jpg |
 | ФГУП «Росморпорт» | государственная транспортная компания | https://www.rusprofile.ru/id/315414 | email | viktor@3x.jpg |
 | ФГУП «Росморпорт» | государственная транспортная компания | https://www.rusprofile.ru/id/315414 | email | viktor@4x.jpg |
+| Федерация | ивент агентство | https://eventcatalog.ru/agency/federaciya | phone | +7(495) 226-48-52 |
+| Феерия | ивент агентство | https://eventcatalog.ru/agency/feeriya | phone | +7(903) 350-79-09 / +7(917) 488-28-01 |
+| Фейерверк | ивент агентство | https://eventcatalog.ru/agency/feyerverk | phone | +7(499) 390-10-05 / +7(499) 390-10-55 |
+| Фейерверк Волшебства | ивент агентство | https://eventcatalog.ru/agency/feyerverk_volshebstva | phone | +7(495) 743-99-70 / +7(916) 698-94-72 |
+| Фестиваль | ивент агентство | https://eventcatalog.ru/agency/festivalj | phone | +78 903-120-78-75 / +7(809) 684-69-54 |
+| Фестиваль-Парк | ивент агентство | https://eventcatalog.ru/agency/festivalj-park | phone | +7(495) 645-76-73 / +7(926) 030-76-73 |
+| Фиалка | ивент агентство | https://eventcatalog.ru/agency/fialka | phone | +380(93)977-98-98 |
+| ФКД консалт | ивент агентство | https://eventcatalog.ru/agency/fkd_konsalt | phone | +7(985) 643-57-93 |
+| Фламинго | ивент агентство | https://eventcatalog.ru/agency/flamingo | phone | +7(495) 911-37-63 / +7(495) 632-79-76 |
 | Фламинго АртБелый кабинет | лофт | https://www.loft2rent.ru/loft/99143/99963 | phone | +79990399477 |
 | Фламинго АртКабинет с Драконом | лофт | https://www.loft2rent.ru/loft/99143/99967 | phone | +79990399477 |
+| Фогель Консалтинг | ивент агентство | https://eventcatalog.ru/agency/fogelj_konsalting | phone | +7(8422) 98-72-22 / +7(8422) 41-44-33 |
+| Фокус | ивент агентство | https://eventcatalog.ru/agency/fokus | phone | +7(495) 784-65-04 / +7(495) 380-08-46 |
+| Фокус Покус | ивент агентство | https://eventcatalog.ru/agency/fokus_pokus | phone | +7(4712)31-25-28 / +7(910)731-25-28 |
+| Фокус-Покус | ивент агентство | https://eventcatalog.ru/agency/fokus-pokus | phone | +7(904)530-25-46 / +7(951)331-90-30 |
 | Фонд ММККонференц-пространство "МЕДИКОР" в Сколково | лофт | https://www.loft2rent.ru/loft/199429/199500 | phone | +79266981015 |
+| Фордевинд | ивент агентство | https://eventcatalog.ru/agency/fordevind | phone | +7(862)296-05-10 |
+| Формула Настроения | ивент агентство | https://eventcatalog.ru/agency/formula_nastroeniya | phone | +7(495) 671-95-07 / +7(495) 589-44-75 |
+| Формула праздника | ивент агентство | https://eventcatalog.ru/agency/formula_prazdnika | phone | +7(495) 543-58-87 / +7(905) 733-46-92 |
+| Формула Праздника _ | ивент агентство | https://eventcatalog.ru/agency/formula_prazdnika-1 | phone | +7(812) 363-43-60 / +7(812) 926-26-32 |
+| Формула счастья | ивент агентство | https://eventcatalog.ru/agency/formula_schastjya | phone | +7(38063) 463-75-10 / +7(38044) 569-60-90 |
+| Формула Успеха | ивент агентство | https://eventcatalog.ru/agency/formula_uspeha | phone | +7(38044) 383-83-43 |
+| Форт-M | ивент агентство | https://eventcatalog.ru/agency/fort-m | phone | +7(495)681-89-24 |
+| Фортуна | ивент агентство | https://eventcatalog.ru/agency/fortuna | phone | +7(903)191-31-82 |
 | ФосАгро | химическая компания | https://www.phosagro.ru | email | centralasia@phosagro.ru |
 | ФосАгро | химическая компания | https://www.phosagro.ru | email | export@phosagro.ru |
 | ФосАгро | химическая компания | https://www.phosagro.ru | email | ir@phosagro.ru |
@@ -24847,6 +27424,7 @@
 | Фотостудия WhitePlace. Лофт-кальянная | лофт | https://www.reveltime.ru/venue/489473?eventtype=vecherinka | phone | +74952222360 |
 | фотостудия Пространство зал Филикуди | лофт | https://www.loft2rent.ru/loft/31821 | phone | +74992887790 |
 | Фрактал Бенуа: уютный лофт для мероприятий с караоке и PlayStation | лофт | https://www.loft2rent.ru/loft/15086/26624 | phone | +79779620844 |
+| Фрегат Клуб | ивент агентство | https://eventcatalog.ru/agency/fregat_klub | phone | +7(495) 646-13-18 |
 | Фряново | ивент-спейс | https://museum-schel.ru | email | shel_muzeyshikm@mosreg.ru |
 | Фряново | ивент-спейс | https://museum-schel.ru | phone | +7 (496) 566-46-30 |
 | Фряново | ивент-спейс | https://museum-schel.ru | phone | +7 (496) 566-52-80 |
@@ -24854,10 +27432,16 @@
 | Фряново | ивент-спейс | https://museum-schel.ru | social | https://vk.com/schelkovo.museum |
 | Фряново | ивент-спейс | https://museum-schel.ru | social | https://www.instagram.com/schelkovo.museum |
 | Фьюжн | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
+| Х-Теам | ивент агентство | https://eventcatalog.ru/agency/h-team | phone | +7(831) 430-55-62 |
 | ХА-ХА ШОУ Loft | лофт | https://www.loft2rent.ru/loft/103242 | phone | +79602835563 |
 | ХА-ХА ШОУ Москва | лофт | https://www.loft2rent.ru/loft/103242 | phone | +79602835563 |
+| Ха-Ха-Бум | ивент агентство | https://eventcatalog.ru/agency/ha-ha-bum | phone | +7(938)128-23-14 |
 | Харизма Лофт | лофт | https://www.loft2rent.ru/loft/165127/165129 | phone | +7 966 506-16-15 |
+| Хати | ивент агентство | https://eventcatalog.ru/agency/hati | phone | +7(499) 616-68-90 / +7(916) 123-25-59 |
 | Хвоя Lounge | лофт | https://www.loft2rent.ru/loft/103884/104698 | phone | +7 (919) 7629748 |
+| Хит Пати | ивент агентство | https://eventcatalog.ru/agency/hit_pati | phone | +7(067) 921-22-14 / +7(066) 211-81-26 |
+| Хихишка | ивент агентство | https://eventcatalog.ru/agency/hihishka | phone | +7(985)997-40-17 / +7(916)820-69-88 |
+| Хлеб и Еда | ивент агентство | https://eventcatalog.ru/agency/hleb_i_eda | phone | +7(495)665-84-06 / +7(966)138-87-44 |
 | Хлынов | организация | https://bank-hlynov.ru | email | callcenter@bank-hlynov.ru |
 | Хлынов | организация | https://bank-hlynov.ru | email | nnc@nrcreg.ru |
 | Хлынов | организация | https://bank-hlynov.ru | phone | +7 (495) 771-91-00 |
@@ -24881,10 +27465,16 @@
 | Хлынов | организация | https://bank-hlynov.ru | social | https://vk.com/bankhlynov |
 | Хлынов | организация | https://bank-hlynov.ru | social | https://www.youtube.com/channel/UC7BSdvg1Vr3E66heNrICXZg |
 | Хобби клуб Берлога | лофт | https://www.loft2rent.ru/loft/134500/134522 | phone | +79067563194 |
+| Ходжа-Арт | ивент агентство | https://eventcatalog.ru/agency/hodzha-art | phone | +7(903) 750-60-65 |
+| Хозяин-Барин | ивент агентство | https://eventcatalog.ru/agency/hozyain-barin | phone | +7(918) 417-06-65 / +7(918) 031-44-29 |
 | Холидей- бордовый лофт с диско-шаром,фотозоной и караоке! | лофт | https://www.loft2rent.ru/loft/131919 | phone | +74991113716 |
 | Холодное Сердце | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Хоро-show тур | ивент агентство | https://eventcatalog.ru/agency/horo-show_tur | phone | +7(918)619-08-08 |
 | Хорошее место | лофт | https://www.loft2rent.ru/loft/165396/165862 | phone | +74942057161 |
 | Хорошее место на Трифоновской«Хорошее место» на Трифоновской | лофт | https://www.loft2rent.ru/loft/40232/40236 | phone | 89256665151 |
+| Хорошее настроение | ивент агентство | https://eventcatalog.ru/agency/horoshee_nastroenie | phone | +7(937) 577-19-95 |
+| Хороший день | ивент агентство | https://eventcatalog.ru/agency/horoshiy_denj | phone | +7(963) 831-34-44 |
+| Хочу Слона | ивент агентство | https://eventcatalog.ru/agency/hochu_slona | phone | +7(909)450-34-96 / +7(918)318-57-73 |
 | Хромакей циклорама на Варшавском шоссеЦиклорама на Вашавском шоссе | лофт | https://www.loft2rent.ru/loft/184864/184904 | phone | 89636243226 |
 | ХромХРОМ | лофт | https://www.loft2rent.ru/loft/159256/159958 | phone | +79150052662 |
 | Хронос«Баланс» | лофт | https://www.loft2rent.ru/loft/28230/84889 | phone | +7 (926) 084-11-51 |
@@ -24917,11 +27507,15 @@
 | Царицыно | музей-заповедник | https://tsaritsyno-museum.ru | social | https://rutube.ru/channel/24115591 |
 | Царицыно | музей-заповедник | https://tsaritsyno-museum.ru | social | https://t.me/tsaritsyno_museum |
 | Царицыно | музей-заповедник | https://tsaritsyno-museum.ru | social | https://vk.com/tsaritsynomuseum |
+| Царская Забава | ивент агентство | https://eventcatalog.ru/agency/carskaya_zabava | phone | +7(383) 375-43-10 |
 | Центр архитектуры и дизайна ARTPLAYБалкон ARTPLAY | лофт | https://www.loft2rent.ru/loft/164386/164626 | phone | +7 903 166 8833 |
 | Центр архитектуры и дизайна ARTPLAYЛекторий "Галерея" | лофт | https://www.loft2rent.ru/loft/164386/164601 | phone | +7 903 166 8833 |
 | Центр архитектуры и дизайна ARTPLAYМалый выставочный зал | лофт | https://www.loft2rent.ru/loft/164386/164401 | phone | +7 903 166 8833 |
+| Центр городских Праздников | ивент агентство | https://eventcatalog.ru/agency/centr_gorodskih_prazdnikov | phone | +7(924)217-12-55 / +7(914)543-02-05 |
 | Центр истории современной музыки | лофт | https://www.loft2rent.ru/loft/40995 | phone | +79151245829 |
+| Центр культурных инициатив | ивент агентство | https://eventcatalog.ru/agency/centr_kuljturnyh_iniciativ | phone | +7(927) 800-39-93 / +7(842) 224-92-20 |
 | Центр МАРС | лофт | https://www.loft2rent.ru/loft/5178/26835 | phone | +7 (495) 623-66-90 |
+| Центр Праздник | ивент агентство | https://eventcatalog.ru/agency/centr_prazdnik | phone | +7(925) 030-51-20 |
 | Центр психологии "Форсайт"Зал "Штиль" | лофт | https://www.loft2rent.ru/loft/129892/129912 | phone | +79533712003 |
 | Центр психологии "Форсайт"Зал "Шторм" | лофт | https://www.loft2rent.ru/loft/129892/129909 | phone | +79533712003 |
 | Центр РипаВангтанг | лофт | https://www.loft2rent.ru/loft/184918/184932 | phone | +7( 991) 935-99-93 |
@@ -24929,7 +27523,10 @@
 | Центр РипаЛунгта | лофт | https://www.loft2rent.ru/loft/184918/184923 | phone | +7( 991) 935-99-93 |
 | Центр РипаПаво | лофт | https://www.loft2rent.ru/loft/184918/184944 | phone | +7( 991) 935-99-93 |
 | Центр РипаСиджи | лофт | https://www.loft2rent.ru/loft/184918/185037 | phone | +7( 991) 935-99-93 |
+| Центр Свадебного Сервиса | ивент агентство | https://eventcatalog.ru/agency/centr_svadebnogo_servisa | phone | +7(421) 231-67-76 |
+| Центр Событий | ивент агентство | https://eventcatalog.ru/agency/centr_sobytiy | phone | +7(812) 926-98-96 / +7(921) 787-30-20 |
 | Центр современного искусства ВИНЗАВОД | лофт | https://www.reveltime.ru/venue/206461?eventtype=vecherinka | phone | +74959174646 |
+| Центр современных событий | ивент агентство | https://eventcatalog.ru/agency/centr_sovremennyh_sobytiy | phone | +7(4212)60-27-17 / +7(4212)77-55-97 |
 | Центр цифрового искусства Внутри | лофт | https://www.loft2rent.ru/loft/177814/177817 | phone | +7 916 583 7656 |
 | Центр ШамбалаБалетный зал | лофт | https://www.loft2rent.ru/loft/58461/114147 | phone | +79166703353 |
 | Центр ШамбалаШамбала | лофт | https://www.loft2rent.ru/loft/58461/58490 | phone | +79166703353 |
@@ -24948,6 +27545,7 @@
 | Центр-инвест | организация | https://centrinvest.ru | social | https://vk.com/centrinvest |
 | Центр-инвест | организация | https://centrinvest.ru | social | https://vk.com/im?sel=-29049863 |
 | Центр-инвест | организация | https://centrinvest.ru | social | https://www.youtube.com/user/centrinvest |
+| Центральное Развлекательное Управление | ивент агентство | https://eventcatalog.ru/agency/centraljnoe_razvlekateljnoe_upravlenie | phone | +7(495) 662-96-91 |
 | Центральный детский музей | ивент-спейс | https://cdm-moscow.ru | email | d3@7.js |
 | Центральный детский музей | ивент-спейс | https://cdm-moscow.ru | social | https://t.me/cdm_moscow |
 | Центральный детский музей | ивент-спейс | https://cdm-moscow.ru | social | https://t.me/ne_detskii |
@@ -24960,11 +27558,19 @@
 | Циферблат на Кузнецком МостуБОЛЬШАЯ ГОСТИНАЯ (ЦИФЕРБЛАТ НА КУЗНЕЦКОМ МОСТУ) | лофт | https://www.loft2rent.ru/loft/45838/45859 | phone | +79629646786 |
 | Циферблат на Кузнецком МостуМАЛАЯ ГОСТИНАЯ (ЦИФЕРБЛАТ НА КУЗНЕЦКОМ МОСТУ) | лофт | https://www.loft2rent.ru/loft/45838/45840 | phone | +79629646786 |
 | Циферблат на Кузнецком МостуЦиферблат на Кузнецком Мосту (Полностью) | лофт | https://www.loft2rent.ru/loft/45838/45863 | phone | +79629646786 |
+| ЦРТП Адмиралтейский | ивент агентство | https://eventcatalog.ru/agency/crtp_admiralteyskiy | phone | +7(921) 586-21-56 / +7(921) 321-44-44 |
 | Цунами | лофт | https://www.loft2rent.ru/loft/109926 | phone | +7 (495) 478-06-38 |
 | ЧАЙКА | лофт | https://www.loft2rent.ru/loft/90945 | phone | +7 (495) 765-11-01 |
 | Чайнатаун | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
+| Чап! | ивент агентство | https://eventcatalog.ru/agency/chap | phone | +7(926)630-73-58 / +7(499)391-63-73 |
+| Чаплин | ивент агентство | https://eventcatalog.ru/agency/chaplin | phone | +7(351) 776-14-07 |
+| Чародеи | ивент агентство | https://eventcatalog.ru/agency/charodei | phone | +7(499) 502-95-24 |
+| Частная коллекция | ивент агентство | https://eventcatalog.ru/agency/chastnaya_kollekciya | phone | +7(926) 877-91-21 |
 | ЧАСТЬ ТВОЕЙ ДУШИ (ex ВЛАСОВ ХОЛЛ) | лофт | https://www.loft2rent.ru/loft/28030 | phone | +7 (495) 798-51-81 |
 | Человек И ЕдаКухня-студия Человек и Еда | лофт | https://www.loft2rent.ru/loft/38655/38712 | phone | +79771245188 |
+| Человек-праздник | ивент агентство | https://eventcatalog.ru/agency/chelovek-prazdnik | phone | +7(952)966-40-06 / +7(4832)68-17-58 |
+| Человеки | ивент агентство | https://eventcatalog.ru/agency/cheloveki | phone | +7(495) 647-82-28 / +7(903) 731-87-54 |
+| Черешня | ивент агентство | https://eventcatalog.ru/agency/chereshnya | phone | +7(499)390-43-52 |
 | Черкизово | агрохолдинг | https://cherkizovo.com | email | bg-2-mob@2x.png |
 | Черкизово | агрохолдинг | https://cherkizovo.com | email | bg-2@2x.png |
 | Черкизово | агрохолдинг | https://cherkizovo.com | email | bg@2x.png |
@@ -24989,16 +27595,23 @@
 | Чечевица Лофт | лофт | https://www.loft2rent.ru/loft/83446/83448 | phone | 89052556556 |
 | Чикаго | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Чил лофт. Яркий лофт-зал для девичников | лофт | https://www.reveltime.ru/venue/5920735?eventtype=vecherinka | phone | +79346695974 |
+| Что празднуем? | ивент агентство | https://4-event.ru | phone | +7(495)998-18-12 |
 | Чудеса | лофт | https://www.loft2rent.ru/loft/40150 | phone | +79296769998 |
+| Чудетство | ивент агентство | https://eventcatalog.ru/agency/chudetstvo | phone | +7(931) 223-66-85 |
+| Чудо Наука | ивент агентство | https://eventcatalog.ru/agency/chudo_nauka | phone | +7(911) 467-38-32 / +7(401) 290-05-37 |
 | Шале | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
 | Шале | лофт | https://www.loft2rent.ru/loft/29857 | phone | +74993703816 |
 | Шали лофт | лофт | https://www.loft2rent.ru/loft/93962/93971 | phone | +79166177525 |
+| Шаманы | ивент агентство | https://eventcatalog.ru/agency/shamany | phone | +7(909)256-69-69 / +7(4942)30-04-01 |
+| ШантИ | ивент агентство | https://eventcatalog.ru/agency/shanti | phone | +7(495) 646-50-59 |
 | Шатер у воды для праздников и мероприятий | лофт | https://www.loft2rent.ru/loft/172081 | phone | 89255165332 |
 | Шатер Хвойный | лофт | https://www.loft2rent.ru/loft/140702/150486 | phone | 89309441660 |
+| Шедевр | ивент агентство | https://eventcatalog.ru/agency/shedevr | phone | +7(965)325-88-57 |
 | ШЕЛЛ (SHELL) | лофт | https://www.loft2rent.ru/loft/138720 | phone | +7 (925) 858-24-94 |
 | Шервуд Лофт | лофт | https://www.loft2rent.ru/loft/104632/104634 | phone | +7-958-805-39-05 |
 | Шикарный Баум Холл в греческом стиле | лофт | https://www.loft2rent.ru/loft/151019 | phone | +7 951 085 8112 |
 | Шикарный люкс лофт Москва-Сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Шиколад | ивент агентство | https://eventcatalog.ru/agency/shikolad | phone | +7(495) 231-43-01 |
 | Шиле - Просторный светлый лофт с настроением лета и большим арочным окном | лофт | https://www.loft2rent.ru/loft/5581 | phone | +7 (495) 032-73-90 |
 | Школа музыки Марс | лофт | https://www.loft2rent.ru/loft/201848/201862 | phone | +7 (499) 709-84-59 |
 | Школа музыки Марс | лофт | https://www.loft2rent.ru/loft/201848/201920 | phone | +7 (499) 709-84-59 |
@@ -25009,12 +27622,33 @@
 | Шоколадница | сеть кофеен | https://shoko.ru | email | otzyv@shoko.ru |
 | Шоколадница | сеть кофеен | https://shoko.ru | social | https://t.me/shokomoscow |
 | Шоколадница | сеть кофеен | https://shoko.ru | social | https://vk.com/shokoru |
+| Шоколат | ивент агентство | https://eventcatalog.ru/agency/shokolat | phone | +7(903) 239-19-39 / +7(903) 731-63-19 |
+| Шоу сумасшедшего профессора Николя | ивент агентство | https://eventcatalog.ru/agency/shou_sumasshedshego_professora_nikolya | phone | +7(812) 986-62-66 |
+| Шоу-Индустрия | ивент агентство | https://eventcatalog.ru/agency/shou-industriya | phone | +7(812)957-77-95 |
+| Шоу-Сервис | ивент агентство | https://eventcatalog.ru/agency/shou-servis | phone | +7(3842) 33-04-77 / +7(904) 570-34-54 |
 | Шоурум | лофт | https://www.loft2rent.ru/loft/116807 | phone | +79150127722 |
+| ШоуТайм | ивент агентство | http://www.showt.ru | phone | +7(915)624-24-40 / +7(906)648-14-41 |
 | ШП Образовательное Пространство | лофт | https://www.loft2rent.ru/loft/179435/179440 | phone | +7 (991) 640-35-77 |
+| Штаб Событий | ивент агентство | https://eventcatalog.ru/agency/shtab_sobytiy | phone | +7(812)336-42-14 / +7(812)926-31-77 |
 | ШтудияШтудия. Проспект мира | лофт | https://www.loft2rent.ru/loft/110445/110449 | phone | +74957612323 |
+| Шу Ба | ивент агентство | https://eventcatalog.ru/agency/shu_ba | phone | +7(495) 508-75-69 |
+| Шульц | ивент агентство | https://eventcatalog.ru/agency/shuljc | phone | +7(912) 632-64-67 |
+| Шум | ивент агентство | https://eventcatalog.ru/agency/shum | phone | +7(937)277-43-77 / +7(917)601-21-47 |
+| Шёлк&Шоколад | ивент агентство | https://eventcatalog.ru/agency/shelkandshokolad | phone | +7(812)985-79-68 / +7(921)868-94-38 |
+| Щука | ивент агентство | https://eventcatalog.ru/agency/wuka | phone | +7(916)683-41-72 / +7(916)807-21-26 |
 | Ъ (Знак) | отель | https://ostrovok.ru/hotel/russia/moscow/mid11227231/hotel_znak | address | Оружейный переулок, д. 3, строение 1, Москва |
+| Эве Land | ивент агентство | https://eventcatalog.ru/agency/eve_land | phone | +7(495) 924-09-22 / +7(985) 778-05-45 |
+| Эвент территория | ивент агентство | https://eventcatalog.ru/agency/event_territoriya | phone | +7(905) 514-88-88 |
+| Эвента | ивент агентство | https://eventcatalog.ru/agency/eventa | phone | +7(905)685-65-55 / +7(980)356-38-46 |
+| Эвентаж | ивент агентство | https://eventcatalog.ru/agency/eventazh | phone | +7(812)902-20-02 / +7(911)846-77-81 |
+| Эвентал | ивент агентство | https://eventcatalog.ru/agency/evental | phone | +7(499)502-70-88 |
+| Эврика | ивент агентство | https://eventcatalog.ru/agency/evrika | phone | +7(812)973-35-45 |
+| Эддмо | ивент агентство | https://eventcatalog.ru/agency/eddmo | phone | +7(499)390-13-46 / +7(937)005-87-03 |
 | Эдисон | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
 | ЭДИСОН | лофт | https://www.loft2rent.ru/loft/53255 | phone | +74952924217 |
+| Эквилон | ивент агентство | https://eventcatalog.ru/agency/ekvilon | phone | +7(347)246-88-86 |
+| Эклиптика | ивент агентство | https://eventcatalog.ru/agency/ekliptika | phone | +7(383) 380-50-46 |
+| ЭКО-корпоративы | ивент агентство | https://eventcatalog.ru/agency/eko-korporativy | phone | +38(044) 227-44-88 / +38(097) 280-06-72 |
 | Эко-парк "Земляничный"Event-hall (Эко-парк "Земляничный") | лофт | https://www.loft2rent.ru/loft/145745/145749 | phone | +79506067877 |
 | Эксклюзивный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
 | Экспериментаниум | музей | https://experimentanium.ru | email | cafe@experimentanium.ru |
@@ -25027,7 +27661,10 @@
 | Экспериментаниум | музей | https://experimentanium.ru | phone | +7 (495) 159-15-09 |
 | Экспериментаниум | музей | https://experimentanium.ru | social | https://t.me/ExperimentaniumBot |
 | Экспериментаниум | музей | https://experimentanium.ru | social | https://vk.com/experimentanium |
+| Экспертус | ивент агентство | https://eventcatalog.ru/agency/ekspertus | phone | +7(495)902-52-52 |
+| Эксперты Приключений | ивент агентство | https://eventcatalog.ru/agency/eksperty_priklyucheniy | phone | +7(906) 734-53-22 / +7(985) 784-18-14 |
 | Экспо - для вашего мероприятия | лофт | https://www.loft2rent.ru/loft/187684 | phone | 74951207719 |
+| Экспо-Линк | ивент агентство | https://eventcatalog.ru/agency/ekspo-link | phone | +7(343) 216-32-30 / +7(343) 385-28-48 |
 | Экспобанк | банк | https://expobank.ru | email | info@expobank.ru |
 | Экспобанк | банк | https://expobank.ru | phone | +7 (495) 213-19-91 |
 | Экспобанк | банк | https://expobank.ru | phone | +7 (800) 500-07-70 |
@@ -25040,12 +27677,22 @@
 | Экспобанк | банк | https://expobank.ru | social | https://vk.com/share.php?url=https%3A%2F%2Fexpobank.ru%2Fblog%2Fchto-takoe-popolnyaemyy-vklad%2F |
 | Экспобанк | банк | https://expobank.ru | social | https://vk.com/share.php?url=https%3A%2F%2Fexpobank.ru%2Fblog%2Finvestitsii-v-zoloto-v-2025-godu%2F |
 | Экспобанк | банк | https://expobank.ru | social | https://vk.com/share.php?url=https%3A%2F%2Fexpobank.ru%2Fblog%2Fkibermoshennichestvo-kak-zashchitit-svoi-finansy%2F |
+| Экстрим Туры | ивент агентство | https://eventcatalog.ru/agency/ekstrim_tury | phone | +7(915) 223-01-61 |
 | Элегантный зал ГОТЭМ | лофт | https://www.loft2rent.ru/loft/108186 | phone | +79777816590 |
 | Элегантный лофт Готэм | лофт | https://www.reveltime.ru/venue/8504465?eventtype=vecherinka | phone | +79584974039 |
 | Элегантный лофт с хорошим звуком и балконом | лофт | https://www.reveltime.ru/venue/9168851?eventtype=vecherinka | phone | +79910173255 |
+| Элен и Ребята | ивент агентство | https://eventcatalog.ru/agency/elen_i_rebyata | phone | +7(914)613-23-71 / +7(961)956-71-48 |
 | Элефантия | лофт | https://www.loft2rent.ru/loft/176750/176752 | phone | 8 343 238-15-50 |
+| Элир | ивент агентство | https://eventcatalog.ru/agency/elir | phone | +7(910)468-27-10 / +7(496)752-53-01 |
+| ЭЛИС | ивент агентство | https://eventcatalog.ru/agency/elis | phone | +7(916) 609-84-76 / +7(926) 572-22-18 |
 | Элит | отель | https://ostrovok.ru/hotel/russia/moscow/mid6811604/elit_hotel_5 | address | Волгоградский пр-т, д.98, корп.1, Москва |
+| Элит | ивент агентство | https://eventcatalog.ru/agency/elit | phone | +7(928)467-84-44 |
+| Элитарный Балаган | ивент агентство | https://eventcatalog.ru/agency/elitarnyy_balagan | phone | +7(966)123-12-36 / +7(916)930-57-58 |
+| Элкраф | ивент агентство | https://eventcatalog.ru/agency/elkraf | phone | +7(383) 331-11-16 / +7(383) 331-16-17 |
+| ЭЛС продакшн | ивент агентство | http://www.elseproduction.ru | phone | +7(495)727-18-32 / +7(495)771-06-92 |
 | Эль Плейс | лофт | https://www.loft2rent.ru/loft/73458/73460 | phone | 89600300400 |
+| Эль Студия | ивент агентство | https://eventcatalog.ru/agency/elj_studiya | phone | +7(925)991-57-41 / +7(926)316-10-26 |
+| Эльфики | ивент агентство | https://eventcatalog.ru/agency/eljfiki | phone | +7(921) 938-36-40 |
 | Энгейдж ВДНХ | лофт | https://www.loft2rent.ru/loft/47660 | phone | 88005001523 |
 | Энджой комьюнитиЗал 1 | лофт | https://www.loft2rent.ru/loft/99646/99655 | phone | +7 (499) 495-17-81 |
 | Энджой комьюнитиЗал 2 | лофт | https://www.loft2rent.ru/loft/99646/99659 | phone | +7 (499) 495-17-81 |
@@ -25070,11 +27717,14 @@
 | ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | phone | +7 (915) 224-08-93 |
 | ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://t.me/kmtvva?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C%20%D0%AD%D0%9D%D0%94%D0%9E%D0%A4%D0%9E%D0%9C%D0%98%D0%9D.%20%D0%A3%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%81%20%D0%B2%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%20TOP100AWARDS%2C%20%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20 |
 | ЭНДОФОМИН | creative / multimedia production | http://endofomin.ru | social | https://www.instagram.com/endofomin.ru |
+| Энергия жизни | ивент агентство | https://eventcatalog.ru/agency/energiya_zhizni | phone | +7(495) 351-69-21 / +7(495) 799-34-97 |
 | Энерготрансбанк | банк | https://energotransbank.com | phone | +7 (495) 660-04-01 |
 | Энерготрансбанк | банк | https://energotransbank.com | phone | +7 (800) 100-22-48 |
 | Энерготрансбанк | банк | https://energotransbank.com | social | https://t.me/energotransbank |
 | Энерготрансбанк | банк | https://energotransbank.com | social | https://vk.com/energotransbank |
+| Эпицентр Развлечений | ивент агентство | https://eventcatalog.ru/agency/epicentr_razvlecheniy | phone | +7(495) 765-55-53 / +7(926) 563-28-10 |
 | Эрмитаж на Трубной | лофт | https://www.loft2rent.ru/loft/67493 | phone | +7 (9833040878 |
+| Этот Мир | ивент агентство | https://eventcatalog.ru/agency/etot_mir | phone | +7(499)550-00-21 / +7(495)724-17-90 |
 | ЭФКО | организация | https://efko.ru | email | a.chamara@efko.ru |
 | ЭФКО | организация | https://efko.ru | email | a.chernikov@efko.ru |
 | ЭФКО | организация | https://efko.ru | email | a.hvan@efko.ru |
@@ -25124,8 +27774,18 @@
 | ЭФКО | организация | https://efko.ru | social | https://www.youtube.com/channel/UC9Mw_dAKrAo1pHvXncEXjLg |
 | ЭФКО | организация | https://efko.ru | social | https://www.youtube.com/channel/UC9Mw_dAKrAo1pHvXncEXjLg/featured |
 | Эффектный Loft Москва-сити | лофт | https://www.loft2rent.ru/loft/107530 | phone | +79111023333 |
+| Ювента | ивент агентство | https://eventcatalog.ru/agency/yuventa | phone | +7(999)086-60-66 |
+| Югор | ивент агентство | https://eventcatalog.ru/agency/yugor | phone | +7(928)317-08-40 / +7(8793)39-02-89 |
+| Югор Пятигорск | ивент агентство | https://eventcatalog.ru/agency/yugor_pyatigorsk | phone | +7(879) 397-40-09 |
+| Южный Фронт | ивент агентство | https://eventcatalog.ru/agency/yuzhnyy_front | phone | +7(863) 227-09-46 |
+| ЮЛав | ивент агентство | https://eventcatalog.ru/agency/yulav | phone | +7(968)078-64-78 / +7(965)385-32-73 |
+| Юликор | ивент агентство | https://eventcatalog.ru/agency/yulikor | phone | +7(495)617-67-92 / +7(903)164-59-98 |
+| Юниарт Трэвел | ивент агентство | https://eventcatalog.ru/agency/yuniart_trevel | phone | +7(495) 797-35-54 / +7(495) 728-83-54 |
+| Юниверс | ивент агентство | https://eventcatalog.ru/agency/yunivers | phone | +7(4212)93-78-78 |
+| Юнона | ивент агентство | https://eventcatalog.ru/agency/yunona | phone | +7(499) 241-06-18 / +7(901) 524-50-90 |
 | Юность | лофт | https://www.loft2rent.ru/loft/18038 | phone | 8(985)455-10-33 |
 | Юность | лофт | https://www.loft2rent.ru/loft/2518 | phone | 8-968-973-90-30 |
+| Юта - шоу | ивент агентство | https://eventcatalog.ru/agency/yuta_-_shou | phone | +7(965)726-26-68 / +7(903)646-24-61 |
 | ЮТВ Холдинг | медиахолдинг | https://utv.ru | email | rating@mail.ru |
 | ЮТВ Холдинг | медиахолдинг | https://utv.ru | email | utv@ufanet.ru |
 | ЮТВ Холдинг | медиахолдинг | https://utv.ru | email | voytuk@ufanet.ru |
@@ -25135,6 +27795,9 @@
 | ЮТВ Холдинг | медиахолдинг | https://utv.ru | social | https://twitter.com/utv_tv |
 | ЮТВ Холдинг | медиахолдинг | https://utv.ru | social | https://vk.com/utvrussia |
 | Я в моментеЯ в моменте | лофт | https://www.loft2rent.ru/loft/175905/175907 | phone | +79237327077 |
+| Я творю | ивент агентство | https://eventcatalog.ru/agency/ya_tvoryu | phone | +7(952)211-67-10 / +7(951)677-61-10 |
+| ЯRkeyevent | ивент агентство | https://eventcatalog.ru/agency/yarkeyevent | phone | +7(495) 778-78-37 |
+| Ягода Event | ивент агентство | https://eventcatalog.ru/agency/yagoda_event | phone | +7(911)231-23-47 |
 | Якитория | ресторанная сеть | https://yakitoriya.ru | email | foodservice_1@yakitoriya.ru |
 | Якитория | ресторанная сеть | https://yakitoriya.ru | email | help@yakitoriya.ru |
 | Якитория | ресторанная сеть | https://yakitoriya.ru | email | kadr@teach.msk.ru |
@@ -25143,15 +27806,21 @@
 | Якитория | ресторанная сеть | https://yakitoriya.ru | social | https://t.me/yakitoriya_tg |
 | Якитория | ресторанная сеть | https://yakitoriya.ru | social | https://vk.com/yakitoriyaru |
 | Якудза | лофт | https://www.loft2rent.ru/loft/169051 | phone | +7 812 606 70 20 |
+| Ялта Шоу | ивент агентство | https://eventcatalog.ru/agency/yalta_shou | phone | +7(978)842-24-98 / +7(065)426-22-14 |
 | Ямайка | лофт | https://www.loft2rent.ru/loft/83744 | phone | +7(812) 443-57-02 |
 | Ямайка. Уютный лофт в гавайском стиле | лофт | https://www.reveltime.ru/venue/5223286?eventtype=vecherinka | phone | +79586097164 |
+| Яна | ивент агентство | https://eventcatalog.ru/agency/yana | phone | +359(899)959-308 / +7(915)353-10-66 |
 | Яндекс Банк | организация | https://bank.yandex.ru | email | connect@bank.yandex.ru |
 | Яндекс Банк | организация | https://bank.yandex.ru | email | support@bank.yandex.ru |
 | Яндекс Банк | организация | https://bank.yandex.ru | social | https://t.me/YANfintech |
 | Яндекс Банк | организация | https://bank.yandex.ru | social | https://t.me/yandexfintech |
 | Яндекс Маркет | организация | https://market.yandex.ru | social | https://vk.com/yandex.market |
+| ЯРиК | ивент агентство | https://eventcatalog.ru/agency/yarik | phone | +7(351)248-11-39 / +7(351)248-87-43 |
+| Ярило АРТ | ивент агентство | https://eventcatalog.ru/agency/yarilo_art | phone | +7(977)494-77-40 / +7(917)588-05-35 |
 | Яркий двухуровневый лофт | лофт | https://www.reveltime.ru/venue/5828600?eventtype=vecherinka | phone | +79386989873 |
+| Яркий День | ивент агентство | https://eventcatalog.ru/agency/yarkiy_denj | phone | +7(495) 987-37-38 / +7(495) 642-40-88 |
 | Яркий лофт "Диско" с розовым неоном / 3 мин. от метро Семеновская | лофт | https://www.loft2rent.ru/loft/126908 | phone | +7 4998881633 |
+| Ярмарка развлечений | ивент агентство | https://eventcatalog.ru/agency/yarmarka_razvlecheniy | phone | +7(495) 974-74-39 / +7(495) 741-13-40 |
 | Яровит ХоллКонгресс центр Яровит Холл | лофт | https://www.loft2rent.ru/loft/115873/115891 | phone | +79952608808 |
 | Яровит ХоллЯровит Лофт | лофт | https://www.loft2rent.ru/loft/115873/177053 | phone | +79952608808 |
 | Яхт Клуб Галс | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
@@ -25160,3 +27829,5 @@
 | Яхт-клуб Нептун | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Яхт-клуб под мероприятия аренда шатров, бассейна | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
 | Яхт-клуб “БУРЕВЕСТНИК” шатер под мероприятия | лофт | https://www.loft2rent.ru/loft/97591 | phone | +79585410041 |
+| Яхтенные Сезоны | ивент агентство | http://yseasons.ru | phone | +7(921)329-64-06 / +7(812)900-36-14 |
+| ЁТМ | ивент агентство | https://eventcatalog.ru/agency/etm | phone | +7(495)792-34-12 |
