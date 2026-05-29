@@ -7,3 +7,5 @@ scripts/__pycache__/
 **/__pycache__/
 *.pyc
 
+# GitHub Actions Pages artifact (built locally)
+_site/

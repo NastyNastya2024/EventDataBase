@@ -1,35 +1,26 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import json
 import shutil
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+SITE_FILES = ("index.html", "styles.css", "app.js", "contacts.json", ".nojekyll")
 
 
 def main() -> int:
     src = ROOT / "final" / "site"
-    # GitHub Pages (branch main, folder /) — статика в корне репозитория
-    dst = ROOT
-
     if not (src / "index.html").exists():
         raise SystemExit(f"Missing site sources: {src}")
 
-    # copy static assets (html/css/js)
     for name in ("index.html", "styles.css", "app.js"):
-        shutil.copyfile(src / name, dst / name)
+        shutil.copyfile(src / name, ROOT / name)
 
-    # prevent Jekyll processing
-    (dst / ".nojekyll").write_text("", encoding="utf-8")
+    (ROOT / ".nojekyll").write_text("", encoding="utf-8")
 
-    # build JSON into project root (рядом с index.html)
-    from build_contacts_site_json import main as build_json_main  # local import
-
-    # emulate CLI args via direct call is awkward; call module as a script instead
-    # (we keep it simple and just run it through python by importing argparse-less function)
-    # So: re-run the generator in-process using its functions would require refactor.
-    # We'll shell out is not allowed here; instead we generate by invoking build_json_main with sys.argv.
-    import sys
+    from build_contacts_site_json import main as build_json_main
 
     old_argv = sys.argv[:]
     try:
@@ -38,16 +29,24 @@ def main() -> int:
             "--input",
             str(ROOT / "final" / "final.md"),
             "--output",
-            str(dst / "contacts.json"),
+            str(ROOT / "contacts.json"),
         ]
         build_json_main()
     finally:
         sys.argv = old_argv
 
-    print(f"Wrote GitHub Pages site to: {dst}")
+    row_count = len(json.loads((ROOT / "contacts.json").read_text(encoding="utf-8")))
+
+    # Корень репо (legacy branch deploy) + docs/ (fallback) + _site/ (GitHub Actions)
+    for target in (ROOT / "docs", ROOT / "_site"):
+        target.mkdir(parents=True, exist_ok=True)
+        for name in SITE_FILES:
+            shutil.copyfile(ROOT / name, target / name)
+
+    print(f"Wrote contacts.json rows={row_count}")
+    print(f"Site files: {ROOT}, {ROOT / 'docs'}, {ROOT / '_site'}")
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
