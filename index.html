@@ -3,27 +3,36 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Контакты</title>
+    <title>Контакты — каталог организаций</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <header class="topbar">
-      <div class="wrap">
-        <div class="brand">Контакты</div>
-        <div class="sub">все организации кроме ивент-агентств · база `final/final.md`</div>
+    <div class="top-bar">
+      Москва • Каталог контактов • <span>ивент и B2B</span>
+    </div>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <span class="eyebrow">Каталог организаций</span>
+        <h1>Контакты</h1>
+        <p class="subtitle">Все организации кроме ивент-агентств · база final/final.md</p>
         <nav class="nav-tabs" aria-label="Разделы каталога">
           <a href="./index.html" class="nav-tab is-active" aria-current="page">Все остальные</a>
+          <span class="dot" aria-hidden="true">•</span>
           <a href="./agencies.html" class="nav-tab">Ивент-агентства</a>
         </nav>
       </div>
     </header>
 
-    <main class="wrap">
+    <main class="main-wrap">
       <section class="panel">
+        <h2 class="filters-title">Поиск и фильтры</h2>
         <div class="controls">
           <label class="field">
             <span>Поиск по названию</span>
-            <input id="q" type="search" placeholder="Например: Novikov, ВДНХ, музей..." autocomplete="off" />
+            <input id="q" type="search" placeholder="Например: Novikov, ВДНХ, музей…" autocomplete="off" />
           </label>
 
           <label class="field">
@@ -103,6 +112,10 @@
         </div>
       </section>
     </main>
+
+    <footer class="site-footer">
+      <p>© 2026, Москва · Данные из <a href="./contacts.json">contacts.json</a></p>
+    </footer>
 
     <script type="module" src="./app.js"></script>
   </body>
