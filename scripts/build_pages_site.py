@@ -10,13 +10,18 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE_FILES = (
     "index.html",
     "agencies.html",
+    "telegram.html",
     "styles.css",
+    "telegram.css",
     "app.js",
     "app-agencies.js",
+    "telegram.js",
     "shared.js",
     "contacts.json",
     ".nojekyll",
 )
+
+SITE_DATA_FILES = ("data/event_telegram_channels.json",)
 
 
 def main() -> int:
@@ -24,8 +29,23 @@ def main() -> int:
     if not (src / "index.html").exists():
         raise SystemExit(f"Missing site sources: {src}")
 
-    for name in ("index.html", "agencies.html", "styles.css", "app.js", "app-agencies.js", "shared.js"):
+    for name in (
+        "index.html",
+        "agencies.html",
+        "telegram.html",
+        "styles.css",
+        "telegram.css",
+        "app.js",
+        "app-agencies.js",
+        "telegram.js",
+        "shared.js",
+    ):
         shutil.copyfile(src / name, ROOT / name)
+
+    for rel in SITE_DATA_FILES:
+        dst = ROOT / rel
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(src / rel, dst)
 
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
 
@@ -54,6 +74,10 @@ def main() -> int:
         target.mkdir(parents=True, exist_ok=True)
         for name in SITE_FILES:
             shutil.copyfile(ROOT / name, target / name)
+        for rel in SITE_DATA_FILES:
+            dst = target / rel
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(ROOT / rel, dst)
 
     print(f"Wrote contacts.json rows={row_count}")
     print(f"Site files: {src}, {ROOT}, {ROOT / 'docs'}, {ROOT / '_site'}")

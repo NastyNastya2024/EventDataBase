@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Event Area | Поиск Ивент Подрядчиков",
+    "url": "https://t.me/addlist/3xwQbCGwW2AwYmYy",
+    "username": "",
+    "kind": "addlist"
+  },
+  {
+    "id": 2,
+    "name": "Event Мероприятия || Мероприятия по всей России",
+    "url": "https://t.me/addlist/MwIvaa_VBTZhYjIy",
+    "username": "",
+    "kind": "addlist"
+  },
+  {
+    "id": 3,
+    "name": "Event Family",
+    "url": "https://t.me/EventFamily",
+    "username": "EventFamily",
+    "kind": "channel"
+  },
+  {
+    "id": 4,
+    "name": "Bigfinger — чат event-сообщества",
+    "url": "https://t.me/bigfingerchat",
+    "username": "bigfingerchat",
+    "kind": "chat"
+  },
+  {
+    "id": 5,
+    "name": "ИЩУ ЗАМЕНУ/КАВЕР ГРУППУ (ВСЯ РФ) 🇷🇺",
+    "url": "https://t.me/ZameniEM",
+    "username": "ZameniEM",
+    "kind": "chat"
+  },
+  {
+    "id": 6,
+    "name": "МОСКВА ЧАТ | ОБЪЯВЛЕНИЯ | АВИТО",
+    "url": "https://t.me/moscowbs",
+    "username": "moscowbs",
+    "kind": "chat"
+  },
+  {
+    "id": 7,
+    "name": "EventHunter public Msk",
+    "url": "https://t.me/eventhuntertalk",
+    "username": "eventhuntertalk",
+    "kind": "chat"
+  },
+  {
+    "id": 8,
+    "name": "ВМЕСТЕ — поиск ивент подрядчиков",
+    "url": "https://t.me/+eF-DQe6C7ullMmIy",
+    "username": "",
+    "kind": "invite"
+  },
+  {
+    "id": 9,
+    "name": "Сердце❤️танца",
+    "url": "https://t.me/ecstatic_radio",
+    "username": "ecstatic_radio",
+    "kind": "channel"
+  },
+  {
+    "id": 10,
+    "name": "Ищу площадку",
+    "url": "https://t.me/Looking_for_a_loft",
+    "username": "Looking_for_a_loft",
+    "kind": "chat"
+  },
+  {
+    "id": 11,
+    "name": "Москвичи / «Новости Москвы»",
+    "url": "https://t.me/mosmapbot",
+    "username": "mosmapbot",
+    "kind": "bot"
+  },
+  {
+    "id": 12,
+    "name": "Москва сейчас чат",
+    "url": "https://t.me/moscowowchat",
+    "username": "moscowowchat",
+    "kind": "chat"
+  },
+  {
+    "id": 13,
+    "name": "Организаторы мероприятий. Event. Чат.",
+    "url": "https://t.me/meropriyatiyachat",
+    "username": "meropriyatiyachat",
+    "kind": "chat"
+  },
+  {
+    "id": 14,
+    "name": "Москва | Нетворкеры | NETWORKERS | Нетворкинг Сообщество | Календарь мероприятий",
+    "url": "https://t.me/networkers_moscow",
+    "username": "networkers_moscow",
+    "kind": "chat"
+  }
+]

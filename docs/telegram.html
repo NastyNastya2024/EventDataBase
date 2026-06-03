@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Telegram-чаты для ивента | Москва</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="./telegram.css" />
+  </head>
+  <body>
+    <div class="top-bar">
+      Москва • Telegram для ивента • <span>подрядчики • площадки • нетворкинг</span>
+    </div>
+
+    <header>
+      <span class="eyebrow">Каталог чатов</span>
+      <h1>Telegram-чаты</h1>
+      <p class="subtitle">Ивент-сообщества, подрядчики и организаторы Москвы</p>
+      <nav class="locations" aria-label="Разделы сайта">
+        <a href="./index.html">Контакты</a>
+        <span class="dot" aria-hidden="true">•</span>
+        <a href="./agencies.html">Ивент-агентства</a>
+        <span class="dot" aria-hidden="true">•</span>
+        <span>Telegram-чаты</span>
+      </nav>
+    </header>
+
+    <main>
+      <section class="filters-section" aria-label="Поиск и фильтры">
+        <h2 class="filters-title">Поиск и фильтры</h2>
+
+        <div class="search-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"></circle>
+            <path d="m21 21-4.35-4.35"></path>
+          </svg>
+          <input id="search" type="search" placeholder="Название чата, @username…" autocomplete="off" />
+        </div>
+
+        <div class="filter-groups">
+          <div class="filter-group">
+            <label>Тема</label>
+            <div id="topic-filters" class="chips"></div>
+          </div>
+        </div>
+      </section>
+
+      <div class="stats">
+        <span>Найдено: <span id="count">—</span></span>
+        <span id="total">Всего: —</span>
+      </div>
+
+      <div id="grid" class="grid loading" aria-live="polite">Загрузка чатов</div>
+    </main>
+
+    <footer>
+      <p>© 2026, Москва · Данные из <a href="./data/event_telegram_channels.json">event_telegram_channels.json</a></p>
+    </footer>
+
+    <script type="module" src="./telegram.js"></script>
+  </body>
+</html>
