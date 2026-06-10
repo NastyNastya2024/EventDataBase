@@ -3,27 +3,27 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Контакты — каталог организаций</title>
+    <title>WedWed — подрядчики и площадки</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <div class="top-bar">
-      Москва • Каталог контактов • <span>ивент и B2B</span>
+      Москва и СПб • WedWed • <span>свадебные подрядчики и площадки</span>
     </div>
 
     <header class="site-header">
       <div class="header-inner">
         <span class="eyebrow">Каталог организаций</span>
-        <h1>Контакты</h1>
-        <p class="subtitle">Все организации кроме ивент-агентств · база final/final.md</p>
+        <h1>WedWed</h1>
+        <p class="subtitle">Подрядчики и площадки с wedwed.ru · база final/wedwed.md</p>
         <nav class="nav-tabs" aria-label="Разделы каталога">
-          <a href="./index.html" class="nav-tab is-active" aria-current="page">Все остальные</a>
+          <a href="./index.html" class="nav-tab">Все остальные</a>
           <span class="dot" aria-hidden="true">•</span>
           <a href="./agencies.html" class="nav-tab">Ивент-агентства</a>
           <span class="dot" aria-hidden="true">•</span>
-          <a href="./wedwed.html" class="nav-tab">WedWed</a>
+          <a href="./wedwed.html" class="nav-tab is-active" aria-current="page">WedWed</a>
           <span class="dot" aria-hidden="true">•</span>
           <a href="./telegram.html" class="nav-tab">Telegram-чаты</a>
         </nav>
@@ -36,7 +36,7 @@
         <div class="controls">
           <label class="field">
             <span>Поиск по названию</span>
-            <input id="q" type="search" placeholder="Например: Novikov, ВДНХ, музей…" autocomplete="off" />
+            <input id="q" type="search" placeholder="Например: фотограф, лофт, ведущий…" autocomplete="off" />
           </label>
 
           <label class="field">
@@ -59,6 +59,7 @@
               <option value="social:linkedin">Social: LinkedIn</option>
               <option value="social:x">Social: X</option>
               <option value="social:other">Social: Other</option>
+              <option value="address">Адрес</option>
             </select>
           </label>
 
@@ -118,9 +119,9 @@
     </main>
 
     <footer class="site-footer">
-      <p>© 2026, Москва · Данные из <a href="./contacts.json">contacts.json</a></p>
+      <p>© 2026, Москва · Данные из <a href="./wedwed.json">wedwed.json</a> · <a href="https://wedwed.ru/" target="_blank" rel="noopener noreferrer">wedwed.ru</a></p>
     </footer>
 
-    <script type="module" src="./app.js"></script>
+    <script type="module" src="./app-wedwed.js"></script>
   </body>
 </html>

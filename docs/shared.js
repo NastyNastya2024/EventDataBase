@@ -70,8 +70,9 @@ export function formatContactValue(row) {
   return esc(row.value);
 }
 
-export async function fetchContacts() {
-  const res = await fetch(`./contacts.json?_=${Date.now()}`, { cache: "no-store" });
+/** @param {string} [filename] */
+export async function fetchContactsJson(filename = "contacts.json") {
+  const res = await fetch(`./${filename}?_=${Date.now()}`, { cache: "no-store" });
   const data = await res.json();
   return data.map((r) => ({
     org: r.org || "",
@@ -82,6 +83,10 @@ export async function fetchContacts() {
     socialPlatform: r.socialPlatform || "",
     isEventAgency: Boolean(r.isEventAgency),
   }));
+}
+
+export async function fetchContacts() {
+  return fetchContactsJson("contacts.json");
 }
 
 export function isMatch(row, q) {
@@ -99,6 +104,7 @@ export function filterByContactKind(rows, contactFilter) {
   if (contactFilter === "all") return rows;
   if (contactFilter === "phone") return rows.filter((r) => r.kind === "phone");
   if (contactFilter === "email") return rows.filter((r) => r.kind === "email");
+  if (contactFilter === "address") return rows.filter((r) => r.kind === "address");
   if (contactFilter === "social") return rows.filter((r) => r.kind === "social");
   if (contactFilter.startsWith("social:")) {
     const p = contactFilter.slice("social:".length);

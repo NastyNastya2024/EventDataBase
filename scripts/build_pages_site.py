@@ -10,14 +10,17 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE_FILES = (
     "index.html",
     "agencies.html",
+    "wedwed.html",
     "telegram.html",
     "styles.css",
     "telegram.css",
     "app.js",
     "app-agencies.js",
+    "app-wedwed.js",
     "telegram.js",
     "shared.js",
     "contacts.json",
+    "wedwed.json",
     ".nojekyll",
 )
 
@@ -32,11 +35,13 @@ def main() -> int:
     for name in (
         "index.html",
         "agencies.html",
+        "wedwed.html",
         "telegram.html",
         "styles.css",
         "telegram.css",
         "app.js",
         "app-agencies.js",
+        "app-wedwed.js",
         "telegram.js",
         "shared.js",
     ):
@@ -50,6 +55,7 @@ def main() -> int:
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
 
     site_json = src / "contacts.json"
+    wedwed_json = src / "wedwed.json"
 
     from build_contacts_site_json import main as build_json_main
 
@@ -63,11 +69,21 @@ def main() -> int:
             str(site_json),
         ]
         build_json_main()
+        sys.argv = [
+            old_argv[0],
+            "--input",
+            str(ROOT / "final" / "wedwed.md"),
+            "--output",
+            str(wedwed_json),
+        ]
+        build_json_main()
     finally:
         sys.argv = old_argv
 
     shutil.copyfile(site_json, ROOT / "contacts.json")
+    shutil.copyfile(wedwed_json, ROOT / "wedwed.json")
     row_count = len(json.loads(site_json.read_text(encoding="utf-8")))
+    wedwed_count = len(json.loads(wedwed_json.read_text(encoding="utf-8")))
 
     # Корень репо (legacy branch deploy) + docs/ (fallback) + _site/ (GitHub Actions)
     for target in (ROOT / "docs", ROOT / "_site"):
@@ -79,7 +95,7 @@ def main() -> int:
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(ROOT / rel, dst)
 
-    print(f"Wrote contacts.json rows={row_count}")
+    print(f"Wrote contacts.json rows={row_count}, wedwed.json rows={wedwed_count}")
     print(f"Site files: {src}, {ROOT}, {ROOT / 'docs'}, {ROOT / '_site'}")
     return 0
 
