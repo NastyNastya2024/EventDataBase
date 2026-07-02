@@ -6,9 +6,19 @@
 python3 scripts/build_pages_site.py
 ```
 
-Деплой: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+## Деплой
 
-После push в `main` workflow `.github/workflows/pages.yml` публикует `_site/`
-(`index.html`, `styles.css`, `app.js`, `contacts.json`).
+**Settings → Pages → Build and deployment → Source: GitHub Actions**
 
-Fallback: **Deploy from branch `main`, folder `/docs`**.
+После push в `main` workflow `.github/workflows/pages.yml` собирает `docs/` и публикует сайт.
+
+Если Actions не работает — fallback:
+
+**Source: Deploy from a branch → `main` → `/docs`**
+
+Тогда публикуется папка `docs/` из репозитория (без workflow).
+
+## Обучение (видео)
+
+Страница: `training.html`  
+Видео: `videos/training/*.mp4` (только mp4, .mov не деплоится)

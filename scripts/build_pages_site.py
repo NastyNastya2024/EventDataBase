@@ -29,6 +29,23 @@ SITE_FILES = (
 SITE_DATA_FILES = ("data/event_telegram_channels.json",)
 
 
+def _copy_videos(src: Path, dst: Path) -> None:
+    """Копирует только web-форматы (mp4), без исходных .mov."""
+    if dst.exists():
+        shutil.rmtree(dst)
+    if not src.is_dir():
+        return
+    for path in src.rglob("*"):
+        if not path.is_file():
+            continue
+        if path.suffix.lower() == ".mov":
+            continue
+        rel = path.relative_to(src)
+        out = dst / rel
+        out.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(path, out)
+
+
 def main() -> int:
     src = ROOT / "final" / "site"
     if not (src / "index.html").exists():
@@ -92,10 +109,7 @@ def main() -> int:
     videos_src = src / "videos"
     if videos_src.is_dir():
         for target in (ROOT, ROOT / "docs", ROOT / "_site"):
-            dst_videos = target / "videos"
-            if dst_videos.exists():
-                shutil.rmtree(dst_videos)
-            shutil.copytree(videos_src, dst_videos)
+            _copy_videos(videos_src, target / "videos")
 
     # Корень репо (legacy branch deploy) + docs/ (fallback) + _site/ (GitHub Actions)
     for target in (ROOT / "docs", ROOT / "_site"):

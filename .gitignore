@@ -10,7 +10,5 @@ scripts/__pycache__/
 # GitHub Actions Pages artifact (built locally)
 _site/
 
-# Исходники .mov — в репо только .mp4 для браузеров
-videos/training/*.mov
-final/site/videos/training/*.mov
-docs/videos/training/*.mov
+# Исходники .mov — в репо и на Pages только .mp4
+**/*.mov
