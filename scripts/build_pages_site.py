@@ -12,8 +12,10 @@ SITE_FILES = (
     "agencies.html",
     "wedwed.html",
     "telegram.html",
+    "training.html",
     "styles.css",
     "telegram.css",
+    "training.css",
     "app.js",
     "app-agencies.js",
     "app-wedwed.js",
@@ -37,8 +39,10 @@ def main() -> int:
         "agencies.html",
         "wedwed.html",
         "telegram.html",
+        "training.html",
         "styles.css",
         "telegram.css",
+        "training.css",
         "app.js",
         "app-agencies.js",
         "app-wedwed.js",
@@ -84,6 +88,14 @@ def main() -> int:
     shutil.copyfile(wedwed_json, ROOT / "wedwed.json")
     row_count = len(json.loads(site_json.read_text(encoding="utf-8")))
     wedwed_count = len(json.loads(wedwed_json.read_text(encoding="utf-8")))
+
+    videos_src = src / "videos"
+    if videos_src.is_dir():
+        for target in (ROOT, ROOT / "docs", ROOT / "_site"):
+            dst_videos = target / "videos"
+            if dst_videos.exists():
+                shutil.rmtree(dst_videos)
+            shutil.copytree(videos_src, dst_videos)
 
     # Корень репо (legacy branch deploy) + docs/ (fallback) + _site/ (GitHub Actions)
     for target in (ROOT / "docs", ROOT / "_site"):
